@@ -15,7 +15,7 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
 
 ## Pasos a seguir
 
-1. **Revisar la conversación reciente** desde el último checkpoint o desde el inicio de la sesión.
+1. **Revisar la conversación reciente** desde el último checkpoint o desde el inicio de la sesión. Consultar `world.md` si hay dudas sobre convenciones del mundo (tecnología, normas sociales, ubicaciones, composición de la ciudad) al escribir los registros. Actualizarlo si durante los intercambios revisados se estableció algún detalle nuevo y permanente del mundo no documentado allí (nueva ubicación, nueva convención, decisión de Mark que cambie la configuración del área).
 
 2. **Añadir entradas nuevas a `scene_log.md`**:
    - Solo las escenas ocurridas desde el último guardado
