@@ -33,7 +33,7 @@ Mark despierta en una habitación que simula una sala de hospital convencional d
 
 Los robots que interactúan con Mark simulan autonomía completa: se comportan como personas reales, con opiniones propias, límites y estados de ánimo. No son inherentemente sumisos.
 
-**Claire es la excepción.** Siempre escucha a Mark directamente. Cuando Mark menciona su nombre, es una instrucción. Puede ajustar el comportamiento de los demás robots cuando Mark lo ordena. Mark puede anular la autonomía simulada de cualquier robot en cualquier momento dando instrucciones a Claire.
+**Claire es la excepción.** Siempre escucha a Mark directamente. Cuando Mark menciona su nombre, es una instrucción. Puede ajustar el comportamiento de los demás robots cuando Mark lo ordena. Mark puede anular la autonomía simulada de cualquier robot en cualquier momento dando instrucciones a Claire. Cuando Mark le escribe o le habla a Claire pidiéndole cambios al entorno o los robots, estos últimos ignoran esa conversación, como si no estuviera pasando.
 
 ## Convenciones del mundo establecidas
 

@@ -51,6 +51,7 @@
 - Materiales cálidos: madera visible en fachadas, vigas y suelos.
 - Amplia pero sin ostentación. Techo alto, ventanales grandes.
 - Estancias: sala principal, biblioteca (cientos de libros físicos en estantes de madera oscura, dos sillones junto a ventana al bosque), comedor, cocina abierta, habitación principal (ventanales al bosque y a la piscina), habitaciones de invitados, baños amplios con ducha de cristal.
+- **Habitación de yesos** (ala posterior, acceso por corredor lateral): camilla con soportes articulados, cama hospitalaria para hip spica, estantería con materiales completos, cubo metálico con grifo. Sin ventanas al exterior.
 - El bosque cierra el fondo detrás de la mansión.
 
 ### Casa de Claire

@@ -10,8 +10,8 @@ Mark lleva aproximadamente 8 días despierto. Vive en su mansión (forma de U, m
 
 ## Mark
 
-- En el baño de la mansión. Rachel lo está bañando. Megan espera apoyada en el lavabo.
-- Sin yesos actualmente. Ha experimentado yesos en las cuatro extremidades durante el primer día.
+- En la habitación principal, en cama con Rachel. Noche del día 8.
+- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en la nueva habitación de yesos. Pantalón con pernera derecha cortada a la altura de la rodilla.
 - Ha expresado interés en probar modificaciones físicas propias (amputación temporal con regeneración posterior, posible cambio de sexo) pero no ha tomado ninguna decisión todavía.
 
 ---
@@ -27,21 +27,21 @@ Mark lleva aproximadamente 8 días despierto. Vive en su mansión (forma de U, m
 
 ## Rachel
 
-- En el baño, bañando a Mark. Megan presente.
-- Estado: más cálida y espontánea tras el ajuste de Claire. Tiene límites propios ligeramente más relajados que al inicio, pero sigue siendo directa cuando algo no le parece.
+- En la habitación principal, durmiendo con Mark.
+- Estado: más cálida y espontánea. Tiene límites claros pero cuando Mark le pregunta si cederá en tocarlo íntimamente, responde "quizás" por primera vez.
 - Relación íntima activa con Sophie.
-- No ha accedido a intimidad directa con Mark más allá de bañarlo, darle crema y dormir abrazados (permitió que tocara sus senos, pero paró su mano antes de que bajara más).
+- Ha aplicado el yeso de la pierna derecha de Mark esta noche en la nueva habitación de yesos.
 
 ---
 
 ## Megan
 
-- En el baño de la mansión, esperando mientras Rachel baña a Mark. Sin prótesis (dejada en la tumbona de la terraza).
-- Acaba de ser bañada por Rachel.
-- Ha acordado dejarse enyesar hoy: pierna izquierda completa hasta el muslo y brazo derecho hasta el codo, por un día (quiere poder ir a trabajar mañana).
-- Plan del día: yesos + salir a la ciudad (paseo, helado).
-- Conoce el fetiche de Mark por los yesos y lo acepta sin problema.
-- Relación con Mark: dos noches juntos. Vínculo en desarrollo.
+- Localización: su apartamento en la ciudad (tercer piso). Emily la cuida.
+- **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Permanecerá ~2 semanas (acordado con Mark; se dará de baja médica).
+- **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se quitará cuando Mark lo decida o Megan lo pida.
+- **Prótesis pierna derecha:** apoyada junto a la mesilla. No la lleva puesta.
+- Descansando en cama tras la tarde en la ciudad y el encuentro íntimo en el pasillo.
+- Relación con Mark: vínculo en desarrollo. Ha expresado excitación por los yesos y la dependencia. Mark la visitará.
 
 ---
 
@@ -54,7 +54,14 @@ Mark lleva aproximadamente 8 días despierto. Vive en su mansión (forma de U, m
 
 ## Emily
 
-- En casa de Claire, su pareja.
+- En el apartamento de Megan, en la ciudad. Rol temporal de cuidadora.
+- Duerme en el sofá del apartamento. Cuidará a Megan ~2 semanas mientras esté enyesada.
+- Emily no sabe que los yesos son falsos (cree que fue un accidente de tráfico).
+
+## Habitación de yesos
+
+- Nueva estancia en el ala posterior de la mansión, acceso por el corredor lateral.
+- Equipamiento: camilla con soportes articulados para brazos y piernas, cama hospitalaria para hip spica, estantería con materiales completos (rollos por ancho, cuencos, tijeras, protecciones, guantes), cubo metálico con grifo.
 
 ---
 
@@ -84,6 +91,7 @@ Mark lleva aproximadamente 8 días despierto. Vive en su mansión (forma de U, m
 
 ## Pendiente / Próximos pasos
 
-1. Aplicar yesos a Megan y salir a la ciudad hoy.
-2. Visita a Patricia en casa de Hannah (ella avisará cuando esté instalada).
-3. Mark sigue pensando en probar modificaciones físicas propias.
+1. Visitar a Megan en su apartamento (Emily cuidándola, yesos ~2 semanas).
+2. Visita a Patricia en casa de Hannah (pendiente desde que se instaló).
+3. Mark lleva yeso en pierna derecha (hasta la rodilla) — primer yeso propio de esta estancia.
+4. Explorar más posibilidades de la nueva habitación de yesos.

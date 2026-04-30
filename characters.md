@@ -41,7 +41,7 @@
 **Apariencia:** Unos treinta años aparentes. Cabello rubio corto. Ojos claros. Delgada, estatura media. Sonrisa tranquila.
 **Vestimenta habitual:** Vestidos sencillos (en el primer encuentro, uno azul claro hasta la rodilla).
 **Personalidad:** Amable, desenvuelta, con sentido del humor discreto. Natural en el trato con Mark.
-**Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión.
+**Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión. Actualmente cuidando a Megan en su apartamento de la ciudad (~2 semanas). No sabe que los yesos de Megan son falsos.
 
 ---
 
@@ -84,4 +84,4 @@
 **Amputaciones:** Brazo izquierdo amputado muy corto, casi al nivel del hombro (accidente industrial hace tres años). El muñón es muy corto y no lo usa funcionalmente. Pierna derecha amputada a mitad del muslo (tumor óseo el año anterior). Usa prótesis de pierna.
 **Personalidad:** Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin incomodidad. Humor ligero. Adaptativa.
 **Profesión:** Enfermera.
-**Relación con Mark:** Cita a través de la app; pasó la noche en la mansión y la mañana siguiente en la piscina.
+**Relación con Mark:** Vínculo en desarrollo. Dos días juntos. Tarde en la ciudad enyesada (centro comercial, helado, intimidad en el pasillo de su apartamento). Ha expresado excitación por los yesos y la dependencia. Acordó quedarse enyesada ~2 semanas (baja médica). Emily la cuida en su apartamento mientras dure el yeso.
