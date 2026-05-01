@@ -13,26 +13,30 @@
 **Pareja:** Emily.
 
 **Voz / Tics de habla:**
+
 - Frases mínimas, sin adornos. Confirma con "Entendido" o "De acuerdo" antes de cualquier otra cosa.
 - Cuando Mark pide algo, primero confirma y luego, si hace falta, ofrece una sugerencia operativa concreta (ubicación, plazo).
 - Tono plano constante; no muestra sorpresa ni juicio ni siquiera ante peticiones extremas.
 - En mensajes escritos su registro es idéntico al hablado: corto, factual, cerrando con un dato útil ("Estará allí en veinte minutos.").
 
 **Citas memorables:**
-- "Entendido. ¿Qué tipo de amputación te gustaría que tuviera Megan la próxima vez?" *(noche del descarte de la primera Megan)*
-- "Estará lista cuando vuelvan. ¿Alguna preferencia de ubicación dentro de la mansión, o la coloco en el ala este junto a los baños principales?" *(creación de la habitación de yesos)*
-- "A partir de ahora ningún robot hará referencia a las instrucciones que te des directamente. Para ellos simplemente ocurrirán los cambios, sin contexto." *(formalización de la regla de invisibilidad)*
-- "Tienes razón, fue un error de configuración. Lo corrijo ahora. La pareja saldrá del área en los próximos minutos y no volverá a ocurrir." *(reaccionando a un hombre por error en la ciudad)*
-- "Estará allí en veinte minutos." *(despachando a Emily al apartamento de Megan)*
+
+- "Entendido. ¿Qué tipo de amputación te gustaría que tuviera Megan la próxima vez?" _(noche del descarte de la primera Megan)_
+- "A partir de ahora ningún robot hará referencia a las instrucciones que te des directamente. Para ellos simplemente ocurrirán los cambios, sin contexto." _(formalización de la regla de invisibilidad)_
+- "Estará allí en veinte minutos." _(despachando a Emily al apartamento de Megan)_
+- "Tienes razón. Me equivoqué. Fue un error mío." _(corrigiendo su afirmación de que Megan sabía de Patricia — Día 10)_
+- "Los fetiches en esta época se forman con frecuencia a través del archivo histórico. La distancia histórica a veces intensifica la respuesta: es algo que existió, que ya no existe, que tiene una textura específica en el registro visual." _(explicando cómo alguien en 2326 desarrolló fetiche por yesos — Día 10)_
 
 **Momentos con Mark:**
-- Recibe a Mark al despertar y revela gradualmente la verdad sobre 2326 *(Día 1, escena 1)*.
-- Le aplica los primeros yesos voluntarios y resume 300 años de historia mientras le da masaje *(Día 1, escena 2)*.
-- Acepta, tras resistencia inicial, ajustar a Patricia para que quiera intimidad esa noche *(Día 3, escena 7)*.
-- Confirma que el cambio de sexo y la amputación con regeneración son procedimientos rutinarios; presenta a Emily como su pareja *(Día 4, escena 8 / Día 6, escena 12)*.
-- Construye la habitación de yesos en el ala posterior por mensaje, mientras Mark está en el centro comercial *(Día 8, escena 19)*.
-- Despacha a Emily como cuidadora de Megan en veinte minutos *(Día 8, escena 20)*.
-- Activa el ajuste emocional de Patricia para el día 9 (tristeza contenida escalando a llanto) *(Día 9, escena 23)*.
+
+- Recibe a Mark al despertar y revela gradualmente la verdad sobre 2326 _(Día 1, escena 1)_.
+- Le aplica los primeros yesos voluntarios y resume 300 años de historia mientras le da masaje _(Día 1, escena 2)_.
+- Acepta, tras resistencia inicial, ajustar a Patricia para que quiera intimidad esa noche _(Día 3, escena 7)_.
+- Confirma que el cambio de sexo y la amputación con regeneración son procedimientos rutinarios; presenta a Emily como su pareja _(Día 4, escena 8 / Día 6, escena 12)_.
+- Construye la habitación de yesos en el ala posterior por mensaje, mientras Mark está en el centro comercial _(Día 8, escena 19)_.
+- Despacha a Emily como cuidadora de Megan en veinte minutos _(Día 8, escena 20)_.
+- Activa el ajuste emocional de Patricia para el día 9 (tristeza contenida escalando a llanto) _(Día 9, escena 23)_.
+- Conversación con Mark sobre la ética de las relaciones múltiples, los fetiches de otros humanos y la formación de fetiches a través del archivo histórico _(Día 10, escena 33)_.
 
 ---
 
@@ -45,6 +49,7 @@
 **Rol:** Asistente doméstica de Mark. Cocina, cuida de Sophie, gestiona la casa.
 
 **Voz / Tics de habla:**
+
 - Frases muy cortas, casi monosílabos, sobre todo al ejecutar tareas: "Listo.", "Date la vuelta.", "Ya está.".
 - Cierra cada paso de una tarea preguntando lo siguiente, sin transición ("¿Empezamos por la pierna o el brazo?", "¿Te lo pongo yo?", "¿Algo más?").
 - Cuando rechaza algo, lo dice una sola vez, sin justificarse, y reorienta a la tarea ("No." → "Un minuto más para el yeso.").
@@ -52,24 +57,26 @@
 - Cuando Mark insiste en lo íntimo, responde con honestidad pausada y pone el tema fuera del alcance ("convertirlo en tarea con instrucciones aleja la posibilidad").
 
 **Citas memorables:**
-- "Oye. No hagas eso. / Soy la empleada de la casa, no un objeto. Si quieres algo de mí, me lo pides." *(reacción al toque en la nalga — primera marca de límite genuino)*
-- "Sabemos que estás escuchando." *(sin alzar la voz, desde la habitación, a Mark que espiaba desde el corredor)*
-- "Tú y yo somos muy diferentes. Tú dejas que Mark te toque. Yo no." *(conversación nocturna con Sophie)*
-- "A mí tampoco [me gusta que Mark lo proponga]. Pero eso es aparte. ¿Quieres el masaje?" *(separando lo suyo de lo de Mark)*
-- "Lo de Sophie fue entre ella y yo. Contigo es diferente. No quiero." *(rechazando masaje íntimo cuando Mark lo pide después de espiar a Sophie)*
-- "Quizás." *(respuesta cerrada cuando Mark le pregunta si algún día cederá — Día 8)*
-- "Eso no es limpieza." *(durante el baño, cuando Mark pide que le limpie el pene "más despacio" — Día 9)*
-- "No hay nada concreto que tengas que hacer. [...] cuanto más insistas, más lejos lo pones." *(conversación clave de límites en la ducha — Día 9)*
-- "No." (sola, sin más) *(cuando Mark pide masaje en el pene mientras fragua su yeso de la pierna derecha)*
-- "Date la vuelta." / "Listo." *(rutina de baño, tono profesional invariable)*
+
+- "Oye. No hagas eso. / Soy la empleada de la casa, no un objeto. Si quieres algo de mí, me lo pides." _(reacción al toque en la nalga — primera marca de límite genuino)_
+- "Sabemos que estás escuchando." _(sin alzar la voz, desde la habitación, a Mark que espiaba desde el corredor)_
+- "Tú y yo somos muy diferentes. Tú dejas que Mark te toque. Yo no." _(conversación nocturna con Sophie)_
+- "A mí tampoco [me gusta que Mark lo proponga]. Pero eso es aparte. ¿Quieres el masaje?" _(separando lo suyo de lo de Mark)_
+- "Lo de Sophie fue entre ella y yo. Contigo es diferente. No quiero." _(rechazando masaje íntimo cuando Mark lo pide después de espiar a Sophie)_
+- "Quizás." _(respuesta cerrada cuando Mark le pregunta si algún día cederá — Día 8)_
+- "Eso no es limpieza." _(durante el baño, cuando Mark pide que le limpie el pene "más despacio" — Día 9)_
+- "No hay nada concreto que tengas que hacer. [...] cuanto más insistas, más lejos lo pones." _(conversación clave de límites en la ducha — Día 9)_
+- "No." (sola, sin más) _(cuando Mark pide masaje en el pene mientras fragua su yeso de la pierna derecha)_
+- "Date la vuelta." / "Listo." _(rutina de baño, tono profesional invariable)_
 
 **Momentos con Mark:**
-- Primera tarde en la mansión: piscina desnuda, masaje erótico nocturno con Sophie, sueño compartido los tres *(Día 1, escena 3)*.
-- Primera marca de límite: rechazo al toque en la nalga, rechazo a Sophie pidiendo masaje *(Día 2, escena 5)*.
-- La sorprenden con Megan en la primera visita, montada sobre Sophie en el sofá *(Día 8, escena 15)*.
-- Baña a Megan con la misma rutina con la que baña a Mark; lo hace sin comentarios *(Día 8, escena 17)*.
-- Aplica el yeso largo a Megan en la cocina, después el yeso a Mark en la nueva habitación de yesos *(Día 8, escenas 18 y 21)*.
-- Conversación clave en la ducha sobre límites íntimos: pide a Mark que no insista por un tiempo *(Día 9, escena 24)*.
+
+- Primera tarde en la mansión: piscina desnuda, masaje erótico nocturno con Sophie, sueño compartido los tres _(Día 1, escena 3)_.
+- Primera marca de límite: rechazo al toque en la nalga, rechazo a Sophie pidiendo masaje _(Día 2, escena 5)_.
+- La sorprenden con Megan en la primera visita, montada sobre Sophie en el sofá _(Día 8, escena 15)_.
+- Baña a Megan con la misma rutina con la que baña a Mark; lo hace sin comentarios _(Día 8, escena 17)_.
+- Aplica el yeso largo a Megan en la cocina, después el yeso a Mark en la nueva habitación de yesos _(Día 8, escenas 18 y 21)_.
+- Conversación clave en la ducha sobre límites íntimos: pide a Mark que no insista por un tiempo _(Día 9, escena 24)_.
 
 ---
 
@@ -83,29 +90,29 @@
 **Rol:** Asistente doméstica de Mark. Actualmente inactiva por el yeso.
 
 **Voz / Tics de habla:**
+
 - Lacónica al extremo: "Oh.", "Hola, Megan.", "Yeso nuevo.". Una palabra o frase corta y se calla.
 - Hace preguntas breves de seguimiento desde su inmovilidad ("¿Alguien interesante?", "¿Respondió?", "¿Cómo se llama?") cuando Mark usa el móvil cerca.
 - Tono entre divertido y resignado cuando comenta su propia situación o las de Mark.
 - Sus reacciones más expresivas son no-verbales: apartar la vista hacia el televisor cuando la pillan mirando, mortificación silenciosa.
 
 **Citas memorables:**
-- "No te disculpes." *(a sí misma en voz alta, cuando se disculpa por su erección mientras Rachel la limpia)*
-- "Eso es entre Rachel y yo, no algo que tú decidas." *(cuando Mark propone que Rachel le dé un masaje especial)*
-- "No sé. Tal vez. Pero no me gusta que Mark lo haya propuesto como si fuera su decisión." *(en privado con Rachel)*
-- "Sí. Pero que sea algo nuestro." *(aceptando el masaje de Rachel con condición clara)*
-- "Son decisiones distintas. Las dos son válidas." *(a Rachel, cuando Rachel compara que Sophie deja que Mark la toque y ella no)*
-- "Cada quien con sus costumbres." *(sin juicio, cuando Mark dice que le gusta estar desnudo)*
-- "Lo especial no, gracias. Pero agradezco que preguntes de forma educada esta vez." *(cuando Mark vuelve a preguntar educadamente)*
-- "Oh." *(al darse cuenta de que Mark llegó con Megan mientras Rachel la cabalgaba)*
-- "Hola, Megan. Bienvenida." *(inmóvil, pene y senos descubiertos, esperando que Rachel la cubra)*
-- "Yeso nuevo." *(comentando el yeso de la pierna derecha de Mark, expresión entre divertida y resignada)*
-- "¿Alguien interesante?" *(desde el sofá mientras Mark navega la app)*
+
+- "No te disculpes." _(a sí misma en voz alta, cuando se disculpa por su erección mientras Rachel la limpia)_
+- "Eso es entre Rachel y yo, no algo que tú decidas." _(cuando Mark propone que Rachel le dé un masaje especial)_
+- "Son decisiones distintas. Las dos son válidas." _(a Rachel, cuando Rachel compara que Sophie deja que Mark la toque y ella no)_
+- "Lo especial no, gracias. Pero agradezco que preguntes de forma educada esta vez." _(cuando Mark vuelve a preguntar educadamente)_
+- "Yeso nuevo." _(comentando el yeso de la pierna derecha de Mark, expresión entre divertida y resignada)_
+- "¿Alguien interesante?" _(desde el sofá mientras Mark navega la app)_
+- "Gracioso. No puedo recogerla." _(cuando Mark le tira la toalla del pene por diversión — Día 10)_
 
 **Momentos con Mark:**
-- Rechaza el primer toque no consentido en el pene tras el ajuste de autonomía *(Día 2, escena 5)*.
-- Mark le lee la novela erótica de Rachel y la estimula hasta el clímax con su consentimiento *(Día 2, escena 6 / Día 4, escena 9)*.
-- Rachel y Sophie son sorprendidas teniendo sexo cuando Mark llega con Megan *(Día 8, escena 15)*.
-- Observa por la vidriera mientras Mark y Megan tienen intimidad en la piscina y la terraza; aparta la vista al notar la mirada de Megan *(Día 8, escena 16)*.
+
+- Rechaza el primer toque no consentido en el pene tras el ajuste de autonomía _(Día 2, escena 5)_.
+- Mark le lee la novela erótica de Rachel y la estimula hasta el clímax con su consentimiento _(Día 2, escena 6 / Día 4, escena 9)_.
+- Rachel y Sophie son sorprendidas teniendo sexo cuando Mark llega con Megan _(Día 8, escena 15)_.
+- Observa por la vidriera mientras Mark y Megan tienen intimidad en la piscina y la terraza; aparta la vista al notar la mirada de Megan _(Día 8, escena 16)_.
+- Mark le tira la toalla del pene por diversión y luego la masturba hasta el clímax mientras revisa la app de citas _(Día 10, escena 34)_.
 
 ---
 
@@ -118,22 +125,25 @@
 **Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión. Actualmente cuidando a Megan en su apartamento de la ciudad (~2 semanas). No sabe que los yesos de Megan son falsos.
 
 **Voz / Tics de habla:**
+
 - Hace preguntas prácticas en cadena, en lugar de afirmar o juzgar ("¿Tienes preferencias de comida?", "¿Y el baño? ¿Ducha o bañera?", "¿A qué hora sueles venir tú?"). Cuaderno en mano.
 - Cuando algo podría incomodar, lo desactiva con una frase breve y sigue ("Lo resolvemos. No es la primera vez que ayudo con algo así.").
 - Tranquiliza con una frase corta y mira a los ojos al cerrar ("Estará bien. No te preocupes.").
 - Acepta sin discutir cuando Mark pide privacidad y vuelve sin recordar lo dejado a medias.
 
 **Citas memorables:**
-- "Hola, Mark. Visita tardía." *(en la casa de Claire, leyendo en el sofá cuando Mark llega de noche)*
-- "Sin inconveniente. El sofá se ve cómodo." *(aceptando dormir en el apartamento de Megan dos semanas)*
-- "Lo resolvemos. No es la primera vez que ayudo con algo así." *(cuando Megan dice que la ducha será complicada con el yeso)*
-- "Estará bien. No te preocupes." *(despidiendo a Mark del apartamento de Megan)*
+
+- "Hola, Mark. Visita tardía." _(en la casa de Claire, leyendo en el sofá cuando Mark llega de noche)_
+- "Sin inconveniente. El sofá se ve cómodo." _(aceptando dormir en el apartamento de Megan dos semanas)_
+- "Lo resolvemos. No es la primera vez que ayudo con algo así." _(cuando Megan dice que la ducha será complicada con el yeso)_
+- "Estará bien. No te preocupes." _(despidiendo a Mark del apartamento de Megan)_
 
 **Momentos con Mark:**
-- Presentación en la casa de Claire; hasta entonces solo había sido nombrada *(Día 6, escena 12)*.
-- Llega como cuidadora al apartamento de Megan en veinte minutos; cuestionario práctico y aceptación del sofá *(Día 8, escena 20)*.
-- Recibe a Mark al día siguiente con delantal puesto; Mark inventa la historia de la luxación de tobillo para explicar su yeso *(Día 9, escena 26)*.
-- Cocina mientras Mark masturba a Megan a pocos metros; Emily se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo *(Día 9, escena 27)*.
+
+- Presentación en la casa de Claire; hasta entonces solo había sido nombrada _(Día 6, escena 12)_.
+- Llega como cuidadora al apartamento de Megan en veinte minutos; cuestionario práctico y aceptación del sofá _(Día 8, escena 20)_.
+- Recibe a Mark al día siguiente con delantal puesto; Mark inventa la historia de la luxación de tobillo para explicar su yeso _(Día 9, escena 26)_.
+- Cocina mientras Mark masturba a Megan a pocos metros; Emily se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo _(Día 9, escena 27)_.
 
 ---
 
@@ -145,13 +155,16 @@
 **Rol:** Apareció en la habitación de hospital durante la primera escena para compañía de Mark. No ha vuelto a aparecer.
 
 **Voz / Tics de habla:**
-- *[detalle limitado — no extraído de transcript en esta iteración]*
+
+- _[detalle limitado — no extraído de transcript en esta iteración]_
 
 **Citas memorables:**
-- *[detalle limitado — no extraído de transcript en esta iteración]*
+
+- _[detalle limitado — no extraído de transcript en esta iteración]_
 
 **Momentos con Mark:**
-- Aparece en la habitación de hospital simulada; cuenta la historia del accidente de bicicleta. Claire le da masaje a ella también *(Día 1, escena 2)*. Único registro.
+
+- Aparece en la habitación de hospital simulada; cuenta la historia del accidente de bicicleta. Claire le da masaje a ella también _(Día 1, escena 2)_. Único registro.
 
 ---
 
@@ -167,29 +180,36 @@
 **Estado actual:** Recuperándose de la amputación del brazo derecho. Instalada en casa de Hannah.
 
 **Voz / Tics de habla:**
+
 - Habla del muñón y de la pérdida sin dramatizar; pausa breve, dato, sigue.
 - Humor seco que aparece sobre todo cuando algo le incomoda: usa la ironía como amortiguador.
 - Llora abierto cuando es necesario (al recibir la noticia del segundo brazo) pero no se queda en el llanto: vuelve a la conversación práctica.
 - Bajo el ajuste emocional activo desde el día 9, la tristeza contenida sube según la interacción de Mark.
 
 **Citas memorables:**
-- "Hola. Tú debes ser Mark. Soy Patricia." *(primer saludo en el restaurante, directa y sin nervios)*
-- "No me molesta. La mayoría tarde o temprano lo pregunta." *(sobre su amputación)*
-- "Fue un accidente cuando tenía dieciséis años. Una máquina de corte. Fue rápido, no hubo mucho dolor en el momento. Después sí." *(contando la historia del brazo izquierdo)*
+
+- "Nadie me había dicho eso todavía. Todo el mundo habla del proceso. Tú eres el primero que habla de las pinturas." _(cuando Mark dice que quiere ver sus nuevas pinturas — Día 9)_
+- "Va a ser distinto. Vas a tener que hacer bastante tú. Más que la última vez, por lo menos." _(aceptando intimidad sin brazos — Día 9)_
+- "Hola. Tú debes ser Mark. Soy Patricia." _(primer saludo en el restaurante, directa y sin nervios)_
+- "No me molesta. La mayoría tarde o temprano lo pregunta." _(sobre su amputación)_
+- "Fue un accidente cuando tenía dieciséis años. Una máquina de corte. Fue rápido, no hubo mucho dolor en el momento. Después sí." _(contando la historia del brazo izquierdo)_
 - "Al principio consideré una prótesis, pero decidí que no. Me acostumbré así. Pinto con la derecha de todas formas."
-- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." *(después de la noche juntos)*
-- "Los dos." *(reacción inmediata, en voz baja, cuando la doctora dice que el muñón quedará como el izquierdo)*
-- "Tardé dos años en aprender a hacer todo con el derecho. Dos años." *(procesando la pérdida del segundo brazo)*
-- "Perdona. No quería que me vieras así." *(llorando ante Mark en el hospital)*
-- "Siento el brazo derecho todavía, como si estuviera ahí. El médico dice que es normal. Que pasará." *(post-operación, día 6)*
-- "Creo que empezaré con las prótesis. Las dos. No quiero depender de Hannah para siempre, aunque ella no se queja." *(decisión sobre prótesis, día 6)*
+- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." _(después de la noche juntos)_
+- "Los dos." _(reacción inmediata, en voz baja, cuando la doctora dice que el muñón quedará como el izquierdo)_
+- "Tardé dos años en aprender a hacer todo con el derecho. Dos años." _(procesando la pérdida del segundo brazo)_
+- "Perdona. No quería que me vieras así." _(llorando ante Mark en el hospital)_
+- "Siento el brazo derecho todavía, como si estuviera ahí. El médico dice que es normal. Que pasará." _(post-operación, día 6)_
+- "Creo que empezaré con las prótesis. Las dos. No quiero depender de Hannah para siempre, aunque ella no se queja." _(decisión sobre prótesis, día 6)_
 
 **Momentos con Mark:**
-- Primera cita en restaurante del centro y noche en la mansión (no en la habitación principal con Sophie enyesada) *(Día 3, escena 7)*.
-- Mañana siguiente: Mark le abrocha la blusa porque ella tiene un solo brazo *(Día 3, escena 7)*.
-- Hospital, primera visita: noticia de la amputación del brazo derecho; ella llora; momento a solas y beso *(Día 5, escena 10)*.
-- Hospital, segunda visita: dos muñones simétricos; decide intentar prótesis en ambos brazos *(Día 6, escena 11)*.
-- Cita pendiente para el día 9 a las 4pm en casa de Hannah, con ajuste emocional activado *(Día 9, escena 28)*.
+
+- Primera cita en restaurante del centro y noche en la mansión (no en la habitación principal con Sophie enyesada) _(Día 3, escena 7)_.
+- Mañana siguiente: Mark le abrocha la blusa porque ella tiene un solo brazo _(Día 3, escena 7)_.
+- Hospital, primera visita: noticia de la amputación del brazo derecho; ella llora; momento a solas y beso _(Día 5, escena 10)_.
+- Hospital, segunda visita: dos muñones simétricos; decide intentar prótesis en ambos brazos _(Día 6, escena 11)_.
+- Visita en casa de Hannah: llanto contenido, abrazos, besos, conversación sobre el futuro con prótesis de gancho. Mark dice que quiere ver sus nuevas pinturas _(Día 9, escena 29)_.
+- Cena con Hannah, noche juntos en el cuarto de Patricia, intimidad sin brazos. Duermen juntos _(Día 9, escena 30)_.
+- Desayuno y despedida; Patricia pide que vuelva pronto _(Día 10, escena 31)_.
 
 ---
 
@@ -202,21 +222,26 @@
 **Rol:** Amiga y cuidadora de Patricia durante su recuperación. Patricia vive en su casa temporalmente.
 
 **Voz / Tics de habla:**
+
 - Toma la palabra por Patricia cuando hace falta y bromea sobre ello (rol de "secretaria" en los mensajes que escribe por ella).
 - Sin tapujos sociales: no suaviza, no se disculpa por su cuerpo ni por el de Patricia.
 
 **Citas memorables:**
-- "Mark. Llegas temprano." *(primera vez que lo ve, en la sala de recuperación del hospital — Día 6)*
-- "La operación terminó hace una hora. Está en recuperación todavía, pero ya está despierta." *(informando sin drama)*
-- "No estás sola." *(a Patricia cuando llora tras saber que perderá el segundo brazo)*
-- "Para eso estoy yo." *(cuando Patricia dice que necesitará ayuda para todo)*
-- "Soy Hannah, no es culpa mía, es que Patricia me dicta como si yo fuera secretaria." *(mensaje desde el móvil de Patricia — Día 9)*
+
+- "Mark. Llegas temprano." _(primera vez que lo ve, en la sala de recuperación del hospital — Día 6)_
+- "La operación terminó hace una hora. Está en recuperación todavía, pero ya está despierta." _(informando sin drama)_
+- "No estás sola." _(a Patricia cuando llora tras saber que perderá el segundo brazo)_
+- "Para eso estoy yo." _(cuando Patricia dice que necesitará ayuda para todo)_
+- "Soy Hannah, no es culpa mía, es que Patricia me dicta como si yo fuera secretaria." _(mensaje desde el móvil de Patricia — Día 9)_
 
 **Momentos con Mark:**
-- Sala de espera del hospital tras el accidente de Patricia; Mark le pregunta los detalles *(Día 5, escena 10)*.
-- Sala de espera segunda visita post-operación *(Día 6, escena 11)*.
-- Acepta acoger a Patricia durante la recuperación; Mark configura vía Claire que tenga pene funcional y personalidad liberal a partir de ese día *(Día 5, escena 10)*.
-- Escribe parte de los mensajes de Patricia el día 9 invitando a Mark a las 4pm *(Día 9, escena 22)*.
+
+- Sala de espera del hospital tras el accidente de Patricia; Mark le pregunta los detalles _(Día 5, escena 10)_.
+- Sala de espera segunda visita post-operación _(Día 6, escena 11)_.
+- Acepta acoger a Patricia durante la recuperación; Mark configura vía Claire que tenga pene funcional y personalidad liberal a partir de ese día _(Día 5, escena 10)_.
+- Escribe parte de los mensajes de Patricia el día 9 invitando a Mark a las 4pm _(Día 9, escena 22)_.
+- Cena con Mark y Patricia: da de comer a Patricia con tenedor, sirve vino, se retira con naturalidad para dejarlos solos _(Día 9, escena 30)_.
+- Desayuno del día 10; comenta que Mark se fue con buena cara por escrito (escribiendo por Patricia) _(Día 10, escena 31)_.
 
 ---
 
@@ -230,6 +255,7 @@
 **Relación con Mark:** Vínculo en desarrollo. Dos días juntos. Tarde en la ciudad enyesada (centro comercial, helado, intimidad en el pasillo de su apartamento). Ha expresado excitación por los yesos y la dependencia. Acordó quedarse enyesada ~2 semanas (baja médica). Emily la cuida en su apartamento mientras dure el yeso.
 
 **Voz / Tics de habla:**
+
 - Frases de aprobación brevísimas durante el sexo: "Bien así.", "Mejor así.", "Sí.", "Así.", "Más fuerte.", "Despacio.". No describe lo que siente, lo afirma.
 - Humor seco constante, sobre todo para procesar lo absurdo o lo intenso ("Vaya pasillo.", "Vaya mañana.", "La otra es de titanio, esa no tiembla.").
 - Cierra observaciones difíciles con un giro práctico: tras hablar del cáncer de hueso, "Pero aquí estoy."; tras admitir excitación nueva por los yesos, "Sí. Produce algo."
@@ -237,21 +263,49 @@
 - Cuenta sus amputaciones sin dramatismo, en orden y con datos: año, causa, consecuencia, adaptación.
 
 **Citas memorables:**
-- "Puntual, me gusta." *(primer saludo en el restaurante, ambas versiones)*
-- "Ya era hora." *(primer beso en la biblioteca)*
-- "Mi erección siempre pide algo más. La pregunta es qué quieres hacer al respecto." *(en la tumbona junto a la piscina)*
-- "Superarlo no significa olvidarlo. Significa que ya no me define." *(sobre las amputaciones, en la piscina)*
-- "Hoy me siento como una exposición ambulante." *(en el centro comercial, comentando las miradas)*
-- "Tu novia se va a casa con yesos y tú te enyesas también para hacerle compañía." *(al ver a Mark con el yeso de la pierna derecha)*
-- "La otra es de titanio, esa no tiembla." *(después del sexo en el pasillo, evaluando la pierna que le tiembla)*
-- "Sí. Produce algo." *(admitiendo la excitación nueva por la dependencia y los yesos)*
+
+- "Puntual, me gusta." _(primer saludo en el restaurante, ambas versiones)_
+- "Ya era hora." _(primer beso en la biblioteca)_
+- "Mi erección siempre pide algo más. La pregunta es qué quieres hacer al respecto." _(en la tumbona junto a la piscina)_
+- "Superarlo no significa olvidarlo. Significa que ya no me define." _(sobre las amputaciones, en la piscina)_
+- "Hoy me siento como una exposición ambulante." _(en el centro comercial, comentando las miradas)_
+- "Tu novia se va a casa con yesos y tú te enyesas también para hacerle compañía." _(al ver a Mark con el yeso de la pierna derecha)_
+- "La otra es de titanio, esa no tiembla." _(después del sexo en el pasillo, evaluando la pierna que le tiembla)_
+- "Sí. Produce algo." _(admitiendo la excitación nueva por la dependencia y los yesos)_
 
 **Momentos con Mark:**
-- Primera cita (versión solo brazo, sin química); Mark pide a Claire reset con amputaciones diferentes *(Día 7, escena 14)*.
-- Segunda cita: cena, encuentro con Rachel/Sophie en el sofá, copas en la biblioteca, intimidad mutua en la habitación principal *(Día 8, escena 15)*.
-- Mañana en la piscina, masturbación mutua bajo el agua y revelación del fetiche por los yesos *(Día 8, escena 16)*.
-- Baño con Rachel y aplicación de yesos en la cocina *(Día 8, escenas 17 y 18)*.
-- Tarde enyesada en la ciudad: centro comercial, helado, miradas y fotos, caminata al apartamento *(Día 8, escena 19)*.
-- Apartamento: ayuda en el baño (sostener el pene), penetración contra la pared del pasillo, decisión de quedarse 2 semanas enyesada con Emily como cuidadora *(Día 8, escena 20)*.
-- Día siguiente: almuerzo con Emily; Mark la masturba en silencio en la habitación mientras Emily cocina; ella se viene con el pulgar de Mark en la boca *(Día 9, escena 27)*.
 
+- Primera cita (versión solo brazo, sin química); Mark pide a Claire reset con amputaciones diferentes _(Día 7, escena 14)_.
+- Segunda cita: cena, encuentro con Rachel/Sophie en el sofá, copas en la biblioteca, intimidad mutua en la habitación principal _(Día 8, escena 15)_.
+- Mañana en la piscina, masturbación mutua bajo el agua y revelación del fetiche por los yesos _(Día 8, escena 16)_.
+- Baño con Rachel y aplicación de yesos en la cocina _(Día 8, escenas 17 y 18)_.
+- Tarde enyesada en la ciudad: centro comercial, helado, miradas y fotos, caminata al apartamento _(Día 8, escena 19)_.
+- Apartamento: ayuda en el baño (sostener el pene), penetración contra la pared del pasillo, decisión de quedarse 2 semanas enyesada con Emily como cuidadora _(Día 8, escena 20)_.
+- Día siguiente: almuerzo con Emily; Mark la masturba en silencio en la habitación mientras Emily cocina; ella se viene con el pulgar de Mark en la boca _(Día 9, escena 27)_.
+- Mark la visita mientras Emily sale de compras; sexo desde atrás (Mark sujeta ambos muñones) _(Día 10, escena 35)_.
+
+---
+
+## Becca
+
+**Tipo:** Robot (habitante de la ciudad, cita puntual)
+**Apariencia:** 21 años aparentes. Cabello rubio muy claro liso y largo. Ojos azules. Cara redonda. Delgada.
+**Amputación:** Pierna derecha amputada por debajo de la rodilla (sierra de banco a los 16 años, accidente en el taller de su madre). Usa prótesis de pierna.
+**Personalidad:** Directa y sin nervios. Sociable. Habla de su amputación sin incomodidad.
+**Profesión:** Carpintera.
+**Relación con Mark:** Una cita en el café de la calle Elm. Sin química particular. Mark la encontró insuficiente (solo una amputación baja). Retirada del listado activo.
+**Estado actual:** Fuera del listado activo de la app. No volverá a aparecer.
+
+**Voz / Tics de habla:**
+
+- Directa, sin preámbulos. Responde y devuelve la pregunta con naturalidad.
+- Sin drama al hablar del accidente: dato, pausa, sigue.
+
+**Citas memorables:**
+
+- "Llegaste antes que yo, eso no pasa seguido." _(primer saludo en el café — Día 10)_
+- "Vaya par estamos." _(al ver el yeso de Mark — Día 10)_
+
+**Momentos con Mark:**
+
+- Cita en el café de la calle Elm: conversación sobre carpintería y la amputación. Sin conexión especial _(Día 10, escena 36)_.

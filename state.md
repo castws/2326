@@ -4,17 +4,18 @@
 
 ## Situación general
 
-Mark lleva aproximadamente 9 días despierto. Día 9, tarde (3:58pm). Mark acaba de llegar a la casa de Hannah para visitar a Patricia.
+Mark lleva aproximadamente 10 días despierto. Día 10, tarde. Mark acaba de regresar de la cita con Becca (decepcionante) y está de vuelta en la mansión.
 
 ---
 
 ## Mark
 
-- Localización: en la puerta de la casa de Hannah, acaba de tocar el timbre.
-- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel la noche anterior. Pantalón con pernera derecha cortada. Camina sin muletas.
+- Localización: mansión (regresando de la cita con Becca).
+- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel hace dos noches. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily (y por extensión a Megan en presencia de Emily) que se luxó el tobillo. Fuera de Emily todos saben que el yeso es voluntario.
 - Plan: dejarse el yeso ~1 mes, o menos si se aburre.
+- Esta tarde tuvo sexo con Megan en su apartamento mientras Emily fue de compras.
 
 ---
 
@@ -67,9 +68,9 @@ Mark lleva aproximadamente 9 días despierto. Día 9, tarde (3:58pm). Mark acaba
 ## Patricia
 
 - Localización: casa de Hannah, en la ciudad.
-- Estado físico: ambos brazos amputados desde el hombro. Vendajes en ambos muñones (~3 semanas más).
-- **Estado emocional (ajustado por Claire):** desde las 3:30pm, tristeza contenida que subirá a llanto fácil y ansiedad por el cuerpo nuevo según Mark interactúe con ella. Justificación para Hannah: "un mal día puntual" como parte del proceso de duelo.
-- Plan: rehabilitación con prótesis en ambos brazos.
+- Estado físico: ambos brazos amputados desde el hombro. Solo el muñón derecho (reciente) lleva vendaje. El izquierdo está completamente cicatrizado.
+- **Estado emocional:** más estable tras la visita de Mark. El ajuste emocional de Claire ya cumplió su función en la tarde del día 9.
+- Plan: rehabilitación con prótesis de gancho en ambos brazos.
 
 ---
 
@@ -98,7 +99,14 @@ Mark lleva aproximadamente 9 días despierto. Día 9, tarde (3:58pm). Mark acaba
 
 ## Pendiente / Próximos pasos
 
-1. **Inminente:** entrada a casa de Hannah para ver a Patricia. El ajuste emocional ya está activo y subirá según Mark se comporte.
-2. Mark sigue con yeso en pierna derecha (~1 mes o menos).
-3. Megan sigue enyesada con Emily de cuidadora ~2 semanas. Insinuación de futuras visitas íntimas cuando Emily salga.
-4. Tema de Rachel: Mark debe respetar el silencio sobre intimidad por un tiempo.
+1. Megan: vínculo activo. Yesos ~2 semanas más. Emily la cuida. Esta tarde tuvieron sexo con éxito mientras Emily salió de compras.
+2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
+3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
+4. Rachel: no mencionar el tema íntimo por un tiempo.
+5. App de citas: formato ajustado (sin profesión, descripción física sin mencionar discapacidades, texto en primera persona).
+
+## Ciudad — cambios de configuración
+
+- **Prótesis:** solo existen prótesis de gancho de accionamiento corporal. Cable + arnés en hombro contrario. No hay mioelétricas.
+- **Aparatos ortopédicos:** sin dispositivos temporales. Solo para condiciones permanentes (polio, etc.).
+- **App de citas:** perfiles muestran nombre, edad, descripción física breve (sin mencionar discapacidades) y descripción en primera persona. Sin profesión.

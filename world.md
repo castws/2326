@@ -47,6 +47,7 @@
 - **Terreno:** Mayormente plano en el interior, con bosque natural y acceso al océano
 
 ### La mansión
+
 - Forma de **U** con patio interior central y piscina en el medio.
 - Materiales cálidos: madera visible en fachadas, vigas y suelos.
 - Amplia pero sin ostentación. Techo alto, ventanales grandes.
@@ -55,19 +56,23 @@
 - El bosque cierra el fondo detrás de la mansión.
 
 ### Casa de Claire
+
 - Casa pequeña y acogedora, estilo similar a la mansión pero más compacta.
 - Ubicada **adyacente** a la mansión, con acceso a través de los jardines y una puerta entre ambas propiedades.
 - Claire vive aquí con su pareja Emily.
 
 ### La ciudad
+
 - Estilo arquitectónico: ciudad pequeña estadounidense del año 2026. Ladrillo, madera, aceras amplias, árboles plantados a intervalos, comercios con letreros sencillos.
 - **~5.000 habitantes**, todos robots simulando personas reales con historia, personalidad y profesión propias.
 - Composición según especificaciones de Mark:
   - Solo mujeres de entre 18 y 25 años aparentes.
   - 50% con vagina, 50% con pene funcional.
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
-  - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo casi completo).
+  - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
 - Infraestructura: hospital central (dos plantas, tecnología 2026 en apariencia, 2326 por dentro), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares.
 - Todos los vehículos son autónomos.
-- App de citas activa: filtra solo perfiles del grupo de amputadas y del grupo con otras discapacidades. Muestra únicamente el rostro y una descripción breve (nombre, edad, profesión, rasgo de personalidad). El aspecto físico se descubre en persona.
+- App de citas activa: filtra solo perfiles del grupo de amputadas y del grupo con otras discapacidades. Muestra nombre, edad, descripción física breve (sin mencionar discapacidades) y una descripción en primera persona escrita por el perfil. Sin profesión. El aspecto físico completo se descubre en persona.
+- **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.
+- **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio.

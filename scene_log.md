@@ -259,11 +259,61 @@ Mark se despide a las 3:51pm con beso. Megan le dice "cuida ese tobillo" con gui
 
 El vehículo autónomo recorre la ciudad: chica en silla eléctrica con mando de barbilla, banco con yeso de antebrazo y muletas. Llega a las 3:58pm a casa de Hannah (dos plantas, ladrillo claro, jardín pequeño al frente). Toca el timbre.
 
-**La sesión termina aquí — Mark frente a la puerta de la casa de Hannah a las 3:58pm, recién tocó el timbre. Patricia con el ajuste emocional ya activado.**
+### Escena 29: Visita a Patricia en casa de Hannah
+
+Hannah abre la puerta (pantalones de chándal, camiseta, descalza, pene marcado). Advierte a Mark en voz baja que Patricia tuvo un mal rato. Patricia está en el sofá: tank top negro con la tira derecha caída, muñón derecho vendado con gasa y algodón grueso fijado con esparadrapo, muñón izquierdo desnudo. Ojos enrojecidos.
+
+Mark la abraza con cuidado, se sienta junto a ella. Conversación sobre la recuperación: Patricia habla de la tristeza contenida de empezar de cero sin ningún brazo, del contraste con haber tardado dos años en aprender con la derecha. Se le escapa el llanto en dos momentos breves. Mark la abraza, le limpia las lágrimas, le acaricia el cabello. Besos. Patricia se estabiliza emocionalmente.
+
+Mark menciona que podría seguir pintando con las prótesis de gancho. Patricia recibe la observación con interés real. Mark dice que ya quiere ver sus nuevas pinturas cuando domine las prótesis; Patricia responde que nadie le había dicho eso todavía. Hannah sirve café y se mantiene al margen.
+
+### Escena 30: Cena y noche con Patricia
+
+Mark acepta la invitación a cenar. Hannah sirve pasta. Ella le da de comer a Patricia con tenedor (Patricia no puede comer sola). Conversación liviana, risas. Copa de vino después de cenar. Hannah se retira a su habitación. Mark y Patricia solos en el salón: besos más prolongados, vino, intimidad verbal.
+
+Mark le pregunta si quiere intimidad. Patricia acepta: "Va a ser distinto. Vas a tener que hacer bastante tú." Se dirigen al cuarto de Patricia. Mark la desviste con cuidado (tank top con precaución en el muñón vendado, pantalón y panties). Intimidad completa. Patricia guía el ritmo; pide que Mark acabe dentro. Duermen juntos.
+
+### Escena 31: Mañana en casa de Hannah y regreso
+
+Mark amanece en el cuarto de Patricia. Desayuno con Hannah. Conversación normal. Mark se despide con beso. Patricia: "Vuelve pronto." Hannah: "Cuídate el tobillo." Mark regresa a la mansión en vehículo autónomo.
+
+**Nota de configuración:** Mark pidió a Claire que en toda el área solo existan prótesis de gancho de accionamiento corporal (cable + arnés en hombro contrario, apertura/cierre por movimiento de hombro). Las prótesis mioelétricas ya no existen en el área.
+
+---
+
+### Escena 32: Regreso a la mansión — mañana del día 10
+
+Mark entra a la mansión. Sophie lo saluda desde el sofá ("Volviste."). Rachel sirve café en la cocina sin preguntar. Mark revisa el móvil: mensaje de Megan (buenos días, tortitas de Emily, pregunta si durmió bien) y mensaje de Hannah escribiendo por Patricia ("gracias por quedarte, vuelve cuando quieras"; Hannah añade por su cuenta que Mark se fue con buena cara). Mark le responde a Megan preguntando si Emily notó algo de lo de ayer. Megan responde que Emily no dijo nada — no sabe si no se dio cuenta o prefirió callar.
+
+---
+
+## Día 10 — Tarde
+
+### Escena 33: Visita a Claire (Día 10, mañana)
+
+Mark visita a Claire en su casa adyacente. Conversación informal: Mark reflexiona sobre la incomodidad de relacionarse con Megan y Patricia simultáneamente, viniendo de una época donde la monogamia era la norma. Claire señala que en 2326 no existe esa expectativa por defecto y corrige un error propio (había dicho "Megan sabe de Patricia", lo cual es falso). Mark declara que no quiere estar atado a ninguna, solo seguir viéndolas. Mark pregunta sobre los fetiches de otros humanos; Claire describe cuatro configuraciones conocidas: institución con figura de autoridad fija; área con desnudez permanente total; todos los robots con un solo brazo (incluyendo infraestructura); inmovilidad permanente de robots por diseño. Mark pregunta cómo alguien desarrolló fetiche por yesos en una época sin yesos médicos; Claire explica que los fetiches en 2326 se forman con frecuencia a través del archivo histórico visual completo.
+
+### Escena 34: Sophie en el sofá y ajuste de la app (Día 10, mañana-tarde)
+
+Mark vuelve a la mansión y se sienta junto a Sophie. Le tira la toalla del pene por diversión; Sophie reacciona con resignación leve. Mark mensajea a Claire para ajustar el formato de los perfiles de la app: sin profesión, nombre/edad/descripción física breve sin mencionar discapacidades, descripción en primera persona escrita por el perfil. Mientras revisa los nuevos perfiles, empieza a jugar con el pene de Sophie hasta que ella se viene; Mark se limpia la mano en el yeso. Llama a Rachel con historia falsa (Sophie se vino sola). Rachel llega, limpia a Sophie con eficiencia y lanza a Mark una mirada breve. Sophie confirma a Mark que Rachel sospecha pero no dirá nada.
+
+### Escena 35: Visita íntima a Megan (Día 10, tarde)
+
+Mark recibe mensaje de Megan que Emily salió a compras (~1 hora). Va de inmediato al apartamento. Sexo: Megan boca abajo con almohada bajo la cadera, Mark penetra desde atrás sujetando ambos muñones. Luego Megan penetra a Mark. Ambos terminan. Mark limpia, la viste y sale justo antes de que Emily regrese.
+
+### Escena 36: Cita con Becca (Día 10, tarde)
+
+Mark contacta a Becca por la app (21, rubia, ojos azules) y quedan a las 3pm en el café de la calle Elm. Becca llega con bota ortopédica temporal: error de filtrado. Mark mensajea a Claire; Becca se va con un pretexto y vuelve en 30 minutos con amputación real de pierna derecha por debajo de la rodilla con prótesis, sin memoria del encuentro anterior. Mark también instruyó a Claire para que en el área no existan botas ortopédicas temporales; los aparatos ortopédicos solo corresponden a condiciones permanentes. Cita transcurre con conversación sobre carpintería y la historia de la amputación (sierra de banco a los 16). Mark la encuentra poco interesante. Después de la despedida, le escribe a Claire que le parece muy poco (solo una amputación de pierna baja). Claire retira a Becca del listado activo.
+
+---
+
+**La sesión termina aquí — Día 10, tarde. Mark acaba de regresar de la cita con Becca.**
 
 **Próximo paso pendiente:**
 
-1. Visita a Patricia en casa de Hannah (entrada inminente). El ajuste de Claire empieza con tristeza contenida y subirá según la interacción.
-2. Mark sigue con yeso en pierna derecha (pretende un mes o menos).
-3. Megan sigue enyesada con Emily de cuidadora ~2 semanas.
-4. Rachel pidió no mencionar el tema íntimo por un tiempo.
+1. Megan: vínculo activo. Emily sigue cuidándola. Yesos por ~2 semanas más.
+2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
+3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
+4. Rachel: no mencionar el tema íntimo por un tiempo.
+5. App ajustada: sin profesión, descripción sin discapacidades, texto en primera persona.
+6. Área: sin botas ortopédicas temporales; aparatos ortopédicos solo para condiciones permanentes.
