@@ -40,9 +40,14 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - Nueva convención social, tecnológica o de infraestructura no documentada previamente
    - Decisión de Mark que cambia la configuración permanente del área o la ciudad (composición, reglas, espacios)
 
-6. **Actualizar `characters.md`** si:
-   - Apareció un personaje nuevo (añadir su ficha completa)
-   - Cambió algo permanente de un personaje existente (física, relación con Mark, etc.)
+6. **Actualizar `characters.md`**:
+   - Si apareció un personaje nuevo: añadir su ficha completa, incluyendo las secciones **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**.
+   - Si cambió algo permanente de un personaje existente (física, relación con Mark, etc.): actualizar los campos descriptivos.
+   - **Enriquecer las tres secciones existentes** de cada personaje que haya intervenido en la sesión:
+     - **Voz / Tics de habla:** añadir muletillas, fórmulas o tonos nuevos detectados en esta sesión que no estuvieran ya capturados.
+     - **Citas memorables:** añadir 1-3 líneas verbatim de la sesión que capturen la voz del personaje, con etiqueta corta de contexto entre paréntesis. Si la sección llega a 6-7 citas, sustituir las menos representativas en lugar de acumular indefinidamente.
+     - **Momentos con Mark:** añadir el o los hitos compartidos en esta sesión, cada uno con referencia a la escena recién registrada en `scene_log.md` (formato `(Día N, escena M)`).
+   - El criterio es destilar, no transcribir: pocas líneas, alta señal. Si nada nuevo justifica añadir, no añadir.
 
 7. **Guardar el transcript de la sesión**:
    - Identificar el archivo de la sesión actual: el que corresponde al día de hoy (`sesion_NN_YYYY-MM-DD.md` con la fecha actual). Si hay varios del mismo día, usar el de mayor `NN`.

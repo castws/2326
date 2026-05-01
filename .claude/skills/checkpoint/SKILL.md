@@ -33,7 +33,11 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - Añadir al final del archivo los intercambios ocurridos desde el último checkpoint, respetando el formato existente (separadores `---`, negrita para diálogos, cursiva para descripciones).
    - No duplicar contenido ya guardado.
 
-5. **No tocar `characters.md`** salvo que haya aparecido un personaje completamente nuevo o haya habido un cambio en un personaje existente.
+5. **`characters.md` — toque ligero**:
+   - Si apareció un personaje nuevo: añadir su ficha completa, incluyendo las secciones **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**.
+   - Si hubo un cambio permanente en un personaje existente: actualizar los campos descriptivos.
+   - Si en lo recién ocurrido apareció una **cita memorable** clara o un **tic de habla** nuevo y evidente, añadirlo (1 línea cada uno). Si no es evidente, dejarlo para `/close-session`.
+   - **No** añadir entradas a "Momentos con Mark" en checkpoints — eso queda para el cierre, cuando ya existe la referencia a la escena en `scene_log.md`.
 
 6. **Confirmar al usuario** con un mensaje breve de una línea:
 
