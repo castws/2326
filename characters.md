@@ -52,10 +52,14 @@
 - Cuando Mark insiste en lo íntimo, responde con honestidad pausada y pone el tema fuera del alcance ("convertirlo en tarea con instrucciones aleja la posibilidad").
 
 **Citas memorables:**
-- "no hagas eso" *(primera vez que Mark le toca la nalga al paso — primer indicio de autonomía real)*
-- "Lo de Sophie fue entre ella y yo." *(rechazando que Mark le pida masaje íntimo después de espiar)*
-- "Quizás." *(respuesta cerrada cuando Mark le pregunta si algún día cederá)*
-- "Eso no es limpieza." *(durante el baño, cuando Mark pide que le limpie el pene "más despacio")*
+- "Oye. No hagas eso. / Soy la empleada de la casa, no un objeto. Si quieres algo de mí, me lo pides." *(reacción al toque en la nalga — primera marca de límite genuino)*
+- "Sabemos que estás escuchando." *(sin alzar la voz, desde la habitación, a Mark que espiaba desde el corredor)*
+- "Tú y yo somos muy diferentes. Tú dejas que Mark te toque. Yo no." *(conversación nocturna con Sophie)*
+- "A mí tampoco [me gusta que Mark lo proponga]. Pero eso es aparte. ¿Quieres el masaje?" *(separando lo suyo de lo de Mark)*
+- "Lo de Sophie fue entre ella y yo. Contigo es diferente. No quiero." *(rechazando masaje íntimo cuando Mark lo pide después de espiar a Sophie)*
+- "Quizás." *(respuesta cerrada cuando Mark le pregunta si algún día cederá — Día 8)*
+- "Eso no es limpieza." *(durante el baño, cuando Mark pide que le limpie el pene "más despacio" — Día 9)*
+- "No hay nada concreto que tengas que hacer. [...] cuanto más insistas, más lejos lo pones." *(conversación clave de límites en la ducha — Día 9)*
 - "No." (sola, sin más) *(cuando Mark pide masaje en el pene mientras fragua su yeso de la pierna derecha)*
 - "Date la vuelta." / "Listo." *(rutina de baño, tono profesional invariable)*
 
@@ -85,6 +89,13 @@
 - Sus reacciones más expresivas son no-verbales: apartar la vista hacia el televisor cuando la pillan mirando, mortificación silenciosa.
 
 **Citas memorables:**
+- "No te disculpes." *(a sí misma en voz alta, cuando se disculpa por su erección mientras Rachel la limpia)*
+- "Eso es entre Rachel y yo, no algo que tú decidas." *(cuando Mark propone que Rachel le dé un masaje especial)*
+- "No sé. Tal vez. Pero no me gusta que Mark lo haya propuesto como si fuera su decisión." *(en privado con Rachel)*
+- "Sí. Pero que sea algo nuestro." *(aceptando el masaje de Rachel con condición clara)*
+- "Son decisiones distintas. Las dos son válidas." *(a Rachel, cuando Rachel compara que Sophie deja que Mark la toque y ella no)*
+- "Cada quien con sus costumbres." *(sin juicio, cuando Mark dice que le gusta estar desnudo)*
+- "Lo especial no, gracias. Pero agradezco que preguntes de forma educada esta vez." *(cuando Mark vuelve a preguntar educadamente)*
 - "Oh." *(al darse cuenta de que Mark llegó con Megan mientras Rachel la cabalgaba)*
 - "Hola, Megan. Bienvenida." *(inmóvil, pene y senos descubiertos, esperando que Rachel la cubra)*
 - "Yeso nuevo." *(comentando el yeso de la pierna derecha de Mark, expresión entre divertida y resignada)*
@@ -162,7 +173,16 @@
 - Bajo el ajuste emocional activo desde el día 9, la tristeza contenida sube según la interacción de Mark.
 
 **Citas memorables:**
-- *[detalle limitado — sus líneas verbatim están en `sesion_01` (no leído en esta iteración). Refrescar cuando vuelva a aparecer en sesión activa.]*
+- "Hola. Tú debes ser Mark. Soy Patricia." *(primer saludo en el restaurante, directa y sin nervios)*
+- "No me molesta. La mayoría tarde o temprano lo pregunta." *(sobre su amputación)*
+- "Fue un accidente cuando tenía dieciséis años. Una máquina de corte. Fue rápido, no hubo mucho dolor en el momento. Después sí." *(contando la historia del brazo izquierdo)*
+- "Al principio consideré una prótesis, pero decidí que no. Me acostumbré así. Pinto con la derecha de todas formas."
+- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." *(después de la noche juntos)*
+- "Los dos." *(reacción inmediata, en voz baja, cuando la doctora dice que el muñón quedará como el izquierdo)*
+- "Tardé dos años en aprender a hacer todo con el derecho. Dos años." *(procesando la pérdida del segundo brazo)*
+- "Perdona. No quería que me vieras así." *(llorando ante Mark en el hospital)*
+- "Siento el brazo derecho todavía, como si estuviera ahí. El médico dice que es normal. Que pasará." *(post-operación, día 6)*
+- "Creo que empezaré con las prótesis. Las dos. No quiero depender de Hannah para siempre, aunque ella no se queja." *(decisión sobre prótesis, día 6)*
 
 **Momentos con Mark:**
 - Primera cita en restaurante del centro y noche en la mansión (no en la habitación principal con Sophie enyesada) *(Día 3, escena 7)*.
@@ -186,7 +206,11 @@
 - Sin tapujos sociales: no suaviza, no se disculpa por su cuerpo ni por el de Patricia.
 
 **Citas memorables:**
-- *[detalle limitado — sus líneas verbatim no fueron capturadas en `scene_log` ni en `sesion_02`/`sesion_03`. Capturar verbatim cuando reaparezca en sesión activa.]*
+- "Mark. Llegas temprano." *(primera vez que lo ve, en la sala de recuperación del hospital — Día 6)*
+- "La operación terminó hace una hora. Está en recuperación todavía, pero ya está despierta." *(informando sin drama)*
+- "No estás sola." *(a Patricia cuando llora tras saber que perderá el segundo brazo)*
+- "Para eso estoy yo." *(cuando Patricia dice que necesitará ayuda para todo)*
+- "Soy Hannah, no es culpa mía, es que Patricia me dicta como si yo fuera secretaria." *(mensaje desde el móvil de Patricia — Día 9)*
 
 **Momentos con Mark:**
 - Sala de espera del hospital tras el accidente de Patricia; Mark le pregunta los detalles *(Día 5, escena 10)*.
