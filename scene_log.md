@@ -196,11 +196,74 @@ Mark vuelve a la mansión. Descubre la nueva habitación de yesos en el ala post
 - Rachel corta la pernera derecha del pantalón para que pase el yeso.
 - Cena sin novedades. Mark duerme con Rachel. Le pregunta si cederá en tocarlo íntimamente; ella responde "quizás" y cierra los ojos.
 
-**La sesión termina aquí — Mark y Rachel en la cama, noche del día 8.**
+---
+
+## Día 9 — Visita a Megan y camino a Patricia
+
+### Escena 22: Despertar y mensajes
+
+Mark despierta junto a Rachel. Pasa por el salón y saluda a Sophie, que sigue inmóvil en el sofá desde la noche anterior. Rachel prepara el desayuno. Mark revisa el móvil:
+
+- Patricia escribe desde casa de Hannah invitándolo a visitarla; Hannah escribe parte de los mensajes por ella y bromea sobre el rol de "secretaria". Confirman cita a las 4pm.
+- Megan escribe desde su apartamento con Emily cuidándola. Conversación sobre la noche anterior y las dificultades de escribir con un brazo enyesado y un muñón corto.
+- Megan invita a Mark a almorzar.
+
+### Escena 23: Llamada a Claire (ajuste de Patricia)
+
+Mark llama a Claire para pedirle que Patricia muestre tristeza creciente por la pérdida del segundo brazo. Acuerdan: tristeza contenida desde las 3:30pm, evolucionando a llanto fácil y ansiedad por el cuerpo nuevo, con escalada según la interacción de Mark. El planteo se justifica como "un mal día puntual" para que Hannah lo asuma como parte normal del duelo.
+
+### Escena 24: Baño con Rachel y conversación sobre límites
+
+Rachel prepara la ducha con una bolsa de plástico sellada con goma elástica para cubrir el yeso. Lo baña desnuda como antes, con su rutina habitual. Mark le pide que limpie de nuevo el pene, "más despacio". Rachel se niega con calma: "eso no es limpieza".
+
+Mark le pregunta qué tiene que hacer para que ceda algún día. Rachel responde con claridad:
+- No hay nada concreto que él pueda hacer; es decisión propia.
+- Convertirlo en tarea con instrucciones aleja la posibilidad.
+- Su "quizás" de la noche anterior fue verdadero: ella misma no sabe del todo qué siente.
+- Sophie y ella tienen algo entre ellas; Mark está en otro lugar.
+- Pide a Mark que no mencione el tema durante un tiempo; cuanto más insiste, más lejos lo pone.
+
+Mark se disculpa por insistir. Rachel le pasa el albornoz, lo viste con un pantalón nuevo (corta la pernera derecha) y una camisa azul claro.
+
+### Escena 25: Camino a la ciudad
+
+Mark sale antes del mediodía hacia el apartamento de Megan. Decide no usar muletas (camina con el yeso y el tacón de goma). Por la ciudad, descripción del paisaje habitual: chicas con yesos diversos, amputaciones, sillas de ruedas, andador, parálisis cerebral, pene visible en pantalones cortos. Composición coherente con las especificaciones del área.
+
+### Escena 26: Almuerzo en casa de Megan
+
+Emily abre la puerta con delantal. Nota el yeso de Mark inmediatamente. Mark le explica que se luxó el tobillo al llegar a casa.
+
+En la habitación, Megan reacciona con humor al ver a Mark enyesado: "tu novia se va a casa con yesos y tú te enyesas también para hacerle compañía". Mark le pide que baje la voz para no contradecir la versión que dio a Emily. Megan acepta jugar el juego.
+
+Conversación sobre el fetiche compartido. Mark cuenta que su primer yeso real fue un hip spica completo a los 4 años por fractura de fémur (atropello). Después todos sus yesos han sido voluntarios.
+
+Megan cuenta dos casos extremos del hospital:
+- **Chica del andamio**: 20 años, accidente en construcción. Hip spica completo del pecho a los pies + brazo derecho enyesado en abducción a 90° unido al cuerpo, con barra desde la cadera. Cuatro meses así (6 semanas internada + resto en casa con cuidadora). Detalla el aseo íntimo: dos enfermeras, cuña por el agujero perineal, rotación. La paciente tenía pene. Erecciones frecuentes durante el aseo. A las 6 semanas pidió a Megan que mantuviera la mano un segundo más al limpiarla; Megan lo hizo. Más tarde la encontró masturbándose con el brazo libre; nunca lo hablaron pero Megan vio una mancha en el yeso. Megan comenta que se arrepiente de no haberle ofrecido ayuda.
+- **Chica del caballo**: 23 años, fractura cervical baja. Minerva completo (cráneo a cadera) + brazo izquierdo unido al cuerpo extendido hacia abajo por fractura de clavícula. 2 meses y medio.
+
+Megan menciona a su compañera Donna como la que probablemente habría ayudado sin filtro a la chica del hip spica.
+
+Megan le confiesa a Mark que con Emily ha tenido erecciones durante el aseo y el baño; ninguna de las dos lo comentó. Sugiere a Mark que cuando vaya a visitarla, si Emily sale, ella querría que él la atendiera.
+
+### Escena 27: Intimidad con Emily en la cocina
+
+Mark masajea el muñón del muslo derecho de Megan, sube hasta los panties azul claro. Mete la mano dentro de los panties y la masturba lentamente mientras Emily cocina. Le toca el seno derecho (pezones marcados, sin brasiere). Emily se acerca a la puerta a anunciar el almuerzo, Mark detiene; Emily se aleja, Mark continúa. Megan se viene en silencio con el pulgar de Mark dentro de la boca.
+
+Mark limpia con pañuelos húmedos. Mancha visible en los panties. Plan inicial fallido (pedir a Emily que la cambie no funciona). Mark busca en el cajón: solo encuentra una tanga brasilera azul oscuro. Megan acepta usarla, justificando ante Emily si pregunta que la tela del azul claro le apretaba el muslo enyesado. Mark le pone la tanga (la pierna enyesada cuesta pasarla), la prótesis y unos pantalones cortos grises.
+
+Salen a comer. Pollo dorado con limón, arroz, ensalada. Emily le pone un babero. Megan come sola con el tenedor en los dedos del brazo enyesado, lento pero funcional. Almuerzo y café normales.
+
+### Escena 28: Despedida y camino a casa de Hannah
+
+Mark se despide a las 3:51pm con beso. Megan le dice "cuida ese tobillo" con guiño cómplice. Emily lo despide en la puerta.
+
+El vehículo autónomo recorre la ciudad: chica en silla eléctrica con mando de barbilla, banco con yeso de antebrazo y muletas. Llega a las 3:58pm a casa de Hannah (dos plantas, ladrillo claro, jardín pequeño al frente). Toca el timbre.
+
+**La sesión termina aquí — Mark frente a la puerta de la casa de Hannah a las 3:58pm, recién tocó el timbre. Patricia con el ajuste emocional ya activado.**
 
 **Próximo paso pendiente:**
 
-1. Visitar a Megan en su apartamento (Emily cuidándola, yesos por dos semanas acordadas).
-2. Visita a Patricia en casa de Hannah.
-3. Mark lleva yeso en pierna derecha (hasta la rodilla).
-4. Pendiente explorar más la habitación de yesos.
+1. Visita a Patricia en casa de Hannah (entrada inminente). El ajuste de Claire empieza con tristeza contenida y subirá según la interacción.
+2. Mark sigue con yeso en pierna derecha (pretende un mes o menos).
+3. Megan sigue enyesada con Emily de cuidadora ~2 semanas.
+4. Rachel pidió no mencionar el tema íntimo por un tiempo.
