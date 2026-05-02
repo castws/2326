@@ -1,5 +1,13 @@
 # Pendientes
 
+## Spa nudista
+
+Spa estilo Vabali
+
+## Moda
+
+Pedirle a Claire la moda de falda corta adelante y punta de pene visible.
+
 ## Exposición artística
 
 Le pido a Claire que me asigne un espacio de unos 150m2 como estudio de arte. Pongo una convocatoria para reclutar modelos. Las enyeso y las exhibo en una galería por una semana.

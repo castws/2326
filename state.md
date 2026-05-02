@@ -2,15 +2,39 @@
 
 ---
 
-## Situación general
+## Cronología
 
-Mark lleva aproximadamente 10 días despierto. Día 10, tarde. Mark acaba de regresar de la cita con Becca (decepcionante) y está de vuelta en la mansión.
+### Día actual
+
+**Día 10, noche.** Mark acaba de despedir a Nora (segunda cita de la tarde, primera vez con ella). La velada fue cordial pero sin química suficiente. Está solo en el salón de la mansión.
+
+### Eventos programados (futuros)
+
+> Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
+
+- **Día ~17**: Patricia inicia rehabilitación con prótesis de gancho ("la semana que viene" desde día 10).
+- **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
+- **Día ~38**: Mark se quita el yeso de pierna derecha (~1 mes desde día 8; antes si se aburre).
+- **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
+
+### Hitos pasados (referencia)
+
+- **Día 1**: Despertar; llegada a la mansión; primera noche con Rachel y Sophie.
+- **Día 2**: Sophie enyesada de cuerpo completo (excepto rostro, senos y genitales).
+- **Día 3**: Primera cita con Patricia (un brazo amputado).
+- **Día 4**: Mark planea con Claire el "accidente" de Patricia.
+- **Día 5**: Accidente de Patricia; decisión de amputación del segundo brazo.
+- **Día 6**: Post-operación de Patricia (dos muñones simétricos); Mark conoce a Emily.
+- **Día 7**: Cita fallida con Megan; reset.
+- **Día 8 (noche)**: Segunda cita con Megan; yesos voluntarios; Emily contratada como cuidadora 24/7 de Megan; Rachel aplica yeso a Mark en pierna derecha.
+- **Día 9**: Visita a Megan al mediodía y a Patricia por la tarde en casa de Hannah; primera intimidad con Patricia post-operación.
+- **Día 10 (hoy)**: Visita a Claire por la mañana; tarde con Sophie; intimidad con Megan al mediodía; cita fallida con Becca por la tarde; cena con Nora en el Café Elm y vuelta a la mansión, sin química, despedida temprana.
 
 ---
 
 ## Mark
 
-- Localización: mansión (regresando de la cita con Becca).
+- Localización: mansión (acaba de despedir a Nora).
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel hace dos noches. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily (y por extensión a Megan en presencia de Emily) que se luxó el tobillo. Fuera de Emily todos saben que el yeso es voluntario.
@@ -40,10 +64,9 @@ Mark lleva aproximadamente 10 días despierto. Día 10, tarde. Mark acaba de reg
 ## Megan
 
 - Localización: su apartamento en la ciudad (tercer piso). Emily la cuida.
-- **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Permanecerá ~2 semanas más.
-- **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se quitará cuando Mark lo decida o Megan lo pida.
+- **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Se retira el día ~22 (ver Cronología).
+- **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se retira el día ~22 (ver Cronología).
 - **Prótesis pierna derecha:** puesta tras el almuerzo.
-- Vestida con tanga brasilera azul oscuro, camiseta blanca de tirantes (sin brasiere) y pantalones cortos grises.
 - Estado emocional: vínculo con Mark consolidado. Acaba de tener un orgasmo con él en silencio mientras Emily cocinaba. Reconoce excitación creciente por la inmovilización.
 - Confesó tener erecciones durante el aseo con Emily; sugirió a Mark que la atienda íntimamente cuando Emily salga.
 
@@ -99,11 +122,13 @@ Mark lleva aproximadamente 10 días despierto. Día 10, tarde. Mark acaba de reg
 
 ## Pendiente / Próximos pasos
 
-1. Megan: vínculo activo. Yesos ~2 semanas más. Emily la cuida. Esta tarde tuvieron sexo con éxito mientras Emily salió de compras.
+1. Megan: vínculo activo. Yeso de pierna se retira día ~22 (ver Cronología). Emily la cuida.
 2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
 3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
 4. Rachel: no mencionar el tema íntimo por un tiempo.
 5. App de citas: formato ajustado (sin profesión, descripción física sin mencionar discapacidades, texto en primera persona).
+6. Nora: primera cita sin química. Sigue en listado activo, sin decisión sobre próximo paso.
+7. Pendiente registrado en `pendientes.md`: dos mujeres del parque de la ribera (polio con aparatos ortopédicos + brazos amputados a distintos niveles), localizadas por Claire para presentación conjunta cuando Mark lo pida.
 
 ## Ciudad — cambios de configuración
 

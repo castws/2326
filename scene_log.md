@@ -305,15 +305,33 @@ Mark recibe mensaje de Megan que Emily salió a compras (~1 hora). Va de inmedia
 
 Mark contacta a Becca por la app (21, rubia, ojos azules) y quedan a las 3pm en el café de la calle Elm. Becca llega con bota ortopédica temporal: error de filtrado. Mark mensajea a Claire; Becca se va con un pretexto y vuelve en 30 minutos con amputación real de pierna derecha por debajo de la rodilla con prótesis, sin memoria del encuentro anterior. Mark también instruyó a Claire para que en el área no existan botas ortopédicas temporales; los aparatos ortopédicos solo corresponden a condiciones permanentes. Cita transcurre con conversación sobre carpintería y la historia de la amputación (sierra de banco a los 16). Mark la encuentra poco interesante. Después de la despedida, le escribe a Claire que le parece muy poco (solo una amputación de pierna baja). Claire retira a Becca del listado activo.
 
+### Escena 37: Cita fallida con Nora — tarde-noche del día 10
+
+Saliendo de la ciudad tras la cita con Becca, Mark pide al vehículo que se detenga y abre la app. Revisa varios perfiles nuevos (Lauren, Iris, Quinn, Tess, Nora, Sasha) en el formato ajustado (sin profesión, descripción sin discapacidades, texto en primera persona). Marca interés en Nora (20 años, cabello negro corto rapado por los lados, piel oscura, vagina). Match. Quedan en el Café Elm en una hora.
+
+Mark pide al vehículo un rodeo panorámico hasta la hora de la cita. Pasando por un puente sobre el río en el sector este, ve en un parque a dos mujeres juntas en un banco: una con polio y aparatos ortopédicos largos en las piernas con bisagra en rodilla y muletas axilares; la otra con brazos amputados a distintos niveles (derecho bajo el codo, izquierdo a media altura del húmero). Mark le escribe a Claire pidiéndole que las localice y las marque como pendientes para presentación conjunta más adelante. Claire confirma localización y registro. Mark añade nota a `pendientes.md`.
+
+A las 16:50 Mark llega al Café Elm. Diez minutos después aparece Nora caminando con dos muletas canadienses, marcha en tijera y rodillas que tienden a juntarse. Mark le acerca una silla y la ayuda a sentarse. En la mesa Nora explica que tiene parálisis cerebral, diplejía espástica, "para resolver lo obvio rápido". Mark dice que no le molesta y la encuentra directa. Conversación sobre vino, sobre la profesión de ella (restauración de libros antiguos en la biblioteca central) y sobre la suya (escultura, yeso sobre cuerpos vivos). Mark le pide a Claire por mensaje que extienda la afectación de Nora a los brazos también (motricidad fina algo torpe, ligera espasticidad en manos); Claire ejecuta. Nora empieza a tener pequeños fallos de coordinación al manipular cubiertos y copa, los gestiona sin drama.
+
+Mark le confiesa que tiene una mucama enyesada de cuerpo completo en casa como primer proyecto, y que su propio yeso es voluntario, no por luxación. Nora pregunta primero si la mucama accedió, después si Mark lleva el yeso por proyecto o por gusto propio. Mark contesta honesto: ambas cosas. Nora lo recibe sin juicio, da el ejemplo de un compañero de la biblioteca con su propia particularidad. Cuando termina la cena, Mark le propone ir a ver la "escultura" en su casa. Nora acepta con una marca de límite explícita: "no doy por hecho nada de cómo termina esta noche".
+
+Llegan a la mansión. Al entrar al salón, Nora se detiene en el umbral al ver a Sophie en el sofá con el cuerpo entero enyesado, descubierta. Mark le pide a Rachel que cubra a Sophie con toallas. Rachel ejecuta y se retira a la cocina. Conversación corta entre Nora y Sophie: Nora pregunta si accedió, Sophie confirma sin pudor y menciona que tiene algo con Rachel. Nora analiza el yeso desde la perspectiva profesional ("el blanco contra la madera oscura funciona", "una sola pieza así en una sala vacía sería fuerte").
+
+Mark le muestra el resto de la casa: biblioteca (Nora pide volver otro día), comedor, cocina, corredor lateral hasta la habitación de yesos. Nora examina el equipamiento (camilla, cama de hip spica, estantería de materiales, cubo metálico) y pregunta quién aplica los yesos. Mark explica que es Rachel y describe la cama de hip spica.
+
+Vuelven al salón a tomar otra copa de vino. La conversación se ha enfriado: cordial pero sin chispa. Después de veinte minutos Nora se despide alegando turno temprano en la biblioteca. Mark la ayuda a entrar al vehículo y ella regresa a la ciudad. Mark queda solo en el porche, anochece, vuelve a entrar.
+
 ---
 
-**La sesión termina aquí — Día 10, tarde. Mark acaba de regresar de la cita con Becca.**
+**La sesión termina aquí — Día 10, noche. Mark acaba de despedir a Nora.**
 
 **Próximo paso pendiente:**
 
-1. Megan: vínculo activo. Emily sigue cuidándola. Yesos por ~2 semanas más.
+1. Megan: vínculo activo. Emily sigue cuidándola. Yesos hasta el día ~22.
 2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
 3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
 4. Rachel: no mencionar el tema íntimo por un tiempo.
 5. App ajustada: sin profesión, descripción sin discapacidades, texto en primera persona.
 6. Área: sin botas ortopédicas temporales; aparatos ortopédicos solo para condiciones permanentes.
+7. Nora: cita sin química, sigue en listado activo. Mark no ha decidido si volverá a verla.
+8. Pendiente registrado: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).

@@ -37,6 +37,7 @@
 - Despacha a Emily como cuidadora de Megan en veinte minutos _(Día 8, escena 20)_.
 - Activa el ajuste emocional de Patricia para el día 9 (tristeza contenida escalando a llanto) _(Día 9, escena 23)_.
 - Conversación con Mark sobre la ética de las relaciones múltiples, los fetiches de otros humanos y la formación de fetiches a través del archivo histórico _(Día 10, escena 33)_.
+- Localiza por mensaje a las dos mujeres del parque de la ribera (polio + brazos amputados) y las marca como pendientes para presentación conjunta; aplica ajuste a Nora durante la cita para extender la afectación de la PC también a los brazos _(Día 10, escena 37)_.
 
 ---
 
@@ -105,6 +106,9 @@
 - "Yeso nuevo." _(comentando el yeso de la pierna derecha de Mark, expresión entre divertida y resignada)_
 - "¿Alguien interesante?" _(desde el sofá mientras Mark navega la app)_
 - "Gracioso. No puedo recogerla." _(cuando Mark le tira la toalla del pene por diversión — Día 10)_
+- "Tenía un poco de fresco." _(con humor seco después de que Rachel la cubre con toallas a petición de Mark al llegar Nora — Día 10)_
+- "Llegas en buen momento. La parte aburrida ya pasó." _(saludando a Nora desde el sofá, con su media sonrisa habitual — Día 10)_
+- "Mark lo propuso. Yo dije que sí. No me arrepiento. [...] Y Rachel y yo tenemos algo entre nosotras. Eso ayuda." _(a Nora, confirmando que accedió al yeso voluntariamente y mencionando su relación con Rachel sin pudor — Día 10)_
 
 **Momentos con Mark:**
 
@@ -113,6 +117,7 @@
 - Rachel y Sophie son sorprendidas teniendo sexo cuando Mark llega con Megan _(Día 8, escena 15)_.
 - Observa por la vidriera mientras Mark y Megan tienen intimidad en la piscina y la terraza; aparta la vista al notar la mirada de Megan _(Día 8, escena 16)_.
 - Mark le tira la toalla del pene por diversión y luego la masturba hasta el clímax mientras revisa la app de citas _(Día 10, escena 34)_.
+- Conoce a Nora desde el sofá cuando Mark la trae a la mansión; sostiene una conversación corta y directa con ella sobre el yeso voluntario y su relación con Rachel _(Día 10, escena 37)_.
 
 ---
 
@@ -283,6 +288,37 @@
 - Apartamento: ayuda en el baño (sostener el pene), penetración contra la pared del pasillo, decisión de quedarse 2 semanas enyesada con Emily como cuidadora _(Día 8, escena 20)_.
 - Día siguiente: almuerzo con Emily; Mark la masturba en silencio en la habitación mientras Emily cocina; ella se viene con el pulgar de Mark en la boca _(Día 9, escena 27)_.
 - Mark la visita mientras Emily sale de compras; sexo desde atrás (Mark sujeta ambos muñones) _(Día 10, escena 35)_.
+
+---
+
+## Nora
+
+**Tipo:** Robot (habitante de la ciudad)
+**Apariencia:** 20 años aparentes. Cabello negro muy corto, casi rapado por los lados. Ojos oscuros, casi negros. Piel oscura. Delgada, estatura media. Vagina.
+**Discapacidad:** Parálisis cerebral, diplejía espástica con afectación leve en brazos. Las piernas no se relajan: tono espástico continuo, marcha en tijera con las rodillas tendiendo a juntarse. Camina con dos muletas canadienses (apoyo en antebrazo). Brazos: motricidad fina algo torpe, ligera espasticidad en manos al hacer gestos precisos; sin afectar la independencia general. Habla normal.
+**Vestimenta primer encuentro:** Jersey de punto fino color crema, falda midi marrón oscuro, zapatillas planas blancas.
+**Personalidad:** Reservada al principio, suelta la voz cuando el tema la engancha. Directa cuando algo necesita resolverse. Resuelve "lo obvio" rápido para no quedarse callada después. Llegó a la ciudad hace dos años desde otra área más al sur. Le cuesta proponer planes pero responde bien si los proponen.
+**Profesión (en el perfil ya no aparece, pero ella la cuenta):** Restauración de libros antiguos en la biblioteca central — encuadernación, papel, tinta, transcripción cuando no se puede reparar.
+**Relación con Mark:** Cita a través de la app, primer encuentro día 10 al atardecer en el Café Elm.
+
+**Voz / Tics de habla:**
+
+- Frases cortas y declarativas. Termina las afirmaciones sin colmillos ("Aprendí.", "Eso ayuda.").
+- Resuelve los temas incómodos por adelantado en una sola frase y los cierra ("Lo digo ahora para no tener que mencionarlo a mitad de la cena.").
+- Devuelve la pregunta corta al final ("¿Y tú?").
+- Cuando el tema le interesa (libros) se le escapa una pequeña sonrisa y la voz se suelta.
+
+**Citas memorables:**
+
+- "Mark." _(saludo de confirmación al verlo en el café)_
+- "Yo nací así, por si te lo estás preguntando. Parálisis cerebral. Diplejía espástica, lo llaman los médicos. Las piernas no terminan de relajarse nunca. Lo digo ahora para no tener que mencionarlo a mitad de la cena." _(Día 10, primera cita)_
+- "Soy directa porque al principio me cuesta hablar. Si no resuelvo lo obvio rápido me quedo callada el resto de la cena. Aprendí." _(Día 10, primera cita)_
+
+**Momentos con Mark:**
+
+- Primera cita en el Café Elm y cena en la mansión: presentación, Mark le confiesa que su yeso es voluntario y que enyesa a una mucama como proyecto artístico. Nora reacciona sin juicio. Visita a la mansión, conoce a Sophie enyesada y la habitación de yesos. Sin química suficiente: vuelve a su casa al final de la noche sin intimidad _(Día 10, escena 37)_.
+
+**Estado actual:** Sigue en el listado activo de la app. La primera cita transcurrió cordial pero sin chispa. Mark no ha decidido si volverá a verla.
 
 ---
 
