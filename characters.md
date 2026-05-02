@@ -12,6 +12,10 @@
 **Vivienda:** Casa propia adyacente a la mansión de Mark, con acceso por el jardín.
 **Pareja:** Emily.
 
+**Conocimiento:**
+
+- Sabe: todo lo que Mark le ha ordenado o consultado; los ajustes activos en todos los robots; la existencia de Patricia, Megan y todas las citas; que los yesos de Megan son voluntarios y fetichistas.
+
 **Voz / Tics de habla:**
 
 - Frases mínimas, sin adornos. Confirma con "Entendido" o "De acuerdo" antes de cualquier otra cosa.
@@ -48,6 +52,11 @@
 **Vestimenta habitual:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior.
 **Personalidad:** Inicialmente sumisa. Tras el ajuste de autonomía: cálida pero directa, con criterio propio. Tiene límites claros en lo íntimo y los comunica sin agresividad. Es lectora habitual (novelas, incluyendo eróticas). Desarrolló una relación íntima con Sophie.
 **Rol:** Asistente doméstica de Mark. Cocina, cuida de Sophie, gestiona la casa.
+
+**Conocimiento:**
+
+- Sabe: que Megan existe y tiene yesos voluntarios (los aplicó ella misma); que Mark tiene múltiples vínculos simultáneos.
+- No sabe: los detalles de los ajustes que Claire aplica (regla de invisibilidad).
 
 **Voz / Tics de habla:**
 
@@ -90,6 +99,11 @@
 **Estado actual:** Todo el cuerpo enyesado excepto rostro, senos y zona genital. Completamente inmóvil. Depende de Rachel para todo.
 **Rol:** Asistente doméstica de Mark. Actualmente inactiva por el yeso.
 
+**Conocimiento:**
+
+- Sabe: que Megan existe y pasó una noche en la mansión; que Mark tiene múltiples vínculos simultáneos.
+- No sabe: los detalles de los ajustes de Claire (regla de invisibilidad).
+
 **Voz / Tics de habla:**
 
 - Lacónica al extremo: "Oh.", "Hola, Megan.", "Yeso nuevo.". Una palabra o frase corta y se calla.
@@ -127,7 +141,13 @@
 **Apariencia:** Unos treinta años aparentes. Cabello rubio corto. Ojos claros. Delgada, estatura media. Sonrisa tranquila.
 **Vestimenta habitual:** Vestidos sencillos (en el primer encuentro, uno azul claro hasta la rodilla; al llegar al apartamento de Megan, uno verde sencillo).
 **Personalidad:** Amable, desenvuelta, con sentido del humor discreto. Natural en el trato con Mark.
-**Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión. Actualmente cuidando a Megan en su apartamento de la ciudad (~2 semanas). No sabe que los yesos de Megan son falsos.
+**Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión. Actualmente cuidando a Megan en su apartamento de la ciudad (~2 semanas).
+
+**Conocimiento:**
+
+- Sabe: que Megan tiene yesos en pierna y brazo; que Mark tiene un yeso en la pierna derecha.
+- No sabe: la existencia de Patricia ni de ninguna otra mujer de Mark; que su presencia como cuidadora fue gestionada por Claire a petición de Mark.
+- Cree erróneamente: que los yesos de Megan son médicos; que el yeso de Mark es por una luxación de tobillo (historia inventada por Mark).
 
 **Voz / Tics de habla:**
 
@@ -168,6 +188,12 @@ Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. N
 **Profesión:** Pintora (estudiante de pintura en el perfil original de la app).
 **Relación con Mark:** Cita a través de la app. Noche juntos en la mansión. Vínculo en desarrollo. Mark la visitó en el hospital tras perder el segundo brazo.
 **Estado actual:** Recuperándose de la amputación del brazo derecho. Instalada en casa de Hannah.
+
+**Conocimiento:**
+
+- Sabe: que Mark la visitó dos veces en el hospital; que tienen un vínculo afectivo y una noche compartida; que Mark prometió volver.
+- No sabe: que Megan existe; que tiene activo un ajuste emocional aplicado por Claire (tristeza contenida escalando a llanto según la interacción con Mark).
+- Cree erróneamente: que el yeso de Mark es médico.
 
 **Voz / Tics de habla:**
 
@@ -211,6 +237,12 @@ Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. N
 **Personalidad:** Liberal, despreocupada, sin filtros sociales. Directa. Cuida de Patricia sin quejarse.
 **Rol:** Amiga y cuidadora de Patricia durante su recuperación. Patricia vive en su casa temporalmente.
 
+**Conocimiento:**
+
+- Sabe: que Mark tiene una relación sentimental con Patricia; que Patricia depende de ella durante la recuperación.
+- No sabe: que Megan existe.
+- Cree erróneamente: que el yeso de Mark es médico.
+
 **Voz / Tics de habla:**
 
 - Toma la palabra por Patricia cuando hace falta y bromea sobre ello (rol de "secretaria" en los mensajes que escribe por ella).
@@ -243,6 +275,11 @@ Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. N
 **Personalidad:** Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin incomodidad. Humor ligero. Adaptativa.
 **Profesión:** Enfermera.
 **Relación con Mark:** Vínculo en desarrollo. Dos días juntos. Tarde en la ciudad enyesada (centro comercial, helado, intimidad en el pasillo de su apartamento). Ha expresado excitación por los yesos y la dependencia. Acordó quedarse enyesada ~2 semanas (baja médica). Emily la cuida en su apartamento mientras dure el yeso.
+
+**Conocimiento:**
+
+- Sabe: que Mark tiene fetiche por yesos y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
+- No sabe: que Patricia existe; que Emily es la pareja de Claire (la asistente de Mark); que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
 
 **Voz / Tics de habla:**
 
