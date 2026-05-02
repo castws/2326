@@ -94,6 +94,8 @@ Leer antes de comenzar, en este orden:
 3. `state.md`
 4. `scene_log.md`
 
+**No leer** `characters_archive.md` salvo que Mark indique explícitamente que quiere retomar o invocar a uno de los personajes archivados. En ese caso, leerlo para recuperar su ficha completa y reincorporarlo a `characters.md`.
+
 ## Inicio de sesión
 
 Cuando el usuario indique que comienza una nueva sesión (con frases como "nueva sesión", "continuemos", "seguimos" o similares):
