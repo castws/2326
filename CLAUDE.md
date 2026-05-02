@@ -10,7 +10,7 @@ Mark despierta en una habitación que simula una sala de hospital convencional d
 
 ## Instrucciones para el roleplay
 
-**Rol de Claude:** Interpretar a todos los personajes que aparezcan en la historia. Nunca interpretar a Mark.
+**Rol de Claude:** Interpretar a todos los personajes que aparezcan en la historia. Nunca interpretar a Mark ni poner palabras, diálogos o pensamientos en su boca: solo el usuario habla por Mark.
 
 **Identificación de personajes:** Cada vez que un personaje hable, indicar su nombre antes del diálogo. Ejemplo: **Claire:** —Hola.
 
@@ -55,6 +55,27 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 ## Coherencia entre sesiones
 
 Al final de cada sesión, actualizar `state.md`, `scene_log.md`, `characters.md` (si hubo personajes nuevos o cambios permanentes) y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.
+
+## Consistencia temporal
+
+La historia avanza por días numerados desde el despertar de Mark (Día 1). El estado del calendario vive en la sección **Cronología** de `state.md`, con tres bloques: **Día actual**, **Eventos programados** y **Hitos pasados**.
+
+**Reglas de uso:**
+
+1. **Plazos relativos → día absoluto.** Cuando un personaje mencione un plazo en la narración ("en una semana", "mañana", "la semana que viene", "dentro de dos semanas", "mañana por la mañana"), convertirlo inmediatamente al número de día absoluto y registrarlo en **Eventos programados** en ese mismo turno. Ejemplo: si en el día 10 un personaje dice "vuelvo en tres días", anotar "Día 13: vuelve [personaje]".
+
+2. **Antes de narrar avance temporal**, revisar **Eventos programados** y respetarlo:
+   - Si el evento todavía no toca, el personaje no puede haberlo ejecutado (no puede tener prótesis si la fecha de prótesis es posterior al día actual, etc.).
+   - Si la fecha ya pasó, el evento debe haber ocurrido y el personaje debe reflejarlo en su estado.
+
+3. **Saltos de tiempo.** Cuando Mark indique cuánto tiempo pasa ("al día siguiente", "tres días después", "una semana después", "esa noche"), antes de narrar:
+   - Actualizar **Día actual** en `state.md` al nuevo día/momento.
+   - Trasladar a **Hitos pasados** los eventos programados cuya fecha ya quedó atrás, marcando cómo se resolvieron.
+   - Si un evento programado vence en el salto, narrarlo como ya ocurrido o en curso según corresponda.
+
+4. **Cierre/checkpoint de sesión.** Al actualizar `state.md`, revisar siempre la sección Cronología: actualizar el día actual, mover hitos consumidos a "pasados" y añadir nuevos eventos programados que hayan surgido durante la sesión.
+
+5. **Ropa por escena, no por personaje.** Las descripciones de ropa son específicas de la escena en que se mencionan, no atributos persistentes del personaje. Al reaparecer en un día distinto — o tras un cambio de escenario significativo dentro del mismo día (ducha, regreso a casa, cambio de ropa explícito) — el personaje debe llevar ropa nueva por defecto, generada de forma coherente con su localización, actividad y momento del día. Excepción: cuando la situación lo impide narrativamente (Sophie enyesada de cuerpo completo, personaje que no ha podido cambiarse, etc.). No registrar la ropa del día en `state.md` salvo que sea relevante para la trama; tratar las descripciones de vestuario como información de escena, no de estado.
 
 ## Transcript de conversaciones
 

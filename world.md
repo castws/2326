@@ -66,13 +66,47 @@
 - Estilo arquitectónico: ciudad pequeña estadounidense del año 2026. Ladrillo, madera, aceras amplias, árboles plantados a intervalos, comercios con letreros sencillos.
 - **~5.000 habitantes**, todos robots simulando personas reales con historia, personalidad y profesión propias.
 - Composición según especificaciones de Mark:
-  - Solo mujeres de entre 18 y 25 años aparentes.
+  - Solo mujeres de entre 19 y 30 años aparentes.
   - 50% con vagina, 50% con pene funcional.
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
   - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
 - Infraestructura: hospital central (dos plantas, tecnología 2026 en apariencia, 2326 por dentro), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares.
 - Todos los vehículos son autónomos.
-- App de citas activa: filtra solo perfiles del grupo de amputadas y del grupo con otras discapacidades. Muestra nombre, edad, descripción física breve (sin mencionar discapacidades) y una descripción en primera persona escrita por el perfil. Sin profesión. El aspecto físico completo se descubre en persona.
+- App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.
 - **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio.
+
+---
+
+## La app de citas
+
+App instalada en el dispositivo simulado de Mark (con apariencia de teléfono de 2026). Diseñada para que conozca mujeres de la ciudad y concierte encuentros con ellas.
+
+### Filtrado de perfiles
+
+- Solo aparecen perfiles del **grupo de amputadas** (10% de la población de la ciudad) y del **grupo con otras discapacidades** (5%: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral en distintos grados, polio con aparatos ortopédicos). En el caso de las amputadas, solo aparecen mujeres con mínimo dos amputaciones diferentes. Pueden haber amputaciones de dedos de la mano, pero varios dedos amputados de una misma mano cuentan como una sola amputación.
+- Las mujeres del grupo de yesos médicos **no aparecen** en la app: a esas se las encuentra de otras formas (en persona por la ciudad, en el hospital, etc.).
+- Las mujeres sin discapacidad tampoco aparecen.
+
+### Información visible en cada perfil
+
+- **Nombre** y **edad** (entre 19 y 30 años aparentes).
+- **Descripción física breve**: rasgos generales (color de pelo, ojos, altura aproximada, complexión, si tiene pene o vagina). **Nunca** se menciona la discapacidad ni se muestra en las fotos de forma evidente.
+- **Descripción en primera persona** escrita por el propio perfil: tono, intereses, qué busca, cómo se presenta. Es la parte más personal del perfil.
+- **No** aparece profesión ni datos del día a día, ni la foto.
+
+### Descubrimiento en persona
+
+El aspecto físico completo —incluyendo el tipo y nivel de discapacidad, prótesis si las usa, silla de ruedas, aparatos ortopédicos, etc.— solo se descubre al verse en persona. Esta es una norma del sistema, no una decisión individual de cada perfil.
+
+### Mecánica de uso
+
+- Mark desliza, descarta o marca interés sobre los perfiles.
+- Si hay match, se abre un chat de texto dentro de la app.
+- Desde el chat se puede proponer un encuentro.
+
+### Comportamiento de los perfiles
+
+- Por defecto, simulan autonomía completa: personalidad, gustos, límites, estados de ánimo. No son sumisas por defecto.
+- Mark puede pedir a Claire que ajuste el comportamiento general de los perfiles de la app o de uno concreto (por ejemplo, hacer que una determinada mujer sea más receptiva, o cambiar su personalidad). Las mujeres no perciben este ajuste.
