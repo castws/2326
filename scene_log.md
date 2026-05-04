@@ -217,6 +217,7 @@ Mark llama a Claire para pedirle que Patricia muestre tristeza creciente por la 
 Rachel prepara la ducha con una bolsa de plástico sellada con goma elástica para cubrir el yeso. Lo baña desnuda como antes, con su rutina habitual. Mark le pide que limpie de nuevo el pene, "más despacio". Rachel se niega con calma: "eso no es limpieza".
 
 Mark le pregunta qué tiene que hacer para que ceda algún día. Rachel responde con claridad:
+
 - No hay nada concreto que él pueda hacer; es decisión propia.
 - Convertirlo en tarea con instrucciones aleja la posibilidad.
 - Su "quizás" de la noche anterior fue verdadero: ella misma no sabe del todo qué siente.
@@ -238,6 +239,7 @@ En la habitación, Megan reacciona con humor al ver a Mark enyesado: "tu novia s
 Conversación sobre el fetiche compartido. Mark cuenta que su primer yeso real fue un hip spica completo a los 4 años por fractura de fémur (atropello). Después todos sus yesos han sido voluntarios.
 
 Megan cuenta dos casos extremos del hospital:
+
 - **Chica del andamio**: 20 años, accidente en construcción. Hip spica completo del pecho a los pies + brazo derecho enyesado en abducción a 90° unido al cuerpo, con barra desde la cadera. Cuatro meses así (6 semanas internada + resto en casa con cuidadora). Detalla el aseo íntimo: dos enfermeras, cuña por el agujero perineal, rotación. La paciente tenía pene. Erecciones frecuentes durante el aseo. A las 6 semanas pidió a Megan que mantuviera la mano un segundo más al limpiarla; Megan lo hizo. Más tarde la encontró masturbándose con el brazo libre; nunca lo hablaron pero Megan vio una mancha en el yeso. Megan comenta que se arrepiente de no haberle ofrecido ayuda.
 - **Chica del caballo**: 23 años, fractura cervical baja. Minerva completo (cráneo a cadera) + brazo izquierdo unido al cuerpo extendido hacia abajo por fractura de clavícula. 2 meses y medio.
 
@@ -321,17 +323,51 @@ Mark le muestra el resto de la casa: biblioteca (Nora pide volver otro día), co
 
 Vuelven al salón a tomar otra copa de vino. La conversación se ha enfriado: cordial pero sin chispa. Después de veinte minutos Nora se despide alegando turno temprano en la biblioteca. Mark la ayuda a entrar al vehículo y ella regresa a la ciudad. Mark queda solo en el porche, anochece, vuelve a entrar.
 
+### Escena 38: Visita nocturna a Claire — peticiones de moda (Día 10, noche)
+
+Mark sale de la mansión y va a la casa de Claire. La encuentra en casa sola (Emily en el apartamento de Megan), ropa casual de casa, cabello suelto. Mark le entrega una lista con nuevas configuraciones de moda para la ciudad: topless con pezoneras obligatorias (nunca los pezones desnudos), diversidad de prendas que dejan los senos al descubierto (corsés, pantalones de talle alto, vestidos desde la base, jerseys, camisas con recortes, blusas de escote amplio), faldas con abertura en V o cortas por delante con C-string de joyería, y prenda de pene con capucha: panties con abertura y soporte para testículos más capucha elástica decorativa para el glande, combinada con falda muy corta que deja la punta visible. Todas opciones libres, no norma obligatoria. Claire confirma y ejecuta. Mark vuelve a la mansión.
+
+### Escena 39: Silla de ruedas para Sophie — noche del día 10
+
+Mark vuelve a la mansión y le pide a Rachel que pida una silla de ruedas de respaldo alto reclinable para Sophie, para poder moverla por toda la casa. La silla llega en veinte minutos. Mark y Rachel mueven a Sophie del sofá a la silla coordinando el traslado. Mark lleva a Sophie al comedor; Rachel sirve pasta. Rachel da de comer a Sophie con tenedor. Cena tranquila. Después, Rachel y Mark llevan a Sophie en la silla hasta la habitación principal y la dejan junto a la cama. Mark se acuesta con Rachel; esta vez le acaricia el cabello en lugar de los senos. Buenas noches.
+
 ---
 
-**La sesión termina aquí — Día 10, noche. Mark acaba de despedir a Nora.**
+## Día 11
+
+### Escena 40: Desayuno y paseo por el centro comercial (Día 11, mañana)
+
+Mark despierta, desayuna. Rachel le corta la pernera del pantalón nuevo. Mark va a la ciudad en vehículo autónomo. Toma un café en una cafetería del centro comercial con mesas al pasillo y observa a la gente pasar: primera aparición de la nueva moda en la narración (mujer con muletas canadienses, diplejía, pantalones de talle alto, pezoneras de cadena; dos amigas, una amputada del antebrazo con camisa recortada y pezoneras; mujer en silla eléctrica con falda de abertura en V y pene con capucha roja). Intercambio de mensajes con Patricia (empezará la rehabilitación con prótesis la semana que viene) y con Megan (Emily ha salido al mercado, tiene una hora larga).
+
+### Escena 41: Baño de Emily a Megan con Mark presente (Día 11, mañana)
+
+Mark llega al apartamento de Megan cuando Emily está a punto de bañarla en cama con cuenco y toallas. Megan está desnuda, enyesada. Mark se queda a petición de Megan. Emily baña a Megan con metódica profesional: cuello, hombros, muñón del brazo izquierdo (muy corto, lo sostiene con dos dedos mientras limpia), senos (el pene reacciona levemente), abdomen, zona genital y pene (erección completa al ser limpiada; Emily no lo comenta), piernas, muñón del muslo derecho, y por último las nalgas y el ano (Megan boca abajo con ayuda de Mark para sostener la pierna enyesada). Conversación durante el baño: Mark propone que Emily vaya a visitar a Claire; Emily acepta y se va tras terminar y dejar ropa preparada. Mark se encarga de vestir a Megan.
+
+### Escena 42: Intimidad con Megan — apartamento (Día 11, mañana)
+
+Con Emily fuera, Mark le hace sexo oral a Megan. Luego Mark se sienta sobre el pene de Megan introduciéndolo en su ano, se masturba y le masajea un seno. Más tarde toma el muñón del brazo izquierdo mientras sube y baja. Ambos terminan. Mark limpia a Megan con toalla húmeda, incluyendo el pene (que vuelve a excitarse durante la limpieza). La sesión deja la cama manchada.
+
+### Escena 43: Megan vestida con nueva moda — salida al centro comercial (Día 11, mañana-tarde)
+
+Mark viste a Megan con prendas de la nueva moda: panties negros con abertura (pene colgando libre, testículos sostenidos), capucha de satén negro con adorno plateado sobre el glande, corsé negro con pezoneras circulares de metal plateado, falda corta oscura. Le pone la prótesis y la lleva al espejo. Megan se ve a sí misma por primera vez con esta ropa y comenta que "no se reconoce, en el buen sentido". Salen al centro comercial con muleta. Megan genera miradas continuas en el corredor.
+
+### Escena 44: Almuerzo, helado y paseos (Día 11, tarde)
+
+Almuerzan en restaurante del centro comercial; Mark da de comer a Megan. Paseo por el centro comercial; Mark le dice algo al oído que provoca erección mediana visible bajo la falda. En el puesto de helados, Mark da el helado a Megan y le limpia el seno donde cayó una gota, lo que provoca erección completa en público: la falda queda levantada, la capucha apuntando hacia arriba, visible desde el pasillo. Varias mujeres miran. Más paseo, más comentarios en voz baja. Vuelven en vehículo al edificio de Megan.
+
+### Escena 45: Vuelta al apartamento — Emily los recibe (Día 11, tarde)
+
+En el ascensor del edificio, antes de que cierren las puertas, Mark empieza a tocar el pene de Megan. Una mujer entra al ascensor en el último momento: ve la erección antes de girarse hacia las puertas. Mark sigue tocando; Megan susurra protestas. Al salir del ascensor en el tercer piso, Megan pasa frente a la mujer con erección completa. Entran al apartamento. Emily está en el sofá leyendo. Ve entrar a Mark y a Megan —corsé, senos al aire con pezoneras, falda corta, pene erecto con capucha plateada— y pregunta con tono completamente normal cómo estuvo el almuerzo.
+
+---
+
+**La sesión termina aquí — Día 11, tarde. Mark y Megan acaban de entrar al apartamento; Emily los ha recibido con normalidad.**
 
 **Próximo paso pendiente:**
 
-1. Megan: vínculo activo. Emily sigue cuidándola. Yesos hasta el día ~22.
-2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
+1. Megan: vínculo activo. Emily en el apartamento. Yesos hasta el día ~22.
+2. Patricia: estable. Aun con vendaje. Rehabilitación con prótesis de gancho la semana que viene (~Día 17).
 3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
 4. Rachel: no mencionar el tema íntimo por un tiempo.
-5. App ajustada: sin profesión, descripción sin discapacidades, texto en primera persona.
-6. Área: sin botas ortopédicas temporales; aparatos ortopédicos solo para condiciones permanentes.
-7. Nora: cita sin química, sigue en listado activo. Mark no ha decidido si volverá a verla.
-8. Pendiente registrado: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+5. Sophie: en silla de ruedas de respaldo alto reclinado. Yesos hasta ~Día 40.
+6. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).

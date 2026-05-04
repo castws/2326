@@ -132,6 +132,7 @@
 - Observa por la vidriera mientras Mark y Megan tienen intimidad en la piscina y la terraza; aparta la vista al notar la mirada de Megan _(Día 8, escena 16)_.
 - Mark le tira la toalla del pene por diversión y luego la masturba hasta el clímax mientras revisa la app de citas _(Día 10, escena 34)_.
 - Conoce a Nora desde el sofá cuando Mark la trae a la mansión; sostiene una conversación corta y directa con ella sobre el yeso voluntario y su relación con Rachel _(Día 10, escena 37)_.
+- Mark y Rachel la trasladan del sofá a una silla de ruedas de respaldo alto reclinable, dejando el respaldo completamente reclinado para poder ponerla acostada; cena en el comedor con Rachel dándole de comer. Duerme junto a la cama de Mark en la silla _(Día 10, escena 39)_.
 
 ---
 
@@ -161,7 +162,7 @@
 - "Hola, Mark. Visita tardía." _(en la casa de Claire, leyendo en el sofá cuando Mark llega de noche)_
 - "Sin inconveniente. El sofá se ve cómodo." _(aceptando dormir en el apartamento de Megan dos semanas)_
 - "Lo resolvemos. No es la primera vez que ayudo con algo así." _(cuando Megan dice que la ducha será complicada con el yeso)_
-- "Estará bien. No te preocupes." _(despidiendo a Mark del apartamento de Megan)_
+- "¿Cómo estuvo el almuerzo?" _(al ver entrar a Mark y Megan —corsé, pezoneras, pene erecto con capucha— con tono completamente normal — Día 11)_
 
 **Momentos con Mark:**
 
@@ -169,12 +170,8 @@
 - Llega como cuidadora al apartamento de Megan en veinte minutos; cuestionario práctico y aceptación del sofá _(Día 8, escena 20)_.
 - Recibe a Mark al día siguiente con delantal puesto; Mark inventa la historia de la luxación de tobillo para explicar su yeso _(Día 9, escena 26)_.
 - Cocina mientras Mark masturba a Megan a pocos metros; Emily se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo _(Día 9, escena 27)_.
-
----
-
-## Ashley _(archivada)_
-
-Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. No volverá a aparecer. Ver [characters_archive.md](characters_archive.md).
+- Baña a Megan en cama con cuenco y toallas mientras Mark observa sentado en el borde; se va a visitar a Claire dejando a Mark al cargo _(Día 11, escena 41)_.
+- Recibe a Mark y Megan al volver al apartamento; Megan lleva la nueva ropa con el pene erecto visible; Emily no hace ningún comentario _(Día 11, escena 45)_.
 
 ---
 
@@ -292,13 +289,12 @@ Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. N
 **Citas memorables:**
 
 - "Puntual, me gusta." _(primer saludo en el restaurante, ambas versiones)_
-- "Ya era hora." _(primer beso en la biblioteca)_
 - "Mi erección siempre pide algo más. La pregunta es qué quieres hacer al respecto." _(en la tumbona junto a la piscina)_
-- "Superarlo no significa olvidarlo. Significa que ya no me define." _(sobre las amputaciones, en la piscina)_
-- "Hoy me siento como una exposición ambulante." _(en el centro comercial, comentando las miradas)_
 - "Tu novia se va a casa con yesos y tú te enyesas también para hacerle compañía." _(al ver a Mark con el yeso de la pierna derecha)_
-- "La otra es de titanio, esa no tiembla." _(después del sexo en el pasillo, evaluando la pierna que le tiembla)_
 - "Sí. Produce algo." _(admitiendo la excitación nueva por la dependencia y los yesos)_
+- "No me reconozco. En el buen sentido." _(viéndose en el espejo con la nueva ropa — Día 11)_
+- "No es tan fácil. Tú lo provocas." _(sobre sus erecciones en público durante el paseo — Día 11)_
+- "Tú no ayudas nada enviándome estos mensajes." _(por mensaje, después de que Mark la excite con textos — Día 11)_
 
 **Momentos con Mark:**
 
@@ -310,8 +306,15 @@ Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. N
 - Apartamento: ayuda en el baño (sostener el pene), penetración contra la pared del pasillo, decisión de quedarse 2 semanas enyesada con Emily como cuidadora _(Día 8, escena 20)_.
 - Día siguiente: almuerzo con Emily; Mark la masturba en silencio en la habitación mientras Emily cocina; ella se viene con el pulgar de Mark en la boca _(Día 9, escena 27)_.
 - Mark la visita mientras Emily sale de compras; sexo desde atrás (Mark sujeta ambos muñones) _(Día 10, escena 35)_.
+- Emily la baña en cama con Mark presente como observador; erección completa durante el aseo del pene, ninguna lo comenta _(Día 11, escena 41)_.
+- Intimidad con Mark (oral + penetración + masturbación); Mark masajea el muñón del brazo izquierdo durante el clímax _(Día 11, escena 42)_.
+- Mark la viste con nueva moda (corsé, pezoneras, prenda de pene con capucha, falda corta); paseo y almuerzo en el centro comercial con erecciones en público _(Día 11, escenas 43-44)_.
 
 ---
+
+## Ashley _(archivada)_
+
+## Robot de hospital, primera escena. Pierna derecha y brazo izquierdo enyesados. No volverá a aparecer. Ver [characters_archive.md](characters_archive.md).
 
 ## Nora _(archivada)_
 

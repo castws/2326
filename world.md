@@ -76,6 +76,27 @@
 - App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.
 - **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio.
+- **Moda topless y ropa de exposición (opción disponible, no obligatoria):** una parte de la población lleva los senos al descubierto. Las variantes de ropa que lo permiten incluyen:
+  - Pantalones de talle muy alto que llegan hasta la base de los senos.
+  - Vestidos que comienzan desde la base de los senos, algunos con tirantes en triángulo invertido sobre cada seno.
+  - Corsés que dejan los senos al aire.
+  - Jerseys que cubren solo brazos, hombros y la parte superior del pecho (sobre la base de los senos); se combinan con las prendas anteriores.
+  - Camisas y camisetas con aberturas recortadas para los senos.
+  - Blusas y chalecos con escotes muy amplios que dejan los senos expuestos.
+  - Cuando los senos quedan al descubierto, los pezones **siempre** van cubiertos con **pezoneras**: adhesivas (pegamento corporal) o fijadas mediante piercing. Diseños de joyería, con variantes que incluyen cadenas entre ambas pezoneras o pendientes colgantes en cada una. Los pezones nunca quedan expuestos.
+- **Moda de exposición inferior (opción disponible, no obligatoria):** algunas faldas son cortas por delante o llevan una abertura en V invertida que deja la zona íntima a la vista. Se combina habitualmente con **C-string de diseño joyería** (algunos con colgantes). La versión para pene tiene la pieza delantera más amplia. Puede combinarse con cualquiera de las prendas superiores descritas arriba.
+- **Prenda de pene con capucha (solo mujeres con pene, opción disponible, no obligatoria):** conjunto de dos piezas. La pieza principal son unos panties con abertura para el pene y soporte para los testículos, de modo que el pene queda libre y colgando. La segunda pieza es una capucha elástica que cubre únicamente el glande, con diseños de lencería o joyería (puede incluir adornos decorativos). Quienes llevan esta prenda interior combinan con una falda muy corta que deja visible la punta del pene.
+- Estas opciones de moda son elecciones individuales como cualquier otra prenda. Cualquier personaje del área —incluyendo los ya conocidos por Mark— puede adoptarlas cuando sea coherente con la situación.
+
+### Narración al transitar por la ciudad
+
+Cada vez que Mark recorra las calles y zonas públicas de la ciudad, el narrador describe brevemente el paisaje humano que lo rodea. Esta descripción incluye siempre dos elementos entrelazados:
+
+1. **Discapacidades y yesos visibles:** transeúntes con yesos (desde un miembro hasta cuerpo completo), amputadas, mujeres en silla de ruedas, con andador, con muletas, con aparatos ortopédicos de polio, con parálisis cerebral. La muestra debe ser coherente con las proporciones de la ciudad (10% yesos, 10% amputaciones, 5% otras discapacidades) y variada entre escenas.
+
+2. **Moda de exposición visible en el entorno:** algunas mujeres llevan los senos al descubierto con pezoneras, faldas con abertura en V que dejan la zona íntima visible con C-string de joyería, o la prenda de pene con capucha combinada con falda corta que deja visible la punta. La descripción refleja que estas opciones son elecciones cotidianas normales, sin énfasis especial.
+
+Ambos elementos se narran con el mismo tono plano y natural del resto de la historia. No es necesario describir a cada persona con detalle; basta con una imagen de conjunto que dé textura al entorno. La extensión es proporcional a la duración del trayecto: un paso rápido merece una frase; un paseo largo, dos o tres.
 
 ---
 

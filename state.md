@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 10, noche.** Mark acaba de despedir a Nora (segunda cita de la tarde, primera vez con ella). La velada fue cordial pero sin química suficiente. Está solo en el salón de la mansión.
+**Día 11, tarde.** Mark acaba de llegar al apartamento de Megan con ella después del almuerzo y el paseo por el centro comercial. Emily los ha recibido con normalidad. Megan lleva la nueva ropa (corsé, pezoneras, falda corta, prenda de pene con capucha) y sigue en erección.
 
 ### Eventos programados (futuros)
 
@@ -34,20 +34,21 @@
 
 ## Mark
 
-- Localización: mansión (acaba de despedir a Nora).
-- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel hace dos noches. Pantalón con pernera derecha cortada. Camina sin muletas.
+- Localización: apartamento de Megan, con Megan y Emily.
+- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
-- Le explicó a Emily (y por extensión a Megan en presencia de Emily) que se luxó el tobillo. Fuera de Emily todos saben que el yeso es voluntario.
+- Le explicó a Emily que se luxó el tobillo.
 - Plan: dejarse el yeso ~1 mes, o menos si se aburre.
-- Esta tarde tuvo sexo con Megan en su apartamento mientras Emily fue de compras.
+- Esta mañana tuvo intimidad con Megan (sexo oral + penetración + masturbación) en el apartamento mientras Emily fue a visitar a Claire.
 
 ---
 
 ## Sophie
 
-- Localización: sofá del salón.
+- Localización: silla de ruedas de respaldo alto reclinable, habitación principal (junto a la cama de Mark).
 - Estado físico: todo el cuerpo enyesado excepto rostro, senos y genitales. Completamente inmóvil. Depende de Rachel para todo.
-- Tiempo restante de yesos: aproximadamente un mes más.
+- **Nueva movilidad:** desde la noche del Día 10 dispone de silla de ruedas de respaldo alto reclinable; puede ser llevada por cualquier estancia de la mansión.
+- Tiempo restante de yesos: aproximadamente un mes más (~Día 40).
 - Estado emocional: adaptada. Relación íntima en desarrollo con Rachel.
 
 ---
@@ -66,25 +67,28 @@
 - Localización: su apartamento en la ciudad (tercer piso). Emily la cuida.
 - **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Se retira el día ~22 (ver Cronología).
 - **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se retira el día ~22 (ver Cronología).
-- **Prótesis pierna derecha:** puesta tras el almuerzo.
-- Estado emocional: vínculo con Mark consolidado. Acaba de tener un orgasmo con él en silencio mientras Emily cocinaba. Reconoce excitación creciente por la inmovilización.
-- Confesó tener erecciones durante el aseo con Emily; sugirió a Mark que la atienda íntimamente cuando Emily salga.
+- **Prótesis pierna derecha:** puesta.
+- **Ropa actual:** corsé negro con pezoneras circulares plateadas, panties negros con abertura para el pene, capucha de satén negro con adorno plateado sobre el glande, falda corta oscura.
+- Estado emocional: vínculo con Mark consolidado. Tuvo sexo esta mañana con Mark (oral + penetración + masturbación). Vivió erecciones en público durante el paseo por el centro comercial con la nueva ropa.
+- Erecciones durante el aseo con Emily siguen ocurriendo (ninguna de las dos lo menciona).
 
 ---
 
 ## Claire
 
-- En su casa adyacente a la mansión.
-- Recibió instrucción de Mark de ajustar a Patricia para mostrar tristeza contenida desde las 3:30pm, escalable a llanto y ansiedad por el cuerpo nuevo según la interacción.
+- En su casa adyacente a la mansión (o de vuelta tras la visita de Emily).
+- Ejecutó esta sesión: nuevas reglas de moda para la ciudad (topless con pezoneras, faldas con abertura, prenda de pene con capucha).
+- El ajuste emocional de Patricia ya cumplió su función.
 
 ---
 
 ## Emily
 
 - En el apartamento de Megan, en la ciudad. Rol de cuidadora 24/7.
-- Vio el yeso de Mark; aceptó la explicación del esguince/luxación sin cuestionar.
-- No notó (o no comentó) la actividad sexual durante su almuerzo.
-- Sigue sin saber que los yesos de Megan son falsos.
+- Esta mañana bañó a Megan en cama con cuenco y toallas (con Mark presente como observador).
+- Fue a visitar a Claire mientras Mark se quedaba con Megan (durante la cual tuvieron intimidad).
+- Acaba de ver entrar a Mark y Megan con la nueva ropa; reaccionó con total normalidad.
+- Sigue sin saber que los yesos de Megan son voluntarios ni que hubo intimidad.
 
 ---
 
@@ -122,13 +126,13 @@
 
 ## Pendiente / Próximos pasos
 
-1. Megan: vínculo activo. Yeso de pierna se retira día ~22 (ver Cronología). Emily la cuida.
-2. Patricia: estable. Rehabilitación con prótesis de gancho la semana que viene.
-3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
+1. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida. Mark está en el apartamento ahora mismo.
+2. Patricia: estable. Rehabilitación con prótesis de gancho ~Día 17.
+3. Mark sigue con yeso en pierna derecha (~Día 38).
 4. Rachel: no mencionar el tema íntimo por un tiempo.
-5. App de citas: formato ajustado (sin profesión, descripción física sin mencionar discapacidades, texto en primera persona).
-6. Nora: primera cita sin química. Sigue en listado activo, sin decisión sobre próximo paso.
-7. Pendiente registrado en `pendientes.md`: dos mujeres del parque de la ribera (polio con aparatos ortopédicos + brazos amputados a distintos niveles), localizadas por Claire para presentación conjunta cuando Mark lo pida.
+5. Sophie: en silla de ruedas reclinable. Yesos hasta ~Día 40.
+6. Nora: cita sin química, sigue en listado activo. Sin decisión sobre próximo paso.
+7. Pendiente registrado en `pendientes.md`: dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire para presentación conjunta.
 
 ## Ciudad — cambios de configuración
 
