@@ -361,13 +361,24 @@ En el ascensor del edificio, antes de que cierren las puertas, Mark empieza a to
 
 ---
 
-**La sesión termina aquí — Día 11, tarde. Mark y Megan acaban de entrar al apartamento; Emily los ha recibido con normalidad.**
+### Escena 46: Regreso en vehículo — tarde del día 11
 
-**Próximo paso pendiente:**
+Mark sale del apartamento de Megan a las 3pm. En el vehículo autónomo revisa mensajes: Megan le envía foto con la erección (falda levantada, capucha plateada) diciendo que sigue así. Patricia había escrito por la mañana con humor sobre Hannah leyéndole un libro de cocina medieval. Mark responde a Megan sugiriéndole baño de agua fría (con sorna); Megan responde que Emily está en la sala y que se aguanta. Mark propone a Patricia cenar esa noche; Patricia acepta a través de Hannah para el restaurante italiano de la calle Maple a las 7. Mark pide a Hannah que vista a Patricia "guapa y un poco sexy" pero luego rectifica: prefiere que Patricia elija y le dé la sorpresa. Hannah confirma.
 
-1. Megan: vínculo activo. Emily en el apartamento. Yesos hasta el día ~22.
-2. Patricia: estable. Aun con vendaje. Rehabilitación con prótesis de gancho la semana que viene (~Día 17).
-3. Mark sigue con yeso en pierna derecha (~1 mes o menos).
-4. Rachel: no mencionar el tema íntimo por un tiempo.
-5. Sophie: en silla de ruedas de respaldo alto reclinado. Yesos hasta ~Día 40.
-6. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+### Escena 47: Visita a Claire y baño en la mansión — tarde del día 11
+
+Mark pasa por la casa de Claire. Pregunta por la visita de Emily (Claire la recibió bien). Mark consulta sobre el aprendizaje del idioma actual: Claire explica dos métodos (inmersión asistida: 6 semanas para nivel funcional; inducción de patrón lingüístico: 4 horas para comprensión pasiva completa + 2 semanas para producción oral). Mark elige el método de inducción. Lo agendan para el día 12 a las 14:00. Mark pregunta también sobre cirugía de cambio de sexo: Claire explica que dura 6-8 horas, una noche de hospitalización, funcional a la semana. Mark dice que lo hará más adelante. Vuelve a la mansión. Saluda a Sophie en el salón. Rachel le da un baño de rutina. Mark se viste y sale a recoger a Patricia.
+
+### Escena 48: Recogida de Patricia y cena — noche del día 11
+
+Mark llega a casa de Hannah a las 6:40. Hannah lo recibe; Patricia está en su cuarto terminando de vestirse con ayuda de Hannah. Mark pasa: Patricia lleva vestido negro sin mangas con escote en la espalda hasta la mitad, abertura lateral desde la cadera hasta media parte alta del muslo, sin brasier. Los dos muñones simétricos visibles. El muñón derecho con última gasa fina. Moño bajo con mechones sueltos en la nuca.
+
+Restaurante italiano de la calle Maple: cena tranquila, Mark le da de comer a Patricia. Conversación sobre Hannah, sobre la rehabilitación próxima. Patricia se ríe con facilidad, dice que le alegra haber salido. Mark le pregunta qué querría hacer la próxima vez: quedarse a dormir en la mansión dos noches y que le lean algo. Mark propone quedarse esa misma noche y también el día 12; Patricia acepta. Deciden no pasar por casa de Hannah a buscar ropa; Hannah enviará lo que necesite mañana.
+
+En el vehículo de vuelta, besos y mano de Mark subiendo por la abertura lateral hasta la entrepierna: Patricia lleva tanga, está húmeda.
+
+### Escena 49: Vuelta a la mansión e intimidad con Patricia — noche del día 11
+
+Al entrar al salón, Mark y Patricia encuentran a Rachel masturband a Sophie en la silla de ruedas (Sophie sin toallas, senos y pene al aire). Sophie ve a Mark y a Patricia. Rachel se gira. Mark pide que cubran a Sophie y la lleven a la habitación. Sophie dice buenas noches a Patricia al pasar. Patricia reacciona con calma ("tu casa es interesante"). Mark le pregunta si quiere sentarse; prefiere ir directamente a la habitación.
+
+Intimidad en la habitación de invitados: Mark quita el vestido (cierre lateral), baja la tanga. La coloca de pie desnuda, la acaricia por detrás (mano en seno, mano en vagina, otra en muñón izquierdo). Sexo boca arriba, luego en cuatro (pecho y cabeza contra almohada, cadera elevada). Patricia pide que no pare y llega al clímax primero. Mark acaba dentro. Se acomodan: Patricia apoyada contra el pecho de Mark, muñón derecho sobre él. Conversación breve sobre el muñón vendado (ya casi no duele; le gusta que Mark lo toque). Duermen juntos, desnudos, lámpara encendida.

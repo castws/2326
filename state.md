@@ -6,12 +6,13 @@
 
 ### Día actual
 
-**Día 11, tarde.** Mark acaba de llegar al apartamento de Megan con ella después del almuerzo y el paseo por el centro comercial. Emily los ha recibido con normalidad. Megan lleva la nueva ropa (corsé, pezoneras, falda corta, prenda de pene con capucha) y sigue en erección.
+**Día 11, noche.** Mark está dormido en la habitación de invitados de la mansión con Patricia. Cena en el restaurante italiano de la calle Maple, vuelta a la mansión, intimidad, dormidos juntos. Patricia pasa la noche y el día 12 en la mansión. Inducción neurolingüística agendada para las 2pm del día 12.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
+- **Día 12, 14:00**: Inducción neurolingüística en la mansión (4 horas, técnica coordinada por Claire).
 - **Día ~17**: Patricia inicia rehabilitación con prótesis de gancho ("la semana que viene" desde día 10).
 - **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
 - **Día ~38**: Mark se quita el yeso de pierna derecha (~1 mes desde día 8; antes si se aburre).
@@ -34,7 +35,7 @@
 
 ## Mark
 
-- Localización: apartamento de Megan, con Megan y Emily.
+- Localización: habitación de invitados de la mansión, durmiendo con Patricia.
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily que se luxó el tobillo.
@@ -126,13 +127,13 @@
 
 ## Pendiente / Próximos pasos
 
-1. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida. Mark está en el apartamento ahora mismo.
-2. Patricia: estable. Rehabilitación con prótesis de gancho ~Día 17.
+1. Patricia: durmiendo en la mansión. Se queda el día 12. Rehabilitación con prótesis de gancho ~Día 17.
+2. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida en su apartamento.
 3. Mark sigue con yeso en pierna derecha (~Día 38).
-4. Rachel: no mencionar el tema íntimo por un tiempo.
-5. Sophie: en silla de ruedas reclinable. Yesos hasta ~Día 40.
-6. Nora: cita sin química, sigue en listado activo. Sin decisión sobre próximo paso.
-7. Pendiente registrado en `pendientes.md`: dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire para presentación conjunta.
+4. Inducción neurolingüística: agendada para las 2pm del Día 12. Dura 4 horas. Patricia estará en la mansión; Rachel la atenderá durante ese tiempo.
+5. Rachel: no mencionar el tema íntimo por un tiempo.
+6. Sophie: en silla de ruedas reclinable en habitación principal. Yesos hasta ~Día 40.
+7. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
 
 ## Ciudad — cambios de configuración
 

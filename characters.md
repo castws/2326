@@ -42,6 +42,7 @@
 - Activa el ajuste emocional de Patricia para el día 9 (tristeza contenida escalando a llanto) _(Día 9, escena 23)_.
 - Conversación con Mark sobre la ética de las relaciones múltiples, los fetiches de otros humanos y la formación de fetiches a través del archivo histórico _(Día 10, escena 33)_.
 - Localiza por mensaje a las dos mujeres del parque de la ribera (polio + brazos amputados) y las marca como pendientes para presentación conjunta; aplica ajuste a Nora durante la cita para extender la afectación de la PC también a los brazos _(Día 10, escena 37)_.
+- Explica a Mark los dos métodos de aprendizaje del idioma actual; agenda inducción neurolingüística para el Día 12 a las 14:00. Informa sobre el procedimiento de cambio de sexo (6-8 horas, una noche de hospitalización, funcional en una semana) _(Día 11, escena 47)_.
 
 ---
 
@@ -203,16 +204,12 @@
 
 - "Nadie me había dicho eso todavía. Todo el mundo habla del proceso. Tú eres el primero que habla de las pinturas." _(cuando Mark dice que quiere ver sus nuevas pinturas — Día 9)_
 - "Va a ser distinto. Vas a tener que hacer bastante tú. Más que la última vez, por lo menos." _(aceptando intimidad sin brazos — Día 9)_
-- "Hola. Tú debes ser Mark. Soy Patricia." _(primer saludo en el restaurante, directa y sin nervios)_
-- "No me molesta. La mayoría tarde o temprano lo pregunta." _(sobre su amputación)_
-- "Fue un accidente cuando tenía dieciséis años. Una máquina de corte. Fue rápido, no hubo mucho dolor en el momento. Después sí." _(contando la historia del brazo izquierdo)_
-- "Al principio consideré una prótesis, pero decidí que no. Me acostumbré así. Pinto con la derecha de todas formas."
-- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." _(después de la noche juntos)_
 - "Los dos." _(reacción inmediata, en voz baja, cuando la doctora dice que el muñón quedará como el izquierdo)_
-- "Tardé dos años en aprender a hacer todo con el derecho. Dos años." _(procesando la pérdida del segundo brazo)_
-- "Perdona. No quería que me vieras así." _(llorando ante Mark en el hospital)_
-- "Siento el brazo derecho todavía, como si estuviera ahí. El médico dice que es normal. Que pasará." _(post-operación, día 6)_
-- "Creo que empezaré con las prótesis. Las dos. No quiero depender de Hannah para siempre, aunque ella no se queja." _(decisión sobre prótesis, día 6)_
+- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." _(después de la primera noche juntos)_
+- "Hannah dice que la abertura lateral es demasiado. Yo creo que no." _(al presentarse vestida para la cena — Día 11)_
+- "Porque tú me lo vas a quitar esta noche y me gusta que merezca la pena quitarlo." _(en el vehículo de vuelta a la mansión — Día 11)_
+- "Tu casa es interesante." _(al encontrar a Rachel masturbando a Sophie — Día 11)_
+- "Me gusta que lo toques. El izquierdo también, pero ese ya lleva años. Este es distinto todavía." _(sobre el muñón derecho reciente, antes de dormir — Día 11)_
 
 **Momentos con Mark:**
 
@@ -223,6 +220,9 @@
 - Visita en casa de Hannah: llanto contenido, abrazos, besos, conversación sobre el futuro con prótesis de gancho. Mark dice que quiere ver sus nuevas pinturas _(Día 9, escena 29)_.
 - Cena con Hannah, noche juntos en el cuarto de Patricia, intimidad sin brazos. Duermen juntos _(Día 9, escena 30)_.
 - Desayuno y despedida; Patricia pide que vuelva pronto _(Día 10, escena 31)_.
+- Cena en restaurante italiano (calle Maple): Mark le da de comer, conversación liviana, Patricia pide quedarse a dormir en la mansión dos noches y que le lean algo _(Día 11, escena 48)_.
+- Vuelta a la mansión: interrumpen a Rachel masturbando a Sophie; Patricia reacciona con calma y humor seco _(Día 11, escena 49)_.
+- Intimidad en la habitación de invitados (vestido, oral, penetración boca arriba y en cuatro). Duermen juntos desnudos; Patricia confirma que le gusta que Mark toque su muñón derecho reciente _(Día 11, escena 49)_.
 
 ---
 
