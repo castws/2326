@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 11, noche.** Mark está dormido en la habitación de invitados de la mansión con Patricia. Cena en el restaurante italiano de la calle Maple, vuelta a la mansión, intimidad, dormidos juntos. Patricia pasa la noche y el día 12 en la mansión. Inducción neurolingüística agendada para las 2pm del día 12.
+**Día 12, mañana.** Mark y Patricia acaban de despertar desnudos en la habitación de invitados. Patricia pasa también el día 12 en la mansión. Inducción neurolingüística agendada para las 14:00.
 
 ### Eventos programados (futuros)
 

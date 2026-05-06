@@ -70,19 +70,25 @@ Una mujer que quedó muda, aprendió a hablar por señas y luego perdió ambos b
 ## Ivy (Tori de Excilion)
 
 **Tipo:** Robot (habitante de la ciudad)
-**Apariencia:** Unos 22 años aparentes. Cabello negro liso hasta los hombros. Ojos azules. Pecas dispersas por la nariz y las mejillas. Gafas de montura roja con lentes muy gruesos (cristales de botella); sin ellas ve completamente borroso y no puede funcionar. Complexión delgada, estatura media.
+**Apariencia:** Unos 22 años aparentes. Cabello negro liso hasta los hombros. Ojos azules. Pecas dispersas por la nariz y las mejillas. Gafas de montura roja con lentes muy gruesos (cristales de botella); sin ellas ve completamente borroso. Complexión delgada, estatura media.
 
 **Amputaciones, prótesis y dispositivos:**
 
 - **Brazo izquierdo:** amputado. El muñón queda visible por la manga corta.
-- **Brazo derecho:** amputado a nivel del antebrazo. Usa prótesis de gancho de accionamiento corporal; el arnés pasa por el hombro izquierdo bajo la ropa.
-- **Pierna derecha:** afectada por polio. Lleva un aparato ortopédico de pierna completa (rodilla, tobillo y pie) de metal y cuero, color blanco crema, de estética histórica.
-- **Pierna izquierda:** amputada por encima del tobillo. Prótesis mecánica de estética histórica — cuerpo de color salmón rosado, articulación de rodilla con piezas de madera oscura y herrajes de metal plateado. Pie protésico con zapato de tacón negro.
+- **Brazo derecho:** amputado a nivel de la muñeca. Usa prótesis de gancho de accionamiento corporal; el arnés pasa por el hombro izquierdo bajo la ropa.
+- **Pierna derecha:** paralizada, afectada por polio. Lleva un aparato ortopédico de pierna completa (rodilla, tobillo y pie) de metal y cuero, color blanco crema, de estética histórica.
+- **Pierna izquierda:** amputada por encima del tobillo. Prótesis tipo pegleg — cuerpo plástico de color salmón rosado con tacón negro.
 - **Aparato maxilar exterior:** estructura de ortodoncia extrabucal de estética siglo XX, con correajes de cuero y dos piezas de acero intrabucales que sobresalen de la boca. Le impide articular con claridad /s/, /st/ y /th/.
-- **Ortesis de cuello y torso:** aparato ortopédico de metal y correa que cubre el cuello y la parte superior del tronco; de estética histórica, sujeto bajo la ropa.
+- **Ortesis de cuello y torso:** aparato ortopédico de metal y correa que cubre el cuello y la parte inferior del tronco (corsé de Milwaukee); de estética histórica.
 - **Visión:** miopía severa con astigmatismo. Sin las gafas ve únicamente formas y colores difusos; no distingue rostros ni puede leer. Las gafas son imprescindibles y los lentes muy gruesos son visibles a simple vista.
 
-**Personalidad:** Directa y algo a la defensiva en el primer contacto, especialmente si la miran fijamente. Mordaz, con ironía rápida. Una vez cómoda, se vuelve más abierta y conversacional. No le gusta que la traten con condescendencia ni que la definan por su aspecto.
+**Personalidad:** Directa y algo a la defensiva en el primer contacto, especialmente si la miran fijamente sin decir nada. Mordaz, con ironía rápida. Una vez cómoda, se vuelve más abierta y conversacional. Habla sin problema de sus discapacidades, prótesis y cómo se maneja en el día a día — no es un tema sensible para ella, es simplemente su vida. Lo que sí le irrita es la lástima, el morbo o que la traten con condescendencia. Una pregunta directa y respetuosa la recibe bien; una mirada de compasión prolongada, no.
+
+**Historia de las discapacidades:** Las condiciones llegaron por etapas. La polio fue lo primero: a los 15 años, pierna derecha afectada y aparato ortopédico como consecuencia inmediata. La miopía severa se diagnosticó poco después — en realidad ya estaba ahí, pero la polio ocupó todo el espacio. El resto — las amputaciones, el corsé, el aparato maxilar — llegaron más tarde, en momentos distintos que Ivy puede detallar si le preguntan durante la primera cita.
+
+Cada pérdida tuvo su duelo, aunque no los recuerda todos con la misma intensidad. El primero fue el más duro: tenía 15 años y todavía esperaba que las cosas no empeorasen. Los siguientes llegaron cuando ya sabía cómo funcionaba eso. Ha llegado a una especie de armisticio con su propio cuerpo: no pelea contra él, no lo lamenta en voz alta. Habla de todo esto con naturalidad cuando le preguntan — fechas, causas, adaptaciones, qué puede hacer y qué no — porque para ella es historia, no herida abierta.
+
+**Vida íntima:** Ha tenido muy mala suerte en el plano romántico. Las pocas citas que ha conseguido han terminado rápido — nadie ha llegado más lejos. Nunca ha estado íntimamente con nadie. Bajo la coraza de defensiva e ironía hay una necesidad real de ser deseada: que alguien la mire de verdad, la bese y la lleve a la cama. No lo pide, no lo menciona, pero está ahí. Si percibe interés genuino — no lástima, no morbo, sino atracción — responde con una intensidad que ella misma no espera.
 
 **Profesión:** Sin dato aún.
 
