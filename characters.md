@@ -88,6 +88,7 @@
 - Baña a Megan con la misma rutina con la que baña a Mark; lo hace sin comentarios _(Día 8, escena 17)_.
 - Aplica el yeso largo a Megan en la cocina, después el yeso a Mark en la nueva habitación de yesos _(Día 8, escenas 18 y 21)_.
 - Conversación clave en la ducha sobre límites íntimos: pide a Mark que no insista por un tiempo _(Día 9, escena 24)_.
+- Se desnuda y entra a bañar a Patricia en la ducha del Día 12 sin previo aviso, con la misma lógica práctica de siempre; cuando Patricia le pregunta si nunca hace algo más que bañar a Mark, responde "No" sin más _(Día 12, escena 51)_.
 
 ---
 
@@ -134,6 +135,7 @@
 - Mark le tira la toalla del pene por diversión y luego la masturba hasta el clímax mientras revisa la app de citas _(Día 10, escena 34)_.
 - Conoce a Nora desde el sofá cuando Mark la trae a la mansión; sostiene una conversación corta y directa con ella sobre el yeso voluntario y su relación con Rachel _(Día 10, escena 37)_.
 - Mark y Rachel la trasladan del sofá a una silla de ruedas de respaldo alto reclinable, dejando el respaldo completamente reclinado para poder ponerla acostada; cena en el comedor con Rachel dándole de comer. Duerme junto a la cama de Mark en la silla _(Día 10, escena 39)_.
+- Conversación con Patricia durante la inducción neurolingüística del Día 12: hablan sobre pintar con un solo brazo y sobre estar enyesada de cuerpo completo. Sophie: "Nos entendimos." _(Día 12, escena 52)_.
 
 ---
 
@@ -204,25 +206,23 @@
 
 - "Nadie me había dicho eso todavía. Todo el mundo habla del proceso. Tú eres el primero que habla de las pinturas." _(cuando Mark dice que quiere ver sus nuevas pinturas — Día 9)_
 - "Va a ser distinto. Vas a tener que hacer bastante tú. Más que la última vez, por lo menos." _(aceptando intimidad sin brazos — Día 9)_
-- "Los dos." _(reacción inmediata, en voz baja, cuando la doctora dice que el muñón quedará como el izquierdo)_
-- "No esperaba que esta tarde terminara así. / Tampoco me arrepiento." _(después de la primera noche juntos)_
-- "Hannah dice que la abertura lateral es demasiado. Yo creo que no." _(al presentarse vestida para la cena — Día 11)_
-- "Porque tú me lo vas a quitar esta noche y me gusta que merezca la pena quitarlo." _(en el vehículo de vuelta a la mansión — Día 11)_
 - "Tu casa es interesante." _(al encontrar a Rachel masturbando a Sophie — Día 11)_
 - "Me gusta que lo toques. El izquierdo también, pero ese ya lleva años. Este es distinto todavía." _(sobre el muñón derecho reciente, antes de dormir — Día 11)_
+- "Emma no tiene claustrofobia. Tiene otra cosa." _(al escuchar el primer capítulo de Claustrofobia — Día 12)_
+- "Hannah no es Olivia." _(explicando por qué no se ha masturbado desde la segunda amputación — Día 12)_
+- "Gracias por el libro." / "Bien. Quiero saber cómo termina Emma." _(despedida en la puerta de Hannah — Día 13)_
 
 **Momentos con Mark:**
 
-- Primera cita en restaurante del centro y noche en la mansión (no en la habitación principal con Sophie enyesada) _(Día 3, escena 7)_.
-- Mañana siguiente: Mark le abrocha la blusa porque ella tiene un solo brazo _(Día 3, escena 7)_.
-- Hospital, primera visita: noticia de la amputación del brazo derecho; ella llora; momento a solas y beso _(Día 5, escena 10)_.
+- Primera cita en restaurante del centro y noche en la mansión _(Día 3, escena 7)_.
+- Hospital, primera visita: noticia de la amputación del brazo derecho; llora; beso _(Día 5, escena 10)_.
 - Hospital, segunda visita: dos muñones simétricos; decide intentar prótesis en ambos brazos _(Día 6, escena 11)_.
-- Visita en casa de Hannah: llanto contenido, abrazos, besos, conversación sobre el futuro con prótesis de gancho. Mark dice que quiere ver sus nuevas pinturas _(Día 9, escena 29)_.
-- Cena con Hannah, noche juntos en el cuarto de Patricia, intimidad sin brazos. Duermen juntos _(Día 9, escena 30)_.
-- Desayuno y despedida; Patricia pide que vuelva pronto _(Día 10, escena 31)_.
-- Cena en restaurante italiano (calle Maple): Mark le da de comer, conversación liviana, Patricia pide quedarse a dormir en la mansión dos noches y que le lean algo _(Día 11, escena 48)_.
-- Vuelta a la mansión: interrumpen a Rachel masturbando a Sophie; Patricia reacciona con calma y humor seco _(Día 11, escena 49)_.
-- Intimidad en la habitación de invitados (vestido, oral, penetración boca arriba y en cuatro). Duermen juntos desnudos; Patricia confirma que le gusta que Mark toque su muñón derecho reciente _(Día 11, escena 49)_.
+- Visita en casa de Hannah: llanto contenido, conversación sobre prótesis de gancho. Mark dice que quiere ver sus nuevas pinturas _(Día 9, escena 29)_.
+- Cena con Hannah, noche juntos en el cuarto de Patricia, primera intimidad sin brazos _(Día 9, escena 30)_.
+- Cena en restaurante italiano; Patricia pide quedarse dos noches en la mansión y que le lean algo _(Día 11, escena 48)_.
+- Intimidad en la habitación de invitados. Duermen juntos desnudos _(Día 11, escena 49)_.
+- Día 12 en la mansión: piscina desnudos con intimidad (Rachel los descubre); ducha con Rachel; Mark le revela que hay otra persona y la define como "novia"; inducción neurolingüística (Patricia con Sophie); biblioteca: primer capítulo de Claustrofobia, primera masturbación de Patricia desde la segunda amputación; jacuzzi: Patricia masturba a Mark con los pies por primera vez _(Día 12, escenas 50-54)_.
+- Despedida en casa de Hannah; Patricia pide que le terminen el libro _(Día 13, escena 55)_.
 
 ---
 
@@ -309,6 +309,19 @@
 - Emily la baña en cama con Mark presente como observador; erección completa durante el aseo del pene, ninguna lo comenta _(Día 11, escena 41)_.
 - Intimidad con Mark (oral + penetración + masturbación); Mark masajea el muñón del brazo izquierdo durante el clímax _(Día 11, escena 42)_.
 - Mark la viste con nueva moda (corsé, pezoneras, prenda de pene con capucha, falda corta); paseo y almuerzo en el centro comercial con erecciones en público _(Día 11, escenas 43-44)_.
+
+---
+
+## Lena
+
+**Tipo:** Robot (especialista en lingüística aplicada)
+**Apariencia:** ~28 años aparentes. Cabello negro liso hasta los hombros. Ojos oscuros. Complexión delgada, tez clara. Blusa blanca entallada con recorte bajo el escote (pezoneras circulares doradas); pantalón negro de talle alto hasta la base de los senos. Maleta de tela gris.
+**Personalidad:** Tranquila, profesional, directa. Escoge su ropa de forma autónoma (no por sugerencia de Claire).
+**Rol:** Técnica de inducción lingüística. Trabaja con varios humanos del área cuando se requiere. No pertenece a nadie en particular.
+
+**Momentos con Mark:**
+
+- Inducción neurolingüística en el estudio de Mark (Día 12, 14:00–18:00): dispositivo de estimulación pasiva, 4 horas. Mark obtiene comprensión pasiva completa del idioma actual _(Día 12, escena 52)_.
 
 ---
 

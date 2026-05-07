@@ -6,13 +6,12 @@
 
 ### Día actual
 
-**Día 12, mañana.** Mark y Patricia acaban de despertar desnudos en la habitación de invitados. Patricia pasa también el día 12 en la mansión. Inducción neurolingüística agendada para las 14:00.
+**Día 13, mañana.** Mark acaba de dejar a Patricia en casa de Hannah y se dispone a regresar a la mansión.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 12, 14:00**: Inducción neurolingüística en la mansión (4 horas, técnica coordinada por Claire).
 - **Día ~17**: Patricia inicia rehabilitación con prótesis de gancho ("la semana que viene" desde día 10).
 - **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
 - **Día ~38**: Mark se quita el yeso de pierna derecha (~1 mes desde día 8; antes si se aburre).
@@ -29,18 +28,21 @@
 - **Día 7**: Cita fallida con Megan; reset.
 - **Día 8 (noche)**: Segunda cita con Megan; yesos voluntarios; Emily contratada como cuidadora 24/7 de Megan; Rachel aplica yeso a Mark en pierna derecha.
 - **Día 9**: Visita a Megan al mediodía y a Patricia por la tarde en casa de Hannah; primera intimidad con Patricia post-operación.
-- **Día 10 (hoy)**: Visita a Claire por la mañana; tarde con Sophie; intimidad con Megan al mediodía; cita fallida con Becca por la tarde; cena con Nora en el Café Elm y vuelta a la mansión, sin química, despedida temprana.
+- **Día 10**: Visita a Claire por la mañana; tarde con Sophie; intimidad con Megan al mediodía; cita fallida con Becca por la tarde; cena con Nora en el Café Elm y vuelta a la mansión, sin química, despedida temprana.
+- **Día 11**: Nueva moda activa en ciudad; baño de Megan con Mark presente; intimidad con Megan; paseo con nueva ropa (erecciones en público); cena con Patricia en restaurante italiano; noche juntos en habitación de invitados.
+- **Día 12**: Patricia duerme y pasa el día en la mansión. Piscina con intimidad (Rachel los descubre). Ducha con Rachel (bañó a Patricia también). Inducción neurolingüística completada (Lena, 4 horas). Patricia se masturba por primera vez desde la segunda amputación (biblioteca, libro Claustrofobia). Jacuzzi: Patricia masturba a Mark con los pies; intimidad. Noche juntos.
+- **Día 13**: Mark lleva a Patricia a casa de Hannah; despedida afectuosa.
 
 ---
 
 ## Mark
 
-- Localización: habitación de invitados de la mansión, durmiendo con Patricia.
+- Localización: regresando a la mansión desde casa de Hannah.
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily que se luxó el tobillo.
 - Plan: dejarse el yeso ~1 mes, o menos si se aburre.
-- Esta mañana tuvo intimidad con Megan (sexo oral + penetración + masturbación) en el apartamento mientras Emily fue a visitar a Claire.
+- **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular.
 
 ---
 
@@ -95,10 +97,11 @@
 
 ## Patricia
 
-- Localización: casa de Hannah, en la ciudad.
-- Estado físico: ambos brazos amputados desde el hombro. Solo el muñón derecho (reciente) lleva vendaje. El izquierdo está completamente cicatrizado.
-- **Estado emocional:** más estable tras la visita de Mark. El ajuste emocional de Claire ya cumplió su función en la tarde del día 9.
-- Plan: rehabilitación con prótesis de gancho en ambos brazos.
+- Localización: casa de Hannah, en la ciudad (acaba de ser devuelta por Mark).
+- Estado físico: ambos brazos amputados desde el hombro. Muñón derecho con cicatriz rosada visible, ya sin gasa (la última se mojó en la piscina; Rachel le puso una nueva el Día 12, pero al marcharse probablemente sin gasa).
+- **Estado emocional:** estable y afectuosa. Relación con Mark definida informalmente como "novia". Sabe que hay otra persona ("como una amiga").
+- **Habilidad nueva:** aprendió a masturbarse sola frotándose contra superficies (reposabrazos del sillón). Primera vez desde la segunda amputación.
+- Plan: rehabilitación con prótesis de gancho en ambos brazos (~Día 17).
 
 ---
 
@@ -127,13 +130,14 @@
 
 ## Pendiente / Próximos pasos
 
-1. Patricia: durmiendo en la mansión. Se queda el día 12. Rehabilitación con prótesis de gancho ~Día 17.
+1. Patricia: de vuelta en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17.
 2. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida en su apartamento.
 3. Mark sigue con yeso en pierna derecha (~Día 38).
-4. Inducción neurolingüística: agendada para las 2pm del Día 12. Dura 4 horas. Patricia estará en la mansión; Rachel la atenderá durante ese tiempo.
+4. Mark: comprensión pasiva del idioma actual activa desde Día 12. Producción oral en ~2 semanas.
 5. Rachel: no mencionar el tema íntimo por un tiempo.
 6. Sophie: en silla de ruedas reclinable en habitación principal. Yesos hasta ~Día 40.
 7. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
+8. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
 
 ## Ciudad — cambios de configuración
 

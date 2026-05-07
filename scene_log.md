@@ -377,8 +377,55 @@ Restaurante italiano de la calle Maple: cena tranquila, Mark le da de comer a Pa
 
 En el vehículo de vuelta, besos y mano de Mark subiendo por la abertura lateral hasta la entrepierna: Patricia lleva tanga, está húmeda.
 
-### Escena 49: Vuelta a la mansión e intimidad con Patricia — noche del día 11
+### Escena 49: Vuelta a la mansión e intimidad con Patricia — noche del Día 11
 
-Al entrar al salón, Mark y Patricia encuentran a Rachel masturband a Sophie en la silla de ruedas (Sophie sin toallas, senos y pene al aire). Sophie ve a Mark y a Patricia. Rachel se gira. Mark pide que cubran a Sophie y la lleven a la habitación. Sophie dice buenas noches a Patricia al pasar. Patricia reacciona con calma ("tu casa es interesante"). Mark le pregunta si quiere sentarse; prefiere ir directamente a la habitación.
+Al entrar al salón, Mark y Patricia encuentran a Rachel masturbando a Sophie en la silla de ruedas (Sophie sin toallas, senos y pene al aire). Sophie ve a Mark y a Patricia. Rachel se gira. Mark pide que cubran a Sophie y la lleven a la habitación. Sophie dice buenas noches a Patricia al pasar. Patricia reacciona con calma ("tu casa es interesante"). Mark le pregunta si quiere sentarse; prefiere ir directamente a la habitación.
 
 Intimidad en la habitación de invitados: Mark quita el vestido (cierre lateral), baja la tanga. La coloca de pie desnuda, la acaricia por detrás (mano en seno, mano en vagina, otra en muñón izquierdo). Sexo boca arriba, luego en cuatro (pecho y cabeza contra almohada, cadera elevada). Patricia pide que no pare y llega al clímax primero. Mark acaba dentro. Se acomodan: Patricia apoyada contra el pecho de Mark, muñón derecho sobre él. Conversación breve sobre el muñón vendado (ya casi no duele; le gusta que Mark lo toque). Duermen juntos, desnudos, lámpara encendida.
+
+---
+
+## Día 12
+
+### Escena 50: Despertar, desayuno y piscina — mañana del Día 12
+
+Mark y Patricia despiertan desnudos en la habitación de invitados. Mark la viste con camisa blanca de botones (manga larga, le llega a media muslo) y tanga. Desayunan en la terraza con Rachel. Mark escribe a Hannah para que traiga las cosas de Patricia; Hannah confirma envío para el mediodía.
+
+Mark propone meterse a la piscina a pesar de la gasa del muñón derecho (se compromete a cambiarla al salir). Se meten desnudos. Intimidad en la piscina: Mark penetra a Patricia contra el muro sujetando sus muslos, mano en el muñón izquierdo. Rachel entra a avisar que el café se enfría, los ve sin ambigüedad posible, deja el café en la mesa y se retira. Patricia: "No me paro." Terminan en la piscina.
+
+Al salir, la gasa del muñón derecho está empapada. Pasando por el salón antes de ir al baño, Rachel le aplica gasa nueva a Patricia.
+
+Conversación durante y después de la piscina: Mark le revela a Patricia que hay otra persona con quien sale ("como una amiga"). Patricia pregunta cómo encaja ella: Mark dice "como una novia". Patricia acepta con calma y confirma que quiere seguir viéndole.
+
+### Escena 51: Ducha con Rachel y almuerzo — mañana del Día 12
+
+Rachel prepara la ducha. Al llegar al baño se desnuda y entra a bañar a Patricia (sin avisar, con la misma lógica práctica de siempre: Patricia no tiene brazos). Patricia reacciona con sorpresa contenida y humor. Rachel baña a Patricia con detalle (cabello, muñones con cuidado diferenciado, cuerpo completo) y luego a Mark con su rutina habitual. Patricia comenta: "entiendo por qué duermes con ella". Rachel no responde. Cuando Patricia le pregunta si nunca hace algo más que bañarlo, Rachel contesta: "No."
+
+Mark viste a Patricia con ropa de Hannah: camiseta gris, pantalones cortos, tanga blanca. Sin brasier (nunca usa). Almuerzo en el comedor; Rachel da de comer a Patricia.
+
+### Escena 52: Inducción neurolingüística — tarde del Día 12
+
+A las 14:00 llega Lena al estudio: robot especialista en lingüística aplicada, ~28 años aparentes, cabello negro liso hasta los hombros, ojos oscuros, blusa blanca entallada con recorte bajo el escote (pezoneras circulares doradas), pantalón negro de talle alto hasta la base de los senos. Maleta de tela gris. Explica el procedimiento: dispositivo de estimulación pasiva, 4 horas, Mark solo tiene que quedarse quieto. Mark descansa. Lena supervisa desde el escritorio con una tableta. Mark le pregunta si la eligió Claire; Lena dice que no, que es su elección personal.
+
+Mientras dura la inducción, Patricia permanece en el salón conversando con Sophie. Hablan sobre pintar con un solo brazo y sobre estar enyesada de cuerpo completo. Al terminar, Mark regresa al salón: "Nos entendimos", dice Patricia. Resultado de la inducción: comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso.
+
+### Escena 53: Biblioteca — Claustrofobia — tarde-noche del Día 12
+
+Cena. Mark y Patricia van a la biblioteca. Mark lee el primer capítulo de Claustrofobia: Emma, mujer con claustrofobia, acepta tratamiento de inmovilización progresiva con yesos. La enfermera Olivia la baña y depila con detalle erótico; Emma se masturba de noche con una almohada entre las piernas. Patricia reacciona con atención creciente en las partes eróticas: cruza los tobillos durante el baño de Olivia, respira más lento en la escena de la depilación.
+
+Conversación al terminar el capítulo: Patricia dice que Emma no tiene claustrofobia, que tiene "otra cosa". Pregunta cuánto falta para el yeso completo. Mark le pregunta si se ha masturbado desde la segunda amputación; Patricia dice que no ha podido, que Hannah "no es Olivia".
+
+Mark propone que lo intente ahí mismo mientras le lee. Patricia lo hace: primero intenta bajar la tanga sola empujando contra el reposabrazos (la baja hasta la mitad, no termina sola). Mark la acaba de quitar. Patricia se sienta al borde del sillón y se frota contra él; cambia al reposabrazos cuando encuentra mejor ángulo. Mark relee la escena de la depilación de Olivia; Patricia llega al clímax sobre el reposabrazos, apoyando el muñón izquierdo en el respaldo para equilibrarse. Primera masturbación desde la segunda amputación.
+
+Conversación posterior: Patricia confiesa que una vez se excitó cuando Hannah la limpió (un momento prolongado, justo después de la operación del segundo brazo; Hannah no lo notó o no dijo nada).
+
+### Escena 54: Jacuzzi — noche del Día 12
+
+Mark y Patricia van al jacuzzi de la terraza, desnudos. Rachel deja toallas en el borde. Patricia masturba a Mark con ambos pies bajo el agua (primer intento; torpe al principio, funcional al final). Mark llega al clímax. Luego Mark masturba a Patricia con los dedos en el agua. Patricia llega al clímax. Más tarde hay penetración en el jacuzzi. Se van a la cama.
+
+### Escena 55: Despedida de Patricia — mañana del Día 13
+
+Mark y Patricia amanecen en la habitación de invitados. La mañana transcurre con normalidad. Mark lleva a Patricia a casa de Hannah antes del mediodía. Despedida en la puerta: Patricia agradece el libro y dice que quiere saber cómo termina Emma. Mark no entra. Se despiden con afecto. Hannah abre la puerta con café en la mano, hace un comentario sobre si Mark "la devuelve entera"; Mark señala que la palabra no es la más adecuada; Hannah rectifica con humor.
+
+**La conversación termina aquí: Mark acaba de despedirse de Patricia en la puerta de Hannah y se dispone a regresar a la mansión.**
+**Próximo paso pendiente: Mark regresa a la mansión. Próxima sesión puede retomar desde ahí o saltar al tiempo libre del Día 13.**

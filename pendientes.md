@@ -10,7 +10,7 @@ Spa estilo Vabali. Incluso el personal que atiende va desnudo.
 
 ## Exposición artística
 
-Le pido a Claire que me asigne un espacio de unos 150m2 como estudio de arte. Pongo una convocatoria para reclutar modelos. Las enyeso y las exhibo en una galería por una semana. Cuando hago la convocatoria, aparecen varias mujeres. Hay una sesión de explicación explicando en que consiste la obra. Hay preguntas y respuestas. Hay mujeres que se retiran.
+Le pido a Claire que me asigne un espacio de unos 150m2 como estudio de arte. Pongo una convocatoria para reclutar modelos. Las enyeso y las exhibo en una galería por una semana. Cuando hago la convocatoria, aparecen varias mujeres. Hay una sesión de explicación explicando en que consiste la obra. Hay preguntas y respuestas. Hay mujeres que se retiran. Las modelos deben firmar un contrato, donde hay cláusulas si se retiran antes de tiempo.
 
 Durante la exposición, me entrevistan de varios medios, luego leo los artículos y veo las noticias que publicaron sobre la exposición.
 

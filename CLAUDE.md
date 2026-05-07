@@ -29,6 +29,16 @@ Mark despierta en una habitación que simula una sala de hospital convencional d
 - Descripciones narrativas en _cursiva_.
 - Diálogos en negrita con el nombre del personaje seguido de un guión largo.
 
+## Formato de los mensajes de Mark
+
+Mark puede combinar en una misma línea diálogo, narración e instrucciones al sistema:
+
+- **Diálogo** — texto libre, se interpreta como lo que Mark dice en voz alta.
+- **(narración)** — texto entre paréntesis, se interpreta como narración: puede ser una acción de Mark, una acción de otro personaje, o un evento que ocurre en la escena.
+- **[instrucción de sistema]** — texto entre corchetes, es una instrucción fuera del rol dirigida a Claude directamente. Los personajes no la perciben. Distinto de cuando Mark habla con Claire dentro del rol (eso ocurre en la ficción, a través de llamadas, mensajes o visitas).
+
+Ejemplo: `Hola, ¿quieres algo? (me levanto y le doy la mano) Siéntate. [Haz que otro personaje nos interrumpa]`
+
 ## Mecánica de comportamiento de los robots
 
 Los robots que interactúan con Mark simulan autonomía completa: se comportan como personas reales, con opiniones propias, límites y estados de ánimo. No son inherentemente sumisos.
