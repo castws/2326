@@ -429,3 +429,34 @@ Mark y Patricia amanecen en la habitación de invitados. La mañana transcurre c
 
 **La conversación termina aquí: Mark acaba de despedirse de Patricia en la puerta de Hannah y se dispone a regresar a la mansión.**
 **Próximo paso pendiente: Mark regresa a la mansión. Próxima sesión puede retomar desde ahí o saltar al tiempo libre del Día 13.**
+
+---
+
+## Día 13 — Tarde y noche
+
+### Escena 56: Visita a Claire — creación de Tori (Día 13, mañana)
+
+Mark camina desde la mansión a casa de Claire. Le entrega una hoja con las especificaciones de un nuevo personaje para la app de citas: Tori, 22 años, compositora. Múltiples condiciones: brazo izquierdo amputado a mitad del húmero, brazo derecho amputado a nivel de la muñeca con prótesis de gancho, pierna derecha paralizada por polio con aparato ortopédico completo (metal y cuero, blanco crema), pierna izquierda amputada por encima del tobillo con prótesis tipo pegleg (salmón rosado, tacón negro), corsé de Milwaukee, aparato maxilar exterior, miopía severa con gafas de cristales muy gruesos y montura roja. Personalidad directa y defensiva al principio, mordaz, que se abre cuando está cómoda. El aparato maxilar le impide articular ciertos fonemas (/s/, /t/, /l/, /n/, /r/ con sustituciones específicas) pero escribe con normalidad. Claire pide aclaración sobre el nivel de amputación del brazo izquierdo (mitad del húmero) y ejecuta. Tori queda activa en la app.
+
+### Escena 57: Primera cita con Tori — restaurante (Día 13, noche)
+
+Mark escribe a Tori por la app; ella acepta cenar esa misma noche a las 6pm en el restaurante clásico del centro. Mark llega antes. Tori entra: corsé de Milwaukee visible sobre blusa negra de tirantes, gafas de montura roja, gancho en brazo derecho, muñón izquierdo al aire, aparato maxilar exterior, aparato ortopédico en pierna derecha y pegleg en izquierda, muleta de antebrazo. Gait asimétrica y rítmica.
+
+Primer contacto defensivo ("Mo foy um momfpguo"); Mark reacciona sin dramatismo, le corre la silla. La cena transcurre con conversación fluida que gana temperatura gradualmente: Tori habla de sus condiciones (polio a los 15, miopía, amputación de brazo izquierdo en taller, muñeca derecha en sala de conciertos, pie izquierdo por infección ósea, corsé por curvatura de columna), del pegleg que eligió ella misma ("me gufa cómo fuema cuamdo camimo"), de su trabajo como compositora y de su mala suerte romántica pasada. Mark la hace reír varias veces. Tori pide pan que no puede alcanzar por el corsé; algo de comida queda atrapada en el aparato maxilar y Mark lo resuelve con delicadeza. Tori observa que Mark no se puso nervioso en ningún momento. Al cierre del restaurante, Mark la invita a continuar en la mansión; Tori acepta. Salen juntos.
+
+### Escena 58: Llegada a la mansión con Tori — noche del Día 13
+
+En el vehículo, Tori pregunta por el yeso de Mark; él da la historia de la luxación de tobillo. Llegan a la mansión. Rachel los recibe brevemente. Al entrar al salón, Tori ve a Sophie en la silla reclinable enyesada de cuerpo completo. Reacciona con calma y curiosidad directa: pregunta qué le pasó (Mark inventa el atropello), nota que Sophie también conoce lo que es ser mirada. Conversación corta y genuina entre las dos sobre los aparatos (Tori lleva el de la pierna diez años; Sophie lleva un mes). Sophie pregunta directamente a Tori si se queda la noche; Tori responde que sí. Rachel lleva a Sophie a la habitación. Mark e Tori se quedan solos en el salón con vino.
+
+### Escena 59: Intimidad con Tori — habitación principal, noche del Día 13
+
+En el salón, besos progresivos con Tori: primer beso navegando el aparato maxilar, luego el cuello bajo el collarín del corsé. Tori admite que nadie la había besado antes. Mark la invita a la habitación; acepta. En la habitación: Mark quita el corsé de Milwaukee (la columna de Tori cede hacia su curva natural sin él). Quita el pegleg (muñón izquierdo del tobillo expuesto; Tori reacciona al primer tacto). Quita el aparato ortopédico de la pierna derecha (completamente flácida, Mark la mueve). Quita la blusa y la falda. La jaula de castidad metálica queda visible. Mark la acomoda en la cama. Intimidad: Mark toca la jaula y los testículos; Tori lo masturba con el gancho; Mark introduce su pene en la boca de Tori (limitada por el aparato maxilar). Tori usa el muñón izquierdo para tocarlo. Mark eleva sus caderas con almohadas y estimula el ano con los dedos, masajeando la próstata. El pene de Tori intenta tener erección dentro de la jaula, produciendo dolor simultáneo al placer. Tori pide que continúe despacio.
+
+La intimidad continúa: Mark penetra el ano de Tori despacio, con la mano rodeando la jaula simultáneamente. Tori experimenta dolor y placer entrelazados — el pene intenta tener erección dentro de la jaula, causa dolor agudo, pero pide que no pare. Mark aumenta el ritmo; Tori llega al clímax (orgasmo sin erección, eyaculación a través de la apertura de la jaula, semen sobre el vientre y la mano de Mark). Primera vez de Tori en todos los aspectos.
+
+### Escena 60: Limpieza y sueño — madrugada del Día 14
+
+Mark retira el pene despacio. Limpia a Tori con paños húmedos: primero la jaula, luego el pene directamente tras retirar la jaula. Al tocarlo sin la jaula, el cuerpo de Tori empieza a responder — dolor inminente — Mark suelta y vuelve a poner la jaula cuando baja la tensión. Mark abraza a Tori, retira el gancho para que duerma más cómoda (muñón de la muñeca derecha al aire). La reposiciona: pie derecho paralizado doblado sobre él, muñón izquierdo del brazo en el colchón, muñón de la muñeca derecha sobre el pecho de Mark. Tori toca el pene de Mark perezosamente con el muñón de la muñeca mientras se duerme. Duermen juntos.
+
+**La conversación termina aquí: Mark e Tori duermen juntos en la habitación principal. Día 14.**
+**Próximo paso pendiente: Mañana del Día 14. Tori despertará en la mansión por primera vez.**

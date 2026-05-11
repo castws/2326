@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 13, mañana.** Mark acaba de dejar a Patricia en casa de Hannah y se dispone a regresar a la mansión.
+**Día 13, noche.** Mark e Tori acaban de salir del restaurante del centro tras la primera cita. Se dirigen al vehículo autónomo rumbo a la mansión.
 
 ### Eventos programados (futuros)
 
@@ -37,7 +37,7 @@
 
 ## Mark
 
-- Localización: regresando a la mansión desde casa de Hannah.
+- Localización: habitación principal de la mansión, con Tori.
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily que se luxó el tobillo.
@@ -125,6 +125,15 @@
 - Completamente operativa. ~5000 habitantes según las especificaciones de Mark.
 - App de citas activa.
 - Vehículos: todos autónomos.
+
+---
+
+## Tori
+
+- Localización: habitación principal de la mansión, en la cama.
+- Estado físico: sin corsé (en el suelo junto a la cama), sin pegleg (retirado), sin aparato ortopédico de pierna derecha (retirado), sin blusa ni falda. Lleva aparato maxilar exterior y jaula de castidad metálica. Sin gafas (Mark las tiene). Caderas elevadas sobre almohadas.
+- Estado emocional: abierta, vulnerable, experimentando intimidad por primera vez. Dolor simultáneo al placer por la jaula cuando intenta tener erección.
+- Primera cita: Día 13 noche. Escena íntima en curso.
 
 ---
 
