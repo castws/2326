@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 13, noche.** Mark e Tori acaban de salir del restaurante del centro tras la primera cita. Se dirigen al vehículo autónomo rumbo a la mansión.
+**Día 14, noche.** Mark acaba de despedirse de Tori en el hospital. Está afuera del hospital.
 
 ### Eventos programados (futuros)
 
@@ -14,6 +14,7 @@
 
 - **Día ~17**: Patricia inicia rehabilitación con prótesis de gancho ("la semana que viene" desde día 10).
 - **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
+- **Día ~22**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
 - **Día ~38**: Mark se quita el yeso de pierna derecha (~1 mes desde día 8; antes si se aburre).
 - **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
 
@@ -32,17 +33,19 @@
 - **Día 11**: Nueva moda activa en ciudad; baño de Megan con Mark presente; intimidad con Megan; paseo con nueva ropa (erecciones en público); cena con Patricia en restaurante italiano; noche juntos en habitación de invitados.
 - **Día 12**: Patricia duerme y pasa el día en la mansión. Piscina con intimidad (Rachel los descubre). Ducha con Rachel (bañó a Patricia también). Inducción neurolingüística completada (Lena, 4 horas). Patricia se masturba por primera vez desde la segunda amputación (biblioteca, libro Claustrofobia). Jacuzzi: Patricia masturba a Mark con los pies; intimidad. Noche juntos.
 - **Día 13**: Mark lleva a Patricia a casa de Hannah; despedida afectuosa.
+- **Día 14**: Tori pasa la noche en la mansión. Intimidad en piscina. Accidente simulado por Claire. Tori hospitalizada con shoulder spica + minerva (una pieza), mandíbula con alambre, pañal. Mark adquiere auricular de pensamientos. Primera visita al hospital.
 
 ---
 
 ## Mark
 
-- Localización: habitación principal de la mansión, con Tori.
+- Localización: afuera del hospital.
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily que se luxó el tobillo.
 - Plan: dejarse el yeso ~1 mes, o menos si se aburre.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular.
+- **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori. Transmite pensamientos internos de Tori en voz limpia (sin sustituciones fonéticas). Carga con calor corporal.
 
 ---
 
@@ -72,8 +75,8 @@
 - **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se retira el día ~22 (ver Cronología).
 - **Prótesis pierna derecha:** puesta.
 - **Ropa actual:** corsé negro con pezoneras circulares plateadas, panties negros con abertura para el pene, capucha de satén negro con adorno plateado sobre el glande, falda corta oscura.
-- Estado emocional: vínculo con Mark consolidado. Tuvo sexo esta mañana con Mark (oral + penetración + masturbación). Vivió erecciones en público durante el paseo por el centro comercial con la nueva ropa.
-- Erecciones durante el aseo con Emily siguen ocurriendo (ninguna de las dos lo menciona).
+- Estado emocional: vínculo con Mark consolidado. Esta mañana Emily la masturbó hasta el clímax durante el aseo (sin comentarlo ninguna de las dos). Megan sospecha que no fue accidental; le preguntó a Mark si lo sabía, él negó. Megan procesando si hay algo entre ella y Emily.
+- Preguntó si Mark vendría hoy; él dijo que lo intentaría pero no fue.
 
 ---
 
@@ -130,23 +133,28 @@
 
 ## Tori
 
-- Localización: habitación principal de la mansión, en la cama.
-- Estado físico: sin corsé (en el suelo junto a la cama), sin pegleg (retirado), sin aparato ortopédico de pierna derecha (retirado), sin blusa ni falda. Lleva aparato maxilar exterior y jaula de castidad metálica. Sin gafas (Mark las tiene). Caderas elevadas sobre almohadas.
-- Estado emocional: abierta, vulnerable, experimentando intimidad por primera vez. Dolor simultáneo al placer por la jaula cuando intenta tener erección.
-- Primera cita: Día 13 noche. Escena íntima en curso.
+- Localización: hospital, habitación 214. Segunda planta.
+- **Estado físico:** shoulder spica (brazo derecho, desde torso hasta muñón de la muñeca, brazo en abducción; muñón expuesto en el extremo) + minerva alta (cubre cráneo excepto rostro, agujeros para orejas, abertura superior por donde sale el cabello; inmobiliza el cuello completamente) — ambos forman **una sola pieza** de yeso. Mandíbula cosida con alambre sobre el aparato maxilar: apenas puede abrir la boca, habla prácticamente ininteligible. Pañal. Jaula de castidad. Gafas de montura roja. Sin ningún aparato ortopédico ni prótesis en las piernas. Muñón izquierdo del brazo libre.
+- **Comunicación:** parpadeo largo = sí, dos parpadeos cortos = no. No puede señalar con precisión ni hablar. Puede emitir sonidos muy amortiguados.
+- **Pensamientos internos:** accesibles para Mark a través del auricular (voz limpia, sin sustituciones fonéticas). Ella desconoce el dispositivo.
+- **Cuidadora:** Diane, enfermera, 24 horas.
+- **Alta prevista:** mañana por la mañana (Día 15), si no hay complicaciones.
+- **Yesos hasta:** ~Día 22 (8 semanas).
+- Estado emocional: vulnerable, avergonzada por el pañal, frustrada por no poder comunicarse, pero con vínculo hacia Mark consolidándose.
 
 ---
 
 ## Pendiente / Próximos pasos
 
-1. Patricia: de vuelta en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17.
-2. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida en su apartamento.
-3. Mark sigue con yeso en pierna derecha (~Día 38).
-4. Mark: comprensión pasiva del idioma actual activa desde Día 12. Producción oral en ~2 semanas.
-5. Rachel: no mencionar el tema íntimo por un tiempo.
-6. Sophie: en silla de ruedas reclinable en habitación principal. Yesos hasta ~Día 40.
-7. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
-8. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
+1. **Tori:** alta hospitalaria mañana (Día 15). Necesita cuidadora 24h (Diane confirmada). Yesos ~8 semanas. Mark prometió visitar mañana.
+2. Patricia: en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17.
+3. Megan: vínculo activo. Yesos hasta el día ~22. Emily la cuida. Tensión latente con Emily tras la masturbación del aseo.
+4. Mark sigue con yeso en pierna derecha (~Día 38).
+5. Mark: producción oral del idioma actual en ~2 semanas desde Día 12.
+6. Rachel: no mencionar el tema íntimo por un tiempo.
+7. Sophie: en silla de ruedas reclinable en otra habitación. Yesos hasta ~Día 40.
+8. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
+9. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
 
 ## Ciudad — cambios de configuración
 

@@ -458,5 +458,29 @@ La intimidad continúa: Mark penetra el ano de Tori despacio, con la mano rodean
 
 Mark retira el pene despacio. Limpia a Tori con paños húmedos: primero la jaula, luego el pene directamente tras retirar la jaula. Al tocarlo sin la jaula, el cuerpo de Tori empieza a responder — dolor inminente — Mark suelta y vuelve a poner la jaula cuando baja la tensión. Mark abraza a Tori, retira el gancho para que duerma más cómoda (muñón de la muñeca derecha al aire). La reposiciona: pie derecho paralizado doblado sobre él, muñón izquierdo del brazo en el colchón, muñón de la muñeca derecha sobre el pecho de Mark. Tori toca el pene de Mark perezosamente con el muñón de la muñeca mientras se duerme. Duermen juntos.
 
-**La conversación termina aquí: Mark e Tori duermen juntos en la habitación principal. Día 14.**
-**Próximo paso pendiente: Mañana del Día 14. Tori despertará en la mansión por primera vez.**
+---
+
+## Día 14
+
+### Escena 61: Despertar con Tori y mañana en la mansión (Día 14, mañana)
+
+Mark despierta junto a Tori. Le pone las gafas. La ayuda a vestirse parcialmente: camiseta, panties, corsé de Milwaukee, gancho. La sienta en la silla de ruedas reclinable de Sophie. Pasan por la habitación de Sophie: está en la cama sin toallas, pene erecto. Tori se ofrece a ayudar (preguntándole directamente a Sophie). Usa el gancho para masturbar a Sophie hasta el clímax. Bajan al comedor. Tori camina sola a la cocina a pedirle la pasta a Rachel; el intercambio es breve y eficiente. Mark propone la piscina después del desayuno.
+
+### Escena 62: Piscina con Tori — intimidad (Día 14, mañana)
+
+Mark retira todos los dispositivos de Tori excepto las piezas intrabucales del aparato maxilar (las correas exteriores se quitan; el habla no cambia). Tori queda desnuda, solo con la jaula de castidad. Mark la carga a la piscina. Intimidad en el agua: Mark la sostiene flotando, la abraza por detrás, la penetra apoyada en un flotador con las piernas abiertas (la derecha paralizada y la izquierda terminando en el muñón). Simultáneamente la masturba a través de la jaula. Clímax de los dos en el agua. Mark la saca, la seca, le quita la jaula para limpiarla (erección dolorosa involuntaria, espera que baje), vuelve a poner la jaula. Mark también envió mensaje a Claire para que Emily masturbara a Megan durante el aseo de esa mañana; Claire confirmó que ocurrió.
+
+### Escena 63: El accidente de Tori (Día 14, mediodía)
+
+Mientras Tori volvía de la cocina —desnuda, sin corsé— Mark termina de enviar un mensaje a Claire solicitando simular una caída. El pegleg se engancha en el borde de la alfombra; Tori cae hacia adelante. Resultado: fractura cervical sin afectación neurológica, fractura de hombro derecho, fractura de mandíbula. Rachel llama la ambulancia. Llegan dos paramédicas. Mark les indica que no retiren la jaula de castidad de Tori. Se llevan a Tori en camilla. Mark y Rachel quedan solos en la mansión.
+
+### Escena 64: Visita a Claire — especificaciones del yeso (Día 14, tarde)
+
+Mark camina a casa de Claire. Encarga los yesos: shoulder spica en brazo derecho (hasta el muñón de la muñeca, brazo en abducción, muñón expuesto en el extremo), minerva alta (cubre el cráneo excepto rostro, dos agujeros laterales para las orejas, agujero superior por donde sale el cabello como cola), ambos yesos formando una sola pieza unida a la altura del pecho y hombros. Muñón izquierdo libre. Mandíbula cosida con alambre sobre el aparato maxilar: prácticamente no puede abrir la boca, el habla es ininteligible. Claire también entrega a Mark un auricular reutilizable que transmite los pensamientos internos de Tori en voz limpia (sin sustituciones fonéticas) cuando Mark está a menos de 3 metros de ella; se activa por proximidad, se carga con calor corporal. Mark lo prueba con Claire como demostración. Instrucciones hospitalarias: doctora explica el estado y se retira; enfermera Diane disponible en pasillo; Tori sin ropa ni aparatos ortopédicos, solo pañal; Tori debe sentir vergüenza del pañal.
+
+### Escena 65: Hospital — primera visita a Tori enyesada (Día 14, tarde-noche)
+
+Mark llega al hospital con el auricular puesto. La doctora Walsh explica: fractura cervical limpia sin parálisis, shoulder spica + minerva como una sola pieza, mandíbula con alambre, alimentación líquida por pajita, pañal necesario durante las ~8 semanas de yeso. Se retira. Mark escucha los pensamientos de Tori en tiempo real: vergüenza por el pañal descubierto, frustración por no poder comunicarse, consciencia de que Mark la mira. Tori intenta señalar el bloc de notas de la mesilla repetidamente sin éxito; Mark lo malinterpreta cada vez. Diane (enfermera, 24 años, rubia, uniforme azul claro) explica el sistema de parpadeos (uno largo = sí, dos cortos = no). Dos mujeres entran por error a la habitación (pelirroja con chaqueta verde; morena con vestido azul marino), hacen preguntas sobre el yeso y la jaula; Tori las hace irse con un parpadeo largo enfático. Mark pone una película romántica acostado a su lado. Durante la película, Tori se orina en el pañal sin poder evitarlo ni comunicárselo a Mark. Mark le cambia el pañal por primera vez: abre el sucio, lo desecha, coloca el nuevo, retira la jaula para limpiar (erección involuntaria + dolor, espera que baje, vuelve a poner jaula), aplica talco. Mark anuncia que volverá mañana y que Diane se queda las 24 horas. Tori intenta decir "gracias" antes de que salga.
+
+**La conversación termina aquí: Mark acaba de despedirse de Tori en el hospital. Diane se queda con Tori.**
+**Próximo paso pendiente: Día 15. Mark prometió volver a visitarla. Megan sigue en su apartamento con Emily. Patricia en casa de Hannah.**

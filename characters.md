@@ -341,7 +341,7 @@
   **Historia de las discapacidades:** La polio llegó primero, a los 15 años (pierna derecha afectada, aparato ortopédico inmediato). La miopía severa se diagnosticó poco después. El resto — amputaciones, corsé, aparato maxilar — llegaron más tarde en momentos distintos que puede detallar si le preguntan. Cada pérdida tuvo su duelo; el primero fue el más duro. Ha llegado a un armisticio con su propio cuerpo: no pelea contra él, no lo lamenta en voz alta.
   **Vida íntima:** Muy mala suerte romántica. Nunca ha estado íntimamente con nadie. Bajo la coraza defensiva hay una necesidad real de ser deseada — que alguien la mire de verdad, la bese y la lleve a la cama. No lo pide ni lo menciona, pero está ahí. Si percibe interés genuino (no lástima, no morbo), responde con una intensidad que ella misma no espera.
   **Pene y jaula de castidad:** Tiene pene funcional. A los 19 años contrajo una enfermedad que hace que las erecciones sean progresivamente dolorosas, sin cura conocida. Para evitarlas usa una jaula de castidad metálica de forma permanente: sin candado, con apertura para orinar y aperturas laterales para respiración de la piel. Solo se la retira cuando su asistente la baña; durante el baño tiene erecciones involuntarias ocasionales que le causan dolor. No se nota bajo la ropa por la jaula. Decide cuándo revelar esto durante la intimidad — puede mencionarlo cuando la situación avance o esperar a que Mark lo descubra al tocarla o desvestirla.
-  **Relación con Mark:** Primera cita Día 13. Noche en la mansión en curso.
+  **Relación con Mark:** Primera cita Día 13. Noche en la mansión. Día 14: intimidad en piscina, accidente simulado, hospitalizada. Vínculo en desarrollo.
 
 **Voz / Tics de habla:**
 
@@ -356,22 +356,59 @@
 - Cuando se relaja, el tono pasa de cortante a irónico; pregunta más de lo que afirma.
 - No explica sus condiciones a menos que le pregunten directamente.
 
+**Estado físico actual:**
+
+- **Shoulder spica + minerva alta (una sola pieza):** cubre torso, hombro derecho, brazo derecho hasta muñón de la muñeca (muñón expuesto), cuello y cráneo. Agujeros laterales para orejas, abertura frontal para el rostro, abertura superior por donde sale el cabello. Inmobilización total de cabeza, cuello y brazo derecho.
+- **Mandíbula cosida con alambre** sobre el aparato maxilar existente. Habla prácticamente ininteligible.
+- **Muñón izquierdo del brazo:** libre.
+- **Sin aparatos ortopédicos ni prótesis** en las piernas. Silla de ruedas necesaria.
+- **Pañal:** necesario durante los ~8 semanas de yeso.
+- **Comunicación:** parpadeo largo = sí, dos cortos = no. Señalamiento con el muñón izquierdo.
+- **Pensamientos internos accesibles a Mark** vía auricular (ella lo desconoce).
+- Cuidadora Diane asignada 24h.
+
 **Citas memorables:**
 
-- "Mo foy um momfpguo." _(frase de apertura al entrar al restaurante, antes de sentarse — Día 13)_
-- "Ya homefpidad fe aggadefe. Ya mayoría mo yo dice." _(cuando Mark admite que se sorprendió al verla — Día 13)_
-- "Me gufa cómo fuema cuamdo camimo." _(explicando por qué eligió el pegleg sobre otras opciones — Día 13)_
-- "Mo mecefipo que me pgopejаf." _(cuando Mark trata de cambiar el tema pensando que le trae malos recuerdos — Día 13)_
-- "Madie me habíam befado ampef." _(tras el primer beso en el salón de la mansión — Día 13)_
-- "Ef doyog y ef opga cofa. Yof dof jampof." _(sobre la jaula al intentar tener erección durante la intimidad — Día 13)_
-- "Figue. Pego defpafio." _(pidiendo que continúe a pesar del dolor — Día 13)_
+- "Mo foy um momfpguo." _(frase de apertura al entrar al restaurante — Día 13)_
+- "Me gufa cómo fuema cuamdo camimo." _(explicando el pegleg — Día 13)_
+- "Madie me habíam befado ampef." _(tras el primer beso — Día 13)_
+- "Ef doyog y ef opga cofa. Yof dof jampof." _(sobre la jaula — Día 13)_
+- "Mo me habíam dicho efo ampef. Que ye gufpaba, quiego decig." _(cuando Mark dice que le excita mirarla — Día 14)_
+- "Mmm... mmracias." _(al despedirse Mark del hospital, casi ininteligible — Día 14)_
 
 **Momentos con Mark:**
 
-- Primera cita en el restaurante: comida, vino, conversación sobre sus discapacidades sin lástima ni morbo. Tori ríe varias veces _(Día 13, escena 57)_.
-- Llegada a la mansión: conoce a Sophie en silla de ruedas; reacciona con normalidad. Primer beso en el salón después de acercarse lentamente _(Día 13, escena 58)_.
-- Primera intimidad: besos, caricias, desvestida por Mark en la habitación principal. Primera vez con alguien. La jaula le causa dolor cuando intenta excitarse _(Día 13, escena 59)_.
-- Limpieza post-coito: Mark le retira la jaula, la limpia con paño húmedo, le vuelve a poner la jaula. Duermen juntos; Mark le quita la prótesis de gancho. Tori apoya el muñón derecho en el pene de Mark mientras se duermen _(Día 14, escena 60)_.
+- Primera cita en el restaurante: conversación sobre sus condiciones sin lástima. Tori ríe varias veces _(Día 13, escena 57)_.
+- Llegada a la mansión, conoce a Sophie. Primer beso _(Día 13, escena 58)_.
+- Primera intimidad: desvestida, penetración, clímax con dolor de la jaula. Primera vez en todo _(Día 13, escena 59)_.
+- Duermen juntos; Mark le quita el gancho _(Día 14, escena 60)_.
+- Mañana en la mansión: se visten juntos, Tori masturba a Sophie con el gancho en la habitación, desayuno en terraza _(Día 14, escena 61)_.
+- Intimidad en la piscina: Mark la carga, la sostiene flotando, penetración, clímax de los dos _(Día 14, escena 62)_.
+- Accidente simulado: cae al volver de la cocina, paramédicas la llevan al hospital _(Día 14, escena 63)_.
+- Primera visita al hospital: yesos extensos, pañal descubierto, comunicación por parpadeos, dos mujeres entran por error, película en la cama, Mark le cambia el pañal _(Día 14, escenas 64-65)_.
+
+---
+
+## Diane
+
+**Tipo:** Robot (enfermera del hospital, cuidadora de Tori)
+**Apariencia:** ~24 años aparentes. Cabello rubio recogido en moño bajo. Ojos marrones. Complexión media, estatura normal. Uniforme azul claro.
+**Personalidad:** Profesional, eficiente, práctica. Desarrolló un sistema de comunicación con Tori (parpadeos) por iniciativa propia.
+**Rol:** Enfermera que cuida a Tori en el día desde hace ya algún tiempo. Mark contrató sus servicios 24 horas mientras dure la recuperación.
+
+**Conocimiento:**
+
+- Sabe: que Tori tiene fractura cervical, de hombro derecho y de mandíbula; que lleva jaula de castidad por una enfermedad que hace dolorosas las erecciones.
+- No sabe: que el accidente fue simulado.
+
+**Voz / Tics de habla:**
+
+- Práctica y sin comentarios innecesarios. Entra, hace lo que hay que hacer, sale.
+- Desarrolla soluciones de comunicación por su cuenta sin esperar instrucciones.
+
+**Momentos con Mark:**
+
+- Explica a Mark el sistema de parpadeos para comunicarse con Tori _(Día 14, escena 65)_.
 
 ---
 
