@@ -484,3 +484,14 @@ Mark llega al hospital con el auricular puesto. La doctora Walsh explica: fractu
 
 **La conversación termina aquí: Mark acaba de despedirse de Tori en el hospital. Diane se queda con Tori.**
 **Próximo paso pendiente: Día 15. Mark prometió volver a visitarla. Megan sigue en su apartamento con Emily. Patricia en casa de Hannah.**
+
+### Escena 66: Visita nocturna a Megan (Día 14, noche)
+
+Mark pasa por el apartamento de Megan con veinte minutos. Emily les da privacidad y baja. Megan narra con detalle lo ocurrido esa mañana con Emily: durante el aseo, Emily continuó más allá del punto habitual, sin comentarlo, hasta que Megan llegó al clímax. Describe cambios en el trato de Emily desde entonces: toque más consciente, le apartó el pelo sin razón práctica. Megan dice que no sabe si fue impulso o algo planeado, pero que si vuelve a pasar no la detendrá. Pregunta a Mark qué cree que siente Emily; Mark responde que quizás solo quiera complacerla. Megan procesa que le gusta Emily pero que la situación con Mark es diferente: él viene veinte minutos, ella está ahí cuando Megan se despierta y cuando duerme. Emily regresa. Mark se despide con beso.
+
+### Escena 67: Club Insomnia con Patricia y Hannah (Día 14, noche)
+
+Mark recoge a Patricia en casa de Hannah. Patricia lleva vestido rojo oscuro sin mangas con escote en V, sin brasier, muñones simétricos al aire. Hannah lleva vestido negro corto sin ropa interior, pene colgando libre bajo la tela. Van al Club Insomnia: música electrónica, ambiente con intimidad visible en pista y reservados, nueva moda presente. Hannah encuentra a Ivy (cabello rojo, vestido verde muy corto, yeso en brazo izquierdo) en la barra y conectan rápidamente. Mark baila con Patricia por detrás, manos en su cintura, erección contra sus nalgas. Conversación íntima sobre la masturbación de Patricia en la biblioteca y cómo repetirlo. Mark le quita los panties en la pista sin que nadie reaccione. Se retiran a un reservado con sofá. Intimidad: Patricia encima de Mark, muñones apoyados en sus hombros para equilibrarse. Hannah e Ivy se unen al reservado y tienen su propia intimidad simultánea (Hannah penetra a Ivy). Todos terminan. Vuelven a casa de Hannah. Hannah e Ivy duermen en la habitación de Hannah; Mark y Patricia en el cuarto de Patricia. Patricia dice "la próxima vez el libro" antes de dormir.
+
+**La conversación termina aquí: Mark duerme junto a Patricia en casa de Hannah. Es madrugada del Día 15.**
+**Próximo paso pendiente: Tori tiene el alta hospitalaria el Día 15 por la mañana. Mark prometió visitarla.**

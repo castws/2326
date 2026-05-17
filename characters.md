@@ -211,6 +211,7 @@
 - "Emma no tiene claustrofobia. Tiene otra cosa." _(al escuchar el primer capítulo de Claustrofobia — Día 12)_
 - "Hannah no es Olivia." _(explicando por qué no se ha masturbado desde la segunda amputación — Día 12)_
 - "Gracias por el libro." / "Bien. Quiero saber cómo termina Emma." _(despedida en la puerta de Hannah — Día 13)_
+- "La próxima vez el libro." _(casi dormida, después del club Insomnia — Día 14)_
 
 **Momentos con Mark:**
 
@@ -223,6 +224,7 @@
 - Intimidad en la habitación de invitados. Duermen juntos desnudos _(Día 11, escena 49)_.
 - Día 12 en la mansión: piscina desnudos con intimidad (Rachel los descubre); ducha con Rachel; Mark le revela que hay otra persona y la define como "novia"; inducción neurolingüística (Patricia con Sophie); biblioteca: primer capítulo de Claustrofobia, primera masturbación de Patricia desde la segunda amputación; jacuzzi: Patricia masturba a Mark con los pies por primera vez _(Día 12, escenas 50-54)_.
 - Despedida en casa de Hannah; Patricia pide que le terminen el libro _(Día 13, escena 55)_.
+- Club Insomnia con Mark y Hannah: baile íntimo en la pista (Mark le quita los panties), intimidad en reservado con sofá (Patricia encima de Mark, muñones apoyados en sus hombros); Hannah e Ivy en el mismo reservado simultáneamente. Noche en casa de Hannah _(Día 14, escena 67)_.
 
 ---
 
@@ -261,6 +263,7 @@
 - Escribe parte de los mensajes de Patricia el día 9 invitando a Mark a las 4pm _(Día 9, escena 22)_.
 - Cena con Mark y Patricia: da de comer a Patricia con tenedor, sirve vino, se retira con naturalidad para dejarlos solos _(Día 9, escena 30)_.
 - Desayuno del día 10; comenta que Mark se fue con buena cara por escrito (escribiendo por Patricia) _(Día 10, escena 31)_.
+- Club Insomnia: encuentra a Ivy (cabello rojo, yeso en brazo izquierdo) en la barra; intimidad simultánea con ella en el reservado mientras Mark y Patricia están en el mismo sofá. Pasan la noche juntas en casa de Hannah _(Día 14, escena 67)_.
 
 ---
 
@@ -295,6 +298,8 @@
 - "No me reconozco. En el buen sentido." _(viéndose en el espejo con la nueva ropa — Día 11)_
 - "No es tan fácil. Tú lo provocas." _(sobre sus erecciones en público durante el paseo — Día 11)_
 - "Tú no ayudas nada enviándome estos mensajes." _(por mensaje, después de que Mark la excite con textos — Día 11)_
+- "Si vuelve a pasar... no voy a detenerla." _(sobre Emily, conversación nocturna con Mark — Día 14)_
+- "Tú estás aquí veinte minutos cada ciertos días. Ella está aquí cuando me despierto y cuando me duermo." _(reflexionando sobre la diferencia entre Mark y Emily — Día 14)_
 
 **Momentos con Mark:**
 
@@ -309,6 +314,7 @@
 - Emily la baña en cama con Mark presente como observador; erección completa durante el aseo del pene, ninguna lo comenta _(Día 11, escena 41)_.
 - Intimidad con Mark (oral + penetración + masturbación); Mark masajea el muñón del brazo izquierdo durante el clímax _(Día 11, escena 42)_.
 - Mark la viste con nueva moda (corsé, pezoneras, prenda de pene con capucha, falda corta); paseo y almuerzo en el centro comercial con erecciones en público _(Día 11, escenas 43-44)_.
+- Visita nocturna de Mark: narra a detalle lo ocurrido con Emily durante el aseo; reflexiona sobre la diferencia entre su relación con Emily (presencia 24h) y con Mark (visitas breves); dice que no detendrá a Emily si vuelve a ocurrir _(Día 14, escena 66)_.
 
 ---
 
@@ -404,11 +410,23 @@
 **Voz / Tics de habla:**
 
 - Práctica y sin comentarios innecesarios. Entra, hace lo que hay que hacer, sale.
-- Desarrolla soluciones de comunicación por su cuenta sin esperar instrucciones.
+- Desarrolla solución de comunicación por parpadeos, es la única forma de comunicación que propone.
 
 **Momentos con Mark:**
 
 - Explica a Mark el sistema de parpadeos para comunicarse con Tori _(Día 14, escena 65)_.
+
+---
+
+## Ivy _(contacto de una noche)_
+
+**Tipo:** Robot (habitante de la ciudad)
+**Apariencia:** Cabello rojo, ojos oscuros, vestido verde muy corto. Yeso largo en brazo izquierdo.
+**Personalidad:** Desinhibida, receptiva.
+**Rol:** Conocida por Hannah en el Club Insomnia. Una noche juntas en casa de Hannah.
+
+**Momentos con Mark:**
+- Club Insomnia: intimidad con Hannah en el mismo reservado donde Mark y Patricia estaban juntos _(Día 14, escena 67)_.
 
 ---
 
