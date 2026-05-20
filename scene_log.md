@@ -495,3 +495,38 @@ Mark recoge a Patricia en casa de Hannah. Patricia lleva vestido rojo oscuro sin
 
 **La conversación termina aquí: Mark duerme junto a Patricia en casa de Hannah. Es madrugada del Día 15.**
 **Próximo paso pendiente: Tori tiene el alta hospitalaria el Día 15 por la mañana. Mark prometió visitarla.**
+
+---
+
+## Día 15 — Mañana
+
+### Escena 68: Despertar con Patricia y desayuno con Hannah e Ivy (Día 15, mañana)
+
+Mark despierta en la habitación de Patricia, casa de Hannah. Ambos desnudos. Patricia comenta que durmió bien por primera vez en días. Mark la viste: blusa de pijama de seda marfil con escote en V cruzado y lazo lateral, panties de encaje negro. Muñones simétricos al aire. Van a la cocina donde Hannah está haciendo huevos. Ivy aparece poco después con el vestido verde del club arrugado y yeso en el brazo izquierdo. Desayuno tranquilo de los cuatro. Mark pregunta a Ivy por el yeso: fractura de dos huesos del antebrazo por caída en escalera en su trabajo; tres semanas más. Mark se despide y vuelve a la mansión en vehículo autónomo.
+
+### Escena 69: Visita a Claire — contratación de Dana (Día 15, mañana)
+
+Mark pasa por la casa de Claire antes de entrar a la mansión. Encarga una nueva asistente doméstica: brazos amputados a mitad del antebrazo con prótesis de gancho en ambos, piernas amputadas a mitad (transtibiales) con prótesis en ambas, vagina, autonomía estándar con tendencia más entusiasta. Claire la nombra Dana y confirma que estará en la mansión en una hora.
+
+### Escena 70: Anuncio a Rachel y Sophie (Día 15, mañana)
+
+Mark vuelve a la mansión. Pide a Rachel que traiga a Sophie al salón. Anuncia que ha contratado a una nueva mucama llamada Dana, que tiene una discapacidad, y que el trabajo se distribuirá entre ellas como prefieran. Rachel pregunta cómo se distribuirá el trabajo; Sophie pregunta si Dana habla español. Mark explica que a Dana "le faltan las manos y los pies". Ambas lo reciben sin drama.
+
+### Escena 71: Llegada de Dana, entrevista y contratación (Día 15, mañana)
+
+Dana llega a la hora indicada. ~24 años aparentes, cabello castaño oscuro ondulado hasta los hombros, ojos marrones claros, complexión media. Muñones a mitad del antebrazo con ganchos metálicos y arneses cruzados en X. Prótesis transtibiales en ambas piernas. Camina con paso firme. Mark la entrevista en el comedor. Dana explica sin drama la historia de sus amputaciones: brazos en accidente industrial (simultáneos), piernas por infección ósea progresiva. Acepta el trabajo, la habitación con baño privado, y el baño compartido con Mark en la ducha (sin expectativa de nada más a menos que ella decida). Rachel le muestra la habitación y le entrega el uniforme (vestido negro, delantal blanco). Dana se cambia con ayuda de Rachel para la blusa; acepta no llevar panties como Rachel. Rachel le hace el tour de la casa.
+
+### Escena 72: Primer baño de Mark con Dana (Día 15, mañana)
+
+Rachel enseña a Dana cómo bañar a Mark. Las dos entran desnudas a la ducha con Mark. Rachel guía el proceso: hombros, espalda, pecho, cabello, extremidades. Dana practica con los brazos y piernas de Mark usando la esponja enganchada en el gancho. Rachel se encarga directamente de la zona genital; Mark señala que Rachel no dejó practicar a Dana. Rachel pregunta a Dana si quiere intentarlo; Dana acepta y lo hace con precisión y sin vacilación. Mark tiene erección durante el proceso. Dana nota la erección, no se detiene, termina y pregunta si es habitual; Rachel confirma que sí. Mark le ofrece a Dana hacer algo al respecto; Dana declina ("es el primer día"). Mark pide a Rachel que deje a Dana secarle también; Dana lo hace con la toalla enrollada en los ganchos, incluyendo la zona genital. Mark le dice que lo ha hecho muy bien.
+
+### Escena 73: Sophie, mensajes y configuración de Patricia/Hannah (Día 15, mañana)
+
+Dana cubre a Sophie con dos toallas pequeñas al notar que nadie lo hacía. Mark le pregunta a Sophie por qué nunca lo había pedido; Sophie responde que no le incomoda que la vean. Dana y Sophie intercambian un comentario directo sobre estar acostumbradas a las miradas.
+
+Mark escribe a Claire por mensaje: configuración activa para que Hannah entre sin llamar cuando Patricia intente masturbarse sola; si Hannah ofrece ayuda, queda a decisión de Hannah y Patricia.
+
+Revisión de mensajes: Megan reporta que el desayuno de Emily fue más lento y táctil de lo habitual (cucharada a cucharada, más de lo necesario). Diane informa que el alta de Tori está confirmada y la llevará a su casa. Hannah/Patricia preguntan cuándo irá Mark con el libro. Mark responde a los tres: a Megan le pregunta si hubo erección en el baño y si le gustaría que Emily la masturbara de nuevo; Megan confirma dos erecciones (brazo y vestirse), Emily tardó más de lo necesario ajustando los panties, dice que sí pero que no lo pedirá ella. Mark sugiere que Megan dé señales sutiles (suspiro, movimiento de cadera); Megan lo llama "trampa" pero dice que se lo piensa.
+
+**La conversación termina aquí: Mark en el salón de la mansión, Día 15 mañana. Dana acaba de incorporarse al trabajo.**
+**Próximo paso pendiente: visitar a Tori en su casa (Diane la llevó tras el alta); visitar a Megan (posiblemente mañana); próxima visita a Patricia con el capítulo 2 de Claustrofobia.**

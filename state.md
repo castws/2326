@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 15, madrugada.** Mark duerme en casa de Hannah, en la habitación de Patricia.
+**Día 15, mañana.** Mark en el salón de la mansión. Dana acaba de incorporarse al trabajo.
 
 ### Eventos programados (futuros)
 
@@ -39,7 +39,7 @@
 
 ## Mark
 
-- Localización: habitación de Patricia, casa de Hannah.
+- Localización: salón de la mansión.
 - **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
 - Cubre el yeso con bolsa de plástico para ducharse.
 - Le explicó a Emily que se luxó el tobillo.
@@ -92,9 +92,18 @@
 
 ---
 
+## Dana
+
+- Localización: mansión de Mark. Primer día de trabajo.
+- Estado físico: brazos amputados a mitad del antebrazo, prótesis de gancho en ambos. Piernas amputadas transtibiales, prótesis en ambas.
+- Rol: nueva asistente doméstica. Se incorpora para ayudar a Rachel con la casa y el cuidado de Sophie.
+- Estado emocional: tranquila, directa, práctica. Sin incomodidad visible. Declinó actuar sobre la erección de Mark ("es el primer día").
+
+---
+
 ## Patricia
 
-- Localización: casa de Hannah, en la ciudad. Dormida con Mark en su habitación.
+- Localización: casa de Hannah, en la ciudad.
 - Estado físico: ambos brazos amputados desde el hombro. Muñón derecho con cicatriz rosada visible, sin gasa.
 - **Estado emocional:** estable y afectuosa. Relación con Mark definida informalmente como "novia". Sabe que hay otra persona.
 - **Habilidad nueva:** aprendió a masturbarse sola frotándose contra superficies (reposabrazos del sillón).
@@ -142,15 +151,17 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Tori:** alta hospitalaria Día 15 por la mañana. Diane la acompaña. Yesos ~8 semanas. Mark prometió visitar.
+1. **Tori:** alta hospitalaria completada Día 15 por la mañana. Diane la llevó a su casa. Yesos ~8 semanas. Mark prometió visitar pronto.
 2. **Patricia:** en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17. Próxima visita a la mansión: leer capítulo 2 de Claustrofobia.
-3. **Megan:** vínculo activo. Yesos hasta el día ~22. Emily la cuida. Tensión latente con Emily tras la masturbación del aseo.
-4. Mark sigue con yeso en pierna derecha (~Día 38).
-5. Mark: producción oral del idioma actual en ~2 semanas desde Día 12.
-6. Rachel: no mencionar el tema íntimo por un tiempo.
-7. Sophie: en silla de ruedas reclinable en la mansión. Yesos hasta ~Día 40.
-8. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
-9. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
+3. **Megan:** vínculo activo. Yesos hasta el día ~22. Emily la cuida. Tensión latente con Emily. Megan está considerando dar señales sutiles para invitar a Emily a repetir. Mark visitará mañana posiblemente.
+4. **Dana:** primera jornada en la mansión. Integración con Rachel en curso.
+5. Mark sigue con yeso en pierna derecha (~Día 38).
+6. Mark: producción oral del idioma actual en ~2 semanas desde Día 12.
+7. Rachel: no mencionar el tema íntimo por un tiempo.
+8. Sophie: en silla de ruedas reclinable en la mansión. Yesos hasta ~Día 40.
+9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
+10. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
+11. Configuración activa: Hannah entra sin llamar cuando Patricia intente masturbarse sola.
 
 ## Ciudad — cambios de configuración
 
