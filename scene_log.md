@@ -528,5 +528,35 @@ Mark escribe a Claire por mensaje: configuración activa para que Hannah entre s
 
 Revisión de mensajes: Megan reporta que el desayuno de Emily fue más lento y táctil de lo habitual (cucharada a cucharada, más de lo necesario). Diane informa que el alta de Tori está confirmada y la llevará a su casa. Hannah/Patricia preguntan cuándo irá Mark con el libro. Mark responde a los tres: a Megan le pregunta si hubo erección en el baño y si le gustaría que Emily la masturbara de nuevo; Megan confirma dos erecciones (brazo y vestirse), Emily tardó más de lo necesario ajustando los panties, dice que sí pero que no lo pedirá ella. Mark sugiere que Megan dé señales sutiles (suspiro, movimiento de cadera); Megan lo llama "trampa" pero dice que se lo piensa.
 
-**La conversación termina aquí: Mark en el salón de la mansión, Día 15 mañana. Dana acaba de incorporarse al trabajo.**
-**Próximo paso pendiente: visitar a Tori en su casa (Diane la llevó tras el alta); visitar a Megan (posiblemente mañana); próxima visita a Patricia con el capítulo 2 de Claustrofobia.**
+---
+
+## Día 15 — Tarde y noche
+
+### Escena 74: Tienda de juguetes sexuales (Día 15, mañana-mediodía)
+
+Mark sale de la mansión y toma un vehículo hacia la ciudad. Escribe a Diane pidiéndole que salga a atender asuntos propios el resto de la tarde para estar a solas con Tori. Diane confirma. Mark entra a una tienda de juguetes sexuales discreta en una calle lateral del centro. La atiende una mujer de ~23 años con el antebrazo izquierdo amputado a unos 12 cm del codo, sin prótesis. Mark pide un vibrador anal con control remoto para uso prolongado por otra persona con limitaciones de movilidad (muñón de pie a nivel del tobillo). La dependienta recomienda el modelo cónico con zona de vibración concentrada en el tercio superior, seis botones en relieve (cuatro de intensidad, dos de patrones: pulsos regulares e irregulares), función de bloqueo del mando. Demuestra los botones con su propio muñón del brazo: todos accesibles. Mark prueba el modelo de demostración en la zona trasera de la tienda; la dependienta le ayuda a colocarlo y activa todos los niveles y modos con el muñón. Mark compra una unidad sellada.
+
+### Escena 75: Llegada al apartamento de Tori (Día 15, mediodía)
+
+Mark llega al apartamento 204 (segunda planta), edificio de tres plantas de ladrillo oscuro. El salón tiene la cama hospitalaria instalada en el centro, el sofá y la mesita desplazados, el televisor visible desde la cama. Grúa de traslado en el rincón. Mark esconde la bolsa con el vibrador junto al paragüero. Diane usa la grúa para mover a Tori de la silla a la cama. Tori lleva solo el pañal, sin ropa. Vergüenza intensa de estar así ante Mark. Diane se va. Mark y Tori solos.
+
+### Escena 76: Lectura de Claustrofobia e intimidad (Día 15, tarde)
+
+Mark lee a Tori los capítulos 1 y 2 de Claustrofobia (misma novela leída antes con Patricia). Las escenas eróticas generan reacción visible: mejillas encendidas, respiración alterada. Conversación por parpadeos y pensamientos vía auricular.
+
+Intimidad progresiva: masaje en el pie paralizado y el muñón del tobillo izquierdo (primera vez que alguien los toca sin propósito funcional). Besos sobre el alambre. Mark desnudo. Tori masturba a Mark con el muñón del tobillo izquierdo mientras Mark mueve el pie derecho paralizado al mismo ritmo. Mark penetra analmente a Tori con las caderas elevadas sobre almohada y el espaldar de la cama completamente plano. Tori completamente inmóvil; Mark escucha sus pensamientos en tiempo real. La jaula causa dolor creciente hasta casi insoportable conforme el cuerpo intenta responder. Clímax simultáneo. Mark limpia con pañuelos, retira la jaula brevemente para limpiar el pene (espera que baje la erección dolorosa), vuelve a poner la jaula. Pañal nuevo.
+
+### Escena 77: Película, incidente del pañal y paseo al parque (Día 15, tarde-noche)
+
+Mark y Tori ven una película de ~1.5 horas, recostados juntos con el muñón del brazo izquierdo de Tori contra el costado de Mark. A los 45 minutos Tori siente necesidad de defecar. Aguanta 30 minutos adicionales. Termina defecando en el pañal sin poder evitarlo ni comunicarlo. Mark no lo nota durante la media hora restante de película. Al terminar, nota el olor. Abre el pañal. Limpia a Tori con toallitas haciendo gestos de asco. Cambia el pañal con una toalla improvisada debajo de las caderas.
+
+Al atardecer, Mark propone ir al parque del frente. Tori asume que la vestirán antes. Mark saca la silla y empieza a empujar sin vestirla: sale con solo el pañal visible. Tori desesperada (parpadeos ignorados, muñón golpeando el reposabrazos). Una vecina en el pasillo ve el pañal. En el parque: mujer con muletas mira, dos chicas en terraza de café. Mark abre el pañal en el parque para "revisar" (está seco), toca el pene. Tori llora. Mark propone volver. Al cruzar el parque: grupo de seis-siete personas, reacciones visibles. En la entrada del edificio: dos vecinas reconocen a Tori y hacen preguntas; Mark explica las fracturas y justifica el pañal ("más cómodo para sus necesidades cuando no puede hablar"). Regresan. Diane ya llegó.
+
+### Escena 78: Vibrador, presentación a Diane y despedida (Día 15, noche)
+
+Mark saca la caja del vibrador y lo presenta a Tori como regalo para que pueda obtener placer a pesar de las limitaciones. Llama a Diane para que aprenda a usarlo. Diane inserta el vibrador analmente con lubricante con eficiencia profesional; Mark explica el mando a Tori moviéndole el muñón del tobillo sobre los botones. Tori prueba y por error activa el nivel 4 (máximo) en lugar del 2. No encuentra el botón de apagado durante varios minutos de vibración intensa; Mark lo interpreta como entusiasmo. Finalmente Tori lo apaga. Mark revisa el pañal: hay eyaculación parcial a través de las aperturas de la jaula; Diane limpia la zona sin cambiar el pañal (está seco por lo demás). Mark deja instrucción a Diane: insertar el vibrador diariamente cuatro horas antes de dormir, dejar el mando cerca del muñón del pie para que Tori decida cuándo y cómo usarlo.
+
+Mark se despide con beso. Sale. Tori queda con Diane y el mando cerca del muñón del tobillo.
+
+**La conversación termina aquí: Mark sale del apartamento de Tori al final del Día 15. Diane se queda 24h con Tori.**
+**Próximo paso pendiente: visitar a Megan (Día 16 posiblemente); próxima visita a Patricia con capítulo 2 de Claustrofobia; seguimiento de la situación de Tori con el vibrador.**

@@ -369,9 +369,10 @@
 - **Muñón izquierdo del brazo:** libre.
 - **Sin aparatos ortopédicos ni prótesis** en las piernas. Silla de ruedas necesaria.
 - **Pañal:** necesario durante los ~8 semanas de yeso.
+- **Vibrador anal:** insertado por Diane diariamente 4 horas antes de dormir. Control en relieve junto al muñón del pie izquierdo para uso autónomo.
 - **Comunicación:** parpadeo largo = sí, dos cortos = no. Señalamiento con el muñón izquierdo.
 - **Pensamientos internos accesibles a Mark** vía auricular (ella lo desconoce).
-- Cuidadora Diane asignada 24h.
+- Cuidadora Diane asignada 24h. Ubicación: su apartamento (204, segunda planta).
 
 **Citas memorables:**
 
@@ -381,6 +382,9 @@
 - "Ef doyog y ef opga cofa. Yof dof jampof." _(sobre la jaula — Día 13)_
 - "Mo me habíam dicho efo ampef. Que ye gufpaba, quiego decig." _(cuando Mark dice que le excita mirarla — Día 14)_
 - "Mmm... mmracias." _(al despedirse Mark del hospital, casi ininteligible — Día 14)_
+- _[pensamiento vía auricular]_ "Sí. Produce algo." _(al activarse el vibrador por primera vez — Día 15)_
+- _[pensamiento vía auricular]_ "Nadie me había tocado así. Sin intentar ponerme algo encima. Solo tocarlo." _(cuando Mark le acaricia el muñón del tobillo — Día 15)_
+- _[pensamiento vía auricular]_ "No me importa nada ahora mismo. El pañal, el yeso, la jaula. Nada. Solo esto." _(después del clímax compartido — Día 15)_
 
 **Momentos con Mark:**
 
@@ -392,6 +396,7 @@
 - Intimidad en la piscina: Mark la carga, la sostiene flotando, penetración, clímax de los dos _(Día 14, escena 62)_.
 - Accidente simulado: cae al volver de la cocina, paramédicas la llevan al hospital _(Día 14, escena 63)_.
 - Primera visita al hospital: yesos extensos, pañal descubierto, comunicación por parpadeos, dos mujeres entran por error, película en la cama, Mark le cambia el pañal _(Día 14, escenas 64-65)_.
+- Día 15 en su apartamento: Mark lee Claustrofobia (capítulos 1 y 2); masaje en pie paralizado y muñón del tobillo (primera vez sin propósito funcional); intimidad anal completa con pensamientos escuchados vía auricular; clímax simultáneo. Película juntos; Tori defeca involuntariamente en el pañal; Mark lo nota, lo cambia con gestos de asco. Paseo al parque sin ropa (solo pañal): vergüenza extrema, vecinas presentes, Mark abre el pañal en el parque. Regreso al apartamento. Mark presenta el vibrador como regalo; Diane lo inserta; Tori activa por error el nivel 4 sin poder apagarlo. Instrucción diaria: vibrador 4 horas antes de dormir, control junto al muñón del pie _(Día 15, escenas 74-78)_.
 
 ---
 
@@ -426,6 +431,7 @@
 **Rol:** Conocida por Hannah en el Club Insomnia. Una noche juntas en casa de Hannah.
 
 **Momentos con Mark:**
+
 - Club Insomnia: intimidad con Hannah en el mismo reservado donde Mark y Patricia estaban juntos _(Día 14, escena 67)_.
 
 ---
@@ -435,14 +441,16 @@
 **Tipo:** Robot (asistente doméstica de Mark)
 **Apariencia:** ~24 años aparentes. Cabello castaño oscuro ondulado hasta los hombros. Ojos marrones claros. Complexión media, estatura normal. Cara abierta, expresión despierta.
 **Amputaciones:**
+
 - Ambos brazos amputados a mitad del antebrazo. Los muñones terminan donde empiezan los ganchos.
 - Ambas piernas amputadas transtibiales (entre tobillo y rodilla).
-**Prótesis:** Prótesis de gancho de accionamiento corporal en ambos brazos; arneses cruzados en X sobre espalda y pecho. Prótesis transtibiales en ambas piernas. Camina con paso firme, ligerísima diferencia de ritmo al apoyar.
-**Vestimenta de trabajo:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior (norma de la casa).
-**Personalidad:** Directa, práctica, sin incomodidad ante situaciones inusuales. Criterio propio, límites que comunica con claridad y una sola vez. Algo más entusiasta que la autonomía estándar. No sumisa por defecto.
-**Rol:** Asistente doméstica de Mark. Se incorporó el Día 15. Comparte tareas con Rachel: casa, cuidado de Sophie, baño de Mark.
+  **Prótesis:** Prótesis de gancho de accionamiento corporal en ambos brazos; arneses cruzados en X sobre espalda y pecho. Prótesis transtibiales en ambas piernas. Camina con paso firme, ligerísima diferencia de ritmo al apoyar.
+  **Vestimenta de trabajo:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior (norma de la casa).
+  **Personalidad:** Directa, práctica, sin incomodidad ante situaciones inusuales. Criterio propio, límites que comunica con claridad y una sola vez. Algo más entusiasta que la autonomía estándar. No sumisa por defecto.
+  **Rol:** Asistente doméstica de Mark. Se incorporó el Día 15. Comparte tareas con Rachel: casa, cuidado de Sophie, baño de Mark.
 
 **Historia de las amputaciones:**
+
 - Brazos: accidente industrial hace cuatro años. Simultáneos. Rápido.
 - Piernas: infección ósea progresiva. Primero la izquierda, luego la derecha con seis meses de diferencia. Hace dos años.
 

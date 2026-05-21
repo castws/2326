@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 15, mañana.** Mark en el salón de la mansión. Dana acaba de incorporarse al trabajo.
+**Día 15, noche.** Mark acaba de salir del apartamento de Tori y regresa a la mansión.
 
 ### Eventos programados (futuros)
 
@@ -138,30 +138,30 @@
 
 ## Tori
 
-- Localización: hospital, habitación 214. Segunda planta.
-- **Estado físico:** shoulder spica (brazo derecho, desde torso hasta muñón de la muñeca, brazo en abducción; muñón expuesto en el extremo) + minerva alta (cubre cráneo excepto rostro, agujeros para orejas, abertura superior por donde sale el cabello; inmobiliza el cuello completamente) — ambos forman **una sola pieza** de yeso. Mandíbula cosida con alambre sobre el aparato maxilar: apenas puede abrir la boca, habla prácticamente ininteligible. Pañal. Jaula de castidad. Gafas de montura roja. Sin ningún aparato ortopédico ni prótesis en las piernas. Muñón izquierdo del brazo libre.
-- **Comunicación:** parpadeo largo = sí, dos parpadeos cortos = no. No puede señalar con precisión ni hablar. Puede emitir sonidos muy amortiguados.
-- **Pensamientos internos:** accesibles para Mark a través del auricular (voz limpia, sin sustituciones fonéticas). Ella desconoce el dispositivo.
+- Localización: su apartamento, calle de la ciudad. Apartamento 204, segunda planta.
+- **Estado físico:** shoulder spica + minerva alta (una sola pieza). Mandíbula con alambre. Pañal. Jaula de castidad. Sin aparatos ortopédicos ni prótesis en las piernas. Muñón izquierdo del brazo libre. Muñón de la muñeca derecha asomando del yeso.
+- **Mobiliario adaptado:** cama hospitalaria en el salón, grúa de traslado, silla de ruedas.
+- **Vibrador anal:** insertado diariamente por Diane 4 horas antes de dormir. Mando de control colocado cerca del muñón del pie izquierdo para uso autónomo de Tori. Seis botones en relieve (cuatro intensidades, dos patrones). Sin restricción de nivel.
+- **Comunicación:** parpadeo largo = sí, dos parpadeos cortos = no.
+- **Pensamientos internos:** accesibles para Mark a través del auricular (voz limpia). Ella desconoce el dispositivo.
 - **Cuidadora:** Diane, enfermera, 24 horas.
-- **Alta prevista:** mañana por la mañana (Día 15), si no hay complicaciones.
-- **Yesos hasta:** ~Día 22 (8 semanas).
-- Estado emocional: vulnerable, avergonzada por el pañal, frustrada por no poder comunicarse, pero con vínculo hacia Mark consolidándose.
+- **Yesos hasta:** ~Día 77 (8 semanas desde Día 14).
+- Estado emocional: vínculo con Mark consolidado y profundizado. Vergüenza intensa por el pañal y la dependencia total. Tarde del Día 15 especialmente intensa: intimidad, defecación involuntaria con Mark presente, paseo al parque sin ropa ante vecinas. Primera vez que alguien le toca el muñón del tobillo y el pie sin propósito funcional.
 
 ---
 
 ## Pendiente / Próximos pasos
 
-1. **Tori:** alta hospitalaria completada Día 15 por la mañana. Diane la llevó a su casa. Yesos ~8 semanas. Mark prometió visitar pronto.
-2. **Patricia:** en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17. Próxima visita a la mansión: leer capítulo 2 de Claustrofobia.
-3. **Megan:** vínculo activo. Yesos hasta el día ~22. Emily la cuida. Tensión latente con Emily. Megan está considerando dar señales sutiles para invitar a Emily a repetir. Mark visitará mañana posiblemente.
-4. **Dana:** primera jornada en la mansión. Integración con Rachel en curso.
+1. **Tori:** en su apartamento. Vibrador instalado como rutina diaria. Yesos ~8 semanas (~Día 77). Vecinas del edificio ya saben del pañal.
+2. **Patricia:** en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17. Próxima visita a la mansión: capítulo 2 de Claustrofobia (prometido).
+3. **Megan:** yesos hasta ~Día 22. Emily cada vez más táctil. Megan considera dar señales sutiles. Mark visitará posiblemente Día 16.
+4. **Dana:** integración con Rachel en curso. Segunda jornada completa pendiente.
 5. Mark sigue con yeso en pierna derecha (~Día 38).
-6. Mark: producción oral del idioma actual en ~2 semanas desde Día 12.
+6. Mark: producción oral del idioma actual en ~2 semanas desde Día 12 (~Día 26).
 7. Rachel: no mencionar el tema íntimo por un tiempo.
 8. Sophie: en silla de ruedas reclinable en la mansión. Yesos hasta ~Día 40.
 9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
-10. Libro Claustrofobia: prometido a Patricia terminar de leerlo la próxima vez que se vean.
-11. Configuración activa: Hannah entra sin llamar cuando Patricia intente masturbarse sola.
+10. Configuración activa: Hannah entra sin llamar cuando Patricia intente masturbarse sola.
 
 ## Ciudad — cambios de configuración
 
