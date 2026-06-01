@@ -560,3 +560,54 @@ Mark se despide con beso. Sale. Tori queda con Diane y el mando cerca del muñó
 
 **La conversación termina aquí: Mark sale del apartamento de Tori al final del Día 15. Diane se queda 24h con Tori.**
 **Próximo paso pendiente: visitar a Megan (Día 16 posiblemente); próxima visita a Patricia con capítulo 2 de Claustrofobia; seguimiento de la situación de Tori con el vibrador.**
+
+---
+
+## Día 15 — Noche (continuación)
+
+### Escena 79: Visita a Claire — creación de Emma y el escenario (Día 15, noche)
+
+Mark visita a Claire en su casa. Le pide que cree a Emma Campbell y Olivia Han según el libro Claustrofobia, con la casa de Emma en el sector noroeste del área. Emma estará en Full Body Cast (desde los dedos hasta los hombros, cabeza y cuello libres, apertura perineal, posición semi-reclinada, rodillas a 45°, cama hospitalaria en el salón). Mark hará el rol del cuidador sustituto "Milton" pero con su propio nombre. El auricular de pensamientos se activa también para Emma. Emma tendrá expectativa moderada de que sus fantasías con "Michael" se cumplan con Mark: no lo pedirá explícitamente pero creará situaciones. Claire ejecuta todo y Olivia llama a Mark esa misma noche para pedirle que cubra el fin de semana.
+
+### Escena 80: Quitado del yeso y noche con Dana (Día 15, noche)
+
+Mark vuelve a la mansión y pide a Rachel que le quite el yeso de la pierna derecha. Rachel usa la sierra oscilatoria en la habitación de yesos con Dana observando. Ducha posterior con Dana: ella lo baña completo y a petición de Mark se demora más en la zona genital. Mark le pregunta si le excitó; Dana responde "algo, no sé si excitar es la palabra exacta". Mark la invita a dormir en su cama; Dana acepta solo dormir. En cama, se quita las prótesis de brazos y piernas. Mark le pide que le acaricie el pene mientras se duerme; ella lo hace con el muñón del antebrazo con movimiento lento y constante.
+
+---
+
+## Día 16 — Mañana y tarde
+
+### Escena 81: Llegada a casa de Emma — presentación con Olivia (Día 16, mañana)
+
+Mark llega a las 8:15 a casa de Emma en el sector noroeste. Olivia hace el traspaso en quince minutos: rutinas, medicación, protocolo del Dr. Ballard, baño en cama, botella urinaria. Presenta a Mark a Emma. Emma evalúa a Mark con calma contenida. Olivia se va a las 8:30. Mark activa el auricular: escucha los pensamientos de Emma desde el primer momento.
+
+### Escena 82: Desayuno, baño e higiene (Día 16, mañana)
+
+Mark propone empezar por el desayuno antes del baño para conocerse. Conversación fluida durante el desayuno (Mark da de comer con cuchara). Baño en cama: cara y cuello, higiene íntima con toallitas (Emma se ruboriza, pensamientos internos intensos), zona posterior con cambio de posición. Mark aparta la vista durante la micción con botella; Emma lo nota y lo valora internamente. Lectura de novela erótica: Mark lee en voz alta capítulos con contenido explícito (escena de Daniel y Sara, incorporación de Claudia). Emma reacciona con rubor, respiración alterada y tensión en los dedos de los pies. Pausa para café y tilo. Emma pide el tilo sin reconocer en voz alta que es por los nervios.
+
+### Escena 83: Almuerzo, parque y cafetería (Día 16, tarde)
+
+Mark cocina una receta de su madre mientras Emma lo observa desde la silla de ruedas en la cocina abierta. Almuerzo en el comedor: Mark da de comer a Emma, conversación con risas. Paseo al parque cercano: Emma sale con solo la toalla cubriendo la zona íntima (rechaza la manta de Olivia). Miradas de transeúntes; a Emma no le importa. Helado en el parque, paseo completo por el camino de la fuente (Olivia nunca tuvo tiempo). Tarta en la cafetería al salir del parque: primera vez que Emma entra allí. Tarde fuera de casi dos horas, la más larga desde que empezó el tratamiento.
+
+### Escena 84: Vuelta a casa, botella y lectura nocturna (Día 16, tarde-noche)
+
+Al volver de la cafetería Emma pide la botella urinaria. Mark va a buscarla y la deja con la zona íntima expuesta; Emma no protesta. Higiene con toallitas después de la micción: Mark limpia con más cuidado que por la mañana; Emma hace un comentario involuntario sobre que Olivia tarda menos ("normalmente Olivia tarda menos en esta parte") y luego lo retira. Mark lee el último capítulo de la novela: Claudia y Sara tienen una relación a escondidas de Daniel; fiesta swinger donde Sara llega al orgasmo mirando a Daniel con otra mujer mientras Claudia la toca; desenlace donde Sara queda cuadraplégica tras un accidente y los tres se reúnen, escena íntima final con Sara sin sensación del cuello para abajo. Emma reacciona visiblemente: mancha en la toalla, que Mark nota y cambia sin comentario neutro ("es una respuesta involuntaria"). Conversación breve sobre el libro: Emma dice que "es sobre depender de alguien y que eso no te quite nada". Mark se levanta con erección visible que Emma nota pero no menciona.
+
+### Escena 85: Cena, película y noche (Día 16, noche)
+
+Mark prepara cena liviana, la da a Emma en cama. Emma pide ver una película ("La última señal", thriller) y sugiere acercar el sofá para que los dos vean bien. Dos horas juntos viendo la película con comentarios. Después, conversación de una hora sobre gustos, libros, rutinas. Emma ríe en un momento, brevemente, con una risa diferente a todo el día. Cerca de la una, Emma propone dormir antes de que lo haga Mark. Mark la acomoda: reclinación de cama, almohadas ajustadas (pide una más arriba para el cuello). Apaga la lámpara. Emma dice buenas noches sin el tono clínico. Antes de dormirse, Emma le pide a Mark que mañana durante el baño la depile con la maquinilla (zona perineal y muslos accesibles, que es lo que más la excita). Mark acepta. Emma duerme.
+
+---
+
+## Día 17 — Mañana
+
+### Escena 86: Despertar, café y baño con depilación e intimidad (Día 17, mañana)
+
+Mark se levanta a las 5am para cambiar la posición de Emma (ella se despierta brevemente y vuelve a dormirse). A las 8am organiza la cocina sin ruido; Emma despierta con el olor a café. Desayuno más relajado que el primer día: Emma pide la botella sin rodeos. Baño: cara y cuello, higiene íntima meticulosa. Depilación con maquinilla (espuma, estiramiento de piel, paso por labios internos; Emma emite sonidos involuntarios). Aplicación de loción post-depilación con dedos sobre vulva y clítoris; la situación escala: Mark se desnuda, sube a la cama, los dos se masturban mutuamente, beso, frotamiento del pene sobre el clítoris, penetración hasta donde el yeso permite, clímax simultáneo. Primera intimidad de Emma desde el inicio del tratamiento. Mark limpia, se viste, ofrece repetirlo cuando ella lo necesite. Emma agradece sin el tono clínico.
+
+### Escena 87: Ducha, mensajes y preparativos para el mercado (Día 17, mañana)
+
+Mark se ducha. Mensajes: Patricia anuncia primera sesión de rehabilitación con prótesis de gancho y pregunta por el libro. Megan reporta que Emily está intentando impresionarla. Diane informa que Tori usó el vibrador 40 minutos esa mañana. Mark pregunta a Patricia si intentó masturbarse; Hannah responde que sí (dos intentos). Mark le dice a Hannah que hable directamente con Patricia. Hannah lo hace: Patricia acepta con vergüenza y luego con ganas; Hannah la masturba; Patricia apoya la cabeza en su hombro al terminar y pide repetirlo mañana. Mark configura a Claire para que Hannah se excite al ayudar a Patricia. Mark escribe a Megan; ella reporta dos masturbaciones y comportamiento de Emily más táctil. Mark y Emma listos para salir al mercado dominical.
+
+**La conversación termina aquí: Mark y Emma a punto de salir al mercado dominical, mañana del Día 17.**
+**Próximo paso pendiente: mercado dominical con Emma; Olivia regresa el lunes (Día 19); visita a Megan y Patricia pendientes; capítulo 2 de Claustrofobia con Patricia.**

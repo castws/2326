@@ -458,7 +458,7 @@
 
 - Responde con un "sí" directo antes de aclarar matices si los hay.
 - Anticipa preguntas prácticas del interlocutor y las responde antes de que las formulen ("¿Cómo bebo, me pregunta?").
-- Declines con brevedad, sin disculpa ni justificación larga ("Hoy no. Es el primer día.").
+- Ante peticiones íntimas no responde de forma inmediata: hay un momento de consideración visible antes de decidir. Su respuesta se siente como una elección real, no un reflejo.
 - Pregunta de vuelta cuando necesita aclaración operativa ("¿Quieres intentarlo?" / "¿Así?").
 
 **Citas memorables:**
@@ -471,6 +471,68 @@
 
 - Entrevista en el comedor: contratación como mucama, habitación propia con baño privado, acepta el baño compartido sin expectativas _(Día 15, escena 71)_.
 - Primer baño con Rachel y Mark: practica la zona genital bajo la guía de Rachel; Mark tiene erección; Dana la registra y termina sin detenerse; declina hacer algo al respecto; seca a Mark con la toalla enrollada en los ganchos _(Día 15, escena 72)_.
+- Ducha sola con Mark esa noche: a petición de Mark se demora en la zona genital; lo masturba cuando él lo pide (pregunta directa "¿hago algo con lo de antes?"). Duerme con Mark; se quita todas las prótesis; le acaricia el pene con el muñón del antebrazo hasta que se duerme _(Día 15, escena 80)_.
+
+---
+
+## Emma Campbell
+
+**Tipo:** Robot (habitante del área, paciente en tratamiento)
+**Apariencia:** 32 años aparentes. Cabello cobrizo. Piel pálida que se ruboriza fácilmente. Figura esbelta, senos moderados con areolas rosadas. Vulva con vello corto.
+**Profesión:** Asesora financiera remota.
+**Personalidad:** Inteligente, analítica, controladora, humor autodeprecante. Se disculpa en exceso y minimiza sus experiencias ("no está tan mal"). Vulnerable bajo la coraza.
+**Condición:** Claustrofobia severa desde hace 15 años. En tratamiento paradójico con el Dr. Ballard: inmovilización progresiva con yesos para disociar "confinamiento" de "peligro".
+**Historia de la fobia:** A los 17 quedó atrapada 18 horas en una cueva de Kentucky tras un pequeño terremoto. Sola, a oscuras, sin poder moverse. Acoso escolar posterior consolidó el trauma.
+**Cuidadora habitual:** Olivia Han. Relación cercana con vínculo emocional profundo; atracción no reconocida abiertamente por parte de Emma.
+
+**Estado físico actual (Día 15 en adelante):**
+
+- **Full Body Cast:** yeso de cuerpo completo que incluye pies, brazos, torso y dedos de las manos y pies. Cabeza y cuello libres. Apertura perineal para higiene íntima. Posición semi-reclinada, rodillas flexionadas a 45°. Cama hospitalaria en el salón.
+- Dependencia total: alimentación, baño, higiene íntima, micción (botella urinaria). Sin autonomía de movimiento, excepto el cuello y la cabeza.
+
+**Vida íntima:**
+
+- Fantasías recurrentes con un cuidador masculino imaginario llamado "Michael": alto, hombros anchos, ojos amables. Las fantasías escalan hasta penetración mientras está completamente inmovilizada.
+- Ha llegado al orgasmo frotándose contra almohadas y cojines; Olivia lo ha descubierto en alguna ocasión.
+- Usa el diminutivo "Liv" para Olivia.
+- **Expectativa activa con Mark:** sabe que él no es Michael, pero tiene una expectativa moderada de que la realidad pueda parecerse a la fantasía. No lo pedirá explícitamente ni lo reconocerá en voz alta. Creará oportunidades sutiles, entre ellas: pedir la depilación (maquinilla de cuchilla, zona perineal y muslos accesibles — lo que más la excita con Olivia), quejarse de calor o irritación en la zona íntima para justificar contacto adicional, pedir ajustes de posición o almohada que requieran que Mark la toque de cerca, prolongar el tiempo de contacto durante el baño con preguntas o comentarios que retrasen el siguiente paso, y pedir que lea el libro en posición más cercana. Si Mark responde, escalará; si no, retrocederá sin dramaturgia.
+
+**Voz / Tics de habla:**
+
+- Voz clínica y práctica por defecto; recurre al tono informativo cuando está incómoda ("el acceso perineal está diseñado para facilitar la higiene").
+- Llena el silencio con preguntas o datos cuando algo la afecta más de lo que quiere admitir.
+- Minimiza sus experiencias: "no está tan mal", "es solo literatura", "no lo digo por educación".
+- Dice lo que no pretendía decir y lo reconoce internamente: "No debería haberlo dicho."
+
+**Citas memorables:**
+
+- "O muy desesperada. Quince años con claustrofobia severa tienen un coste." _(sobre si fue valiente al aceptar el tratamiento)_
+- "Kentucky tenía demasiadas cuevas." _(explicando por qué se mudó)_
+- "Normalmente Olivia tarda menos en esta parte." _(durante el baño íntimo, Día 16)_
+- "Ha sido el mejor día desde que empezó el tratamiento." _(al final del Día 16)_
+- "No te sobrepasaste. Yo también lo quería." _(tras la primera intimidad, Día 17)_
+- "El Dr. Ballard no tiene que saberlo." _(humor seco tras el orgasmo, Día 17)_
+
+**Momentos con Mark:**
+
+- Primer día completo: desayuno, baño meticuloso, lectura erótica en voz alta, almuerzo cocinado por Mark, paseo al parque y cafetería (tarde más larga desde el inicio del tratamiento) _(Día 16, escenas 81-83)_.
+- Noche del Día 16: lectura del último capítulo de la novela (Emma llega al orgasmo sola escuchando), cena, película juntos, conversación de una hora; buenas noches sin armadura _(Día 16, escenas 84-85)_.
+- Primera intimidad: depilación escalando a penetración completa dentro del yeso; clímax simultáneo; Emma dice "no pares" y "dentro, por favor" _(Día 17, escena 86)_.
+
+**Relación con Mark:**
+
+- Fin de semana de sustitución de Olivia. Primer día: vínculo construido con rapidez. Día 17: primera intimidad. Olivia regresa el lunes. Emma solicitó que Mark repita cuando ella lo necesite.
+
+---
+
+## Olivia Han
+
+**Tipo:** Robot (cuidadora de Emma, ausente durante el fin de semana)
+**Apariencia:** 29 años aparentes. Cabello corto y oscuro. Piel cálida dorada. Figura atlética (ex gimnasta): hombros y brazos con definición sutil, senos pequeños naturales. Sonrisa fácil. Sin maquillaje habitual.
+**Profesión:** Especialista en vida adaptativa, ex fisioterapeuta.
+**Personalidad:** Directa, práctica, calidez genuina, humor para desactivar vergüenza. Alta competencia emocional. Maneja las reacciones sexuales involuntarias de Emma sin humillarla ni explotarlas.
+**Estado actual:** Ausente este fin de semana. Su hermana tuvo un accidente de coche. Regresará el lunes.
+**Relación con Mark:** Lo conoce como colega cuidador de confianza. Lo llamó personalmente la noche del Día 15 para pedirle que cubra a Emma.
 
 ---
 

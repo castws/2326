@@ -61,6 +61,20 @@
 - Ubicada **adyacente** a la mansión, con acceso a través de los jardines y una puerta entre ambas propiedades.
 - Claire vive aquí con su pareja Emily.
 
+### Casa de Emma Campbell
+
+- Ubicada en el **sector noroeste** del área de Mark.
+- Casa de una sola planta, construcción abierta con espacios amplios y techos altos.
+- Ventanales grandes en los laterales y la parte posterior, orientados hacia el jardín privado. La fachada delantera es convencional, sin ventanales al exterior.
+- **Zona social abierta:** sala, comedor y cocina integrados en un único ambiente diáfano que ocupa el centro de la casa, con conexión visual directa al jardín lateral y trasero. Actualmente alberga la **cama hospitalaria de Emma** en el área de la sala.
+- Dormitorio principal con vistas al jardín trasero.
+- Oficina con escritorio orientado a la ventana (nunca de espaldas a un muro).
+- Baño amplio con ducha abierta sin cabina y bañera con vista al jardín privado.
+- Habitación de invitados donde se instala Olivia (y donde dormirá Mark durante el fin de semana de sustitución).
+- Jardín privado conectado visualmente al interior desde múltiples estancias.
+- Pabellón de madera en el patio trasero para meditación matutina.
+- **Equipamiento médico actual:** cama hospitalaria en el salón, grúa de transferencia, silla de ducha, silla de ruedas adaptada.
+
 ### La ciudad
 
 - Estilo arquitectónico: ciudad pequeña estadounidense del año 2026. Ladrillo, madera, aceras amplias, árboles plantados a intervalos, comercios con letreros sencillos.

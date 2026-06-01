@@ -51,10 +51,6 @@ Una mujer con una grave enfermedad de la piel (epidermólisis bullosa). Tiene el
 
 Alternativa: solo amputación de brazo, el de la pierna podría ser después.
 
-## Claustrofobia
-
-Encuentro un libro con la historia de Claustrofobia (fue escrito luego de que me congelaran) y le pido a Claire que lo recree para yo representar el papel de Michael.
-
 # Aislada
 
 Una mujer que nació sordomuda. En diferentes momentos de la vida perdió la vista, el brazo izquierdo y contrajo polio en el pie izquierdo. Siempre está con otra mujer, que es a través de quien se comunica. La forma como se comunican es juntando las manos y haciendo movimientos con los dedos. Ella nos debe acompañar incluso para tener intimidad.

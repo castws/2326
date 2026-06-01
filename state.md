@@ -6,16 +6,17 @@
 
 ### Día actual
 
-**Día 15, noche.** Mark acaba de salir del apartamento de Tori y regresa a la mansión.
+**Día 17, mañana.** Mark en casa de Emma (sector noroeste). Acaba de ducharse y revisó mensajes. Emma despierta. Están a punto de salir al mercado dominical.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día ~17**: Patricia inicia rehabilitación con prótesis de gancho ("la semana que viene" desde día 10).
+- **Día 17 (hoy)**: Patricia primera sesión de rehabilitación con prótesis de gancho. ✓ En curso.
+- **Día ~17 (hoy)**: Tori — control Día 77 yesos.
 - **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
-- **Día ~22**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
-- **Día ~38**: Mark se quita el yeso de pierna derecha (~1 mes desde día 8; antes si se aburre).
+- **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
+- ~~**Día ~38**: Mark se quita el yeso de pierna derecha~~ — retirado la noche del Día 15 por Rachel.
 - **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
 
 ### Hitos pasados (referencia)
@@ -39,13 +40,10 @@
 
 ## Mark
 
-- Localización: salón de la mansión.
-- **Yeso pierna derecha:** desde los dedos del pie hasta bajo la rodilla, con tacón de goma. Aplicado por Rachel en el Día 8. Pantalón con pernera derecha cortada. Camina sin muletas.
-- Cubre el yeso con bolsa de plástico para ducharse.
-- Le explicó a Emily que se luxó el tobillo.
-- Plan: dejarse el yeso ~1 mes, o menos si se aburre.
-- **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular.
-- **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori. Transmite pensamientos internos de Tori en voz limpia (sin sustituciones fonéticas). Carga con calor corporal.
+- Localización: casa de Emma, sector noroeste. Acaba de ducharse. A punto de salir al mercado dominical con Emma.
+- **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
+- **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
+- **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
 
 ---
 
@@ -94,29 +92,30 @@
 
 ## Dana
 
-- Localización: mansión de Mark. Primer día de trabajo.
+- Localización: mansión de Mark.
 - Estado físico: brazos amputados a mitad del antebrazo, prótesis de gancho en ambos. Piernas amputadas transtibiales, prótesis en ambas.
-- Rol: nueva asistente doméstica. Se incorpora para ayudar a Rachel con la casa y el cuidado de Sophie.
-- Estado emocional: tranquila, directa, práctica. Sin incomodidad visible. Declinó actuar sobre la erección de Mark ("es el primer día").
+- Rol: asistente doméstica. Se incorporó el Día 15.
+- Estado emocional: tranquila, directa, práctica. Noche del Día 15: durmió con Mark (solo dormir), le acarició el pene con el muñón hasta que se durmió. Lo masturbó durante la ducha esa misma noche.
 
 ---
 
 ## Patricia
 
 - Localización: casa de Hannah, en la ciudad.
-- Estado físico: ambos brazos amputados desde el hombro. Muñón derecho con cicatriz rosada visible, sin gasa.
+- Estado físico: ambos brazos amputados desde el hombro. Muñón derecho con cicatriz rosada, sin gasa.
 - **Estado emocional:** estable y afectuosa. Relación con Mark definida informalmente como "novia". Sabe que hay otra persona.
-- **Habilidad nueva:** aprendió a masturbarse sola frotándose contra superficies (reposabrazos del sillón).
-- Plan: rehabilitación con prótesis de gancho en ambos brazos (~Día 17).
-- Pendiente: próxima visita a la mansión para leer capítulo 2 de Claustrofobia (prometido esta noche).
+- **Habilidad nueva:** aprendió a masturbarse sola frotándose contra superficies. Hannah la ayudó a masturbarse por primera vez (Día 17): Patricia apoyó la cabeza en el hombro de Hannah al terminar; pidió repetirlo mañana.
+- **Día 17:** primera sesión de rehabilitación con prótesis de gancho. Nerviosa pero en curso.
+- Pendiente: próxima visita a la mansión para leer capítulo 2 de Claustrofobia (prometido).
 
 ---
 
 ## Hannah
 
-- En su casa, en su habitación con Ivy (contacto del club esta noche).
+- En su casa, en la ciudad.
 - Personalidad liberal, despreocupada, sin tapujos. Pene funcional visible en ropa ceñida.
 - Cuida de Patricia durante su recuperación.
+- **Día 17:** masturbó a Patricia por primera vez a petición de Mark. Fue bien. Patricia pidió repetirlo. Hannah reconoce que no es solo algo práctico. Configurada por Claire para excitarse al ayudar a Patricia.
 
 ---
 
@@ -150,18 +149,28 @@
 
 ---
 
+## Emma Campbell
+
+- Localización: cama hospitalaria en el salón de su casa. Despierta. Mañana del Día 17.
+- **Estado físico:** Full Body Cast desde los dedos hasta los hombros. Cabeza y cuello libres. Apertura perineal. Posición semi-reclinada, rodillas a 45°. Zona perineal depilada (Día 17, mañana).
+- Olivia ausente hasta el lunes (hermana hospitalizada).
+- Estado emocional: vínculo consolidado con Mark. Primera intimidad desde el inicio del tratamiento (Día 17, durante el baño y depilación). Relajada, sin armadura. Llama a Mark por su nombre sin contexto previo.
+- A punto de salir al mercado dominical con Mark.
+
+---
+
 ## Pendiente / Próximos pasos
 
-1. **Tori:** en su apartamento. Vibrador instalado como rutina diaria. Yesos ~8 semanas (~Día 77). Vecinas del edificio ya saben del pañal.
-2. **Patricia:** en casa de Hannah. Rehabilitación con prótesis de gancho ~Día 17. Próxima visita a la mansión: capítulo 2 de Claustrofobia (prometido).
-3. **Megan:** yesos hasta ~Día 22. Emily cada vez más táctil. Megan considera dar señales sutiles. Mark visitará posiblemente Día 16.
-4. **Dana:** integración con Rachel en curso. Segunda jornada completa pendiente.
-5. Mark sigue con yeso en pierna derecha (~Día 38).
-6. Mark: producción oral del idioma actual en ~2 semanas desde Día 12 (~Día 26).
+1. **Emma:** fin de semana con Mark hasta el lunes (Día 19). Olivia regresa el lunes. Mercado dominical pendiente (Día 17 mañana). Primera intimidad ya ocurrida.
+2. **Patricia:** primera sesión de rehabilitación con prótesis en curso (Día 17). Hannah la masturbó y repiten mañana. Próxima visita a mansión: capítulo 2 de Claustrofobia.
+3. **Megan:** yesos hasta ~Día 22. Emily cada vez más táctil. Megan dio señales sutiles; espera que vuelva a pasar. Mark no visitó el Día 17 (está con Emma).
+4. **Tori:** vibrador como rutina diaria. Yesos ~Día 77. Vecinas saben del pañal. Diane reporta: esta mañana usó vibrador 40 minutos.
+5. **Dana:** integración en curso en la mansión. Durmió con Mark noche Día 15.
+6. Mark: producción oral del idioma actual ~Día 26.
 7. Rachel: no mencionar el tema íntimo por un tiempo.
-8. Sophie: en silla de ruedas reclinable en la mansión. Yesos hasta ~Día 40.
-9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados), localizadas por Claire.
-10. Configuración activa: Hannah entra sin llamar cuando Patricia intente masturbarse sola.
+8. Sophie: yesos hasta ~Día 40.
+9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+10. **Tori:** yeso Día ~22 — revisión (error anterior; los yesos de Tori son hasta ~Día 77, no Día 22).
 
 ## Ciudad — cambios de configuración
 
