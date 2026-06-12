@@ -609,5 +609,23 @@ Mark se levanta a las 5am para cambiar la posición de Emma (ella se despierta b
 
 Mark se ducha. Mensajes: Patricia anuncia primera sesión de rehabilitación con prótesis de gancho y pregunta por el libro. Megan reporta que Emily está intentando impresionarla. Diane informa que Tori usó el vibrador 40 minutos esa mañana. Mark pregunta a Patricia si intentó masturbarse; Hannah responde que sí (dos intentos). Mark le dice a Hannah que hable directamente con Patricia. Hannah lo hace: Patricia acepta con vergüenza y luego con ganas; Hannah la masturba; Patricia apoya la cabeza en su hombro al terminar y pide repetirlo mañana. Mark configura a Claire para que Hannah se excite al ayudar a Patricia. Mark escribe a Megan; ella reporta dos masturbaciones y comportamiento de Emily más táctil. Mark y Emma listos para salir al mercado dominical.
 
-**La conversación termina aquí: Mark y Emma a punto de salir al mercado dominical, mañana del Día 17.**
-**Próximo paso pendiente: mercado dominical con Emma; Olivia regresa el lunes (Día 19); visita a Megan y Patricia pendientes; capítulo 2 de Claustrofobia con Patricia.**
+### Escena 88: Mercado dominical — Día 17, mañana
+
+Mark transfiere a Emma a la silla de ruedas con la grúa de traslado. Le pone el gorro de lana gris de Olivia para proteger el cuello del frío. Van al mercado dominical en vehículo (~5 min). Dos horas recorriendo puestos: pan de centeno, desayuno en el propio mercado. Café en una terraza con sol al salir del mercado. Emma comenta que es la primera vez que entra a esa cafetería. Regresan a casa. La tarde más larga fuera desde que empezó el tratamiento.
+
+### Escena 89: Tarde y noche del Día 17 — loción e intimidad múltiple
+
+De vuelta: botella urinaria, almuerzo cocinado por Mark (receta especial). Emma inventa pretexto de "irritación post-depilación" para que Mark aplique loción en la zona perineal. La situación escala: aplicación de loción → masaje con dedos sobre clítoris y labios → orgasmo de Emma. Luego Emma ofrece oral a Mark. Mark come a Emma simultáneamente (69). Emma tiene un segundo orgasmo durante el 69; Mark se viene en su boca. Por la noche, Emma pide "tratamiento profundo" con rodeos clínicos; penetración con Mark encima → orgasmo simultáneo. Duermen juntos.
+
+### Escena 90: Día 18 — jornada tranquila y segunda noche
+
+Día 18 transcurre con normalidad: desayuno, lectura, película, conversación sin plan concreto. Emma más abierta que el primer día; menos rodeos para pedir lo que necesita (botella, café). Por la noche: Emma usa el pretexto de "loción de antes de dormir"; oral de Emma a Mark; Mark come a Emma; 69 → orgasmo de Emma al mismo tiempo que Mark se viene; posteriormente penetración con orgasmo simultáneo. Duermen juntos.
+
+### Escena 91: Día 19 mañana — regreso de Olivia
+
+Rutina matutina breve. Media hora antes de la llegada de Olivia, Mark y Emma tienen un intercambio tranquilo. Mark se viste. Último beso discreto antes de que llegue Olivia. Olivia llega puntual: hace el traspaso visual del estado de Emma, le dirige a Mark una sonrisa discreta sin comentario. Mark sale.
+
+---
+
+**La conversación termina aquí: Mark sale de casa de Emma al final del Día 19. Olivia ha retomado el cuidado.**
+**Próximo paso pendiente: Mark regresa a la mansión o visita a otra persona; visita pendiente a Patricia (capítulo 2 de Claustrofobia prometido); seguimiento de Megan y Tori; presentación conjunta de las dos mujeres del parque de la ribera.**

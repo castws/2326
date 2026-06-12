@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 17, mañana.** Mark en casa de Emma (sector noroeste). Acaba de ducharse y revisó mensajes. Emma despierta. Están a punto de salir al mercado dominical.
+**Día 19, mañana.** Mark acaba de salir de casa de Emma. Olivia retomó el cuidado. Mark en vehículo, de regreso al área central.
 
 ### Eventos programados (futuros)
 
@@ -40,7 +40,7 @@
 
 ## Mark
 
-- Localización: casa de Emma, sector noroeste. Acaba de ducharse. A punto de salir al mercado dominical con Emma.
+- Localización: en vehículo, de regreso desde casa de Emma. Día 19, mañana.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -151,26 +151,23 @@
 
 ## Emma Campbell
 
-- Localización: cama hospitalaria en el salón de su casa. Despierta. Mañana del Día 17.
-- **Estado físico:** Full Body Cast desde los dedos hasta los hombros. Cabeza y cuello libres. Apertura perineal. Posición semi-reclinada, rodillas a 45°. Zona perineal depilada (Día 17, mañana).
-- Olivia ausente hasta el lunes (hermana hospitalizada).
-- Estado emocional: vínculo consolidado con Mark. Primera intimidad desde el inicio del tratamiento (Día 17, durante el baño y depilación). Relajada, sin armadura. Llama a Mark por su nombre sin contexto previo.
-- A punto de salir al mercado dominical con Mark.
+- Localización: cama hospitalaria en el salón de su casa. Olivia retomó el cuidado (Día 19, mañana).
+- **Estado físico:** Full Body Cast desde los dedos hasta los hombros. Cabeza y cuello libres. Apertura perineal. Posición semi-reclinada, rodillas a 45°. Zona perineal depilada.
+- Estado emocional: vínculo con Mark consolidado y profundizado durante el fin de semana. Más abierta, menos armadura. Múltiples intimidades (Días 17 y 18). Pidió implícitamente que Mark repita ("que vuelva"). Olivia detectó el cambio sin comentarlo.
 
 ---
 
 ## Pendiente / Próximos pasos
 
-1. **Emma:** fin de semana con Mark hasta el lunes (Día 19). Olivia regresa el lunes. Mercado dominical pendiente (Día 17 mañana). Primera intimidad ya ocurrida.
-2. **Patricia:** primera sesión de rehabilitación con prótesis en curso (Día 17). Hannah la masturbó y repiten mañana. Próxima visita a mansión: capítulo 2 de Claustrofobia.
-3. **Megan:** yesos hasta ~Día 22. Emily cada vez más táctil. Megan dio señales sutiles; espera que vuelva a pasar. Mark no visitó el Día 17 (está con Emma).
-4. **Tori:** vibrador como rutina diaria. Yesos ~Día 77. Vecinas saben del pañal. Diane reporta: esta mañana usó vibrador 40 minutos.
-5. **Dana:** integración en curso en la mansión. Durmió con Mark noche Día 15.
+1. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente (a iniciativa de Emma o de Mark).
+2. **Patricia:** rehabilitación con prótesis en curso. Hannah la masturba (configuración activa). Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
+3. **Megan:** yesos hasta ~Día 22. Emily cada vez más táctil. Pendiente visita de Mark.
+4. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
+5. **Dana:** integrada en la mansión. Durmió con Mark noche Día 15.
 6. Mark: producción oral del idioma actual ~Día 26.
 7. Rachel: no mencionar el tema íntimo por un tiempo.
 8. Sophie: yesos hasta ~Día 40.
 9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
-10. **Tori:** yeso Día ~22 — revisión (error anterior; los yesos de Tori son hasta ~Día 77, no Día 22).
 
 ## Ciudad — cambios de configuración
 

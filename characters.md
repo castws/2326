@@ -506,22 +506,33 @@
 
 **Citas memorables:**
 
-- "O muy desesperada. Quince años con claustrofobia severa tienen un coste." _(sobre si fue valiente al aceptar el tratamiento)_
 - "Kentucky tenía demasiadas cuevas." _(explicando por qué se mudó)_
 - "Normalmente Olivia tarda menos en esta parte." _(durante el baño íntimo, Día 16)_
-- "Ha sido el mejor día desde que empezó el tratamiento." _(al final del Día 16)_
 - "No te sobrepasaste. Yo también lo quería." _(tras la primera intimidad, Día 17)_
-- "El Dr. Ballard no tiene que saberlo." _(humor seco tras el orgasmo, Día 17)_
+- "La loción funcionó. / Muy bien." _(después del primer orgasmo con los dedos, Día 17)_
+- "El diagnóstico fue exhaustivo. / Muy exhaustivo." _(después del 69, Día 17 noche)_
+- "La literatura médica se lo está perdiendo." _(después de la penetración nocturna, Día 17)_
+- "Ha sido un buen fin de semana." _(antes de que llegue Olivia, Día 19, sin armadura)_
+
+**Voz / Tics de habla:**
+
+- Inventa pretextos clínicos para pedir contacto íntimo ("irritación post-depilación", "loción de antes de dormir", "diagnóstico", "tratamiento"). Nunca lo pide directamente la primera vez.
+- Cuando está cerca del clímax o ya pasó, las frases se acortan al mínimo: "Más rápido.", "No pares.", "Ya estoy—". La armadura cae por capas.
+- Reutiliza la misma palabra neutra ("Bien.", "Bien.") con significados completamente distintos según el momento; el auricular siempre revela el real.
 
 **Momentos con Mark:**
 
-- Primer día completo: desayuno, baño meticuloso, lectura erótica en voz alta, almuerzo cocinado por Mark, paseo al parque y cafetería (tarde más larga desde el inicio del tratamiento) _(Día 16, escenas 81-83)_.
-- Noche del Día 16: lectura del último capítulo de la novela (Emma llega al orgasmo sola escuchando), cena, película juntos, conversación de una hora; buenas noches sin armadura _(Día 16, escenas 84-85)_.
-- Primera intimidad: depilación escalando a penetración completa dentro del yeso; clímax simultáneo; Emma dice "no pares" y "dentro, por favor" _(Día 17, escena 86)_.
+- Primer día completo: desayuno, baño meticuloso, lectura erótica en voz alta, almuerzo cocinado por Mark, paseo al parque y cafetería _(Día 16, escenas 81-83)_.
+- Noche del Día 16: último capítulo de la novela, cena, película, conversación de una hora; buenas noches sin armadura _(Día 16, escenas 84-85)_.
+- Primera intimidad: depilación escalando a penetración; clímax simultáneo _(Día 17, escena 86)_.
+- Mercado dominical: dos horas fuera, café en terraza, la más larga desde el inicio del tratamiento _(Día 17, escena 88)_.
+- Tarde y noche del Día 17: pretexto de loción → masaje → orgasmo; oral mutuo (69); penetración nocturna. Múltiple intimidad en un mismo día _(Día 17, escena 89)_.
+- Día 18 completo: jornada tranquila, nueva noche de intimidad (69 + penetración) _(Día 18, escena 90)_.
+- Despedida antes de que regrese Olivia: último beso, "ha sido un buen fin de semana" sin rodeos _(Día 19, escena 91)_.
 
 **Relación con Mark:**
 
-- Fin de semana de sustitución de Olivia. Primer día: vínculo construido con rapidez. Día 17: primera intimidad. Olivia regresa el lunes. Emma solicitó que Mark repita cuando ella lo necesite.
+- Fin de semana completo (Días 17-18) de sustitución de Olivia. Vínculo profundizado con rapidez. Múltiples intimidades. Emma pidió implícitamente que Mark repita. Olivia retomó el cuidado el Día 19.
 
 ---
 
