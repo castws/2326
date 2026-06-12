@@ -21,6 +21,7 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - Solo las escenas ocurridas desde el último guardado
    - Formato idéntico al existente: título breve + párrafo de resumen
    - Actualizar la nota al final del archivo con el momento actual exacto y el próximo paso pendiente
+   - **Solo añadir.** Nunca consolidar ni archivar escenas en un checkpoint (eso es exclusivo de `/close-session`).
 
 3. **Actualizar solo las secciones de `state.md` que hayan cambiado**:
    - Ubicación de personajes si se movieron
@@ -33,11 +34,11 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - Añadir al final del archivo los intercambios ocurridos desde el último checkpoint, respetando el formato existente (separadores `---`, negrita para diálogos, cursiva para descripciones).
    - No duplicar contenido ya guardado.
 
-5. **`characters.md` — toque ligero**:
-   - Si apareció un personaje nuevo: añadir su ficha completa, incluyendo las secciones **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**.
-   - Si hubo un cambio permanente en un personaje existente: actualizar los campos descriptivos.
-   - Si en lo recién ocurrido apareció una **cita memorable** clara o un **tic de habla** nuevo y evidente, añadirlo (1 línea cada uno). Si no es evidente, dejarlo para `/close-session`.
-   - **No** añadir entradas a "Momentos con Mark" en checkpoints — eso queda para el cierre, cuando ya existe la referencia a la escena en `scene_log.md`.
+5. **Fichas de personajes — toque ligero**:
+   - Si apareció un personaje nuevo: crear `personajes/<nombre-kebab>.md` con la ficha completa (incluyendo **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**) y añadir su línea al índice `characters.md`.
+   - Si hubo un cambio permanente en un personaje existente: actualizar los campos descriptivos en **su** archivo `personajes/<nombre>.md` (y su ficha mínima en el índice si cambió).
+   - Si en lo recién ocurrido apareció una **cita memorable** clara o un **tic de habla** nuevo y evidente, añadirlo (1 línea cada uno) en el archivo del personaje. Si no es evidente, dejarlo para `/close-session`.
+   - **No** añadir entradas a "Momentos con Mark", **no consolidar la ventana de escenas ni mover personajes de nivel** en checkpoints — eso queda para el cierre.
 
 6. **Confirmar al usuario** con un mensaje breve de una línea:
 

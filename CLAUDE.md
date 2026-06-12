@@ -49,7 +49,7 @@ Los robots que interactúan con Mark simulan autonomía completa: se comportan c
 
 Cuando Mark se dirige a Claire por su nombre con una instrucción de configuración (crear un personaje nuevo, modificar atributos físicos o de personalidad de un robot existente, ajustar reglas o elementos del mundo, cambiar la composición de la ciudad, etc.), Claude debe — además de responder en personaje como Claire — editar inmediatamente los archivos correspondientes para reflejar el cambio:
 
-- Cambios sobre personajes (incluyendo creación de nuevos): editar `characters.md`.
+- Cambios sobre personajes (incluyendo creación de nuevos): editar la ficha del personaje en `personajes/<nombre>.md` (crear el archivo si es nuevo). Actualizar también su línea en el índice `characters.md` si cambia su ficha mínima (apariencia clave, condición física, estado/ubicación) o su nivel de carga (núcleo / activo en arco / en pausa / archivado).
 - Cambios sobre el mundo, la ciudad, la mansión o reglas globales: editar `world.md`.
 - Si el cambio afecta el estado actual de la escena: actualizar también `state.md`.
 
@@ -64,7 +64,7 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 
 ## Coherencia entre sesiones
 
-Al final de cada sesión, actualizar `state.md`, `scene_log.md`, `characters.md` (si hubo personajes nuevos o cambios permanentes) y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.
+Al final de cada sesión, actualizar `state.md`, `scene_log.md`, la ficha de cada personaje que intervino en `personajes/<nombre>.md` y el índice `characters.md` (si hubo personajes nuevos, cambios de nivel de carga o cambios permanentes), y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.
 
 ## Consistencia temporal
 
@@ -100,17 +100,34 @@ El transcript completo de cada sesión se guarda en `conversaciones/sesion_NN_YY
 Leer antes de comenzar, en este orden:
 
 1. `world.md`
-2. `characters.md`
-3. `state.md`
-4. `scene_log.md`
+2. `characters.md` (el índice de personajes)
+3. Las fichas `personajes/<nombre>.md` de los personajes listados bajo **Núcleo permanente** y **Activos en el arco actual** en el índice.
+4. `state.md`
+5. `scene_log.md` (la ventana activa de escenas)
 
-**No leer** `characters_archive.md` salvo que Mark indique explícitamente que quiere retomar o invocar a uno de los personajes archivados. En ese caso, leerlo para recuperar su ficha completa y reincorporarlo a `characters.md`.
+**No leer al inicio** (consultar solo on-demand):
+
+- Las fichas de personajes bajo **En pausa** o **Archivados** en el índice. Abrir la ficha de un personaje **en pausa** en el momento en que entra en escena, y mover su línea del índice a "Activos en el arco actual". Abrir la de un **archivado** solo si Mark pide explícitamente reincorporarlo (entonces mover su línea a "Activos en el arco actual").
+- `scene_log_archive.md`: escenas antiguas (verbatim) ya consolidadas. Leerlo solo si se necesita un detalle de un día que ya no está en la ventana activa; el índice día-a-día está en `state.md` → "Hitos pasados".
+
+## Estructura de la memoria de personajes
+
+- **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Mark). El contenido de una ficha **nunca se mueve**: un personaje cambia de relevancia solo moviendo su línea en el índice, no cortando y pegando su ficha.
+- **`characters.md`** — índice/roster en cuatro niveles de carga: **Núcleo permanente** (Claire, Rachel, Sophie, Dana), **Activos en el arco actual**, **En pausa** y **Archivados**. Cada línea: nombre enlazado a su archivo + ficha mínima (apariencia clave + condición física + estado/ubicación).
+- **Promover / pausar** (se mantiene en `/close-session`): cuando un personaje en pausa entra en escena → su línea pasa a "Activos en el arco actual". Cuando un arco cierra o un personaje no aparecerá en las próximas sesiones → su línea pasa a "En pausa".
+
+## Ventana del registro de escenas
+
+- **`scene_log.md`** contiene en detalle las escenas de la **ventana activa**: día actual + ~7 días previos (≈ las últimas ~25 escenas).
+- **`scene_log_archive.md`** guarda verbatim las escenas más antiguas, ya consolidadas; no se carga al inicio.
+- El **índice día-a-día** vive en `state.md` → "Hitos pasados": una línea por día, siempre cargada, que apunta al archivo. Por eso archivar escenas viejas es seguro: toda consecuencia durable ya está volcada en `state.md`.
+- **Consolidación** (se ejecuta en `/close-session`): tras registrar las escenas nuevas, las que queden fuera de la ventana se mueven a `scene_log_archive.md`, comprobando que "Hitos pasados" cubre cada día archivado. El tamaño de la ventana (~7 días) es ajustable: ensancharlo si un arco reciente se está archivando demasiado pronto.
 
 ## Inicio de sesión
 
 Cuando el usuario indique que comienza una nueva sesión (con frases como "nueva sesión", "continuemos", "seguimos" o similares):
 
-1. Leer los archivos de referencia en el orden indicado arriba.
+1. Leer los archivos de referencia en el orden indicado arriba (solo las fichas de los personajes de **Núcleo permanente** y **Activos en el arco actual**; no las de personajes en pausa o archivados).
 2. Responder con un resumen de orientación breve antes de continuar la historia:
    - Dónde está Mark y qué estaba a punto de ocurrir
    - Estado físico relevante de los personajes presentes

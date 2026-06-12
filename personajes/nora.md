@@ -1,23 +1,4 @@
-# Personajes Archivados
-
-Personajes que no volverán a aparecer. Referenciados brevemente en `characters.md`.
-
----
-
-## Ashley
-
-**Tipo:** Robot (personaje secundario, primera escena)
-**Apariencia:** Unos 22 años aparentes. Cabello negro. Ojos oscuros. En silla de ruedas.
-**Estado en la primera escena:** Pierna derecha enyesada desde la cadera hasta la punta del pie. Brazo izquierdo enyesado hasta el hombro. Vestía bata de hospital. Historia de accidente de bicicleta.
-**Rol:** Apareció en la habitación de hospital durante la primera escena para compañía de Mark. No ha vuelto a aparecer.
-
-**Momentos con Mark:**
-
-- Aparece en la habitación de hospital simulada; cuenta la historia del accidente de bicicleta. Claire le da masaje a ella también _(Día 1, escena 2)_. Único registro.
-
----
-
-## Nora
+# Nora _(archivada)_
 
 **Tipo:** Robot (habitante de la ciudad)
 **Apariencia:** 20 años aparentes. Cabello negro muy corto, casi rapado por los lados. Ojos oscuros, casi negros. Piel oscura. Delgada, estatura media. Vagina.
@@ -43,28 +24,3 @@ Personajes que no volverán a aparecer. Referenciados brevemente en `characters.
 **Momentos con Mark:**
 
 - Primera cita en el Café Elm y cena en la mansión: presentación, Mark le confiesa que su yeso es voluntario y que enyesa a una mucama como proyecto artístico. Nora reacciona sin juicio. Visita a la mansión, conoce a Sophie enyesada y la habitación de yesos. Sin química suficiente: vuelve a su casa al final de la noche sin intimidad _(Día 10, escena 37)_.
-
----
-
-## Becca
-
-**Tipo:** Robot (habitante de la ciudad, cita puntual)
-**Apariencia:** 21 años aparentes. Cabello rubio muy claro liso y largo. Ojos azules. Cara redonda. Delgada.
-**Amputación:** Pierna derecha amputada por debajo de la rodilla (sierra de banco a los 16 años, accidente en el taller de su madre). Usa prótesis de pierna.
-**Personalidad:** Directa y sin nervios. Sociable. Habla de su amputación sin incomodidad.
-**Profesión:** Carpintera.
-**Relación con Mark:** Una cita en el café de la calle Elm. Sin química particular. Mark la encontró insuficiente (solo una amputación baja). Retirada del listado activo.
-
-**Voz / Tics de habla:**
-
-- Directa, sin preámbulos. Responde y devuelve la pregunta con naturalidad.
-- Sin drama al hablar del accidente: dato, pausa, sigue.
-
-**Citas memorables:**
-
-- "Llegaste antes que yo, eso no pasa seguido." _(primer saludo en el café — Día 10)_
-- "Vaya par estamos." _(al ver el yeso de Mark — Día 10)_
-
-**Momentos con Mark:**
-
-- Cita en el café de la calle Elm: conversación sobre carpintería y la amputación. Sin conexión especial _(Día 10, escena 36)_.
