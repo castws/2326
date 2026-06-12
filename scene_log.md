@@ -629,3 +629,24 @@ Rutina matutina breve. Media hora antes de la llegada de Olivia, Mark y Emma tie
 
 **La conversación termina aquí: Mark sale de casa de Emma al final del Día 19. Olivia ha retomado el cuidado.**
 **Próximo paso pendiente: Mark regresa a la mansión o visita a otra persona; visita pendiente a Patricia (capítulo 2 de Claustrofobia prometido); seguimiento de Megan y Tori; presentación conjunta de las dos mujeres del parque de la ribera.**
+
+---
+
+## Día 19 — Mañana (continuación)
+
+### Escena 92: Vehículo y cafetería — configuraciones de Claire, mensajes (Día 19, mañana)
+
+Mark, en el vehículo de regreso desde casa de Emma, escribe a Claire con cuatro instrucciones de configuración: (1) activar arco romántico gradual entre Emily y Megan, con base en que Emily descubrió que cuidar a alguien dependiente la excita y que los yesos y amputaciones son parte de esa atracción (la masturbación del aseo fue el primer acto de esa atracción); (2) activar arco romántico gradual entre Hannah y Patricia, a partir de la tensión surgida tras la primera masturbación; (3) en ambos casos, la relación no excluye encuentros íntimos con Mark; (4) simular que Rachel cae de una escalera y se fractura ambos húmeros — doble shoulder spica — y que Dana llamará a Mark al hospital para ir a recogerla. Claire confirma todos los cambios y ejecuta.
+
+Mark llega a una cafetería de ladrillo oscuro en la calle principal del centro. Revisa mensajes: Megan reporta que Emily le preparó dos platos para elegir en el desayuno (comportamiento distinto al habitual) y pregunta a qué hora va Mark; Hannah/Patricia informan de la sesión de rehabilitación con prótesis a las 10h; Diane reporta que Tori usó el vibrador 25 minutos la noche anterior y de nuevo esa mañana.
+
+Mark responde a los tres: a Megan dice que puede ir en una hora y le pregunta si querría quedarse con los yesos más tiempo del acordado; a Patricia le pide que le escriba directamente (como ejercicio de rehabilitación) y que tiene una pregunta privada; a Diane le manda saludos para Tori (Diane los transmite; Tori responde con dos parpadeos largos).
+
+Patricia escribe directamente con el gancho por primera vez (errores tipográficos visibles). Mark le pregunta si se ha masturbado sola desde la vez en su casa. Patricia responde que sola no, pero con ayuda de Hannah sí, dos veces más desde la primera. Describe el proceso: Hannah le pone la mano donde necesita y espera a que Patricia marque el ritmo, sin comentarios; la primera vez Patricia se apoyó en su hombro al terminar. Cada sesión posterior ha durado más que la anterior. Mark dice que le excita imaginarlo y pregunta cómo se lo toma Hannah y cómo lo hace. Patricia responde con honestidad: Hannah simplemente lo hace, no para, tardó más de lo necesario esta mañana. Mark pregunta cómo se siente Patricia al respecto. Patricia responde que no se siente incómoda, que Hannah huele bien (lo dice como algo raro pero verdadero), que no sabe qué significa. Mark cierra diciendo que es curioso, que se verán pronto y que quiere que le muestre lo que puede hacer con sus nuevas manos. Patricia responde que son "un gancho y medio" y que tiene que ir a la sesión.
+
+Megan confirma que sí quiere quedarse con los yesos más tiempo. Añade que Emily le preguntó ayer si el yeso pesaba al final del día y que la pregunta le pareció distinta a las de antes.
+
+---
+
+**La conversación termina aquí: Mark en la cafetería del centro, Día 19, mañana. Va a visitar a Megan en aproximadamente una hora (Emily sale al mercado a las 11:30).**
+**Próximo paso pendiente: visita a Megan en el apartamento. Rachel tendrá el accidente en algún momento del Día 19; Dana llamará a Mark. Visita pendiente a Patricia con capítulo 2 de Claustrofobia.**

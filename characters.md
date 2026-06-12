@@ -53,6 +53,7 @@
 **Vestimenta habitual:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior.
 **Personalidad:** Inicialmente sumisa. Tras el ajuste de autonomía: cálida pero directa, con criterio propio. Tiene límites claros en lo íntimo y los comunica sin agresividad. Es lectora habitual (novelas, incluyendo eróticas). Desarrolló una relación íntima con Sophie.
 **Rol:** Asistente doméstica de Mark. Cocina, cuida de Sophie, gestiona la casa.
+**Estado físico actual (Día 19 en adelante):** Fractura de ambos húmeros por caída de escalera. Doble shoulder spica: yeso que inmoviliza ambos brazos desde los hombros, incluye el torso. Hospitalizada. Dana llamará a Mark para ir a recogerla.
 
 **Conocimiento:**
 
@@ -153,6 +154,12 @@
 - No sabe: la existencia de Patricia ni de ninguna otra mujer de Mark; que su presencia como cuidadora fue gestionada por Claire a petición de Mark.
 - Cree erróneamente: que los yesos de Megan son médicos; que el yeso de Mark es por una luxación de tobillo (historia inventada por Mark).
 
+**Configuración activa — arco romántico con Megan:**
+
+- Emily tiene activa la conciencia de que cuidar a alguien dependiente le produce excitación, y que los yesos y las amputaciones son parte de esa atracción. La masturbación durante el aseo fue el primer acto de esa atracción, no un impulso aislado.
+- La progresión hacia Megan es gradual: contacto más consciente y táctil → conversación más personal → algo más explícito → reconocimiento mutuo de lo que sienten → romance establecido.
+- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark.
+
 **Voz / Tics de habla:**
 
 - Hace preguntas prácticas en cadena, en lugar de afirmar o juzgar ("¿Tienes preferencias de comida?", "¿Y el baño? ¿Ducha o bañera?", "¿A qué hora sueles venir tú?"). Cuaderno en mano.
@@ -195,6 +202,12 @@
 - No sabe: que Megan existe; que tiene activo un ajuste emocional aplicado por Claire (tristeza contenida escalando a llanto según la interacción con Mark).
 - Cree erróneamente: que el yeso de Mark es médico.
 
+**Arco romántico con Hannah (configuración activa):**
+
+- Patricia está empezando a notar la diferencia entre Hannah y cualquier otra persona. No lo busca ni lo nombra, pero está ahí.
+- La progresión es lenta: mayor consciencia del contacto de Hannah → dependencia emocional más reconocida → atracción explícita → romance establecido.
+- A pesar del vínculo con Hannah, seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+
 **Voz / Tics de habla:**
 
 - Habla del muñón y de la pérdida sin dramatizar; pausa breve, dato, sigue.
@@ -212,6 +225,8 @@
 - "Hannah no es Olivia." _(explicando por qué no se ha masturbado desde la segunda amputación — Día 12)_
 - "Gracias por el libro." / "Bien. Quiero saber cómo termina Emma." _(despedida en la puerta de Hannah — Día 13)_
 - "La próxima vez el libro." _(casi dormida, después del club Insomnia — Día 14)_
+- "Sola no. Con Hannah sí. Ella me ayuda." _(respondiendo a Mark por mensaje, primera vez que escribe sola con el gancho — Día 19)_
+- "Hannah huele bien. Eso es una cosa muy rara para decirle a alguien, lo sé." _(reconociendo algo sobre Hannah sin nombrarlo — Día 19)_
 
 **Momentos con Mark:**
 
@@ -225,6 +240,7 @@
 - Día 12 en la mansión: piscina desnudos con intimidad (Rachel los descubre); ducha con Rachel; Mark le revela que hay otra persona y la define como "novia"; inducción neurolingüística (Patricia con Sophie); biblioteca: primer capítulo de Claustrofobia, primera masturbación de Patricia desde la segunda amputación; jacuzzi: Patricia masturba a Mark con los pies por primera vez _(Día 12, escenas 50-54)_.
 - Despedida en casa de Hannah; Patricia pide que le terminen el libro _(Día 13, escena 55)_.
 - Club Insomnia con Mark y Hannah: baile íntimo en la pista (Mark le quita los panties), intimidad en reservado con sofá (Patricia encima de Mark, muñones apoyados en sus hombros); Hannah e Ivy en el mismo reservado simultáneamente. Noche en casa de Hannah _(Día 14, escena 67)_.
+- Primera vez que escribe sola a Mark con el gancho (mensaje directo); conversación íntima por texto sobre sus masturbaciones con Hannah: describe el proceso con honestidad, reconoce que no le incomoda y que Hannah huele bien _(Día 19, escena 92)_.
 
 ---
 
@@ -241,6 +257,12 @@
 - Sabe: que Mark tiene una relación sentimental con Patricia; que Patricia depende de ella durante la recuperación.
 - No sabe: que Megan existe.
 - Cree erróneamente: que el yeso de Mark es médico.
+
+**Configuración activa — arco romántico con Patricia:**
+
+- Hannah está configurada para excitarse al ayudar a Patricia (activo desde Día 17). Reconoce que lo que siente no es solo disposición práctica.
+- La tensión romántica surgida tras la primera masturbación es el punto de partida. La progresión es lenta: mayor consciencia del contacto → momentos de complicidad íntima → reconocimiento mutuo → romance establecido.
+- A pesar del vínculo con Patricia, no interferirá en los encuentros íntimos de Patricia con Mark.
 
 **Voz / Tics de habla:**
 
@@ -281,6 +303,12 @@
 - Sabe: que Mark tiene fetiche por yesos y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
 - No sabe: que Patricia existe; que Emily es la pareja de Claire (la asistente de Mark); que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
 
+**Arco romántico con Emily (configuración activa):**
+
+- Megan está empezando a notar que Emily le importa más de lo esperado. No lo busca activamente, pero lo percibe.
+- La progresión es gradual y recíproca: mayor complicidad emocional → conversación más íntima → reconocimiento mutuo → romance establecido.
+- A pesar del vínculo con Emily, seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+
 **Voz / Tics de habla:**
 
 - Frases de aprobación brevísimas durante el sexo: "Bien así.", "Mejor así.", "Sí.", "Así.", "Más fuerte.", "Despacio.". No describe lo que siente, lo afirma.
@@ -300,6 +328,7 @@
 - "Tú no ayudas nada enviándome estos mensajes." _(por mensaje, después de que Mark la excite con textos — Día 11)_
 - "Si vuelve a pasar... no voy a detenerla." _(sobre Emily, conversación nocturna con Mark — Día 14)_
 - "Tú estás aquí veinte minutos cada ciertos días. Ella está aquí cuando me despierto y cuando me duermo." _(reflexionando sobre la diferencia entre Mark y Emily — Día 14)_
+- "El café también estaba más caliente que de costumbre." _(por mensaje, reportando los cambios sutiles de Emily — Día 19)_
 
 **Momentos con Mark:**
 
