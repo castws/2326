@@ -241,7 +241,27 @@ Durante la intimidad, Mark menciona espontáneamente que si Megan perdiera el ot
 
 Al salir del edificio de Megan, Mark recibe mensaje de Dana: Rachel cayó de una escalera cambiando una bombilla en el pasillo, fractura de ambos húmeros, en urgencias esperando subir a planta. Dana confirma poder con la casa y con Sophie sola; añade que Rachel preguntó por Mark antes de que la llevaran. Mark toma un vehículo autónomo al hospital central. Llega a urgencias. La escena queda abierta: una enfermera en el mostrador le pregunta a quién busca.
 
+### Escena 96: Visita a Rachel — habitación 214 (Día 19, tarde)
+
+En el mostrador de urgencias, una enfermera de unos 23 años con pelo negro en trenza baja y yeso corto en la muñeca izquierda busca a Rachel en el sistema. La encuentra bajo el apellido **Holt**. Rachel Holt está en la habitación 214, segunda planta. Mark sube.
+
+Rachel está semiincorporada en la cama hospitalaria, espalda contra la cabecera elevada. El yeso es masivo: cubre el torso completo desde las caderas y se extiende por ambos brazos hasta los codos, en abducción a los lados. Bata de hospital abierta por la espalda, cabello rubio suelto sobre el yeso (no puede apartárselo). Primer comentario de Rachel: "igual que alguien con los dos brazos pegados al cuerpo." Confirma que Dana llamó. Pide agua; Mark le da vaso con pajita. Pregunta por Sophie.
+
+Mark sale al corredor y pide a una enfermera de pelo cobrizo con prótesis de gancho en el brazo derecho que llame a la doctora. Vuelve a la habitación. Rachel menciona que no puede dormir de lado y que Dana no sabe aún cómo funciona todo con Sophie.
+
+Llega la doctora Mills (~27 años aparentes, pelo castaño oscuro a la mandíbula, gafas de montura fina, bata blanca sobre blusa verde, yeso corto en la pierna derecha visible bajo el pantalón del uniforme, camina con leve asimetría). Diagnóstico: doble fractura de húmero, yeso 6-8 semanas, inmovilización total de ambos brazos, necesita ayuda para todo. Mark dice que tiene alguien en casa. Cuando Mark ofrece bañarla él mismo, Rachel dice "No" sin más. La doctora Mills confirma el alta posible al día siguiente si el dolor se mantiene estable y se retira. Mark se despide de Rachel y sale del hospital.
+
+### Escena 97: Claire — compra del Creston Medical Center y creación de Mira (Día 19, tarde)
+
+Mark va directamente a casa de Claire. Le informa que Rachel está estable y enyesada por buen tiempo. Le da dos instrucciones:
+
+1. **Compra del Creston Medical Center:** simular que Mark adquirió el hospital central de la ciudad (Creston Medical Center) a partir de hoy, Día 19. El personal recibe la notificación de cambio de titularidad internamente. Mark le contará a Megan por su cuenta.
+
+2. **Nueva personaje — Mira:** mujer de 25 años con epidermólisis bullosa para la app de citas. Cuerpo completamente vendado (ojos azules y boca visibles), sin cabello ni orejas, senos grandes. Brazo derecho amputado al codo (cáncer). Todos los dedos de la mano izquierda y los pies amputados. Pene amputado a la mitad de la longitud; pene y testículos también vendados. Pies en posición fija ~90° ligeramente hacia adentro, rodillas con movilidad limitada, codo y muñeca izquierdos fijos ~90°. Sin zapatos ni ropa interior. Silla de ruedas eléctrica (joystick con muñón derecho). Habla con dicción cuidadosa por microstomia; vendas no cubren la boca. Caricias suaves puede recibirlas; penetración y sexo oral directo no. Se masturba con vibrador sobre las vendas (intensidad mínima, poco frecuente); June la ayuda y en algunas ocasiones se han masturbado juntas. Usa sonda en primera cita. Personalidad alegre, directa, romántica; le gusta dibujar; sale sola en silla de ruedas para sentirse independiente. Sabe que su caso es el más extremo documentado en la literatura médica. Vive con su hermana June (27 años, cuidadora de apoyo, sin atracción hacia Mark ni Mira; vida detenida en torno al cuidado).
+
+Tras varias correcciones de detalle (ojos azules, boca sin vendas, caricias suaves permitidas, sin pelo corto en el perfil de la app, rodillas con movilidad limitada, pies ligeramente hacia adentro), el personaje queda activo en la app. Claire sugiere: que Mira tenga una relación compleja con ser estudiada vs. recibir interés personal genuino; que June cargue algo no nombrado por años de cuidado. Mark aprueba ambas sugerencias y se incorporan a la ficha.
+
 ---
 
-**La conversación termina aquí: Mark en urgencias del hospital central, Día 19 tarde, preguntando por Rachel (doble shoulder spica).**
-**Próximo paso pendiente: Ver a Rachel hospitalizada. Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan reflexionando sobre amputación voluntaria (~Día 29 para quitarse los yesos).**
+**La conversación termina aquí: Mark en casa de Claire, final del Día 19. Mira activa en la app. Creston Medical Center figura como propiedad de Mark.**
+**Próximo paso pendiente: Rachel recibe el alta al Día 20 si el dolor es estable (Dana la bañará). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan reflexionando sobre amputación voluntaria (~Día 29 para quitarse los yesos). Primera aparición posible de Mira en la app.**

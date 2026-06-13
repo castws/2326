@@ -85,7 +85,7 @@
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
   - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
-- Infraestructura: hospital central (dos plantas, tecnología 2026 en apariencia, 2326 por dentro), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares.
+- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares.
 - Todos los vehículos son autónomos.
 - App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.

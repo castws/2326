@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 19, tarde.** Mark está en urgencias del hospital central, va a ver a Rachel (doble shoulder spica).
+**Día 19, tarde-noche.** Mark acaba de salir de casa de Claire. Rachel hospitalizada (habitación 214, segunda planta). Mira activa en la app de citas. Creston Medical Center figura como propiedad de Mark.
 
 ### Eventos programados (futuros)
 
@@ -62,8 +62,10 @@
 
 ## Rachel
 
-- **Estado físico (Día 19):** Fractura de ambos húmeros por caída de escalera. Doble shoulder spica (inmovilización total de ambos brazos y hombros, yeso incluye el torso). Hospitalizada en planta (subiendo desde urgencias).
-- **Pendiente:** Mark en camino a recogerla.
+- **Apellido:** Holt.
+- **Estado físico (Día 19):** Fractura de ambos húmeros. Doble shoulder spica (torso + ambos brazos en abducción hasta los codos). Hospitalizada en habitación 214, segunda planta.
+- **Alta prevista:** Día 20 si el dolor se mantiene estable.
+- **Baño en casa:** Dana se encargará (Rachel rechazó a Mark).
 - Sigue con relación íntima activa con Sophie.
 
 ---
@@ -164,15 +166,16 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Rachel:** doble shoulder spica. Mark en urgencias del hospital para recogerla (Día 19, tarde).
-2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria del brazo derecho. Próximos yesos pedidos: pierna hasta cadera, brazo hasta hombro. Arco romántico con Emily activo.
-3. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
-4. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
-5. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
-6. **Dana:** integrada en la mansión.
-7. Mark: producción oral del idioma actual ~Día 26.
-8. Sophie: yesos hasta ~Día 40.
-9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+1. **Rachel:** alta prevista Día 20. Dana la bañará en casa. Sophie necesitará más atención con Dana al mando.
+2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria del brazo derecho. Próximos yesos pedidos: pierna hasta cadera, brazo hasta hombro. Arco romántico con Emily activo. Mark le contará la compra del Creston Medical Center.
+3. **Mira:** nueva personaje activa en la app de citas. Primera aparición pendiente.
+4. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
+5. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
+6. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
+7. **Dana:** integrada en la mansión. Cubrirá a Rachel mientras esté hospitalizada.
+8. Mark: producción oral del idioma actual ~Día 26.
+9. Sophie: yesos hasta ~Día 40.
+10. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
 
 ## Ciudad — cambios de configuración
 

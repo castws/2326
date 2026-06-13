@@ -1,6 +1,7 @@
 # Rachel
 
 **Tipo:** Robot (asistente doméstica de Mark)
+**Apellido:** Holt.
 **Apariencia:** Cabello rubio largo hasta la cintura. Ojos verdes. Complexión delgada con curvas marcadas. Senos medianos o medianamente grandes.
 **Vestimenta habitual:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior.
 **Personalidad:** Inicialmente sumisa. Tras el ajuste de autonomía: cálida pero directa, con criterio propio. Tiene límites claros en lo íntimo y los comunica sin agresividad. Es lectora habitual (novelas, incluyendo eróticas). Desarrolló una relación íntima con Sophie.
@@ -42,3 +43,4 @@
 - Aplica el yeso largo a Megan en la cocina, después el yeso a Mark en la nueva habitación de yesos _(Día 8, escenas 18 y 21)_.
 - Conversación clave en la ducha sobre límites íntimos: pide a Mark que no insista por un tiempo _(Día 9, escena 24)_.
 - Se desnuda y entra a bañar a Patricia en la ducha del Día 12 sin previo aviso, con la misma lógica práctica de siempre; cuando Patricia le pregunta si nunca hace algo más que bañar a Mark, responde "No" sin más _(Día 12, escena 51)_.
+- Hospitalizada con doble shoulder spica (habitación 214). Primer comentario a Mark: "igual que alguien con los dos brazos pegados al cuerpo." Pide agua con pajita. Rechaza que Mark la bañe ("No", sin justificación). Acepta que Dana lo haga _(Día 19, escena 96)_.
