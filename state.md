@@ -6,16 +6,13 @@
 
 ### Día actual
 
-**Día 19, mañana.** Mark está en una cafetería del centro de la ciudad. Va a visitar a Megan en aproximadamente una hora (Emily sale al mercado a las 11:30). Rachel tendrá el accidente en algún momento de hoy.
+**Día 19, tarde.** Mark está en urgencias del hospital central, va a ver a Rachel (doble shoulder spica).
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 17 (hoy)**: Patricia primera sesión de rehabilitación con prótesis de gancho. ✓ En curso.
-- **Día ~17 (hoy)**: Tori — control Día 77 yesos.
-- **Día 19 (hoy):** Rachel cae de una escalera y se fractura ambos húmeros. Doble shoulder spica. Dana llamará a Mark para ir a recogerla al hospital.
-- **Día ~22**: Megan se quita los yesos (2 semanas desde día 8, según lo que dijo en Escena 20).
+- **Día ~29**: Megan se quita los yesos (extendió 1 semana más en Día 19).
 - **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
 - ~~**Día ~38**: Mark se quita el yeso de pierna derecha~~ — retirado la noche del Día 15 por Rachel.
 - **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
@@ -36,12 +33,17 @@
 - **Día 12**: Patricia duerme y pasa el día en la mansión. Piscina con intimidad (Rachel los descubre). Ducha con Rachel (bañó a Patricia también). Inducción neurolingüística completada (Lena, 4 horas). Patricia se masturba por primera vez desde la segunda amputación (biblioteca, libro Claustrofobia). Jacuzzi: Patricia masturba a Mark con los pies; intimidad. Noche juntos.
 - **Día 13**: Mark lleva a Patricia a casa de Hannah; despedida afectuosa. Visita a Claire: creación de Tori. Primera cita con Tori en restaurante. Primera intimidad de Tori.
 - **Día 14**: Tori pasa la noche en la mansión. Intimidad en piscina. Accidente simulado por Claire. Tori hospitalizada con shoulder spica + minerva (una pieza), mandíbula con alambre, pañal. Mark adquiere auricular de pensamientos. Primera visita al hospital. Visita nocturna a Megan (conversación sobre Emily). Salida a Club Insomnia con Patricia y Hannah; intimidad en reservado; Hannah con Ivy. Noche en casa de Hannah con Patricia.
+- **Día 15**: Dana llega a la mansión (nueva mucama, brazos y piernas amputados, ganchos y prótesis). Tori recibe el alta al apartamento 204 (Diane cuidadora). Mark visita a Tori: lectura de Claustrofobia, intimidad, paseo al parque sin vestirla (pañal), vibrador anal instalado. Yeso de Mark retirado. Noche con Dana.
+- **Día 16**: Mark cubre a Olivia como cuidador de Emma (fin de semana). Primera jornada: baño íntimo, lectura de novela erótica, paseo al parque y cafetería, película.
+- **Día 17**: Segunda jornada con Emma: depilación que escala a primera intimidad. Patricia: primera sesión de rehabilitación con prótesis; Hannah la masturba por primera vez. Megan: Emily cada vez más táctil.
+- **Día 18**: Tercera jornada con Emma: intimidades múltiples. Emma más abierta.
+- **Día 19**: Olivia retoma el cuidado de Emma; despedida discreta. Mark en cafetería: configura arcos románticos Emily/Megan y Hannah/Patricia, y accidente de Rachel. Visita a Megan: intimidad; conversación sobre Emily y amputación voluntaria del brazo derecho (en reflexión); yesos extendidos a ~Día 29. Rachel fractura ambos húmeros (caída de escalera) → doble shoulder spica, hospitalizada. Mark en urgencias del hospital.
 
 ---
 
 ## Mark
 
-- Localización: cafetería del centro de la ciudad. Día 19, mañana.
+- Localización: urgencias del hospital central. Día 19, tarde.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -60,8 +62,8 @@
 
 ## Rachel
 
-- **Estado físico (Día 19):** Fractura de ambos húmeros por caída de escalera. Doble shoulder spica (inmovilización total de ambos brazos y hombros, yeso incluye el torso). Hospitalizada.
-- **Pendiente:** Dana llamará a Mark desde el hospital para que vaya a recogerla.
+- **Estado físico (Día 19):** Fractura de ambos húmeros por caída de escalera. Doble shoulder spica (inmovilización total de ambos brazos y hombros, yeso incluye el torso). Hospitalizada en planta (subiendo desde urgencias).
+- **Pendiente:** Mark en camino a recogerla.
 - Sigue con relación íntima activa con Sophie.
 
 ---
@@ -69,10 +71,12 @@
 ## Megan
 
 - Localización: su apartamento en la ciudad (tercer piso). Emily la cuida.
-- **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Se retira el día ~22 (ver Cronología).
-- **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se retira el día ~22 (ver Cronología).
+- **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Se retira el día ~29 (extendió 1 semana en Día 19).
+- **Yeso brazo derecho:** desde la muñeca hasta casi la axila; dedos libres. Se retira el día ~29.
 - **Prótesis pierna derecha:** puesta.
 - Estado emocional: vínculo con Mark consolidado. Está empezando a notar que Emily le importa más de lo esperado. Arco romántico con Emily activo (progresión gradual). Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+- **Nueva reflexión (Día 19):** admitió a Mark que querría no tener brazos incluso sin Emily como razón. La dependencia con los yesos ya no le incomoda. Considera también la pierna izquierda. Decisión no tomada — en reflexión. Mark ofreció comprar el hospital para que trabaje en rol administrativo si decide amputar.
+- **Próximos yesos solicitados:** pierna hasta la cadera, brazo hasta el hombro. Con Emily presente si acepta la verdad.
 
 ---
 
@@ -160,12 +164,12 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Rachel:** accidente de hoy (Día 19). Doble shoulder spica. Hospitalizada. Dana llamará a Mark para recogerla.
-2. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente (a iniciativa de Emma o de Mark).
-3. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
-4. **Megan:** yesos hasta ~Día 22. Arco romántico con Emily activo (progresión gradual). Pendiente visita de Mark.
+1. **Rachel:** doble shoulder spica. Mark en urgencias del hospital para recogerla (Día 19, tarde).
+2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria del brazo derecho. Próximos yesos pedidos: pierna hasta cadera, brazo hasta hombro. Arco romántico con Emily activo.
+3. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
+4. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
 5. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
-6. **Dana:** integrada en la mansión. Durmió con Mark noche Día 15.
+6. **Dana:** integrada en la mansión.
 7. Mark: producción oral del idioma actual ~Día 26.
 8. Sophie: yesos hasta ~Día 40.
 9. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).

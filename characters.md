@@ -28,13 +28,13 @@ ficha no se toca nunca.
 
 - **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia, tratamiento de inmovilización). Cobriza, pálida. Full body cast (cabeza/cuello libres), apertura perineal. Cama hospitalaria en su salón. Olivia retomó el cuidado (Día 19).
 - **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética. Retomó el cuidado el Día 19 tras el fin de semana de Mark.
+- **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta, ~30 años. Cuidadora 24/7 de Megan en su apartamento. Arco romántico con Megan activo (progresión gradual). Cree que los yesos de Megan son médicos.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
 
-- **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). Yesos voluntarios pierna+brazo hasta ~Día 22. Apartamento, Emily la cuida. Arco romántico con Emily activo.
+- **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). Yesos voluntarios pierna+brazo hasta ~Día 29. Apartamento, Emily la cuida. Reflexionando sobre amputación voluntaria del brazo derecho. Arco romántico con Emily activo.
 - **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, sin prótesis. "Novia" de Mark. Casa de Hannah; rehabilitación con prótesis de gancho en curso. Arco romántico con Hannah activo.
 - **[Hannah](personajes/hannah.md)** — robot ciudad, cuidadora de Patricia. Morena, pene funcional, liberal sin tapujos. Su casa. Configurada para excitarse al ayudar a Patricia; arco romántico con Patricia activo.
-- **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta. Cuidadora 24/7 de Megan en su apartamento. Cree que los yesos de Megan son médicos. Arco romántico con Megan activo.
 - **[Tori](personajes/tori.md)** — robot ciudad. Morena, gafas muy gruesas (miopía severa); múltiples amputaciones/aparatos, jaula de castidad, habla con sustitución fonética. Shoulder spica + minerva, mandíbula con alambre, pañal hasta ~Día 77. Apartamento 204; Diane la cuida; pensamientos audibles para Mark por auricular.
 - **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. Comunicación por parpadeos. No sabe que el accidente de Tori fue simulado.
 - **[Ivy](personajes/ivy.md)** — robot ciudad, contacto de una noche. Pelirroja, yeso en brazo izq. Conocida por Hannah en el Club Insomnia.

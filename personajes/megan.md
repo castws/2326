@@ -17,6 +17,15 @@
 - Megan está empezando a notar que Emily le importa más de lo esperado. No lo busca activamente, pero lo percibe.
 - La progresión es gradual y recíproca: mayor complicidad emocional → conversación más íntima → reconocimiento mutuo → romance establecido.
 - A pesar del vínculo con Emily, seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+- Reconoció en voz alta (Día 19) que quiere quedarse más tiempo con los yesos en parte para que Emily siga cuidándola. No lo ha hablado con Emily. Planea decirle la verdad cuando tengan más confianza.
+
+**Reflexión sobre amputación voluntaria (Día 19):**
+
+- Admitió a Mark que querría no tener brazos incluso sin Emily como razón. La dependencia con los yesos ya no le incomoda; la autosuficiencia forzada durante años fue adaptación, no preferencia.
+- Considera también la pierna izquierda ("también produce algo"). No descarta llegar a no tener brazos ni piernas.
+- Obstáculos reconocidos: la mentira necesaria, la pérdida del trabajo de enfermería. Mark ofreció comprar el hospital para un rol administrativo; Megan lo recibió sin rechazarlo.
+- Decisión no tomada. Condición previa: resolver lo de Emily primero.
+- Próximos yesos solicitados: pierna hasta la cadera, brazo hasta el hombro. Con Emily presente si acepta la verdad sobre los yesos voluntarios.
 
 **Voz / Tics de habla:**
 
@@ -38,6 +47,10 @@
 - "Si vuelve a pasar... no voy a detenerla." _(sobre Emily, conversación nocturna con Mark — Día 14)_
 - "Tú estás aquí veinte minutos cada ciertos días. Ella está aquí cuando me despierto y cuando me duermo." _(reflexionando sobre la diferencia entre Mark y Emily — Día 14)_
 - "El café también estaba más caliente que de costumbre." _(por mensaje, reportando los cambios sutiles de Emily — Día 19)_
+- "No lo descartes tan rápido." _(reacción inmediata a la idea de amputar el otro brazo — Día 19)_
+- "Creo que llevo mucho tiempo siendo muy autosuficiente porque no me quedaba otra. No porque lo prefiriera." _(explicando por qué querría no tener brazos — Día 19)_
+- "No me produce rechazo. Eso ya me dice algo." _(sobre la idea de no tener brazos ni piernas — Día 19)_
+- "Te beneficia el hospital y te beneficia que me quede sin brazos. Y aun así la decisión sería mía." _(reconociendo la honestidad de Mark sobre sus motivos — Día 19)_
 
 **Momentos con Mark:**
 
@@ -53,3 +66,4 @@
 - Intimidad con Mark (oral + penetración + masturbación); Mark masajea el muñón del brazo izquierdo durante el clímax _(Día 11, escena 42)_.
 - Mark la viste con nueva moda (corsé, pezoneras, prenda de pene con capucha, falda corta); paseo y almuerzo en el centro comercial con erecciones en público _(Día 11, escenas 43-44)_.
 - Visita nocturna de Mark: narra a detalle lo ocurrido con Emily durante el aseo; reflexiona sobre la diferencia entre su relación con Emily (presencia 24h) y con Mark (visitas breves); dice que no detendrá a Emily si vuelve a ocurrir _(Día 14, escena 66)_.
+- Visita de Mark mientras Emily va al mercado: intimidad mientras conversan sobre Emily; Megan admite que quiere los yesos más tiempo para que Emily se quede. Conversación sobre amputación voluntaria del brazo derecho (y potencialmente ambos brazos y piernas): admite que lo querría incluso sin Emily como razón. Mark ofrece comprar el hospital. Megan extiende los yesos a ~Día 29 y pide los próximos más largos. Almuerzo de los tres tras el regreso de Emily _(Día 19, escenas 93–94)_.

@@ -224,3 +224,24 @@ Megan confirma que sí quiere quedarse con los yesos más tiempo. Añade que Emi
 
 **La conversación termina aquí: Mark en la cafetería del centro, Día 19, mañana. Va a visitar a Megan en aproximadamente una hora (Emily sale al mercado a las 11:30).**
 **Próximo paso pendiente: visita a Megan en el apartamento. Rachel tendrá el accidente en algún momento del Día 19; Dana llamará a Mark. Visita pendiente a Patricia con capítulo 2 de Claustrofobia.**
+
+---
+
+## Día 19 — Mediodía y tarde
+
+### Escena 93: Llegada al apartamento de Megan — intimidad (Día 19, mediodía)
+
+Mark sube al tercer piso. Emily sale justo en ese momento con bolsa de compras (vestido color mantequilla, manga corta), le informa que tardará unos 40 minutos y se va al mercado. Mark entra. Megan está en el sillón con la pierna enyesada sobre cojín, brazo derecho enyesado, camiseta de tirantes y pantalón cortado, muñón muy corto al aire. Prótesis puesta. Mark la desviste mientras conversan. Megan reporta que Emily la masturbó esa mañana, más despacio que otras veces, y que se quedó en silencio mirándola después sin apartarse. Mark la penetra y masturba su pene simultáneamente. Conversan durante el acto: Megan admite que quiere quedarse con los yesos más tiempo probablemente porque necesita que Emily siga allí, y reconoce que no sabe cómo decírselo. Señala la asimetría: Mark viene en visitas breves, Emily está cuando Megan se despierta y cuando duerme.
+
+### Escena 94: Conversación sobre amputaciones voluntarias (Día 19, mediodía)
+
+Durante la intimidad, Mark menciona espontáneamente que si Megan perdiera el otro brazo tendría una excusa permanente para que Emily se quedara. Megan no lo descarta: responde "No lo descartes tan rápido." Clímax simultáneo. Post-coital: Megan admite que querría no tener brazos incluso sin Emily como razón; que el muñón izquierdo nunca le faltó; que la dependencia con los yesos ya no le incomoda. Reflexiona también sobre la pierna izquierda enyesada ("también produce algo"). Cuando Mark pregunta qué pensaría de alguien sin brazos y sin piernas, responde: "No me produce rechazo. Eso ya me dice algo." Mark señala los obstáculos: la mentira necesaria, la pérdida del trabajo de enfermería, quedarse sin red si Emily se va. Mark ofrece comprar el hospital para que trabaje en un rol administrativo; Megan lo recibe sin rechazarlo, reconociendo la honestidad de Mark ("te beneficia el hospital y te beneficia que me quede sin brazos"). Megan decide quedarse con los yesos una semana más (~Día 29). Mark la viste; Megan pide yesos más largos la próxima vez (pierna hasta la cadera, brazo hasta el hombro), con Emily presente si ella acepta la verdad. Emily regresa. Almuerzo tranquilo de los tres: Emily cocina, le aparta el pelo a Megan sin propósito funcional. Mark se queda dos horas y se despide.
+
+### Escena 95: Mensaje de Dana — Rachel en urgencias (Día 19, tarde)
+
+Al salir del edificio de Megan, Mark recibe mensaje de Dana: Rachel cayó de una escalera cambiando una bombilla en el pasillo, fractura de ambos húmeros, en urgencias esperando subir a planta. Dana confirma poder con la casa y con Sophie sola; añade que Rachel preguntó por Mark antes de que la llevaran. Mark toma un vehículo autónomo al hospital central. Llega a urgencias. La escena queda abierta: una enfermera en el mostrador le pregunta a quién busca.
+
+---
+
+**La conversación termina aquí: Mark en urgencias del hospital central, Día 19 tarde, preguntando por Rachel (doble shoulder spica).**
+**Próximo paso pendiente: Ver a Rachel hospitalizada. Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan reflexionando sobre amputación voluntaria (~Día 29 para quitarse los yesos).**
