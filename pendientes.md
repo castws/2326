@@ -45,10 +45,6 @@ Una mujer con pene, que desea estar amputada. En la primera cita, le falta el de
 
 Le pido a Megan que me de el contacto de alguna cirujana que pueda hacer las amputaciones. Le pido a Claire que agregue un quirófano a la mansión.
 
-## Enfermedad de piel
-
-Una mujer con una grave enfermedad de la piel (epidermólisis bullosa), 25 años, senos grandes. Tiene el cuerpo completamente vendado, incluyendo el rostro y la cabeza, solo visibles los ojos y la boca. No tiene cabello. No tiene orejas. Le faltan todos los dedos de la mano izquierda y de los pies. Amputada del brazo derecho a nivel del codo por cáncer hace dos años. No puede estirar completamente los pies, permanecen en una posición alrededor de 90 grados, con poca movilidad. No puede estirar el codo, también permanece en una posición cercana a los 90 grados, con poco rango de movimiento, la muñeca permanece en una posición cerca de los 90 grados, también con poco grado de movimiento. Tiene pene, amputado a la mitad de la longitud debido a la enfermedad. Pene y testículos también vendados. Usa silla de ruedas eléctrica, opera el joystick con el muñón del brazo derecho. Para la primera cita, usa una sonda para orinar, no tiene incontinencia, pero no puede ir al baño por si misma. No puede tener sexo, porque el roce de la piel le crea heridas, pero puede usar un vibrador que pone sobre el pene para masturbarse. Siempre pone el vibrador en la mínima vibración para evitar heridas, pero no puede masturbarse muy seguido porque aun en la velocidad más baja, le produce heridas. Su hermana la ayuda cuando se quiere masturbar y la limpia al final. Se han llegado a masturbar juntas en algunas ocasiones. Es alegre, romántica y divertida, no tiene problema en hablar sobre su condición. Nunca ha tenido intimidad, pero desea tenerla. Vive con su hermana de 27 años, que le ayuda en todo lo que ella no puede hacer. Sostiene la cuchara y el lápiz (le gusta dibujar) con una banda elástica en la mano izquierda.
-
 # Aislada
 
 Una mujer que nació sordomuda. En diferentes momentos de la vida perdió la vista, el brazo izquierdo y contrajo polio en el pie izquierdo. Siempre está con otra mujer, que es a través de quien se comunica. La forma como se comunican es juntando las manos y haciendo movimientos con los dedos. Ella nos debe acompañar incluso para tener intimidad.
@@ -60,3 +56,7 @@ Le pido a una amiga que me enyese. Ella vive con su hija de 19 años. Nos conoce
 # Muda
 
 Una mujer que quedó muda, aprendió a hablar por señas y luego perdió ambos brazos, uno arriba del codo y otro abajo del codo. Usa una libreta y un lapicero unido con una banda elástica para comunicarse.
+
+# Inmóvil
+
+Jude, una mujer de 24 que sufrió un derrame cerebral a los 21 años. Solo puede mover los ojos y los párpados. La boca siempre está abierta. Le gusta el BDSM.

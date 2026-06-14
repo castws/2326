@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 19, tarde-noche.** Mark acaba de salir de casa de Claire. Rachel hospitalizada (habitación 214, segunda planta). Mira activa en la app de citas. Creston Medical Center figura como propiedad de Mark.
+**Día 20, mañana.** Mark sale del apartamento de Mira y se dirige al hospital a recoger a Rachel. Alta prevista hoy si el dolor se mantiene estable.
 
 ### Eventos programados (futuros)
 
@@ -43,7 +43,7 @@
 
 ## Mark
 
-- Localización: urgencias del hospital central. Día 19, tarde.
+- Localización: en tránsito hacia el hospital central para recoger a Rachel. Día 20, mañana.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -168,7 +168,7 @@
 
 1. **Rachel:** alta prevista Día 20. Dana la bañará en casa. Sophie necesitará más atención con Dana al mando.
 2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria del brazo derecho. Próximos yesos pedidos: pierna hasta cadera, brazo hasta hombro. Arco romántico con Emily activo. Mark le contará la compra del Creston Medical Center.
-3. **Mira:** nueva personaje activa en la app de citas. Primera aparición pendiente.
+3. **Mira:** primera cita y primera intimidad completadas (Días 19-20). En su apartamento con June (cambio de vendas). Segunda cita pendiente. Mark conoció a June brevemente. Arco romántico en inicio.
 4. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
 5. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
 6. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.

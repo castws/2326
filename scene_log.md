@@ -265,3 +265,48 @@ Tras varias correcciones de detalle (ojos azules, boca sin vendas, caricias suav
 
 **La conversación termina aquí: Mark en casa de Claire, final del Día 19. Mira activa en la app. Creston Medical Center figura como propiedad de Mark.**
 **Próximo paso pendiente: Rachel recibe el alta al Día 20 si el dolor es estable (Dana la bañará). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan reflexionando sobre amputación voluntaria (~Día 29 para quitarse los yesos). Primera aparición posible de Mira en la app.**
+
+---
+
+## Día 19 — Noche
+
+### Escena 98: Regreso a la mansión — app de citas y Mira (Día 19, noche)
+
+Mark regresa a la mansión desde casa de Claire. Dana ha traído a Sophie al salón en la silla reclinable. Mark se sienta en el sofá junto a ella y abre la app de citas. Encuentra tres perfiles nuevos; el primero es Mira (25 años, ojos azules, silla de ruedas, descripción en primera persona sobre ciudades imaginarias y conversaciones que importan). Sophie lo observa sin comentario. Mark escribe a Mira proponiéndole quedar en una hora en el café del centro. Mira pregunta si es urgencia o ganas; Mark responde con honestidad. Mira acepta.
+
+### Escena 99: Primera cita con Mira — café del centro (Día 19, noche)
+
+Mark llega al café. Mira ya está en la mesa del rincón, junto a la rampa. Vestido corto de tirantes color crema. Cuerpo completamente vendado — solo ojos azules y boca libres. Brazo derecho amputado al codo (muñón sobre el joystick). Mano izquierda sin dedos, apoyada sobre la mesa. Pies en ángulo fijo hacia adentro, sin zapatos, sin dedos. Silla de ruedas eléctrica compacta.
+
+Conversación larga y fluida: Mark menciona los dibujos de ciudades (Mira lo recibe con sorpresa positiva, esperaba otra respuesta). Mira explica la epidermólisis bullosa y las amputaciones con naturalidad. Mark revela que tiene tres mucamas (una con cuerpo entero enyesado, otra con brazos y piernas amputadas, otra recién accidentada). Mira encuentra la situación notable. Mark es honesto sobre su situación sentimental (múltiples personas, sin exclusividad). Mira lo recibe sin rechazo pero lo anota. Piden algo de comer; Mark la ayuda con la tarta. Confesión recíproca: Mark le dice que le gusta que alguien le bañe; Mira admite que piensa en cómo sería que alguien que no fuera June la bañara íntimamente. Química clara. Mark la invita a su casa; Mira acepta tras avisarle a June.
+
+### Escena 100: Mira en la mansión — primera intimidad (Día 19, noche)
+
+Vehículo autónomo a la mansión. Mira ve la fachada sin comentario. Dana abre la puerta. Sophie las saluda desde el salón; Mira y Sophie intercambian unas frases directas sobre los yesos. Mark lleva a Mira a la sala y la transfiere del silla al sofá (espalda y bajo los muslos). Retira la bolsa de la sonda antes de moverla. Con Mira en el sofá, Mark le quita el catéter foley: desinfla el balón con la jeringa del morral, extrae el tubo despacio con una toalla bajo el pene.
+
+Mark la lleva en brazos a la habitación principal. La deposita en la cama. Se desnudan. Intimidad progresiva: Mark acaricia los senos vendados (Mira los siente a través de las capas), besa a Mira (primera vez que alguien la besa excepto June en la frente), lame la punta del pene de Mira con la palma izquierda sobre los testículos de Mark. Mark usa el vibrador del morral de Mira sobre la punta del pene (intensidad mínima, movimientos circulares). Mira llega al primer orgasmo de su vida — eyaculación por la apertura uretral (libre tras retirar la sonda) sobre las vendas del vientre. Mark se viene sobre las sábanas. Limpieza con toalla. Mira no tiene vendas de repuesto; June las cambiará mañana. Reposición de Mira de lado (derecho) con almohada entre las rodillas. Duermen juntos.
+
+---
+
+## Día 20 — Mañana
+
+### Escena 101: Despertar con Mira — desayuno en la terraza (Día 20, mañana)
+
+Mark y Mira se despiertan en la habitación principal. Mira necesita volver antes de las nueve para que June le cambie las vendas. Mark propone desayunar primero. Dana prepara el desayuno mientras Mark reposiciona a Mira (sentada en el borde de la cama), la ayuda a orinar con botella de plástico del morral (toalla alrededor del pene, botella en la abertura uretral), y la lleva en brazos a la silla de ruedas. Desayunan en la terraza junto a la piscina: Mira sin vestido, completamente vendada. Mark le unta las tostadas. Conversación larga: Mira cuenta cómo fue la primera vez que le pidió a June que la masturbara (tenía veintidós años, lo dijo directamente, June respondió como si fuera una cosa más de la lista). Anécdota del vibrador durante la visita inesperada de la amiga de June (cuarenta minutos encendido, daño en las vendas). Revela que June se masturbó con ella en tres ocasiones: la primera sin planear mientras June miraba hacia la ventana; la segunda con June mirándola directamente; la tercera con June completamente desnuda acostada en el borde de la cama a treinta centímetros. No se tocaron en ninguna de las tres. No lo han hablado nunca. Hace ocho meses de la tercera vez.
+
+### Escena 102: Segunda masturbación — tumbonas de la piscina (Día 20, mañana)
+
+Mark propone masturbarse juntos en las tumbonas de la piscina antes de llevar a Mira a casa. Mira acepta y avisa a June que llegará en una hora. Mark la traslada a una tumbona. Coloca el vibrador en la banda elástica de la mano izquierda de Mira y lo posiciona en la punta del pene. Mark se sienta en la tumbona de al lado, desnudo, y se masturba. Conversan mientras lo hacen: Mark le pregunta por qué no han contratado a alguien que ayude a June; Mira explica que lo intentaron una vez y la persona era demasiado invasiva, Mira pidió que la despidieran. Clímax simultáneo. Eyaculación de Mira sobre las vendas del vientre. Limpieza.
+
+### Escena 103: Dana baña a Mark — Mira observa (Día 20, mañana)
+
+Mark invita a Mira a observar su baño diario. Van al baño principal. Dana entra a la ducha con Mark (uniforma quitado, ganchos y prótesis puestos). Mira en la silla junto a la puerta abierta. Dana baña a Mark metódicamente; cuando llega a la zona genital, Mark tiene erección — Dana la registra sin detenerse, rodea el pene con la esponja con el gancho y baja y sube despacio. Mira observa en silencio. Mark le pregunta qué opina; Mira responde "que entiendo por qué lo pides" y "que nunca había visto nada igual".
+
+### Escena 104: Vuelta a casa de Mira — primera vez que Mark conoce a June (Día 20, mañana)
+
+Mark viste a Mira con el vestido de tirantes. Vehículo autónomo a casa de Mira (tres calles del café, edificio de dos plantas de ladrillo claro). June abre la puerta: 27 años, castaña oscura lisa hasta los hombros, ojos marrones, complexión media, ropa sencilla. Evalúa a Mark con una mirada rápida de inventario hacia las vendas de Mira. Mark acepta el café. En el apartamento: sala ordenada, mesa de dibujo junto a la ventana con cuaderno de bocetos abierto (ciudad vista desde arriba, sin escalones). Mira muestra más dibujos y Mark da opiniones. Café de los tres en la sala: June pregunta sobre Mark con preguntas breves y directas, lo escucha más de lo que habla. Al final June pregunta si Mark volverá; Mark confirma. Algo en la expresión de June se asienta. Mark se despide con beso a Mira y sale. Desde dentro, antes de que se cierre la puerta, se escucha a Mira decirle a June "ya sé que tienes preguntas" y la respuesta de June "muchas".
+
+---
+
+**La conversación termina aquí: Día 20, mañana. Mark sale del apartamento de Mira y se dirige al hospital a recoger a Rachel.**
+**Próximo paso pendiente: Rachel recibe el alta el Día 20 (Dana la bañará en casa). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan: próximos yesos más largos y conversación sobre Emily. Mira: segunda cita pendiente.**

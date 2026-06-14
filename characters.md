@@ -29,6 +29,8 @@ ficha no se toca nunca.
 - **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia, tratamiento de inmovilización). Cobriza, pálida. Full body cast (cabeza/cuello libres), apertura perineal. Cama hospitalaria en su salón. Olivia retomó el cuidado (Día 19).
 - **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética. Retomó el cuidado el Día 19 tras el fin de semana de Mark.
 - **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta, ~30 años. Cuidadora 24/7 de Megan en su apartamento. Arco romántico con Megan activo (progresión gradual). Cree que los yesos de Megan son médicos.
+- **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos azules. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo; dedos mano izq y dedos de los pies amputados; pene amputado a la mitad. Silla de ruedas eléctrica. Alegre y directa. En su apartamento con June. Arco romántico en inicio (primera cita Día 19-20).
+- **[June](personajes/june.md)** — robot, hermana y cuidadora de Mira. 27 años, castaña oscura, reservada. Vive con Mira. Vida detenida en torno al cuidado. Mark la conoció brevemente el Día 20.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
 
@@ -39,7 +41,6 @@ ficha no se toca nunca.
 - **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. Comunicación por parpadeos. No sabe que el accidente de Tori fue simulado.
 - **[Ivy](personajes/ivy.md)** — robot ciudad, contacto de una noche. Pelirroja, yeso en brazo izq. Conocida por Hannah en el Club Insomnia.
 - **[Lena](personajes/lena.md)** — robot, técnica de inducción lingüística. Morena. Hizo la inducción neurolingüística de Mark (Día 12). No pertenece a nadie en particular.
-- **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos oscuros. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo; dedos mano izq y pies amputados; pene amputado a la mitad. Silla de ruedas eléctrica. Le gusta dibujar. Alegre y directa. Vive con su hermana June.
 
 ## Archivados _(NO se carga salvo invocación explícita de Mark)_
 

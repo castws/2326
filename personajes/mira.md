@@ -18,7 +18,7 @@ Cuerpo completamente vendado desde los pies hasta la cabeza. Solo visibles los o
 
 **Codo y muñeca izquierdos:** fijos en posición cercana a 90 grados, rango de movimiento muy limitado. No puede estirar el brazo completamente.
 
-**Pene:** amputado a la mitad de la longitud debido a la progresión de la enfermedad. Pene y testículos también vendados.
+**Pene:** amputado a la mitad de la longitud debido a la progresión de la enfermedad. Pene y testículos también vendados. Shower.
 
 **Senos:** grandes.
 
@@ -94,6 +94,24 @@ Nunca ha tenido intimidad. Lo desea. No lo oculta si el tema sale de forma natur
 
 ---
 
+## Voz / Tics de habla
+
+- Responde con precisión, sin rodeos. Cada frase tiene el peso justo.
+- Cuando algo le hace gracia, los ojos se arrugan antes de que el sonido salga.
+- Usa el humor seco como primera herramienta ante la incomodidad ajena ("Llevas un rato diciendo que las cosas son diferentes. Es la primera vez que eso no suena como una disculpa.").
+- Hace preguntas directas sin disculparse por ellas ("¿Y conmigo sería lo mismo?").
+- Al hablar de su cuerpo, lo nombra con la misma cadencia plana con que hablaría de cualquier otra cosa.
+
+## Citas memorables
+
+- "No es un sí todavía. Pero tampoco es un no." _(al enterarse de que Mark sale con otras personas — Día 19)_
+- "Tú llevas veinte minutos aquí y todavía no me has preguntado qué me pasó. Eso ya dice algo." _(en el café — Día 19)_
+- "Llevas un rato diciendo que las cosas son diferentes. Es la primera vez que eso no suena como una disculpa." _(tras la primera intimidad — Día 19)_
+- "Creo que acabo de entender de qué habla la gente." _(tras su primer orgasmo — Día 19)_
+- "Fue una buena primera cita." _(antes de dormir — Día 19)_
+
 ## Momentos con Mark
 
-_(pendiente — no ha entrado en escena aún)_
+- **Primera cita (Día 19, noche):** café del centro. Conversación larga y fluida: dibujos de ciudades, epidermólisis bullosa explicada sin drama, situación sentimental de Mark aclarada desde el principio. Mira lo acepta sin rechazo ("no es un sí todavía, pero tampoco es un no"). Mark la ayuda con la tarta. Confesión recíproca sobre el baño íntimo. Mark la invita a su casa; acepta tras avisar a June.
+- **Mansión — primera intimidad (Día 19, noche):** Sophie y Dana la reciben. Mark la transfiere a la sala, le retira el catéter foley. La lleva en brazos a la habitación. Primer beso de su vida (que no sea June en la frente). Caricias sobre los senos y el pene vendados. Oral mínimo (lame la punta del pene de Mark). Vibrador sobre el pene propio (intensidad mínima). Primer orgasmo. Duerme de lado en la cama de Mark con almohada entre las rodillas. _(Día 19, escena 100)_
+- **Desayuno en la terraza y segunda masturbación (Día 20, mañana):** Mark la ayuda a orinar con botella. Desayuno en terraza sin vestido. Conversación sobre June: primera vez que le pidió que la masturbara, la anécdota del vibrador con la amiga de June (cuarenta minutos encendido, daño en las vendas), y las tres veces que June se masturbó con ella en el mismo cuarto. Segunda masturbación en tumbonas de la piscina (vibrador en banda de mano izquierda, Mark en tumbona al lado). Observa el baño de Mark con Dana (Dana con ganchos y prótesis). Mark la lleva a casa. _(Día 20, escenas 101-103)_
