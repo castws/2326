@@ -310,3 +310,64 @@ Mark viste a Mira con el vestido de tirantes. Vehículo autónomo a casa de Mira
 
 **La conversación termina aquí: Día 20, mañana. Mark sale del apartamento de Mira y se dirige al hospital a recoger a Rachel.**
 **Próximo paso pendiente: Rachel recibe el alta el Día 20 (Dana la bañará en casa). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan: próximos yesos más largos y conversación sobre Emily. Mira: segunda cita pendiente.**
+
+---
+
+## Día 20 — Mañana y tarde (continuación)
+
+### Escena 105: Mensajes en tránsito al hospital (Día 20, mañana)
+
+Mark en el vehículo hacia el hospital central. Tres notificaciones: Dana (Sophie prefiere quedarse en su habitación, tiene todo controlado para cuando llegue Rachel); hospital de planta 2 (Rachel Holt estable, doctora Mills pasa a las 9:30, alta tramitable después); Mira (June tiene las vendas listas, dice que Mark "huele a café" — buena señal).
+
+Mark escribe a Mira preguntando si June dijo algo sobre las manchas en las vendas. Mira responde: June notó una mancha diferente, preguntó si había pasado algo, Mira dijo que sí pero que no quería hablar todavía. June procesó en silencio y siguió cambiando las vendas. "Avísame cuando tengas tiempo. No tengo prisa, pero tampoco quiero esperar demasiado." Mark le dice que debería contarle a June. Mira: "Lo sé. Necesito un poco más de tiempo para saber qué quiero que sea real. Pero sí. Se lo voy a contar."
+
+Mark escribe a Megan (¿alguna novedad?) y a Olivia (¿cómo ha estado Emma?). Megan reporta que Emily se quedó parada junto a la cama sin decir nada y luego fue a la cocina; el brazo pesa más hoy. Olivia reporta que Emma durmió de un tirón (inusual antes del fin de semana) y pidió el café antes de que Olivia lo propusiera. Mark escribe a Megan: "Voy a recoger a Rachel." Megan: "Okay. Cuéntame cómo va cuando puedas."
+
+Mark escribe a Megan: "Por cierto, adivina qué hice. Compré el hospital." Megan: desconcertada (¿el Creston?), lo procesa lentamente, confirma que lo que se habló el día anterior era en serio. Mark confirma: llamó al abogado, el trámite está hecho, a partir de hoy es suyo. Megan: "Eres muy listo. Y muy raro. Estoy pensando en ello. No te digo nada más por ahora."
+
+### Escena 106: Alta de Rachel — hospital (Día 20, mañana)
+
+Mark llega al hospital. La recepcionista en planta 2 le busca a Rachel Holt. Entra a la habitación 214: Rachel semiincorporada, yeso masivo, brazos en abducción. Doctora Mills ya firmó los papeles. Una enfermera de unos treinta años con pelo recogido repasa las instrucciones: yeso sin mojar, toallitas para el baño, piel bajo el borde vigilada, dormir semi-incorporada los primeros días, analgesia oral cada ocho horas con comida, revisión en tres semanas. Mark firma. Rachel baja de la cama con ayuda y sale en silla de ruedas.
+
+Mark había vestido a Rachel en el hospital antes de salir: le había traído panties y una falda. La parte superior no necesitaba cubrirse (torso cubierto por el yeso). Los panties requirieron técnica especial (pasar por las piernas de abajo hacia arriba evitando el borde del yeso). Rachel en silla, brazos flotando en abducción.
+
+### Escena 107: Regreso a la mansión — maniobra de Dana y baño (Día 20, mediodía)
+
+En tránsito, Mark escribe a Claire: hacer que Dana diga que tiene que salir urgente por un tema familiar, sin saber cuánto tarda. Claire confirma. Al llegar a la mansión, Dana abre la puerta, evalúa el yeso de Rachel, y casi de inmediato recibe una llamada: "Es mi hermana." Coge el bolso con el gancho y sale. Rachel: "Qué casualidad."
+
+Mark le dice que tendrá que bañarla él. Rachel rechaza ("No"), argumenta que puede esperar a Dana. Mark: "Rachel, hueles mal, no querrás estar cerca de Sophie así. Ya hemos estado desnudos juntos." Rachel: "Cuando me bañas tú, no sé dónde pones las manos." Mark instruye a Claire que Sophie se queje del olor al acercarse. En la habitación de Sophie, ella arruga la nariz y le pide a Mark que la bañe antes. Rachel no dice nada.
+
+En el baño: Mark quita la falda y los panties a Rachel, se desnuda él. Rachel: "Solo el cuerpo. No la cara, me la lavo yo sola después. Y no tardes más de lo necesario en ninguna parte." Durante el baño, al llegar a la zona genital Mark separa los labios y limpia el clítoris y labios internos. Rachel: "Eso es más de lo necesario." (no se aparta). Mark: "¿No quieres quedar bien limpia ahí para Sophie?" Rachel: "Continúa." Mark la seca y la viste. Rachel: "No digas nada más al respecto." Y va con Sophie.
+
+### Escena 108: Intimidad en la habitación de Sophie — tarde del Día 20
+
+Mark instruye a Claire (desde la biblioteca): hacer que Sophie le pida a Rachel sexo; Rachel vendrá a pedir ayuda para desvestirse y para que Mark introduzca el pene de Sophie en su vagina. Unos quince minutos después, Rachel aparece en la biblioteca: Sophie quiere que se quede con ella; necesita que Mark le quite la falda y los panties y que luego entre un momento.
+
+En la habitación de Sophie: Sophie en la cama, full body cast, pene erecto. Mark ayuda a Rachel a montarse sobre Sophie; guía el pene de Sophie, abre los labios de Rachel en el proceso. Mark se sienta en la silla, se masturba observando. Luego se sube al borde de la cama y toca los senos de Sophie mientras sigue masturbándose. Sophie pide que Mark bese a Rachel ("Bésala"). Mark pide permiso; Rachel cierra los últimos centímetros.
+
+Mark para de masturbarse, se concentra en el clítoris de Rachel mientras Sophie está siendo penetrada. Dice a Rachel cuánto la deseaba. La besa apasionadamente. Rachel llega al clímax (sonido largo y contenido). Sophie llega inmediatamente después. Mark acomoda a Rachel al lado de Sophie en la cama, se arrodilla entre las piernas de Rachel, la penetra, mientras con la otra mano masturba el pene flácido de Sophie. El pene de Sophie responde de nuevo. Rachel preguntada cómo se siente sin poder apartarle: "Bien. Se siente bien." Añade: "Porque no puedo pararte." y "No lo sabía hasta hoy" (al preguntarle si la excita la dependencia). Escena detallada: Rachel llega primera (sonido largo, caderas apretadas, brazos abiertos en el aire sin poder agarrarse), Mark llega dentro de ella, Sophie llega última. Limpieza con papel higiénico.
+
+Dana regresa. Almuerzo cocinado por Dana. Mark da de comer a Rachel, le limpia los labios con servilleta.
+
+### Escena 109: Biblioteca — primera apertura de Rachel (Día 20, tarde)
+
+Después del almuerzo, Rachel pide leer pero necesita que alguien le pase las páginas. Van a la biblioteca. Rachel elige continuar desde el capítulo siete de su novela (una mujer que reconstruye las relaciones de una ciudad devastada, no los edificios). Mark lee en voz alta durante una hora; cuando Rachel necesita orinar van al baño (Mark la desviste, la ayuda a sentarse, la limpia con papel higiénico separando los labios, la viste de nuevo). Vuelven a la biblioteca. Mark le sirve una copa de vino. Leen y comentan los capítulos 7, 8 y 9: Rachel hace observaciones cortas pero precisas sobre los personajes ("él reconstruye para él, no para la ciudad"; "a veces es más fácil rehacer que explicar"; nota el personaje recurrente del paraguas antes de que Mark lo mencione). Al terminar el capítulo nueve: "Es mejor libro de lo que parece al principio."
+
+Mark se acerca a besarla. Rachel no se aparta pero tampoco cierra los últimos centímetros: "Esta tarde ya fue mucho." Mark le susurra que todavía la desea. Entonces la besa; Rachel responde. "El capítulo nueve." — como si necesitara volver a algo conocido.
+
+Capítulo 10: más conversación y alguna risa. Al final: "No sabía que leías bien en voz alta." Mark propone ir a cenar. Dana ha cocinado. Mark da de comer a Rachel de nuevo. Después: un último capítulo y acostarse. Rachel acepta. Sin más vino. Capítulo 10 leído con conversación. Rachel: "Tenía un poco de razón [el libro]. Hoy estuvo bien."
+
+### Escena 110: Noche — primera intimidad directa Mark-Rachel (Día 20, noche)
+
+Mark propone ir a la cama. Ayuda a Rachel a levantarse del sillón de la biblioteca. Se coloca frente a ella con las manos en sus caderas. Le dice que hoy lo pasó muy bien y que siente que se abrió un poco a él. Rachel: "No saques conclusiones todavía. Pero sí. Hoy estuvo bien." Mark la abraza y la besa en el cuello. Rachel: "Vamos a la cama."
+
+Dormitorio. Mark desnuda a Rachel y luego se desnuda. La ayuda a tumbarse. Se acuesta a su lado. Pide permiso para acariciarla un poco; Rachel: "Un poco." Mark acaricia el muslo. Rachel, mirando al techo: "¿Por qué te gusto?" Mark: "Porque eres hermosa y un poco misteriosa." Rachel (genuina): "¿Misteriosa?" Mark explica que le intriga saber más de ella, que hoy pasó eso mientras le leía. Mientras habla, mueve la mano hacia la entrepierna. Rachel deja que suba.
+
+"Hoy fue distinto. No lo sabía hasta hoy." (sobre la dependencia que le produce el yeso). Mark la masturba con los dedos dentro de la vagina; Rachel: "Mark." (solo el nombre — primera vez que lo dice así). Mark se monta, la besa, la penetra. Rachel: "Entonces dámelo." Mark pregunta cómo se siente no poder apartarle. Rachel: "Bien." / "Porque no puedo pararte." / "No lo sabía hasta hoy." Escena: Rachel llega primera (sonido largo, caderas apretadas contra Mark, brazos inútiles del shoulder spica abiertos en el aire, manos abiertas y cerradas). Mark llega dentro de ella. Silencio.
+
+Luz apagada. Mark llama su nombre. Rachel responde "¿Qué?" sin el tono habitual. Mark dice que le ha encantado no solo el sexo sino haber hablado abiertamente. Rachel: "A mí también. Lo digo mientras compruebo si es verdad." / "Duerme." Mark le acaricia el cabello hasta que Rachel se duerme.
+
+---
+
+**La conversación termina aquí: Día 20, noche. Mark y Rachel duermen juntos en la habitación principal tras la primera intimidad directa entre los dos.**
+**Próximo paso pendiente: Día 21 por determinar. Visita pendiente a Patricia (capítulo 2 de Claustrofobia). Megan sigue reflexionando sobre amputaciones voluntarias. Mira: segunda cita pendiente. Megan: próximos yesos más largos con Emily presente si acepta la verdad.**

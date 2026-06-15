@@ -42,3 +42,4 @@
 - Conoce a Nora desde el sofá cuando Mark la trae a la mansión; sostiene una conversación corta y directa con ella sobre el yeso voluntario y su relación con Rachel _(Día 10, escena 37)_.
 - Mark y Rachel la trasladan del sofá a una silla de ruedas de respaldo alto reclinable, dejando el respaldo completamente reclinado para poder ponerla acostada; cena en el comedor con Rachel dándole de comer. Duerme junto a la cama de Mark en la silla _(Día 10, escena 39)_.
 - Conversación con Patricia durante la inducción neurolingüística del Día 12: hablan sobre pintar con un solo brazo y sobre estar enyesada de cuerpo completo. Sophie: "Nos entendimos." _(Día 12, escena 52)_.
+- Escena a tres con Rachel y Mark (Día 20): Rachel montada sobre Sophie, Mark observa y luego participa. Sophie pide a Mark que bese a Rachel ("Bésala"). Llega al clímax dos veces: con Rachel encima y cuando Mark la masturba manualmente. Queda al lado de Rachel en la cama después. _(Día 20, escena 108)_.

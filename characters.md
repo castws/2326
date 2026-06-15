@@ -20,7 +20,7 @@ ficha no se toca nunca.
 ## Núcleo permanente _(se carga al inicio)_
 
 - **[Claire](personajes/claire.md)** — robot, asistente principal de Mark. ~35 años, castaña, serena. Escucha siempre, ejecuta las órdenes de Mark y ajusta a los demás robots. Vive en casa adyacente. Pareja: Emily.
-- **[Rachel](personajes/rachel.md)** — robot, mucama (apellido: Holt). Rubia pelo largo, senos medianos-grandes. **Día 19: fractura de ambos húmeros, doble shoulder spica, hab. 214 hospital.** Alta prevista Día 20; Dana la bañará en casa. Límites íntimos firmes (no insistir). Relación con Sophie.
+- **[Rachel](personajes/rachel.md)** — robot, mucama (apellido: Holt). Rubia pelo largo, senos medianos-grandes. **Doble shoulder spica, en la mansión.** Alta Día 20; Mark la bañó (Dana ausente). Primera intimidad directa con Mark (Día 20) — límite cruzado activamente. Relación con Sophie.
 - **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo (excepto rostro/senos/genitales) hasta ~Día 40; silla de ruedas reclinable. En su habitación. Relación con Rachel.
 - **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (antebrazo, ganchos) y piernas (transtibial, prótesis). Se incorporó el Día 15. En la mansión.
 

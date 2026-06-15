@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 20, mañana.** Mark sale del apartamento de Mira y se dirige al hospital a recoger a Rachel. Alta prevista hoy si el dolor se mantiene estable.
+**Día 20, noche.** Mark y Rachel duermen juntos en la habitación principal. Primera intimidad directa Mark-Rachel. Primera apertura emocional significativa de Rachel.
 
 ### Eventos programados (futuros)
 
@@ -43,7 +43,7 @@
 
 ## Mark
 
-- Localización: en tránsito hacia el hospital central para recoger a Rachel. Día 20, mañana.
+- Localización: habitación principal de la mansión, durmiendo con Rachel. Día 20, noche.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -63,9 +63,9 @@
 ## Rachel
 
 - **Apellido:** Holt.
-- **Estado físico (Día 19):** Fractura de ambos húmeros. Doble shoulder spica (torso + ambos brazos en abducción hasta los codos). Hospitalizada en habitación 214, segunda planta.
-- **Alta prevista:** Día 20 si el dolor se mantiene estable.
-- **Baño en casa:** Dana se encargará (Rachel rechazó a Mark).
+- **Estado físico:** Fractura de ambos húmeros. Doble shoulder spica (torso + ambos brazos en abducción hasta los codos). Alta el Día 20. En la mansión.
+- **Baño:** Mark la bañó el Día 20 (maniobra de Dana). Rachel lo aceptó tras el argumento de Sophie y la presión del olor.
+- **Estado emocional (Día 20):** Primera intimidad directa con Mark. Primera apertura emocional significativa: admitió que la dependencia del yeso la excita; dijo "A mí también" al comentario de Mark sobre haber hablado abiertamente. Límite íntimo cruzado por primera vez con Mark de forma activa.
 - Sigue con relación íntima activa con Sophie.
 
 ---
@@ -166,13 +166,13 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Rachel:** alta prevista Día 20. Dana la bañará en casa. Sophie necesitará más atención con Dana al mando.
-2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria del brazo derecho. Próximos yesos pedidos: pierna hasta cadera, brazo hasta hombro. Arco romántico con Emily activo. Mark le contará la compra del Creston Medical Center.
-3. **Mira:** primera cita y primera intimidad completadas (Días 19-20). En su apartamento con June (cambio de vendas). Segunda cita pendiente. Mark conoció a June brevemente. Arco romántico en inicio.
+1. **Rachel:** en la mansión con doble shoulder spica. Primera intimidad directa con Mark (Día 20). Relación en nuevo terreno. Dana cubrirá el cuidado físico diario.
+2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria. Ya sabe que Mark compró el Creston Medical Center. Próximos yesos: pierna hasta cadera, brazo hasta hombro (con Emily presente si acepta la verdad). Arco romántico con Emily activo.
+3. **Mira:** segunda cita pendiente. Mira le va a contar a June lo que pasó. Arco romántico en inicio.
 4. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
 5. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
 6. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
-7. **Dana:** integrada en la mansión. Cubrirá a Rachel mientras esté hospitalizada.
+7. **Dana:** integrada en la mansión. Cubrirá baño y cuidado de Rachel y Sophie.
 8. Mark: producción oral del idioma actual ~Día 26.
 9. Sophie: yesos hasta ~Día 40.
 10. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
