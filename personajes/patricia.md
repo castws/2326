@@ -40,6 +40,10 @@
 - "La próxima vez el libro." _(casi dormida, después del club Insomnia — Día 14)_
 - "Sola no. Con Hannah sí. Ella me ayuda." _(respondiendo a Mark por mensaje, primera vez que escribe sola con el gancho — Día 19)_
 - "Hannah huele bien. Eso es una cosa muy rara para decirle a alguien, lo sé." _(reconociendo algo sobre Hannah sin nombrarlo — Día 19)_
+- "En el coño, Mark. Quiero que me lamas el coño." _(primera petición sexual directa y explícita, biblioteca — Día 21)_
+- "Con el cilindro de Hannah no es lo mismo. El metal es distinto." _(sobre masturbarse con el gancho vs. práctica en casa de Hannah — Día 21)_
+- "Los ganchos están bien. Pero esto también." _(comparando segunda intimidad sin prótesis — Día 21)_
+- "No. Solo que ya sé cómo termina cuando los llevo puestos." _(declinando los panties a la mañana siguiente — Día 22)_
 
 **Momentos con Mark:**
 
@@ -54,3 +58,5 @@
 - Despedida en casa de Hannah; Patricia pide que le terminen el libro _(Día 13, escena 55)_.
 - Club Insomnia con Mark y Hannah: baile íntimo en la pista (Mark le quita los panties), intimidad en reservado con sofá (Patricia encima de Mark, muñones apoyados en sus hombros); Hannah e Ivy en el mismo reservado simultáneamente. Noche en casa de Hannah _(Día 14, escena 67)_.
 - Primera vez que escribe sola a Mark con el gancho (mensaje directo); conversación íntima por texto sobre sus masturbaciones con Hannah: describe el proceso con honestidad, reconoce que no le incomoda y que Hannah huele bien _(Día 19, escena 92)_.
+- Noche en la mansión: primera intimidad con prótesis puestas. Desabrocha el pantalón de Mark con los ganchos (práctica que hace con Hannah con un cilindro); lo masturba con el gancho derecho; lo cabalga dictando el ritmo ("Quieto tú. Yo me muevo."). También: primera masturbación propia con el gancho (clítoris y pezón durante lectura de Claustrofobia). Segunda intimidad sin prótesis: muñones libres contra cara y cuerpo de Mark _(Día 21, escenas 117, 120, 121)_.
+- Conoce a Dana; conversación sobre adaptación a prótesis de gancho _(Día 22, escena 122)_.

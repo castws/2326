@@ -48,6 +48,8 @@ Frustrada. Con algo de rabia hacia su situación, que no puede expresar con el c
 
 Una de las cosas que más extraña es el sexo. No lo menciona fácilmente con Cora; la tabla de letras lo hace todo más lento y más expuesto. En algún momento lo pidió directamente: Cora al principio se negó, luego aceptó. Ahora lo hace con regularidad cuando Jude lo señala. Sin palabras entre las dos después.
 
+**Día 21 en adelante:** Desde la visita de Mark, Jude siente atracción hacia él. No ha hablado con Cora de ello todavía. La frustración por su situación física es más intensa y audible por el auricular (especialmente en el Día 22).
+
 ---
 
 ## Masturbación
@@ -58,7 +60,7 @@ Cora la masturba cuando Jude lo pide (ojos arriba sostenidos, o señalando "ESO"
 
 ## Cómo conoce a Mark
 
-A través de Megan. La próxima visita de Mark a Megan, ella mencionará que va a ver a una amiga e invitará a Mark a acompañarla.
+A través de Megan. Primera visita: Día 21 (ver Momentos con Mark).
 
 ---
 

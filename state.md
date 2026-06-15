@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 21, tarde.** Mark sale del apartamento de Megan tras la visita a Jude y Cora. Primera vez que Mark conoce a Jude. Configuración activa: Jude hablará con Cora sobre querer tener sexo con Mark; Cora cederá y se lo dirá a Megan.
+**Día 22, mañana.** Mark acaba de dejar a Patricia en casa de Hannah y se dirige a la ciudad. Hoy tiene previsto encontrarse con Cora y Jude en el centro comercial (secuencia Jude activa).
 
 ### Eventos programados (futuros)
 
@@ -39,13 +39,13 @@
 - **Día 18**: Tercera jornada con Emma: intimidades múltiples. Emma más abierta.
 - **Día 19**: Olivia retoma el cuidado de Emma; despedida discreta. Mark en cafetería: configura arcos románticos Emily/Megan y Hannah/Patricia, y accidente de Rachel. Visita a Megan: intimidad; conversación sobre Emily y amputación voluntaria del brazo derecho (en reflexión); yesos extendidos a ~Día 29. Rachel fractura ambos húmeros (caída de escalera) → doble shoulder spica, hospitalizada. Mark en urgencias del hospital.
 - **Día 20**: Alta de Rachel. Maniobra de Dana → Mark la baña solo. Escena a tres con Sophie y Rachel. Tarde en biblioteca: primera apertura real de Rachel (comenta el libro, ríe, responde al beso). Noche: primera intimidad directa Mark-Rachel; Rachel admite que la dependencia del yeso la excita. Duermen juntos. Mira contó a June lo ocurrido.
-- **Día 21**: Despertar con Rachel. Visita a Sophie (conversación sobre Rachel; masturbación). Visita a Claire: creación de Jude (24, derrame cerebral, inmovilización total, BDSM pasado, hermana Cora). Primera visita a Jude con Megan: tarde larga en casa de Cora, auricular activo, Jude muestra interés en Mark. Configuración activa: Jude hablará con Cora, Cora cederá y se lo dirá a Megan.
+- **Día 21**: Despertar con Rachel. Visita a Sophie (conversación sobre Rachel; masturbación). Visita a Claire: creación de Jude. Primera visita a Jude con Megan: tarde en casa de Cora, auricular activo, Jude muestra interés en Mark. Mark reconfigura secuencia de Jude vía Claire. Patricia visita la mansión: primera intimidad con prótesis puestas (Patricia masturba a Mark con gancho, lo cabalga), cena, lectura de Claustrofobia (Patricia se masturba con ganchos), segunda intimidad sin prótesis. Duermen juntos.
 
 ---
 
 ## Mark
 
-- Localización: en tránsito / mansión. Día 21, tarde.
+- Localización: en la ciudad. Día 22, mañana.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma Campbell **o Jude**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -111,11 +111,10 @@
 ## Patricia
 
 - Localización: casa de Hannah, en la ciudad.
-- Estado físico: ambos brazos amputados desde el hombro. Muñón derecho con cicatriz rosada, sin gasa.
-- **Estado emocional:** estable y afectuosa. Relación con Mark definida informalmente como "novia". Sabe que hay otra persona. Está empezando a notar que Hannah le importa de una forma diferente. Arco romántico con Hannah activo. Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
-- **Habilidad nueva:** aprendió a masturbarse sola frotándose contra superficies. Hannah la ayudó a masturbarse por primera vez (Día 17): Patricia apoyó la cabeza en el hombro de Hannah al terminar; pidió repetirlo mañana.
-- **Día 17:** primera sesión de rehabilitación con prótesis de gancho. Nerviosa pero en curso.
-- Pendiente: próxima visita a la mansión para leer capítulo 2 de Claustrofobia (prometido).
+- Estado físico: ambos brazos amputados desde el hombro. Prótesis de gancho en ambos brazos (en uso desde Día 17).
+- **Estado emocional:** estable y afectuosa. Relación con Mark definida como "novia". Arco romántico con Hannah activo. Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+- **Habilidades nuevas:** se masturba sola frotándose contra superficies; también con el gancho (primera vez Día 21: abriendo y cerrando el gancho contra el clítoris, técnica practicada con cilindro en casa de Hannah). Desabrocha pantalón con ganchos. Masturba con gancho.
+- Mark dijo que la llamará "en unos días." Capítulo 2 de Claustrofobia leído (Día 21).
 
 ---
 
@@ -171,7 +170,7 @@
 - Localización: apartamento con Cora, ciudad.
 - **Estado físico:** inmovilización completa por derrame cerebral. Solo mueve ojos y párpados. Boca siempre abierta (sin control de la mandíbula). Cánula de traqueotomía, respirador portátil. Sonda gástrica. Derrama saliva; Cora la limpia con pañuelo.
 - **Comunicación:** ojos arriba = sí; ojos abajo o parpadeo doble = no. Tabla de letras para mensajes complejos.
-- **Configuración activa:** Jude quiere tener sexo con Mark. Lo hablará con Cora (esta tarde o noche del Día 21). Cora inicialmente se negará, luego cederá. Cora le contará a Megan.
+- **Configuración activa (nueva, Día 22):** Jude siente atracción por Mark y quiere tener sexo con él, pero no ha hablado con Cora todavía. Secuencia: (1) Mark las encuentra en el centro comercial (Día 22); invita a Cora a un café, conversan con Jude presente — desde la perspectiva de Jude, parecerá que Cora y Mark coquetean; (2) el auricular transmitirá frustración de Jude por su situación física ese día; (3) al volver a casa, Jude confiesa a Cora que se siente atraída por Mark y que quiere tener sexo con él; (4) Cora dice que ella no está interesada en Mark, pero inicialmente se opone a contactar a Megan solo para pedirle que Mark tenga sexo con Jude; (5) Cora cede; (6) Cora no tiene el contacto de Mark — primero quiere hablarlo con Megan; (7) Megan contacta a Mark para contarle; (8) Mark llama a Cora.
 - **Auricular:** activo para Mark a menos de 3 metros de Jude.
 - Primera visita de Mark: Día 21.
 
@@ -179,14 +178,14 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Jude:** configuración activa en curso. Megan recibirá mensaje de Cora (Jude quiere tener sexo con Mark) y se lo dirá a Mark.
+1. **Jude:** nueva configuración activa. Mark la encuentra en el centro comercial hoy (Día 22). Ver sección Jude para la secuencia completa.
 2. **Rachel:** en la mansión con doble shoulder spica. Primera intimidad directa con Mark (Día 20). Relación en nuevo terreno. Dana cubrirá el cuidado físico diario.
 3. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria. Ya sabe que Mark compró el Creston Medical Center. Próximos yesos: pierna hasta cadera, brazo hasta hombro (con Emily presente si acepta la verdad). Arco romántico con Emily activo. Decisión pendiente: Emily o amputación primero.
 4. **Mira:** segunda cita pendiente. Ya le contó a June. Arco romántico en inicio.
 5. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
-6. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
+6. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Visita a mansión completada (Día 21): capítulo 2 de Claustrofobia leído. Mark llamará en unos días.
 7. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Diane reporta uso diario.
-8. **Dana:** integrada en la mansión. Cubrirá baño y cuidado de Rachel y Sophie.
+8. **Dana:** integrada en la mansión. Cubrirá baño y cuidado de Rachel y Sophie. Conoció a Patricia (Día 22).
 9. Mark: producción oral del idioma actual ~Día 26.
 10. Sophie: yesos hasta ~Día 40.
 11. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).

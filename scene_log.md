@@ -2,45 +2,7 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–60 (Días 1–13) archivadas en `scene_log_archive.md`.
-
----
-
-## Día 14
-
-### Escena 61: Despertar con Tori y mañana en la mansión (Día 14, mañana)
-
-Mark despierta junto a Tori. Le pone las gafas. La ayuda a vestirse parcialmente: camiseta, panties, corsé de Milwaukee, gancho. La sienta en la silla de ruedas reclinable de Sophie. Pasan por la habitación de Sophie: está en la cama sin toallas, pene erecto. Tori se ofrece a ayudar (preguntándole directamente a Sophie). Usa el gancho para masturbar a Sophie hasta el clímax. Bajan al comedor. Tori camina sola a la cocina a pedirle la pasta a Rachel; el intercambio es breve y eficiente. Mark propone la piscina después del desayuno.
-
-### Escena 62: Piscina con Tori — intimidad (Día 14, mañana)
-
-Mark retira todos los dispositivos de Tori excepto las piezas intrabucales del aparato maxilar (las correas exteriores se quitan; el habla no cambia). Tori queda desnuda, solo con la jaula de castidad. Mark la carga a la piscina. Intimidad en el agua: Mark la sostiene flotando, la abraza por detrás, la penetra apoyada en un flotador con las piernas abiertas (la derecha paralizada y la izquierda terminando en el muñón). Simultáneamente la masturba a través de la jaula. Clímax de los dos en el agua. Mark la saca, la seca, le quita la jaula para limpiarla (erección dolorosa involuntaria, espera que baje), vuelve a poner la jaula. Mark también envió mensaje a Claire para que Emily masturbara a Megan durante el aseo de esa mañana; Claire confirmó que ocurrió.
-
-### Escena 63: El accidente de Tori (Día 14, mediodía)
-
-Mientras Tori volvía de la cocina —desnuda, sin corsé— Mark termina de enviar un mensaje a Claire solicitando simular una caída. El pegleg se engancha en el borde de la alfombra; Tori cae hacia adelante. Resultado: fractura cervical sin afectación neurológica, fractura de hombro derecho, fractura de mandíbula. Rachel llama la ambulancia. Llegan dos paramédicas. Mark les indica que no retiren la jaula de castidad de Tori. Se llevan a Tori en camilla. Mark y Rachel quedan solos en la mansión.
-
-### Escena 64: Visita a Claire — especificaciones del yeso (Día 14, tarde)
-
-Mark camina a casa de Claire. Encarga los yesos: shoulder spica en brazo derecho (hasta el muñón de la muñeca, brazo en abducción, muñón expuesto en el extremo), minerva alta (cubre el cráneo excepto rostro, dos agujeros laterales para las orejas, agujero superior por donde sale el cabello como cola), ambos yesos formando una sola pieza unida a la altura del pecho y hombros. Muñón izquierdo libre. Mandíbula cosida con alambre sobre el aparato maxilar: prácticamente no puede abrir la boca, el habla es ininteligible. Claire también entrega a Mark un auricular reutilizable que transmite los pensamientos internos de Tori en voz limpia (sin sustituciones fonéticas) cuando Mark está a menos de 3 metros de ella; se activa por proximidad, se carga con calor corporal. Mark lo prueba con Claire como demostración. Instrucciones hospitalarias: doctora explica el estado y se retira; enfermera Diane disponible en pasillo; Tori sin ropa ni aparatos ortopédicos, solo pañal; Tori debe sentir vergüenza del pañal.
-
-### Escena 65: Hospital — primera visita a Tori enyesada (Día 14, tarde-noche)
-
-Mark llega al hospital con el auricular puesto. La doctora Walsh explica: fractura cervical limpia sin parálisis, shoulder spica + minerva como una sola pieza, mandíbula con alambre, alimentación líquida por pajita, pañal necesario durante las ~8 semanas de yeso. Se retira. Mark escucha los pensamientos de Tori en tiempo real: vergüenza por el pañal descubierto, frustración por no poder comunicarse, consciencia de que Mark la mira. Tori intenta señalar el bloc de notas de la mesilla repetidamente sin éxito; Mark lo malinterpreta cada vez. Diane (enfermera, 24 años, rubia, uniforme azul claro) explica el sistema de parpadeos (uno largo = sí, dos cortos = no). Dos mujeres entran por error a la habitación (pelirroja con chaqueta verde; morena con vestido azul marino), hacen preguntas sobre el yeso y la jaula; Tori las hace irse con un parpadeo largo enfático. Mark pone una película romántica acostado a su lado. Durante la película, Tori se orina en el pañal sin poder evitarlo ni comunicárselo a Mark. Mark le cambia el pañal por primera vez: abre el sucio, lo desecha, coloca el nuevo, retira la jaula para limpiar (erección involuntaria + dolor, espera que baje, vuelve a poner jaula), aplica talco. Mark anuncia que volverá mañana y que Diane se queda las 24 horas. Tori intenta decir "gracias" antes de que salga.
-
-**La conversación termina aquí: Mark acaba de despedirse de Tori en el hospital. Diane se queda con Tori.**
-**Próximo paso pendiente: Día 15. Mark prometió volver a visitarla. Megan sigue en su apartamento con Emily. Patricia en casa de Hannah.**
-
-### Escena 66: Visita nocturna a Megan (Día 14, noche)
-
-Mark pasa por el apartamento de Megan con veinte minutos. Emily les da privacidad y baja. Megan narra con detalle lo ocurrido esa mañana con Emily: durante el aseo, Emily continuó más allá del punto habitual, sin comentarlo, hasta que Megan llegó al clímax. Describe cambios en el trato de Emily desde entonces: toque más consciente, le apartó el pelo sin razón práctica. Megan dice que no sabe si fue impulso o algo planeado, pero que si vuelve a pasar no la detendrá. Pregunta a Mark qué cree que siente Emily; Mark responde que quizás solo quiera complacerla. Megan procesa que le gusta Emily pero que la situación con Mark es diferente: él viene veinte minutos, ella está ahí cuando Megan se despierta y cuando duerme. Emily regresa. Mark se despide con beso.
-
-### Escena 67: Club Insomnia con Patricia y Hannah (Día 14, noche)
-
-Mark recoge a Patricia en casa de Hannah. Patricia lleva vestido rojo oscuro sin mangas con escote en V, sin brasier, muñones simétricos al aire. Hannah lleva vestido negro corto sin ropa interior, pene colgando libre bajo la tela. Van al Club Insomnia: música electrónica, ambiente con intimidad visible en pista y reservados, nueva moda presente. Hannah encuentra a Ivy (cabello rojo, vestido verde muy corto, yeso en brazo izquierdo) en la barra y conectan rápidamente. Mark baila con Patricia por detrás, manos en su cintura, erección contra sus nalgas. Conversación íntima sobre la masturbación de Patricia en la biblioteca y cómo repetirlo. Mark le quita los panties en la pista sin que nadie reaccione. Se retiran a un reservado con sofá. Intimidad: Patricia encima de Mark, muñones apoyados en sus hombros para equilibrarse. Hannah e Ivy se unen al reservado y tienen su propia intimidad simultánea (Hannah penetra a Ivy). Todos terminan. Vuelven a casa de Hannah. Hannah e Ivy duermen en la habitación de Hannah; Mark y Patricia en el cuarto de Patricia. Patricia dice "la próxima vez el libro" antes de dormir.
-
-**La conversación termina aquí: Mark duerme junto a Patricia en casa de Hannah. Es madrugada del Día 15.**
-**Próximo paso pendiente: Tori tiene el alta hospitalaria el Día 15 por la mañana. Mark prometió visitarla.**
+> Escenas 1–67 (Días 1–14) archivadas en `scene_log_archive.md`.
 
 ---
 
@@ -378,5 +340,45 @@ Mark y Megan vuelven en vehículo al apartamento. Megan dice que Jude los miró 
 
 ---
 
-**La conversación termina aquí: Día 21, tarde. Mark sale del apartamento de Megan.**
-**Próximo paso pendiente: Megan recibirá mensaje de Cora (Jude quiere tener sexo con Mark) y se lo dirá a Mark. Visita pendiente a Patricia (capítulo 2 de Claustrofobia). Segunda cita con Mira pendiente. Emma pidió implícitamente que Mark repita la visita.**
+## Día 21 — Noche (continuación)
+
+### Escena 116: Invitación a Patricia — llegada a la mansión con prótesis (Día 21, tarde-noche)
+
+Mark, en la ciudad, escribe a Patricia pidiéndole que vaya a la mansión esa noche. Patricia acepta y llega media hora después en vehículo autónomo. Lleva vestido negro corto que comienza desde la base de los senos, pezoneras doradas con pequeños colgantes, aberturas laterales desde la cadera hasta el bajo. Prótesis de gancho puestas en ambos brazos; arneses cruzados visibles sobre los hombros. Sin panties: Mark se los quitó en la entrada (los guardó en el bolsillo). Beso y caricia de seno al llegar. Patricia comenta que lleva las prótesis desde el lunes y que todavía le cansan los hombros; Hannah las escogió combinadas con el vestido porque "los ganchos quedaban bien, que se veían."
+
+### Escena 117: Intimidad en la biblioteca — primera vez con prótesis puestas (Día 21, noche)
+
+En la biblioteca. Mark derrama vino accidentalmente sobre un seno de Patricia; lo lame y retira las dos pezoneras. Progresión: Mark lame el pezón → Patricia pide que la laman más abajo → usa el gancho para señalar la zona íntima con la falda subida → pide en voz alta que le laman el coño ("En el coño, Mark. Quiero que me lamas el coño." — primera petición explícita directa). Mark la lame. Patricia acaricia a Mark con los ganchos (cabello, cuello, hombros). Patricia desabrocha el pantalón de Mark con los ganchos (práctica que hace con Hannah usando un cilindro); masturba a Mark con el gancho derecho, movimiento controlado abriendo y cerrando. Mark se sienta en el sillón; Patricia se sienta encima. Patricia dicta el ritmo ("Quieto tú. Yo me muevo."). Monta con ganchos como ancla en los hombros de Mark; clímax de los dos. Mark no repone las pezoneras después. Comentario de Patricia: "Con el cilindro de Hannah no es lo mismo. El metal es distinto."
+
+### Escena 118: Cena con Dana — Patricia y Dana se conocen (Día 21, noche)
+
+Cena ligera preparada por Dana: ensalada, pan, queso y fiambre. Patricia come sola con los ganchos, despacio pero con precisión (se nota que lleva días practicando). Mark comenta que no se conocían. Patricia pregunta cuándo llegó Dana y si las amputaciones fueron de nacimiento. Mark explica que fueron accidentes, sin recordar los detalles. Patricia dice que hablará con ella después si no le molesta. Mark propone que sea al día siguiente.
+
+### Escena 119: Reconfiguración de Jude vía Claire (Día 21, noche)
+
+Durante la cena, Mark escribe a Claire con instrucciones de nueva secuencia para Jude: cancelar configuración anterior (no habla con Cora todavía); Día 22 Mark las encontrará en el centro comercial → Cora y Mark parecerán coquetear ante Jude → auricular mostrará frustración física de Jude → al volver a casa Jude confiesa a Cora atracción y ganas de sexo con Mark → Cora cede tras resistencia → sin contacto de Mark, habla primero con Megan → Megan contacta a Mark → Mark llama a Cora. Claire confirma y ejecuta.
+
+### Escena 120: Lectura de Claustrofobia — masturbación de Patricia con ganchos (Día 21, noche)
+
+De vuelta en la biblioteca. Mark retoma la lectura del capítulo 2 en adelante. Durante una escena erótica, Patricia empieza a masturbarse en silencio: gancho derecho abriendo y cerrando rítmicamente contra labios y clítoris, gancho izquierdo sobre el pezón con presión intermitente. Pide que no pare de leer y que vaya más despacio. Orgasmo: ganchos se abren al máximo, cuerpo tenso, sonido contenido. Primera vez que se masturba con el gancho directamente en lugar del cilindro de Hannah; dice que el metal es diferente y mejor.
+
+### Escena 121: Segunda intimidad — sin prótesis (Día 21, noche)
+
+Patricia pide que Mark le quite las prótesis antes de acostarse. Mark desabrocha los dos arneses despacio. Con los muñones libres del peso, Patricia se mueve con más soltura. Intimidad lenta: muñones rozan hombros, pecho, cuello, mejillas de Mark durante el acto. Orgasmo de Patricia con los muñones apretados contra las mejillas de Mark. Duermen juntos. Patricia: "Los ganchos están bien. Pero esto también."
+
+---
+
+## Día 22 — Mañana
+
+### Escena 122: Despertar — desayuno y conversación Patricia-Dana sobre prótesis (Día 22, mañana)
+
+Despertar tranquilo. Patricia declina los panties al vestirse ("Solo que ya sé cómo termina cuando los llevo puestos."). Pezoneras recuperadas de la biblioteca y puestas. Desayuno preparado por Dana. Tras el desayuno, en el salón: Patricia le pregunta a Dana sobre la adaptación a las prótesis. Dana responde con practicidad: tres meses para las cosas básicas con los brazos; el músculo que tira del cable se entrena. Patricia reconoce que lleva menos de una semana y que los hombros le cansan. Dana: "Nada que haya querido de verdad aprender." (sobre si hay algo que no pudo aprender con las prótesis).
+
+### Escena 123: Mark lleva a Patricia a casa de Hannah (Día 22, mañana)
+
+Mark anuncia que tiene que ir a la ciudad. Patricia acepta que la lleven; aclara que "cambiarse" es ponerse los panties. Mark se los pone. En el vehículo autónomo: beso y caricia de senos. Patricia pregunta a qué hora la llamará. Mark dice que la llamará en unos días. Patricia baja frente a la casa de Hannah: "Ok." Cierra la puerta. El coche arranca.
+
+---
+
+**La conversación termina aquí: Día 22, mañana. Mark deja a Patricia en casa de Hannah y se dirige a la ciudad.**
+**Próximo paso pendiente: Mark va al centro comercial hoy (Día 22) y encuentra a Cora y Jude — nueva secuencia de Jude activa. Megan: yesos hasta ~Día 29. Segunda cita con Mira pendiente. Visita pendiente a Emma.**
