@@ -31,6 +31,8 @@
 - "Tenía un poco de fresco." _(con humor seco después de que Rachel la cubre con toallas a petición de Mark al llegar Nora — Día 10)_
 - "Llegas en buen momento. La parte aburrida ya pasó." _(saludando a Nora desde el sofá, con su media sonrisa habitual — Día 10)_
 - "Mark lo propuso. Yo dije que sí. No me arrepiento. [...] Y Rachel y yo tenemos algo entre nosotras. Eso ayuda." _(a Nora, confirmando que accedió al yeso voluntariamente y mencionando su relación con Rachel sin pudor — Día 10)_
+- "No hice nada. Ella ya lo quería. Solo hice falta yo de excusa." _(sobre el beso entre Rachel y Mark — Día 21)_
+- "No era cortante contigo. Era cuidadosa. Son cosas distintas." _(sobre Rachel — Día 21)_
 
 **Momentos con Mark:**
 
@@ -43,3 +45,4 @@
 - Mark y Rachel la trasladan del sofá a una silla de ruedas de respaldo alto reclinable, dejando el respaldo completamente reclinado para poder ponerla acostada; cena en el comedor con Rachel dándole de comer. Duerme junto a la cama de Mark en la silla _(Día 10, escena 39)_.
 - Conversación con Patricia durante la inducción neurolingüística del Día 12: hablan sobre pintar con un solo brazo y sobre estar enyesada de cuerpo completo. Sophie: "Nos entendimos." _(Día 12, escena 52)_.
 - Escena a tres con Rachel y Mark (Día 20): Rachel montada sobre Sophie, Mark observa y luego participa. Sophie pide a Mark que bese a Rachel ("Bésala"). Llega al clímax dos veces: con Rachel encima y cuando Mark la masturba manualmente. Queda al lado de Rachel en la cama después. _(Día 20, escena 108)_.
+- Conversación con Mark sobre Rachel (Día 21): explica que Rachel no era cortante sino cuidadosa, y que necesitaba permiso para abrirse de una forma que no pareciera que ella lo pedía. Mark le agradece lo del beso; Sophie: "No hice nada. Solo hice falta yo de excusa." Mark la masturba hasta el clímax. Comenta el olor del yeso con indiferencia. _(Día 21, escena 112)_.

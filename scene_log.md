@@ -2,35 +2,7 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–55 (Días 1–12) archivadas en `scene_log_archive.md`.
-
----
-
-## Día 13 — Tarde y noche
-
-### Escena 56: Visita a Claire — creación de Tori (Día 13, mañana)
-
-Mark camina desde la mansión a casa de Claire. Le entrega una hoja con las especificaciones de un nuevo personaje para la app de citas: Tori, 22 años, compositora. Múltiples condiciones: brazo izquierdo amputado a mitad del húmero, brazo derecho amputado a nivel de la muñeca con prótesis de gancho, pierna derecha paralizada por polio con aparato ortopédico completo (metal y cuero, blanco crema), pierna izquierda amputada por encima del tobillo con prótesis tipo pegleg (salmón rosado, tacón negro), corsé de Milwaukee, aparato maxilar exterior, miopía severa con gafas de cristales muy gruesos y montura roja. Personalidad directa y defensiva al principio, mordaz, que se abre cuando está cómoda. El aparato maxilar le impide articular ciertos fonemas (/s/, /t/, /l/, /n/, /r/ con sustituciones específicas) pero escribe con normalidad. Claire pide aclaración sobre el nivel de amputación del brazo izquierdo (mitad del húmero) y ejecuta. Tori queda activa en la app.
-
-### Escena 57: Primera cita con Tori — restaurante (Día 13, noche)
-
-Mark escribe a Tori por la app; ella acepta cenar esa misma noche a las 6pm en el restaurante clásico del centro. Mark llega antes. Tori entra: corsé de Milwaukee visible sobre blusa negra de tirantes, gafas de montura roja, gancho en brazo derecho, muñón izquierdo al aire, aparato maxilar exterior, aparato ortopédico en pierna derecha y pegleg en izquierda, muleta de antebrazo. Gait asimétrica y rítmica.
-
-Primer contacto defensivo ("Mo foy um momfpguo"); Mark reacciona sin dramatismo, le corre la silla. La cena transcurre con conversación fluida que gana temperatura gradualmente: Tori habla de sus condiciones (polio a los 15, miopía, amputación de brazo izquierdo en taller, muñeca derecha en sala de conciertos, pie izquierdo por infección ósea, corsé por curvatura de columna), del pegleg que eligió ella misma ("me gufa cómo fuema cuamdo camimo"), de su trabajo como compositora y de su mala suerte romántica pasada. Mark la hace reír varias veces. Tori pide pan que no puede alcanzar por el corsé; algo de comida queda atrapada en el aparato maxilar y Mark lo resuelve con delicadeza. Tori observa que Mark no se puso nervioso en ningún momento. Al cierre del restaurante, Mark la invita a continuar en la mansión; Tori acepta. Salen juntos.
-
-### Escena 58: Llegada a la mansión con Tori — noche del Día 13
-
-En el vehículo, Tori pregunta por el yeso de Mark; él da la historia de la luxación de tobillo. Llegan a la mansión. Rachel los recibe brevemente. Al entrar al salón, Tori ve a Sophie en la silla reclinable enyesada de cuerpo completo. Reacciona con calma y curiosidad directa: pregunta qué le pasó (Mark inventa el atropello), nota que Sophie también conoce lo que es ser mirada. Conversación corta y genuina entre las dos sobre los aparatos (Tori lleva el de la pierna diez años; Sophie lleva un mes). Sophie pregunta directamente a Tori si se queda la noche; Tori responde que sí. Rachel lleva a Sophie a la habitación. Mark e Tori se quedan solos en el salón con vino.
-
-### Escena 59: Intimidad con Tori — habitación principal, noche del Día 13
-
-En el salón, besos progresivos con Tori: primer beso navegando el aparato maxilar, luego el cuello bajo el collarín del corsé. Tori admite que nadie la había besado antes. Mark la invita a la habitación; acepta. En la habitación: Mark quita el corsé de Milwaukee (la columna de Tori cede hacia su curva natural sin él). Quita el pegleg (muñón izquierdo del tobillo expuesto; Tori reacciona al primer tacto). Quita el aparato ortopédico de la pierna derecha (completamente flácida, Mark la mueve). Quita la blusa y la falda. La jaula de castidad metálica queda visible. Mark la acomoda en la cama. Intimidad: Mark toca la jaula y los testículos; Tori lo masturba con el gancho; Mark introduce su pene en la boca de Tori (limitada por el aparato maxilar). Tori usa el muñón izquierdo para tocarlo. Mark eleva sus caderas con almohadas y estimula el ano con los dedos, masajeando la próstata. El pene de Tori intenta tener erección dentro de la jaula, produciendo dolor simultáneo al placer. Tori pide que continúe despacio.
-
-La intimidad continúa: Mark penetra el ano de Tori despacio, con la mano rodeando la jaula simultáneamente. Tori experimenta dolor y placer entrelazados — el pene intenta tener erección dentro de la jaula, causa dolor agudo, pero pide que no pare. Mark aumenta el ritmo; Tori llega al clímax (orgasmo sin erección, eyaculación a través de la apertura de la jaula, semen sobre el vientre y la mano de Mark). Primera vez de Tori en todos los aspectos.
-
-### Escena 60: Limpieza y sueño — madrugada del Día 14
-
-Mark retira el pene despacio. Limpia a Tori con paños húmedos: primero la jaula, luego el pene directamente tras retirar la jaula. Al tocarlo sin la jaula, el cuerpo de Tori empieza a responder — dolor inminente — Mark suelta y vuelve a poner la jaula cuando baja la tensión. Mark abraza a Tori, retira el gancho para que duerma más cómoda (muñón de la muñeca derecha al aire). La reposiciona: pie derecho paralizado doblado sobre él, muñón izquierdo del brazo en el colchón, muñón de la muñeca derecha sobre el pecho de Mark. Tori toca el pene de Mark perezosamente con el muñón de la muñeca mientras se duerme. Duermen juntos.
+> Escenas 1–60 (Días 1–13) archivadas en `scene_log_archive.md`.
 
 ---
 
@@ -371,3 +343,40 @@ Luz apagada. Mark llama su nombre. Rachel responde "¿Qué?" sin el tono habitua
 
 **La conversación termina aquí: Día 20, noche. Mark y Rachel duermen juntos en la habitación principal tras la primera intimidad directa entre los dos.**
 **Próximo paso pendiente: Día 21 por determinar. Visita pendiente a Patricia (capítulo 2 de Claustrofobia). Megan sigue reflexionando sobre amputaciones voluntarias. Mira: segunda cita pendiente. Megan: próximos yesos más largos con Emily presente si acepta la verdad.**
+
+---
+
+## Día 21 — Mañana
+
+### Escena 111: Despertar con Rachel — baño y desayuno (Día 21, mañana)
+
+Mark despierta a Rachel acariciándole el cabello. Rachel despierta despacio, pide el baño antes de desayunar. Mark la ayuda a levantarse, la acompaña al baño: la desviste, la sienta en el inodoro, la limpia con papel higiénico. Rachel se lava la cara inclinándose sobre el grifo (sin poder usar las manos); Mark le acerca la toalla sin que lo pida. Rachel: "La cara me la lavo yo." Desayuno en el comedor: Dana tiene café y tostadas. Mark da de comer a Rachel con pajita y trozos. Al llevarla al salón a ver TV (su serie de documentales sobre arquitectura), Rachel le pide que no actúe diferente por lo de la noche anterior: "Anoche... no tienes que actuar diferente por lo de anoche." Mark dice que fue especial para él. Rachel: "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." Le pide que vaya a hacer lo que tenga que hacer.
+
+### Escena 112: Visita a Sophie — conversación y masturbación (Día 21, mañana)
+
+Mark entra a la habitación de Sophie. Está acostada, toallas sobre senos y pene. Mark se sienta en el borde y pregunta cómo durmió. Sophie pregunta por Rachel. Mark le agradece lo de la víspera (haber pedido que Mark besara a Rachel). Sophie: "No hice nada. Ella ya lo quería. Solo hice falta yo de excusa." Añade que Rachel no era cortante con Mark, sino cuidadosa: "Son cosas distintas." Explica que Rachel necesitaba permiso de una forma que no pareciera que ella lo pedía. Mark retira la toalla del pene de Sophie y empieza a acariciarlo. Sophie: "Que me toques. Y no pares cuando diga que sí." Mark la masturba despacio, luego más rápido a petición implícita. Sophie llega al clímax (sonido corto y ahogado). Mark la limpia con papel higiénico. Sophie comenta que el yeso acumula manchas de semen y que Dana dice que huele, pero que a ella no le molesta.
+
+### Escena 113: Mensajes y visita a Claire — creación de Jude (Día 21, mañana)
+
+Mark revisa el móvil. Tres mensajes: Mira (le contó a June anoche; June está rara, le da tiempo). Patricia (quiere el libro, tipeo con gancho visible: "cuanfo vienes con el libor"). Diane (Tori usó el vibrador 20 minutos esa mañana, come bien, sin novedades médicas). Mark escribe a Megan; ella responde que iba a salir a ver a una amiga e invita a Mark a acompañarla.
+
+Mark visita a Claire en su casa. Le encarga un nuevo personaje: Jude, 24 años, derrame cerebral a los 21, inmovilización completa (solo ojos y párpados), boca siempre abierta, cánula de traqueotomía, sonda gástrica, cabello negro, piel blanca, tatuajes geométricos y florales, senos grandes, caderas anchas. Pasado activo en BDSM (le gustaba ser inmovilizada: shibari, cintas, esposas). Hermana Cora (26 años, castaña clara, delgada, cara con cansancio acumulado y sonrisa lenta) como cuidadora y amiga de Megan. No aparece en la app. El auricular de pensamientos se activa también a menos de tres metros de Jude. Mark conocerá a Jude a través de Megan: la próxima visita, Megan la invitaría a acompañarla. Estado emocional de Jude: frustrada, con rabia por su situación; la ironía central es que antes elegía que la inmovilizaran y ahora no puede elegir nada. Claire ejecuta. Jude queda activa.
+
+### Escena 114: Primera visita a Jude — tarde con Megan, Cora y Jude (Día 21, mañana-tarde)
+
+Mark llega al apartamento de Megan. Emily abre la puerta. Megan está lista con abrigo y bolso. Van juntos en vehículo a casa de Cora, edificio de ladrillo claro a diez minutos.
+
+Cora abre la puerta (26 años, castaña clara, cara cansada, sonrisa que tarda en llegar). En el salón: Jude en la cama hospitalaria — cabello negro sobre almohada, camiseta negra sin mangas, tatuajes al descubierto, boca abierta, cánula de traqueotomía visible en la base del cuello, respirador portátil junto a la cama. El auricular de Mark se activa al acercarse. Mark la saluda directamente. Jude lo sigue con los ojos. Cora explica que Jude entiende todo perfectamente pero no puede responder con voz.
+
+Mark ayuda a trasladar a Jude a la silla de ruedas con soporte de cabeza; Cora la reposiciona. Se sientan en la sala. La conversación dura toda la tarde: clima, vida en el barrio, sexo, fetiches. Jude interviene deletreando con la tabla de letras que Cora sostiene: "PERO FRÍO" (sobre el clima); "ME GUSTABA QUE ME ATARAN" (sobre fetiches); "IRÓNICO" (cuando Mark menciona que le gusta la inmovilización); "MEJOR ANTES" (sobre el barrio). Cora narra brevemente el derrame: Jude sola en casa, Cora llegó tres horas después. El auricular transmite pensamientos de Jude en tiempo real: evaluación directa de Mark, sorpresa de que no aparte la vista, ganas de seguir hablando por primera vez en mucho tiempo.
+
+Mark configura a Claire por mensaje: Jude queda con ganas de tener sexo con Mark; lo hablará con Cora esta tarde o noche; Cora inicialmente no estará de acuerdo pero cederá; Cora se lo contará a Megan por mensaje. Mark se despide de Jude con beso en la mejilla. Jude deletrea "VUELVES". Mark: "¿Por qué no? Ha sido una agradable tarde." Jude: "SÍ. HACÍA TIEMPO." Cora: "Puede volver cuando quiera." Pensamiento de Jude en el auricular: "Primera vez en tres años que quiero que alguien vuelva."
+
+### Escena 115: Regreso al apartamento de Megan — conversación y despedida (Día 21, tarde)
+
+Mark y Megan vuelven en vehículo al apartamento. Megan dice que Jude los miró mucho, más de lo habitual con gente nueva; propone que fue por el comentario sobre la inmovilización o porque simplemente le gustó Mark. Añade que Jude antes era de las que elegían a las personas, no de las que esperaban; "hoy eligió mirarte." Mark y Megan suben al apartamento. Emily en la cocina. Mark pide agua y dice que tiene que irse pronto. Conversación: Megan reporta que Emily la peinó esa mañana sin razón práctica. Mark le recuerda que los yesos no duran para siempre y que tiene que tomar una decisión. Megan: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. Mark la deja con esa pregunta y se despide. Le dice que le mantenga informado ("ya sabes a qué me refiero"). Megan asiente. Mark sale.
+
+---
+
+**La conversación termina aquí: Día 21, tarde. Mark sale del apartamento de Megan.**
+**Próximo paso pendiente: Megan recibirá mensaje de Cora (Jude quiere tener sexo con Mark) y se lo dirá a Mark. Visita pendiente a Patricia (capítulo 2 de Claustrofobia). Segunda cita con Mira pendiente. Emma pidió implícitamente que Mark repita la visita.**

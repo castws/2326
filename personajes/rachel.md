@@ -38,6 +38,7 @@
 - "Hoy fue distinto. No lo sabía hasta hoy." _(sobre la excitación que le produce la dependencia del yeso — Día 20)_
 - "Mark." _(solo el nombre, primera vez durante el sexo — Día 20)_
 - "A mí también. Lo digo mientras compruebo si es verdad." _(respuesta a Mark sobre haber hablado abiertamente — Día 20)_
+- "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." _(mañana del Día 21, confirmando sin dramatismo lo de la noche anterior)_
 
 **Momentos con Mark:**
 
@@ -50,3 +51,4 @@
 - Se desnuda y entra a bañar a Patricia en la ducha del Día 12 sin previo aviso, con la misma lógica práctica de siempre; cuando Patricia le pregunta si nunca hace algo más que bañar a Mark, responde "No" sin más _(Día 12, escena 51)_.
 - Hospitalizada con doble shoulder spica (habitación 214). Primer comentario a Mark: "igual que alguien con los dos brazos pegados al cuerpo." Pide agua con pajita. Rechaza que Mark la bañe ("No", sin justificación). Acepta que Dana lo haga _(Día 19, escena 96)_.
 - Alta el Día 20. Mark la baña solo (Dana ausente por maniobra de Claire y Mark). Acepta que Mark limpie la zona genital tras el argumento de Sophie. Escena a tres con Sophie: Rachel montada sobre Sophie, Mark las observa y luego participa (beso, clítoris, penetración). Primera intimidad directa con Mark en la cama sin Sophie presente: admite que la dependencia del yeso la excita ("Hoy fue distinto. No lo sabía hasta hoy."). Tarde juntos leyendo su novela: apertura conversacional real, comentarios sobre los personajes, alguna risa. Noche: Mark le acaricia el cabello hasta que se duerme _(Día 20, escenas 107-110)_.
+- Mañana del Día 21: Mark la despierta acariciándole el cabello. Baño asistido sin protestas. Desayuno. Le pide a Mark que no actúe diferente por la noche anterior; cuando Mark dice que fue especial para él, responde: "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." Ve la TV en el salón. _(Día 21, escena 111)_.

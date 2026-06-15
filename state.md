@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 20, noche.** Mark y Rachel duermen juntos en la habitación principal. Primera intimidad directa Mark-Rachel. Primera apertura emocional significativa de Rachel.
+**Día 21, tarde.** Mark sale del apartamento de Megan tras la visita a Jude y Cora. Primera vez que Mark conoce a Jude. Configuración activa: Jude hablará con Cora sobre querer tener sexo con Mark; Cora cederá y se lo dirá a Megan.
 
 ### Eventos programados (futuros)
 
@@ -38,15 +38,17 @@
 - **Día 17**: Segunda jornada con Emma: depilación que escala a primera intimidad. Patricia: primera sesión de rehabilitación con prótesis; Hannah la masturba por primera vez. Megan: Emily cada vez más táctil.
 - **Día 18**: Tercera jornada con Emma: intimidades múltiples. Emma más abierta.
 - **Día 19**: Olivia retoma el cuidado de Emma; despedida discreta. Mark en cafetería: configura arcos románticos Emily/Megan y Hannah/Patricia, y accidente de Rachel. Visita a Megan: intimidad; conversación sobre Emily y amputación voluntaria del brazo derecho (en reflexión); yesos extendidos a ~Día 29. Rachel fractura ambos húmeros (caída de escalera) → doble shoulder spica, hospitalizada. Mark en urgencias del hospital.
+- **Día 20**: Alta de Rachel. Maniobra de Dana → Mark la baña solo. Escena a tres con Sophie y Rachel. Tarde en biblioteca: primera apertura real de Rachel (comenta el libro, ríe, responde al beso). Noche: primera intimidad directa Mark-Rachel; Rachel admite que la dependencia del yeso la excita. Duermen juntos. Mira contó a June lo ocurrido.
+- **Día 21**: Despertar con Rachel. Visita a Sophie (conversación sobre Rachel; masturbación). Visita a Claire: creación de Jude (24, derrame cerebral, inmovilización total, BDSM pasado, hermana Cora). Primera visita a Jude con Megan: tarde larga en casa de Cora, auricular activo, Jude muestra interés en Mark. Configuración activa: Jude hablará con Cora, Cora cederá y se lo dirá a Megan.
 
 ---
 
 ## Mark
 
-- Localización: habitación principal de la mansión, durmiendo con Rachel. Día 20, noche.
+- Localización: en tránsito / mansión. Día 21, tarde.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
-- **Auricular de pensamientos:** dispositivo entregado por Claire. Se engancha en el pabellón de la oreja. Se activa automáticamente a menos de 3 metros de Tori **o de Emma Campbell**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
+- **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma Campbell **o Jude**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
 
 ---
 
@@ -164,18 +166,30 @@
 
 ---
 
+## Jude
+
+- Localización: apartamento con Cora, ciudad.
+- **Estado físico:** inmovilización completa por derrame cerebral. Solo mueve ojos y párpados. Boca siempre abierta (sin control de la mandíbula). Cánula de traqueotomía, respirador portátil. Sonda gástrica. Derrama saliva; Cora la limpia con pañuelo.
+- **Comunicación:** ojos arriba = sí; ojos abajo o parpadeo doble = no. Tabla de letras para mensajes complejos.
+- **Configuración activa:** Jude quiere tener sexo con Mark. Lo hablará con Cora (esta tarde o noche del Día 21). Cora inicialmente se negará, luego cederá. Cora le contará a Megan.
+- **Auricular:** activo para Mark a menos de 3 metros de Jude.
+- Primera visita de Mark: Día 21.
+
+---
+
 ## Pendiente / Próximos pasos
 
-1. **Rachel:** en la mansión con doble shoulder spica. Primera intimidad directa con Mark (Día 20). Relación en nuevo terreno. Dana cubrirá el cuidado físico diario.
-2. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria. Ya sabe que Mark compró el Creston Medical Center. Próximos yesos: pierna hasta cadera, brazo hasta hombro (con Emily presente si acepta la verdad). Arco romántico con Emily activo.
-3. **Mira:** segunda cita pendiente. Mira le va a contar a June lo que pasó. Arco romántico en inicio.
-4. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
-5. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
-6. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Vecinas saben del pañal. Diane reporta uso diario.
-7. **Dana:** integrada en la mansión. Cubrirá baño y cuidado de Rachel y Sophie.
-8. Mark: producción oral del idioma actual ~Día 26.
-9. Sophie: yesos hasta ~Día 40.
-10. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+1. **Jude:** configuración activa en curso. Megan recibirá mensaje de Cora (Jude quiere tener sexo con Mark) y se lo dirá a Mark.
+2. **Rachel:** en la mansión con doble shoulder spica. Primera intimidad directa con Mark (Día 20). Relación en nuevo terreno. Dana cubrirá el cuidado físico diario.
+3. **Megan:** yesos hasta ~Día 29. Reflexionando sobre amputación voluntaria. Ya sabe que Mark compró el Creston Medical Center. Próximos yesos: pierna hasta cadera, brazo hasta hombro (con Emily presente si acepta la verdad). Arco romántico con Emily activo. Decisión pendiente: Emily o amputación primero.
+4. **Mira:** segunda cita pendiente. Ya le contó a June. Arco romántico en inicio.
+5. **Emma:** Olivia retomó el cuidado (Día 19). Emma pidió implícitamente que Mark repita. Próxima visita pendiente.
+6. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Próxima visita a mansión: capítulo 2 de Claustrofobia prometido.
+7. **Tori:** vibrador como rutina diaria (4h antes de dormir). Yesos ~Día 77. Diane reporta uso diario.
+8. **Dana:** integrada en la mansión. Cubrirá baño y cuidado de Rachel y Sophie.
+9. Mark: producción oral del idioma actual ~Día 26.
+10. Sophie: yesos hasta ~Día 40.
+11. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
 
 ## Ciudad — cambios de configuración
 

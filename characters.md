@@ -31,6 +31,7 @@ ficha no se toca nunca.
 - **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta, ~30 años. Cuidadora 24/7 de Megan en su apartamento. Arco romántico con Megan activo (progresión gradual). Cree que los yesos de Megan son médicos.
 - **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos azules. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo; dedos mano izq y dedos de los pies amputados; pene amputado a la mitad. Silla de ruedas eléctrica. Alegre y directa. En su apartamento con June. Arco romántico en inicio (primera cita Día 19-20).
 - **[June](personajes/june.md)** — robot, hermana y cuidadora de Mira. 27 años, castaña oscura, reservada. Vive con Mira. Vida detenida en torno al cuidado. Mark la conoció brevemente el Día 20.
+- **[Jude](personajes/jude.md)** — robot ciudad. Cabello negro, piel blanca, tatuajes. 24 años. Derrame a los 21; inmovilización total, solo ojos. Traqueotomía, respirador, sonda gástrica. Apartamento con Cora (hermana/cuidadora). Mark la conoció el Día 21. Configuración activa: quiere tener sexo con Mark; Cora se lo dirá a Megan.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
 
