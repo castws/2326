@@ -408,5 +408,33 @@ Conversación sin tabla sobre gustos del BDSM (solo ojos arriba/abajo): le gusta
 
 ---
 
-**La conversación termina aquí: Día 22, noche. Mark sale del apartamento de Cora tras la primera intimidad con Jude.**
-**Próximo paso pendiente: Jude puede escribir a Mark cuando quiera (Cora mediará). Megan: yesos hasta ~Día 29, decisión sobre amputación pendiente. Segunda cita con Mira pendiente. Visita pendiente a Emma. Club BDSM: proyecto en planificación.**
+## Día 22 — Noche tardía (continuación)
+
+### Escena 128: Mensajes en el vehículo y consejo a Megan (Día 22, noche tardía)
+
+Mark en el vehículo de regreso a la mansión. Lee cuatro mensajes: Megan pregunta cómo fue con Jude; Diane informa que Tori usó el vibrador 35 minutos en nivel 3, sin novedades médicas; Dana reporta que Rachel y Sophie duermen y pregunta si puede apagar; Cora escribe que Jude deletreó "GRACIAS POR NO PREGUNTAR SI PODÍA" antes de dormir y luego cerró los ojos.
+
+Mark escribe a Megan: que la pasó muy bien y pregunta cómo está ella. Megan responde que Emily estuvo callada de una manera distinta durante el día, le preguntó si dormía bien con el yeso y se quedó mirándolo. Mark le dice que ya debería hablar con ella. Megan reconoce que no sabe en qué orden van las tres conversaciones que necesita tener, y que si Emily se va después de la primera no llega a las otras dos. Mark la aconseja: empezar solo por los cambios entre ellas, sin mencionar los yesos todavía. Megan lo procesa, dice que lo intentará mañana por la mañana durante el baño. Mark le desea suerte. Dana apaga.
+
+### Escena 129: Visita a Claire — Vera, casa de huéspedes, cirugía de feminización (Día 22, noche tardía)
+
+Mark llega a la mansión, pide a Dana que se vaya a dormir y va a casa de Claire. Le hace tres encargos:
+
+1. **Vera**: nueva enfermera doméstica, 29 años, mujer blanca delgada, castaña oscura lacia hasta la nuca, senos y caderas medianos, vagina, ropa oscura/negra por preferencia. Profesional con experiencia en cuidado domiciliario. En su vida privada: dominante BDSM, usa látex y lencería en sesiones, practica shibari e inmovilización, ha aplicado yesos como fetiche, atraída por yesos médicos y amputaciones. No revela sus fetiches salvo que la situación lo haga natural. Arco futuro con Jude (atracción mutua cuando Jude sepa del BDSM de Vera). Entrevista mañana a las 9, vestida a su gusto.
+
+2. **Casa de huéspedes**: construida esta noche, lado oeste de la mansión, materiales iguales. Una planta: sala pequeña, dormitorio, baño completo, espacio adaptable para segunda cama o equipamiento médico (previsto para Jude). Vera vivirá aquí.
+
+3. **Cirugía de feminización completa en el Creston, Día 23 noche**: remodelación ósea de cadera y cintura, redistribución de grasa, senos grandes y proporcionados, voz femenina, rostro femenino, cabello castaño oscuro hasta media espalda, suavizado de brazos/piernas/manos/pies, textura de piel femenina, eliminación permanente de vello corporal. Conserva pene y testículos. Modificación pene grower→shower (flácido ~70-80% del erecto). Internamiento en el Creston hasta ~Día 30 (7 días). Doctora Mills asignada al caso. Protocolo de recuperación: sonda los primeros 3 días; sin camisón mientras todo el cuerpo esté vendado (camisón en cuanto se retire cualquier venda que exponga senos o área genital); silencio estricto el primer día (solo gestos, sin papel ni dispositivo); traslados diarios sin camisón mientras dure la cobertura total: Día 24 a medicina interna, Día 25 a rehabilitación, Día 26 a radiología; evaluaciones de erección y arousal a partir del Día 27. Personal del Creston sin yesos ni discapacidades (excepción futura: Megan). Mark escribirá a sus personas cercanas antes de ingresar; a Vera se lo dirá en la entrevista.
+
+Claire ejecuta todo; fuera ya se escucha maquinaria. Mark regresa a la mansión y se acuesta.
+
+---
+
+## Día 23 — Mañana
+
+_Luz por los ventanales del dormitorio. Olor a café desde algún lugar de la casa. La historia queda abierta aquí._
+
+---
+
+**La conversación termina aquí: inicio del Día 23, mañana. Mark acaba de despertar en la mansión.**
+**Próximo paso pendiente: entrevista con Vera a las 9h. Mark escribirá a sus personas cercanas antes de la cirugía. Ingreso al Creston la noche del Día 23.**

@@ -26,6 +26,8 @@ ficha no se toca nunca.
 
 ## Activos en el arco actual _(se carga al inicio)_
 
+- **[Vera](personajes/vera.md)** — robot, enfermera de la mansión. 29 años, castaña oscura, delgada. Dominante BDSM en su vida privada; fetiche por yesos e inmovilización. Vive en la casa de huéspedes. Se incorpora Día 23.
+
 - **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia, tratamiento de inmovilización). Cobriza, pálida. Full body cast (cabeza/cuello libres), apertura perineal. Cama hospitalaria en su salón. Olivia retomó el cuidado (Día 19).
 - **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética. Retomó el cuidado el Día 19 tras el fin de semana de Mark.
 - **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta, ~30 años. Cuidadora 24/7 de Megan en su apartamento. Arco romántico con Megan activo (progresión gradual). Cree que los yesos de Megan son médicos.

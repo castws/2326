@@ -61,6 +61,14 @@
 - Ubicada **adyacente** a la mansión, con acceso a través de los jardines y una puerta entre ambas propiedades.
 - Claire vive aquí con su pareja Emily.
 
+### Casa de huéspedes
+
+- Construida la noche del Día 22, lado **oeste** de la mansión, acceso desde el jardín.
+- Una sola planta. Materiales iguales a la mansión (madera, techos altos).
+- Estancias: sala pequeña, dormitorio principal, baño completo.
+- Espacio interior adaptable para una segunda cama o equipamiento médico (previsto para Jude en el futuro).
+- Actualmente habitada por **Vera** (enfermera de la mansión, a partir del Día 23).
+
 ### Casa de Emma Campbell
 
 - Ubicada en el **sector noroeste** del área de Mark.
@@ -85,7 +93,7 @@
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
   - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
-- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares.
+- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares. **Personal del Creston:** sin yesos ni discapacidades (excepción futura: Megan, si decide incorporarse al hospital). **Club BDSM:** proyecto de Mark en planificación desde el Día 22; sin local asignado todavía. Mark prometió entrada completamente accesible (silla de ruedas, mobiliario adaptable).
 - Todos los vehículos son autónomos.
 - App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.
