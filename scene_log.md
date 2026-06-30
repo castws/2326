@@ -380,5 +380,33 @@ Mark anuncia que tiene que ir a la ciudad. Patricia acepta que la lleven; aclara
 
 ---
 
-**La conversación termina aquí: Día 22, mañana. Mark deja a Patricia en casa de Hannah y se dirige a la ciudad.**
-**Próximo paso pendiente: Mark va al centro comercial hoy (Día 22) y encuentra a Cora y Jude — nueva secuencia de Jude activa. Megan: yesos hasta ~Día 29. Segunda cita con Mira pendiente. Visita pendiente a Emma.**
+## Día 22 — Mediodía y tarde
+
+### Escena 124: Encuentro con Cora y Jude en el centro comercial (Día 22, mañana)
+
+Mark recorre el centro comercial cuando encuentra a Cora empujando la silla de Jude en el pasillo principal. Jude lleva camiseta de rayas negras y blancas, tatuajes al descubierto, manta de lana gris sobre las piernas. Mark las saluda con beso en la mejilla a las dos. Invita a Cora a un café; ella acepta tras consultar con Jude (ojos arriba). El auricular de Mark se activa en cuanto reduce la distancia.
+
+### Escena 125: Café y almuerzo juntos (Día 22, mediodía)
+
+Café en el local del fondo del centro comercial. Conversación fluida: Mark explica la compra del hospital, menciona el proyecto de abrir un club BDSM mirando a Jude al decirlo. Jude reacciona visiblemente por el auricular (recuerdos del BDSM activo, ironía de su situación). Cora pide para Jude que el club tenga entrada accesible. Mark le pregunta directamente a Jude si le gustaba el BDSM; Jude responde con ojos arriba; Cora añade que le encantaba. Mark dice a Jude que podrá venir cuando quiera; Jude sube los ojos y empieza a deletrear ideas con la tabla (altura mesa regulable, anclajes en pared). Mark propone retomarlo en otra ocasión con las ideas ya preparadas y da su número a Cora. Pasan al restaurante de la esquina: almuerzo sin incidentes, conversación sobre el hospital y el club. Despedida con beso en la mejilla a las dos en la calle.
+
+### Escena 126: Cafetería del hospital — canal de audio (Día 22, tarde)
+
+Mark va al Creston Medical Center y espera en la cafetería. Claire activa un canal de audio al apartamento de Cora. Mark escucha en tiempo real: Jude deletrea a Cora que Mark le gusta y que quiere que la toque. Cora duda, argumenta que no sabe cómo pedirle eso a alguien, cede finalmente. Decide llamar a Megan antes que a Mark directamente. Megan llama a Mark; Mark llama a Cora. Acuerdan que Mark irá esa noche a las 21h. Mark pide que Jude elija ropa de su pasado BDSM; Cora lo consultará con ella. Mark desactiva el canal y da una vuelta por ortopedia.
+
+---
+
+## Día 22 — Noche
+
+### Escena 127: Primera intimidad con Jude (Día 22, noche)
+
+Mark llega a las 21h al apartamento. Jude está en la cama hospitalaria con body de encaje negro semitransparente de su pasado BDSM: escote en uve profundo, aperturas laterales en los costados, tanga del mismo tejido. Tatuajes al descubierto. Cora explica el sistema de comunicación (ojos/tabla) y el protocolo de parada (parpadeo doble), y se retira a su habitación con la puerta entornada.
+
+Mark desactiva el auricular. Intimidad progresiva: limpia la saliva de Jude con la mano (no el pañuelo); la besa manipulando la mandíbula para simular el beso recíproco, lengua sobre la lengua inmóvil de Jude; caricias en senos y zona íntima; desabrocha el body; masturba a Jude hasta humedecerla; cierra la mano de Jude alrededor de su pene y se masturba con ella como ancla; posiciona las piernas sobre cojines y la penetra con fuerza creciente. Jude indica el orgasmo con los ojos completamente abiertos y sostenidos, tal como acordaron. Mark se viene dentro. Post-coital: conversación breve con la tabla ("hace mucho tiempo que nadie me llamaba hermosa"; "te conozco desde ayer y ya sé qué eres"; "alguien que no aparta la vista"). Mark cierra las piernas de Jude, se acuesta a su lado y gira su rostro hacia él.
+
+Conversación sin tabla sobre gustos del BDSM (solo ojos arriba/abajo): le gustaba que la azotaran (sí, mucho), la humillación (sí con matiz), el sexo grupal (sí, sin dudar), el sexo con desconocidos (sí, sin dudar). Mark le promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior aunque no pueda moverse. Jude: ojos arriba sostenidos durante varios segundos, con lágrimas. Mark introduce el pulgar en su boca y juega con la lengua inmóvil. Se despide con beso manipulando la mandíbula. Llama a Cora. Mark le pide a Jude que le escriba cuando quiera (Cora escribirá los mensajes); Cora le agradece que le hubiera preguntado a Jude directamente durante el día. Mark se va.
+
+---
+
+**La conversación termina aquí: Día 22, noche. Mark sale del apartamento de Cora tras la primera intimidad con Jude.**
+**Próximo paso pendiente: Jude puede escribir a Mark cuando quiera (Cora mediará). Megan: yesos hasta ~Día 29, decisión sobre amputación pendiente. Segunda cita con Mira pendiente. Visita pendiente a Emma. Club BDSM: proyecto en planificación.**

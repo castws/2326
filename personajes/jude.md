@@ -48,7 +48,7 @@ Frustrada. Con algo de rabia hacia su situación, que no puede expresar con el c
 
 Una de las cosas que más extraña es el sexo. No lo menciona fácilmente con Cora; la tabla de letras lo hace todo más lento y más expuesto. En algún momento lo pidió directamente: Cora al principio se negó, luego aceptó. Ahora lo hace con regularidad cuando Jude lo señala. Sin palabras entre las dos después.
 
-**Día 21 en adelante:** Desde la visita de Mark, Jude siente atracción hacia él. No ha hablado con Cora de ello todavía. La frustración por su situación física es más intensa y audible por el auricular (especialmente en el Día 22).
+**Día 21 en adelante:** Desde la visita de Mark, Jude siente atracción hacia él. Día 22: le confesó a Cora que quería que Mark la tocara. Cora medió con Megan; Mark fue esa noche. Primera intimidad con Mark completada (Día 22). Mark dijo que no sería la única noche.
 
 ---
 
@@ -92,11 +92,16 @@ Jude no tiene voz. Sus pensamientos (accesibles por auricular) son directos, con
 
 ## Citas memorables (tabla de letras)
 
-- "PERO FRÍO." _(sobre el clima, con un encogimiento de hombros implícito — Día 21)_
-- "ME GUSTABA QUE ME ATARAN." _(sobre fetiches, en conversación sobre BDSM — Día 21)_
+- "PERO FRÍO." _(sobre el clima — Día 21)_
+- "ME GUSTABA QUE ME ATARAN." _(sobre fetiches — Día 21)_
 - "IRÓNICO." _(cuando Mark dijo que le gusta la inmovilización — Día 21)_
-- "HACÍA TIEMPO." _(al confirmar que la tarde fue agradable, a la despedida — Día 21)_
+- "HACÍA TIEMPO." _(al confirmar que la tarde fue agradable — Día 21)_
+- "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad, Día 22)_
+- "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad, Día 22)_
+- "ALGUIEN QUE NO APARTA LA VISTA." _(respuesta a "¿qué soy?" — Día 22)_
 
 ## Momentos con Mark
 
-- **Primera visita (Día 21, escena 114):** Mark llega con Megan a casa de Cora. Jude lo sigue con los ojos desde que entra en su campo visual. Mark la saluda directamente, ofrece ayudar con la silla de ruedas, la incluye en la conversación naturalmente. Tarde larga sobre clima, vida en el barrio, sexo, fetiches, el derrame. Jude interviene con la tabla cuatro veces. Mark se despide con beso en la mejilla; Jude deletrea "VUELVES" y confirma que fue la primera tarde en tres años en que quiso que alguien regresara.
+- **Primera visita (Día 21, escena 114):** Mark llega con Megan a casa de Cora. La saluda directamente, la incluye en la conversación. Tarde larga sobre fetiches, derrame, BDSM. Jude interviene con la tabla cuatro veces. Beso en la mejilla al despedirse; Jude deletrea "VUELVES". Primera tarde en tres años en que quiso que alguien regresara.
+- **Centro comercial y almuerzo (Día 22, escenas 124–125):** Encuentro casual. Café y almuerzo juntos. Mark menciona el club BDSM mirándola directamente y le pregunta si le gustaba; le dice que podrá ir cuando quiera. Jude deletrea ideas de diseño con la tabla. Mark da su número a Cora.
+- **Primera intimidad (Día 22, escena 127):** Mark va al apartamento a las 21h. Jude viste body de encaje negro de su pasado BDSM. Cora se retira. Mark limpia la saliva con la mano; la besa manipulando la mandíbula; caricias, masturbación, penetración. Jude indica el orgasmo con los ojos muy abiertos. Mark se viene dentro. Post-coital: conversación por tabla y luego por ojos sobre gustos BDSM (azotes sí mucho, humillación sí con matiz, sexo grupal sí, desconocidos sí). Mark promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior. Jude llora. Mark introduce el pulgar en su boca. Se despide con beso manipulando la mandíbula. Le dice que puede escribirle cuando quiera (Cora mediará). Cora le agradece que le hubiera preguntado a Jude directamente.
