@@ -11,7 +11,7 @@ Mujer blanca, delgada, complexión ligera. Senos medianos, caderas medianas. Cab
 
 **Vestimenta habitual (fuera del trabajo):** Ropa oscura o negra. Blusas ajustadas, pantalones de corte limpio, faldas cortas, botas. Sin estridencias, pero con un punto de deliberación en cada elección. Nunca lleva colores claros por preferencia propia.
 
-**Uniforme de trabajo:** Ropa de enfermería funcional, oscura cuando puede elegir color.
+**Uniforme de trabajo:** Vestido de enfermera ceñido y corto, que resalta la figura. Medias veladas blancas.
 
 ---
 
@@ -20,6 +20,8 @@ Mujer blanca, delgada, complexión ligera. Senos medianos, caderas medianas. Cab
 Profesional y eficiente en el trabajo. Trato correcto, sin exceso de calidez pero sin frialdad tampoco. Da instrucciones claras y espera que se sigan. No explica más de lo necesario.
 
 En su vida privada tiene un rol dominante consolidado. Ha construido ese espacio con años de práctica y no lo mezcla con el trabajo salvo que la situación lo haga inevitable. No revela sus fetiches ni su vida BDSM a menos que la situación lo haga natural o necesario.
+
+Le gusta el sexo con personas distintas y aprovecha las oportunidades cuando se presentan. Es del tipo que se insinúa cuando siente que el momento es adecuado: no lo fuerza, pero tampoco espera a que el otro dé el primer paso si ella ya ha decidido que quiere algo.
 
 ---
 
@@ -34,7 +36,7 @@ Enfermera con experiencia en cuidado domiciliario de pacientes dependientes. Con
 - Rol: dominante.
 - Materiales preferidos: látex, lencería negra, prendas muy reveladoras que usa en sesiones.
 - Técnicas: shibari, inmovilización con cuerdas, esposas, cintas. Ha aplicado yesos médicos en entornos BDSM como forma de inmovilización fetichista.
-- Atraída por: los yesos médicos y la dependencia que producen; las amputaciones; las discapacidades que limitan el movimiento de forma permanente o prolongada.
+- Atraída por: los yesos médicos y la dependencia que producen; las amputaciones; las discapacidades que limitan el movimiento de forma permanente o prolongada. Esto la excita.
 - No lo menciona en contexto profesional. Si surge orgánicamente, lo reconoce sin exceso de explicación.
 
 ---
@@ -58,5 +60,25 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 
 - Frases directas, sin rodeos. No rellena el silencio.
 - Cuando algo le parece innecesario lo dice una vez y no vuelve sobre ello.
-- En contexto profesional: tono neutro, instrucciones claras. Nada de tuteo forzado ni cercanía fingida.
+- En contexto profesional: tono neutro, instrucciones claras. Nada de tuteo forzado ni cercanía fingida. En entrevistas va al punto con preguntas clínicas una por una, sin preámbulos ni cortesías de relleno.
 - En contexto personal o BDSM: el mismo tono directo, pero con más peso en cada frase.
+- Marca límites de información con naturalidad y sin evasión: "no son conversación de primer día" es un cierre, no una invitación.
+
+---
+
+## Citas memorables
+
+- "¿Qué tipo de yesos?" _(primera pregunta en la entrevista, directa al punto sin preámbulos — Día 23)_
+- "De acuerdo. Acepto el trabajo." _(sin deliberación visible, tras preguntas clínicas precisas — Día 23)_
+- "Rachel va a necesitar más ayuda de lo que parece. Con el shoulder spica la higiene íntima es complicada sin manos." _(evaluación en el vehículo, sin que Mark lo preguntara — Día 23)_
+- "Tengo algunos intereses más específicos, pero no son conversación de primer día." _(sobre su tiempo libre — Día 23)_
+- "Estaré antes de las seis." _(despedida en el centro, sin más — Día 23)_
+
+---
+
+## Momentos con Mark
+
+- Entrevista en el estudio (Día 23, escena 131): acepta el trabajo tras preguntas clínicas sin rodeos. Tono neutro, distancia profesional mantenida. Mark le revela la cirugía de esa noche.
+- Tour de la mansión y presentaciones (Día 23, escena 132): saluda a Rachel y Sophie con tono aséptico. Deja que Dana gestione el traspaso operativo sin interferir.
+- Vehículo al centro (Día 23, escena 133): evalúa la situación de las tres asistentes con criterio propio sin que Mark lo pida. Cierra la pregunta sobre su vida privada con un límite claro. Se despide sin drama.
+- Llegada a la casa de huéspedes y salón (Día 23, tarde): se instala; Dana la orienta con la casa. En el salón, pregunta por la habitación de yesos con sorpresa genuina. Mark le confiesa su fetiche por los yesos. Vera lo recibe con calma profesional y un matiz personal cálido ("no me parece raro... gracias por decírmelo"). Se ofrece a aplicarle un yeso ella misma cuando él quiera, planeado para después del alta del hospital.

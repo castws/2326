@@ -76,6 +76,7 @@ El auricular de Mark se activa también a menos de tres metros de Jude. Transmit
 - Cabello castaño claro a los hombros. Constitución delgada. Cara cansada con una sonrisa fácil que tarda un poco en llegar.
 - Amiga de Megan.
 - Cuida a Jude desde el incidente. Lleva tres años haciéndolo sola, sin pareja, sin red amplia de apoyo. No se queja. Tampoco habla mucho de cómo está ella.
+- **Protectora con los momentos de intimidad/cuidado de Jude:** no deja pasar a un visitante sin más durante el baño u otras rutinas expuestas; hay que insistir o darle una razón (poco tiempo, urgencia) para que ceda. No es fría ni hostil, pero no lo hace con naturalidad inmediata — hay una duda visible antes de acceder.
 
 ---
 
@@ -99,9 +100,11 @@ Jude no tiene voz. Sus pensamientos (accesibles por auricular) son directos, con
 - "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad, Día 22)_
 - "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad, Día 22)_
 - "ALGUIEN QUE NO APARTA LA VISTA." _(respuesta a "¿qué soy?" — Día 22)_
+- Ojos arriba sostenidos, más tiempo que cualquier otro "sí" anterior _(aceptando el puesto de diseñadora del club — Día 23)_
 
 ## Momentos con Mark
 
 - **Primera visita (Día 21, escena 114):** Mark llega con Megan a casa de Cora. La saluda directamente, la incluye en la conversación. Tarde larga sobre fetiches, derrame, BDSM. Jude interviene con la tabla cuatro veces. Beso en la mejilla al despedirse; Jude deletrea "VUELVES". Primera tarde en tres años en que quiso que alguien regresara.
 - **Centro comercial y almuerzo (Día 22, escenas 124–125):** Encuentro casual. Café y almuerzo juntos. Mark menciona el club BDSM mirándola directamente y le pregunta si le gustaba; le dice que podrá ir cuando quiera. Jude deletrea ideas de diseño con la tabla. Mark da su número a Cora.
 - **Primera intimidad (Día 22, escena 127):** Mark va al apartamento a las 21h. Jude viste body de encaje negro de su pasado BDSM. Cora se retira. Mark limpia la saliva con la mano; la besa manipulando la mandíbula; caricias, masturbación, penetración. Jude indica el orgasmo con los ojos muy abiertos. Mark se viene dentro. Post-coital: conversación por tabla y luego por ojos sobre gustos BDSM (azotes sí mucho, humillación sí con matiz, sexo grupal sí, desconocidos sí). Mark promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior. Jude llora. Mark introduce el pulgar en su boca. Se despide con beso manipulando la mandíbula. Le dice que puede escribirle cuando quiera (Cora mediará). Cora le agradece que le hubiera preguntado a Jude directamente.
+- **Visita durante el baño — oferta del club (Día 23, tarde, escena 139):** Mark llega sin avisar mientras Cora la baña desnuda; Cora duda y solo accede ante la insistencia de Mark. Mark apaga el auricular. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa. Caricias en labios externos y clítoris con fantasía verbal sobre ser "usada" por clientes del futuro club. Mark le ofrece el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla); acepta con la reacción más intensa de la visita (ojos arriba sostenidos). Penetración con dedos hasta el orgasmo. Beso de despedida manipulando la mandíbula. Cora ofrece llevarla al hospital a visitar a Mark desde el segundo o tercer día.

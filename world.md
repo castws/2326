@@ -88,12 +88,13 @@
 - Estilo arquitectónico: ciudad pequeña estadounidense del año 2026. Ladrillo, madera, aceras amplias, árboles plantados a intervalos, comercios con letreros sencillos.
 - **~5.000 habitantes**, todos robots simulando personas reales con historia, personalidad y profesión propias.
 - Composición según especificaciones de Mark:
+  - Ningún personaje de la ciudad (incluido el personal profesional: médicos, técnicas, etc.) supera los **35 años aparentes**.
   - Solo mujeres de entre 19 y 30 años aparentes.
   - 50% con vagina, 50% con pene funcional.
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
   - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
-- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares. **Personal del Creston:** sin yesos ni discapacidades (excepción futura: Megan, si decide incorporarse al hospital). **Club BDSM:** proyecto de Mark en planificación desde el Día 22; sin local asignado todavía. Mark prometió entrada completamente accesible (silla de ruedas, mobiliario adaptable).
+- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares. **Personal del Creston:** sin yesos ni discapacidades (excepción futura: Megan, si decide incorporarse al hospital). **Club BDSM:** proyecto de Mark en planificación desde el Día 22; sin local asignado todavía. Mark prometió entrada completamente accesible (silla de ruedas, mobiliario adaptable). Desde el Día 23, Jude es la diseñadora del club: una empresa de diseño con experiencia en clubes ejecutará, pero sin conocimiento BDSM; Jude los instruye con ayuda de una asistente y su tabla de letras.
 - Todos los vehículos son autónomos.
 - App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.

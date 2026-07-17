@@ -20,7 +20,7 @@ Cuerpo completamente vendado desde los pies hasta la cabeza. Solo visibles los o
 
 **Pene:** amputado a la mitad de la longitud debido a la progresión de la enfermedad. Pene y testículos también vendados. Shower.
 
-**Senos:** grandes.
+**Senos:** grandes. Sin pezones (pérdida por la progresión de la epidermólisis bullosa).
 
 **Ropa interior y calzado:** no usa. No los necesita.
 
@@ -55,6 +55,10 @@ Nunca ha tenido intimidad. Lo desea. No lo oculta si el tema sale de forma natur
 **Masturbación:** usa un vibrador colocado sobre el pene (sobre las vendas). Siempre en la intensidad mínima. No puede hacerlo muy seguido porque incluso en la mínima intensidad produce heridas tras uso repetido. June la ayuda a colocarlo, la limpia al terminar, y en algunas ocasiones se han masturbado juntas.
 
 **Micción:** usa sonda en situaciones fuera de casa (primera cita incluida). No tiene incontinencia; la sonda es por imposibilidad práctica de usar el baño sola fuera de su entorno.
+
+**Comer:** usa una banda elástica en la mano izquierda para coger el tenedor o cuchara. Como solo tiene una mano, no puede usar el cuchillo, así que la comida se la tienen que cortar previamente.
+
+**Otras tareas con la mano:** puede sostener un lápiz y otros objetos con la banda elástica puesta en su mano. Le tienen que ayudar a poner el objeto en la banda elástica.
 
 ---
 
@@ -116,3 +120,4 @@ Nunca ha tenido intimidad. Lo desea. No lo oculta si el tema sale de forma natur
 - **Mansión — primera intimidad (Día 19, noche):** Sophie y Dana la reciben. Mark la transfiere a la sala, le retira el catéter foley. La lleva en brazos a la habitación. Primer beso de su vida (que no sea June en la frente). Caricias sobre los senos y el pene vendados. Oral mínimo (lame la punta del pene de Mark). Vibrador sobre el pene propio (intensidad mínima). Primer orgasmo. Duerme de lado en la cama de Mark con almohada entre las rodillas. _(Día 19, escena 100)_
 - **Desayuno en la terraza y segunda masturbación (Día 20, mañana):** Mark la ayuda a orinar con botella. Desayuno en terraza sin vestido. Conversación sobre June: primera vez que le pidió que la masturbara, la anécdota del vibrador con la amiga de June (cuarenta minutos encendido, daño en las vendas), y las tres veces que June se masturbó con ella en el mismo cuarto. Segunda masturbación en tumbonas de la piscina (vibrador en banda de mano izquierda, Mark en tumbona al lado). Observa el baño de Mark con Dana (Dana con ganchos y prótesis). Mark la lleva a casa. _(Día 20, escenas 101-103)_
 - **Mensajes post-visita (Día 20, mañana):** Mark le dice que debería contarle a June lo que pasó. Mira responde que lo sabe, que necesita un poco más de tiempo para saber qué quiere que sea real, pero que sí se lo va a contar. Pregunta cuándo vuelven a quedar. Mark: "Pronto, te aviso." _(Día 20, escena 105)_
+- **Almuerzo y hotel (Día 23, mediodía):** Segunda cita. Almuerzo en restaurante accesible; revela que el vestido de la primera cita fue una excepción, normalmente no usa ropa. Mark le cuenta la cirugía de feminización; ella lo acepta sin condiciones. Intimidad en hotel: masturbación manual mutua, eyaculación de ambos. Revela que no tiene pezones (perdidos por la enfermedad) pero conserva sensibilidad en el pecho; promete pedirle a June estar presente en una cura para que Mark la vea sin vendas algún día. Mark la invita al hospital ("un par de momias" en la cafetería) _(Día 23, escena 137)_.

@@ -6,7 +6,7 @@
 
 ### Día actual
 
-**Día 23, mañana.** Mark acaba de despertar en la mansión. Entrevista con Vera a las 9h. Ingreso al Creston esta noche para cirugía de feminización.
+**Día 23, noche.** Mark en el mostrador de admisión del Creston Medical Center, iniciando el ingreso para la cirugía de feminización de esta noche (escena abierta: recepcionista pide su nombre). Vera ya instalada en la casa de huéspedes y a cargo de Rachel y Sophie desde esta tarde.
 
 ### Eventos programados (futuros)
 
@@ -42,16 +42,18 @@
 - **Día 19**: Olivia retoma el cuidado de Emma; despedida discreta. Mark en cafetería: configura arcos románticos Emily/Megan y Hannah/Patricia, y accidente de Rachel. Visita a Megan: intimidad; conversación sobre Emily y amputación voluntaria del brazo derecho (en reflexión); yesos extendidos a ~Día 29. Rachel fractura ambos húmeros (caída de escalera) → doble shoulder spica, hospitalizada. Mark en urgencias del hospital.
 - **Día 20**: Alta de Rachel. Maniobra de Dana → Mark la baña solo. Escena a tres con Sophie y Rachel. Tarde en biblioteca: primera apertura real de Rachel (comenta el libro, ríe, responde al beso). Noche: primera intimidad directa Mark-Rachel; Rachel admite que la dependencia del yeso la excita. Duermen juntos. Mira contó a June lo ocurrido.
 - **Día 21**: Despertar con Rachel. Visita a Sophie (conversación sobre Rachel; masturbación). Visita a Claire: creación de Jude. Primera visita a Jude con Megan: tarde en casa de Cora, auricular activo, Jude muestra interés en Mark. Mark reconfigura secuencia de Jude vía Claire. Patricia visita la mansión: primera intimidad con prótesis puestas (Patricia masturba a Mark con gancho, lo cabalga), cena, lectura de Claustrofobia (Patricia se masturba con ganchos), segunda intimidad sin prótesis. Duermen juntos.
+- **Día 22**: Encuentro con Cora y Jude en el centro comercial; café y almuerzo. Canal de audio en la cafetería del hospital: Jude le confiesa a Cora que quiere a Mark; Cora cede. Primera intimidad con Jude (Cora mediadora). Visita a Claire: creación de Vera, encargo de la casa de huéspedes, planificación completa de la cirugía de feminización de Mark (Día 23 noche).
+- **Día 23**: Mañana: noticias a Rachel/Sophie/Dana sobre Vera y la cirugía; entrevista y contratación de Vera; tour de la mansión; cita pre-quirúrgica con Dra. Mills (medidas, inspección, test de eyaculación; corrección de protocolo post-op vía Claire). Mediodía: almuerzo con Mira, intimidad en hotel (corrección: Mira sin pezones por la enfermedad). Tarde: visita a Tori (corrección: mandíbula alambrada = solo sonidos con boca cerrada, sin palabras; Diane no ha desarrollado comunicación con ella, cuidado puramente físico; jaula genital, vibrador, eyaculación; invitación al hospital). Visita a Jude (baño con Cora; revelación de la cirugía; Mark le ofrece el puesto de diseñadora del club BDSM, acepta; intimidad; invitación al hospital). Vuelta a la mansión: conversación con Rachel (Vera asume su cuidado; preocupación por Sophie sin Mark; posible ayuda de Dana). Conversación con Vera: revelación mutua de fetiches (yesos de Mark, BDSM dominante de Vera); Vera se ofrece a aplicarle un yeso tras el alta; llevará a Rachel y Sophie a visitarlo. Despedidas y salida hacia el Creston para el ingreso nocturno.
 
 ---
 
 ## Mark
 
-- Localización: mansión, Día 23 mañana.
+- Localización: mostrador de admisión del Creston Medical Center, Día 23 noche (ingreso en curso).
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma Campbell **o Jude**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
-- **Cirugía programada Día 23 noche (Creston):** feminización corporal completa (caderas, cintura, senos grandes proporcionados, voz, rostro, cabello castaño oscuro media espalda, piel, cero vello corporal, brazos/piernas/manos/pies feminizados). Conserva pene y testículos. Modificación pene grower→shower. Internamiento ~Día 24–30. Doctora Mills. Protocolo: sin camisón mientras todo vendado; silencio estricto Día 24 (solo gestos); traslados diarios Días 24–26; evaluaciones erección/arousal desde Día 27; sonda Días 24–26.
+- **Cirugía programada Día 23 noche (Creston):** feminización corporal completa (caderas, cintura, senos grandes proporcionados, voz, rostro, cabello castaño oscuro media espalda, piel, cero vello corporal, brazos/piernas/manos/pies feminizados). Conserva pene y testículos. Modificación pene grower→shower. Internamiento ~Día 24–30. Doctora Mills. Protocolo: sin camisón mientras todo vendado; silencio estricto Día 24 (solo gestos); sonda Días 24–26; desde Día 25 rutina diaria de baño en cama + pomadas en todo el cuerpo + cambio completo de vendaje, y traslado a otras áreas del hospital para revisiones no realizables en la habitación (rayos X, escáner, etc.); evaluaciones erección/arousal desde Día 27.
 
 ---
 
@@ -72,6 +74,7 @@
 - **Baño:** Mark la bañó el Día 20 (maniobra de Dana). Rachel lo aceptó tras el argumento de Sophie y la presión del olor.
 - **Estado emocional (Día 20):** Primera intimidad directa con Mark. Primera apertura emocional significativa: admitió que la dependencia del yeso la excita; dijo "A mí también" al comentario de Mark sobre haber hablado abiertamente. Límite íntimo cruzado por primera vez con Mark de forma activa.
 - Sigue con relación íntima activa con Sophie.
+- **Día 23:** Vera asume su cuidado diario desde esta tarde. Rachel expresó a Mark que le hubiera gustado que se lo consultaran antes del cambio; Mark se disculpó. Preocupada por no poder tener intimidad con Sophie durante la semana de Mark en el hospital (su propio yeso le impide usar los brazos); consideran pedirle ayuda a Dana, a confirmar con Sophie.
 
 ---
 
@@ -152,11 +155,14 @@
 - **Estado físico:** shoulder spica + minerva alta (una sola pieza). Mandíbula con alambre. Pañal. Jaula de castidad. Sin aparatos ortopédicos ni prótesis en las piernas. Muñón izquierdo del brazo libre. Muñón de la muñeca derecha asomando del yeso.
 - **Mobiliario adaptado:** cama hospitalaria en el salón, grúa de traslado, silla de ruedas.
 - **Vibrador anal:** insertado diariamente por Diane 4 horas antes de dormir. Mando de control colocado cerca del muñón del pie izquierdo para uso autónomo de Tori. Seis botones en relieve (cuatro intensidades, dos patrones). Sin restricción de nivel.
-- **Comunicación:** parpadeo largo = sí, dos parpadeos cortos = no.
+- **Comunicación:** parpadeo largo = sí, dos parpadeos cortos = no. Diane no ha desarrollado ni usa este sistema — su cuidado es puramente físico, no le hace preguntas ni interpreta sus señales. Situación frustrante y aislante para Tori; depende de Mark para "hablar" de verdad.
+- **Habla:** con la mandíbula cosida con alambre no puede articular palabras, ni con su sustitución fonética habitual. Solo emite sonidos ininteligibles con la boca cerrada (tipo "mmh", "nnm").
+- **Vergüenza específica:** que la toquen o masturben delante de Diane (o cualquier otra persona) le da vergüenza intensa, distinta de la vergüenza genérica por el pañal.
 - **Pensamientos internos:** accesibles para Mark a través del auricular (voz limpia). Ella desconoce el dispositivo.
 - **Cuidadora:** Diane, enfermera, 24 horas.
 - **Yesos hasta:** ~Día 77 (8 semanas desde Día 14).
 - Estado emocional: vínculo con Mark consolidado y profundizado. Vergüenza intensa por el pañal y la dependencia total. Tarde del Día 15 especialmente intensa: intimidad, defecación involuntaria con Mark presente, paseo al parque sin ropa ante vecinas. Primera vez que alguien le toca el muñón del tobillo y el pie sin propósito funcional.
+- **Día 23 (tarde):** visita de Mark con vibrador activo y caricias sobre la jaula de castidad; eyaculación (semen retenido/absorbido por la jaula). Mark le contó la cirugía de feminización y la invitó a visitarlo en el hospital a partir del segundo o tercer día.
 
 ---
 
@@ -174,33 +180,44 @@
 - **Estado físico:** inmovilización completa por derrame cerebral. Solo mueve ojos y párpados. Boca siempre abierta (sin control de la mandíbula). Cánula de traqueotomía, respirador portátil. Sonda gástrica. Derrama saliva; Cora la limpia con pañuelo.
 - **Comunicación:** ojos arriba = sí; ojos abajo o parpadeo doble = no. Tabla de letras para mensajes complejos.
 - **Primera intimidad con Mark:** Día 22 noche. Secuencia de Jude completada. Cora mediadora; se retiró a la habitación durante la escena.
-- **Auricular:** activo para Mark a menos de 3 metros de Jude. Mark lo desactivó durante la intimidad del Día 22.
+- **Auricular:** activo para Mark a menos de 3 metros de Jude. Mark lo desactivó durante la intimidad del Día 22 y también durante la visita del Día 23.
 - Primera visita de Mark: Día 21. Primera intimidad: Día 22.
+- **Día 23 (tarde):** Mark llega sin avisar mientras Cora la baña (desnuda); Cora duda pero accede ante la insistencia de Mark. Mark le cuenta la cirugía de feminización. Le ofrece el puesto de diseñadora del club BDSM (una empresa de diseño ejecutará, sin conocimiento BDSM; Jude los instruirá con ayuda de una asistente y la tabla de letras); Jude acepta (ojos arriba sostenidos). Intimidad manual (dedos + clítoris) hasta el orgasmo. Mark la invita a visitarlo en el hospital a partir del segundo o tercer día; Cora se ofrece a llevarla.
+
+---
+
+## Mira
+
+- Localización: su apartamento en la ciudad, con June. Sin discapacidad de movilidad de piernas: silla de ruedas eléctrica (epidermólisis bullosa).
+- **Corrección de continuidad (Día 23):** sin pezones (pérdida por la progresión de la enfermedad); resto del pecho conserva sensibilidad.
+- **Día 23, mediodía:** almuerzo en restaurante con Mark (aviso previo de accesibilidad); reveló que el vestido de la primera cita fue una excepción, normalmente no usa ropa. Intimidad en hotel: masturbación mutua (mano vendada de Mira sobre el pene de Mark; mano de Mark sobre el pene/vendaje de Mira), eyaculación de ambos (la de Mira empapa el vendaje). Mark le contó la cirugía de feminización; Mira lo aceptó sin condiciones. Invitación a visitarlo en el hospital ("un par de momias" en la cafetería), estimado Día 25-26.
+- Arco romántico en desarrollo. Segunda cita ya realizada (Día 23); pendiente seguimiento.
 
 ---
 
 ## Vera
 
-- Localización: casa de huéspedes (lado oeste de la mansión), a partir del Día 23.
+- Localización: instalada en la casa de huéspedes (lado oeste de la mansión) desde la tarde del Día 23. A cargo del cuidado de Rachel y Sophie desde hoy.
 - Estado físico: sin discapacidades.
-- Rol: enfermera doméstica. Cuidado de Rachel y Sophie.
-- Vida privada BDSM (dominante) no revelada en contexto profesional.
+- Rol: enfermera doméstica. Cuidado de Rachel y Sophie. Contratada mañana del Día 23.
+- Uniforme de trabajo: vestido de enfermera ceñido y corto, medias veladas blancas (activo desde su llegada).
+- **Revelación mutua (Día 23, tarde):** Mark le confesó su fetiche por los yesos (sorprendida al ver la habitación de yesos de la mansión). Vera lo recibió con calma y reveló a su vez que es dominante BDSM en su vida privada, atraída por los yesos y la dependencia que producen. Se ofreció a aplicarle personalmente un yeso a Mark cuando él quiera, planeado para después del alta (~Día 30). También llevará a Rachel y Sophie a visitarlo al hospital.
+- Le gusta el sexo con personas distintas; se insinúa cuando siente que el momento es adecuado.
 - Arco futuro con Jude (atracción mutua cuando Jude conozca el perfil BDSM de Vera).
-- Entrevistada por Mark la mañana del Día 23.
 
 ---
 
 ## Pendiente / Próximos pasos
 
-1. **Mark — cirugía Día 23 noche:** ingresa al Creston para feminización completa. Internamiento hasta ~Día 30. Escribirá a personas cercanas antes de ingresar. Le dirá a Vera en la entrevista de la mañana.
-2. **Vera — entrevista Día 23, 9h:** llegará vestida a su gusto (no de enfermera). Mark le contará la cirugía.
-3. **Megan — conversación con Emily:** planea intentarlo mañana (Día 23) durante el baño. Yesos hasta ~Día 29. Decisión sobre amputación voluntaria pendiente.
-4. **Jude:** puede escribir a Mark cuando quiera (Cora mediará). Mark prometió invitarla al club BDSM.
-5. **Rachel:** doble shoulder spica, en la mansión. Vera asumirá su cuidado. Relación con Mark en nuevo terreno.
-6. **Club BDSM:** proyecto activo. Sin local. Jude tiene ideas (altura mesa regulable, anclajes en pared). Mark prometió entrada accesible.
-7. **Mira:** segunda cita pendiente. Arco romántico en inicio.
-8. **Emma:** visita pendiente. Emma pidió implícitamente que Mark repita.
-9. **Patricia:** rehabilitación con prótesis en curso. Arco romántico con Hannah activo. Mark llamará en unos días.
+1. **Mark — internamiento en curso:** ingreso al Creston la noche del Día 23 (escena abierta en el mostrador de admisión). Internamiento hasta ~Día 30. Doctora Mills a cargo. Protocolo post-op ver sección "Mark" arriba.
+2. **Visitas al hospital pendientes de coordinar** (sin fechas firmes salvo indicado): Patricia (sola, cuando pueda); Megan (tarde del Día 24); Mira (~Día 25-26, "un par de momias" en la cafetería); Tori (durante la semana, vía Diane); Jude (desde el segundo o tercer día, Cora la lleva); Rachel y Sophie (Vera las lleva, día a coordinar).
+3. **Megan — conversación con Emily (en curso):** habló durante el baño del Día 23 (le dijo que le importa lo que Emily piensa); Emily se quedó 40 min extra. Próximo paso: dar más señales. Yesos hasta ~Día 29.
+4. **Vera:** ofreció aplicarle un yeso a Mark tras el alta (~Día 30). Reveló ser dominante BDSM; arco futuro con Jude pendiente de desarrollarse.
+5. **Rachel:** preocupada por no poder tener intimidad con Sophie durante la semana de Mark en el hospital (ambas con movilidad de brazos muy limitada); considerando pedir ayuda a Dana, pendiente de confirmar con Sophie.
+6. **Jude:** puede escribir a Mark cuando quiera (Cora mediará). Aceptó el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla de letras).
+7. **Club BDSM:** proyecto activo, sin local. Jude como diseñadora (ver arriba). Jude tiene ideas propias (altura mesa regulable, anclajes en pared). Mark prometió entrada accesible.
+8. **Mira:** arco romántico en desarrollo, sin plan concreto de próxima cita.
+9. **Emma:** visita pendiente. Emma pidió implícitamente que Mark repita.
 10. **Tori:** vibrador rutina diaria. Yesos ~Día 77.
 11. **Sophie:** yesos hasta ~Día 40.
 12. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).

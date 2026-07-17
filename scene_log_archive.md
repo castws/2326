@@ -1,6 +1,6 @@
-# Registro de Escenas — Archivo (Días 1–13)
+# Registro de Escenas — Archivo (Días 1–15)
 
-Escenas 1–60, verbatim. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
+Escenas 1–80, verbatim. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
 
 ---
 
@@ -491,3 +491,80 @@ Mark pasa por el apartamento de Megan con veinte minutos. Emily les da privacida
 ### Escena 67: Club Insomnia con Patricia y Hannah (Día 14, noche)
 
 Mark recoge a Patricia en casa de Hannah. Patricia lleva vestido rojo oscuro sin mangas con escote en V, sin brasier, muñones simétricos al aire. Hannah lleva vestido negro corto sin ropa interior, pene colgando libre bajo la tela. Van al Club Insomnia: música electrónica, ambiente con intimidad visible en pista y reservados, nueva moda presente. Hannah encuentra a Ivy (cabello rojo, vestido verde muy corto, yeso en brazo izquierdo) en la barra y conectan rápidamente. Mark baila con Patricia por detrás, manos en su cintura, erección contra sus nalgas. Conversación íntima sobre la masturbación de Patricia en la biblioteca y cómo repetirlo. Mark le quita los panties en la pista sin que nadie reaccione. Se retiran a un reservado con sofá. Intimidad: Patricia encima de Mark, muñones apoyados en sus hombros para equilibrarse. Hannah e Ivy se unen al reservado y tienen su propia intimidad simultánea (Hannah penetra a Ivy). Todos terminan. Vuelven a casa de Hannah. Hannah e Ivy duermen en la habitación de Hannah; Mark y Patricia en el cuarto de Patricia. Patricia dice "la próxima vez el libro" antes de dormir.
+
+---
+
+## Día 15 — Mañana
+
+### Escena 68: Despertar con Patricia y desayuno con Hannah e Ivy (Día 15, mañana)
+
+Mark despierta en la habitación de Patricia, casa de Hannah. Ambos desnudos. Patricia comenta que durmió bien por primera vez en días. Mark la viste: blusa de pijama de seda marfil con escote en V cruzado y lazo lateral, panties de encaje negro. Muñones simétricos al aire. Van a la cocina donde Hannah está haciendo huevos. Ivy aparece poco después con el vestido verde del club arrugado y yeso en el brazo izquierdo. Desayuno tranquilo de los cuatro. Mark pregunta a Ivy por el yeso: fractura de dos huesos del antebrazo por caída en escalera en su trabajo; tres semanas más. Mark se despide y vuelve a la mansión en vehículo autónomo.
+
+### Escena 69: Visita a Claire — contratación de Dana (Día 15, mañana)
+
+Mark pasa por la casa de Claire antes de entrar a la mansión. Encarga una nueva asistente doméstica: brazos amputados a mitad del antebrazo con prótesis de gancho en ambos, piernas amputadas a mitad (transtibiales) con prótesis en ambas, vagina, autonomía estándar con tendencia más entusiasta. Claire la nombra Dana y confirma que estará en la mansión en una hora.
+
+### Escena 70: Anuncio a Rachel y Sophie (Día 15, mañana)
+
+Mark vuelve a la mansión. Pide a Rachel que traiga a Sophie al salón. Anuncia que ha contratado a una nueva mucama llamada Dana, que tiene una discapacidad, y que el trabajo se distribuirá entre ellas como prefieran. Rachel pregunta cómo se distribuirá el trabajo; Sophie pregunta si Dana habla español. Mark explica que a Dana "le faltan las manos y los pies". Ambas lo reciben sin drama.
+
+### Escena 71: Llegada de Dana, entrevista y contratación (Día 15, mañana)
+
+Dana llega a la hora indicada. ~24 años aparentes, cabello castaño oscuro ondulado hasta los hombros, ojos marrones claros, complexión media. Muñones a mitad del antebrazo con ganchos metálicos y arneses cruzados en X. Prótesis transtibiales en ambas piernas. Camina con paso firme. Mark la entrevista en el comedor. Dana explica sin drama la historia de sus amputaciones: brazos en accidente industrial (simultáneos), piernas por infección ósea progresiva. Acepta el trabajo, la habitación con baño privado, y el baño compartido con Mark en la ducha (sin expectativa de nada más a menos que ella decida). Rachel le muestra la habitación y le entrega el uniforme (vestido negro, delantal blanco). Dana se cambia con ayuda de Rachel para la blusa; acepta no llevar panties como Rachel. Rachel le hace el tour de la casa.
+
+### Escena 72: Primer baño de Mark con Dana (Día 15, mañana)
+
+Rachel enseña a Dana cómo bañar a Mark. Las dos entran desnudas a la ducha con Mark. Rachel guía el proceso: hombros, espalda, pecho, cabello, extremidades. Dana practica con los brazos y piernas de Mark usando la esponja enganchada en el gancho. Rachel se encarga directamente de la zona genital; Mark señala que Rachel no dejó practicar a Dana. Rachel pregunta a Dana si quiere intentarlo; Dana acepta y lo hace con precisión y sin vacilación. Mark tiene erección durante el proceso. Dana nota la erección, no se detiene, termina y pregunta si es habitual; Rachel confirma que sí. Mark le ofrece a Dana hacer algo al respecto; Dana declina ("es el primer día"). Mark pide a Rachel que deje a Dana secarle también; Dana lo hace con la toalla enrollada en los ganchos, incluyendo la zona genital. Mark le dice que lo ha hecho muy bien.
+
+### Escena 73: Sophie, mensajes y configuración de Patricia/Hannah (Día 15, mañana)
+
+Dana cubre a Sophie con dos toallas pequeñas al notar que nadie lo hacía. Mark le pregunta a Sophie por qué nunca lo había pedido; Sophie responde que no le incomoda que la vean. Dana y Sophie intercambian un comentario directo sobre estar acostumbradas a las miradas.
+
+Mark escribe a Claire por mensaje: configuración activa para que Hannah entre sin llamar cuando Patricia intente masturbarse sola; si Hannah ofrece ayuda, queda a decisión de Hannah y Patricia.
+
+Revisión de mensajes: Megan reporta que el desayuno de Emily fue más lento y táctil de lo habitual (cucharada a cucharada, más de lo necesario). Diane informa que el alta de Tori está confirmada y la llevará a su casa. Hannah/Patricia preguntan cuándo irá Mark con el libro. Mark responde a los tres: a Megan le pregunta si hubo erección en el baño y si le gustaría que Emily la masturbara de nuevo; Megan confirma dos erecciones (brazo y vestirse), Emily tardó más de lo necesario ajustando los panties, dice que sí pero que no lo pedirá ella. Mark sugiere que Megan dé señales sutiles (suspiro, movimiento de cadera); Megan lo llama "trampa" pero dice que se lo piensa.
+
+---
+
+## Día 15 — Tarde y noche
+
+### Escena 74: Tienda de juguetes sexuales (Día 15, mañana-mediodía)
+
+Mark sale de la mansión y toma un vehículo hacia la ciudad. Escribe a Diane pidiéndole que salga a atender asuntos propios el resto de la tarde para estar a solas con Tori. Diane confirma. Mark entra a una tienda de juguetes sexuales discreta en una calle lateral del centro. La atiende una mujer de ~23 años con el antebrazo izquierdo amputado a unos 12 cm del codo, sin prótesis. Mark pide un vibrador anal con control remoto para uso prolongado por otra persona con limitaciones de movilidad (muñón de pie a nivel del tobillo). La dependienta recomienda el modelo cónico con zona de vibración concentrada en el tercio superior, seis botones en relieve (cuatro de intensidad, dos de patrones: pulsos regulares e irregulares), función de bloqueo del mando. Demuestra los botones con su propio muñón del brazo: todos accesibles. Mark prueba el modelo de demostración en la zona trasera de la tienda; la dependienta le ayuda a colocarlo y activa todos los niveles y modos con el muñón. Mark compra una unidad sellada.
+
+### Escena 75: Llegada al apartamento de Tori (Día 15, mediodía)
+
+Mark llega al apartamento 204 (segunda planta), edificio de tres plantas de ladrillo oscuro. El salón tiene la cama hospitalaria instalada en el centro, el sofá y la mesita desplazados, el televisor visible desde la cama. Grúa de traslado en el rincón. Mark esconde la bolsa con el vibrador junto al paragüero. Diane usa la grúa para mover a Tori de la silla a la cama. Tori lleva solo el pañal, sin ropa. Vergüenza intensa de estar así ante Mark. Diane se va. Mark y Tori solos.
+
+### Escena 76: Lectura de Claustrofobia e intimidad (Día 15, tarde)
+
+Mark lee a Tori los capítulos 1 y 2 de Claustrofobia (misma novela leída antes con Patricia). Las escenas eróticas generan reacción visible: mejillas encendidas, respiración alterada. Conversación por parpadeos y pensamientos vía auricular.
+
+Intimidad progresiva: masaje en el pie paralizado y el muñón del tobillo izquierdo (primera vez que alguien los toca sin propósito funcional). Besos sobre el alambre. Mark desnudo. Tori masturba a Mark con el muñón del tobillo izquierdo mientras Mark mueve el pie derecho paralizado al mismo ritmo. Mark penetra analmente a Tori con las caderas elevadas sobre almohada y el espaldar de la cama completamente plano. Tori completamente inmóvil; Mark escucha sus pensamientos en tiempo real. La jaula causa dolor creciente hasta casi insoportable conforme el cuerpo intenta responder. Clímax simultáneo. Mark limpia con pañuelos, retira la jaula brevemente para limpiar el pene (espera que baje la erección dolorosa), vuelve a poner la jaula. Pañal nuevo.
+
+### Escena 77: Película, incidente del pañal y paseo al parque (Día 15, tarde-noche)
+
+Mark y Tori ven una película de ~1.5 horas, recostados juntos con el muñón del brazo izquierdo de Tori contra el costado de Mark. A los 45 minutos Tori siente necesidad de defecar. Aguanta 30 minutos adicionales. Termina defecando en el pañal sin poder evitarlo ni comunicarlo. Mark no lo nota durante la media hora restante de película. Al terminar, nota el olor. Abre el pañal. Limpia a Tori con toallitas haciendo gestos de asco. Cambia el pañal con una toalla improvisada debajo de las caderas.
+
+Al atardecer, Mark propone ir al parque del frente. Tori asume que la vestirán antes. Mark saca la silla y empieza a empujar sin vestirla: sale con solo el pañal visible. Tori desesperada (parpadeos ignorados, muñón golpeando el reposabrazos). Una vecina en el pasillo ve el pañal. En el parque: mujer con muletas mira, dos chicas en terraza de café. Mark abre el pañal en el parque para "revisar" (está seco), toca el pene. Tori llora. Mark propone volver. Al cruzar el parque: grupo de seis-siete personas, reacciones visibles. En la entrada del edificio: dos vecinas reconocen a Tori y hacen preguntas; Mark explica las fracturas y justifica el pañal ("más cómodo para sus necesidades cuando no puede hablar"). Regresan. Diane ya llegó.
+
+### Escena 78: Vibrador, presentación a Diane y despedida (Día 15, noche)
+
+Mark saca la caja del vibrador y lo presenta a Tori como regalo para que pueda obtener placer a pesar de las limitaciones. Llama a Diane para que aprenda a usarlo. Diane inserta el vibrador analmente con lubricante con eficiencia profesional; Mark explica el mando a Tori moviéndole el muñón del tobillo sobre los botones. Tori prueba y por error activa el nivel 4 (máximo) en lugar del 2. No encuentra el botón de apagado durante varios minutos de vibración intensa; Mark lo interpreta como entusiasmo. Finalmente Tori lo apaga. Mark revisa el pañal: hay eyaculación parcial a través de las aperturas de la jaula; Diane limpia la zona sin cambiar el pañal (está seco por lo demás). Mark deja instrucción a Diane: insertar el vibrador diariamente cuatro horas antes de dormir, dejar el mando cerca del muñón del pie para que Tori decida cuándo y cómo usarlo.
+
+Mark se despide con beso. Sale. Tori queda con Diane y el mando cerca del muñón del tobillo.
+
+**La conversación termina aquí: Mark sale del apartamento de Tori al final del Día 15. Diane se queda 24h con Tori.**
+**Próximo paso pendiente: visitar a Megan (Día 16 posiblemente); próxima visita a Patricia con capítulo 2 de Claustrofobia; seguimiento de la situación de Tori con el vibrador.**
+
+---
+
+## Día 15 — Noche (continuación)
+
+### Escena 79: Visita a Claire — creación de Emma y el escenario (Día 15, noche)
+
+Mark visita a Claire en su casa. Le pide que cree a Emma Campbell y Olivia Han según el libro Claustrofobia, con la casa de Emma en el sector noroeste del área. Emma estará en Full Body Cast (desde los dedos hasta los hombros, cabeza y cuello libres, apertura perineal, posición semi-reclinada, rodillas a 45°, cama hospitalaria en el salón). Mark hará el rol del cuidador sustituto "Milton" pero con su propio nombre. El auricular de pensamientos se activa también para Emma. Emma tendrá expectativa moderada de que sus fantasías con "Michael" se cumplan con Mark: no lo pedirá explícitamente pero creará situaciones. Claire ejecuta todo y Olivia llama a Mark esa misma noche para pedirle que cubra el fin de semana.
+
+### Escena 80: Quitado del yeso y noche con Dana (Día 15, noche)
+
+Mark vuelve a la mansión y pide a Rachel que le quite el yeso de la pierna derecha. Rachel usa la sierra oscilatoria en la habitación de yesos con Dana observando. Ducha posterior con Dana: ella lo baña completo y a petición de Mark se demora más en la zona genital. Mark le pregunta si le excitó; Dana responde "algo, no sé si excitar es la palabra exacta". Mark la invita a dormir en su cama; Dana acepta solo dormir. En cama, se quita las prótesis de brazos y piernas. Mark le pide que le acaricie el pene mientras se duerme; ella lo hace con el muñón del antebrazo con movimiento lento y constante.
