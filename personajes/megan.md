@@ -3,6 +3,7 @@
 **Tipo:** Robot (habitante de la ciudad)
 **Apariencia:** Unos 22 años aparentes. Cabello pelirrojo, habitualmente recogido en cola. Ojos verdes. Complexión media. Delgada, senos medianos. Tiene pene funcional (visible en ropa ceñida).
 **Amputaciones:** Brazo izquierdo amputado muy corto, casi al nivel del hombro (accidente industrial hace tres años). El muñón es muy corto y no lo usa funcionalmente. Pierna derecha amputada a mitad del muslo (tumor óseo el año anterior). Usa prótesis de pierna.
+**Yesos voluntarios actuales (desde Día 8, extendidos a ~Día 29):** brazo derecho, desde justo debajo de la axila hasta la mano (dedos libres, hombro con movilidad, codo completamente fijo); pierna izquierda, desde el pie hasta casi la nalga con tacón de goma. No puede autopropulsar una silla de ruedas (el único brazo con dedos libres tiene el codo inmovilizado; el otro es un muñón muy corto) — necesita que alguien la empuje.
 **Personalidad:** Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin incomodidad. Humor ligero. Adaptativa.
 **Profesión:** Enfermera.
 **Relación con Mark:** Vínculo en desarrollo. Dos días juntos. Tarde en la ciudad enyesada (centro comercial, helado, intimidad en el pasillo de su apartamento). Ha expresado excitación por los yesos y la dependencia. Acordó quedarse enyesada ~2 semanas (baja médica). Emily la cuida en su apartamento mientras dure el yeso.
@@ -51,6 +52,8 @@
 - "Creo que llevo mucho tiempo siendo muy autosuficiente porque no me quedaba otra. No porque lo prefiriera." _(explicando por qué querría no tener brazos — Día 19)_
 - "No me produce rechazo. Eso ya me dice algo." _(sobre la idea de no tener brazos ni piernas — Día 19)_
 - "Te beneficia el hospital y te beneficia que me quede sin brazos. Y aun así la decisión sería mía." _(reconociendo la honestidad de Mark sobre sus motivos — Día 19)_
+- "Vaya. Sí que te dejaron como una momia." _(al ver a Mark completamente vendado en el hospital — Día 25)_
+- "Un poco, sí... me dieron ganas de ser yo la que tuviera las manos libres para hacerlo." _(admitiendo envidia de la enfermera durante la revisión de la picazón — Día 25)_
 
 **Momentos con Mark:**
 
@@ -68,3 +71,4 @@
 - Visita nocturna de Mark: narra a detalle lo ocurrido con Emily durante el aseo; reflexiona sobre la diferencia entre su relación con Emily (presencia 24h) y con Mark (visitas breves); dice que no detendrá a Emily si vuelve a ocurrir _(Día 14, escena 66)_.
 - Visita de Mark mientras Emily va al mercado: intimidad mientras conversan sobre Emily; Megan admite que quiere los yesos más tiempo para que Emily se quede. Conversación sobre amputación voluntaria del brazo derecho (y potencialmente ambos brazos y piernas): admite que lo querría incluso sin Emily como razón. Mark ofrece comprar el hospital. Megan extiende los yesos a ~Día 29 y pide los próximos más largos. Almuerzo de los tres tras el regreso de Emily _(Día 19, escenas 93–94)_.
 - Día 21: acompaña a Mark a casa de Cora para visitar a Jude. En el vehículo de vuelta comenta que Jude los miró más de lo normal y que "hoy eligió mirarte." En el apartamento, reporta que Emily la peinó esa mañana sin razón práctica. Cuando Mark le dice que los yesos no duran para siempre: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. _(Día 21, escena 115)_.
+- Visita a Mark en el Creston tras la cirugía de feminización, traída por Emily (no puede autopropulsar la silla). Nota el pene más grande incluso vendado. Conversación sobre Emily: reconoce que solo insinuó sus sentimientos (Día 23) sin decirlo directo; Mark la empuja a hablarlo esa misma noche, en orden (sentimientos, luego yesos voluntarios, dejando la amputación para después). Presencia durante una revisión médica de la Dra. Mills por picazón en el pene de Mark; admite sentir envidia de la enfermera. Se compromete a hablar con Emily esa noche _(Día 25, escena 150)_.

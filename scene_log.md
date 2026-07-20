@@ -2,51 +2,11 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–80 (Días 1–15) archivadas en `scene_log_archive.md`.
+> Escenas 1–89 (Días 1–17) archivadas en `scene_log_archive.md`.
 
 ---
 
-## Día 16 — Mañana y tarde
-
-### Escena 81: Llegada a casa de Emma — presentación con Olivia (Día 16, mañana)
-
-Mark llega a las 8:15 a casa de Emma en el sector noroeste. Olivia hace el traspaso en quince minutos: rutinas, medicación, protocolo del Dr. Ballard, baño en cama, botella urinaria. Presenta a Mark a Emma. Emma evalúa a Mark con calma contenida. Olivia se va a las 8:30. Mark activa el auricular: escucha los pensamientos de Emma desde el primer momento.
-
-### Escena 82: Desayuno, baño e higiene (Día 16, mañana)
-
-Mark propone empezar por el desayuno antes del baño para conocerse. Conversación fluida durante el desayuno (Mark da de comer con cuchara). Baño en cama: cara y cuello, higiene íntima con toallitas (Emma se ruboriza, pensamientos internos intensos), zona posterior con cambio de posición. Mark aparta la vista durante la micción con botella; Emma lo nota y lo valora internamente. Lectura de novela erótica: Mark lee en voz alta capítulos con contenido explícito (escena de Daniel y Sara, incorporación de Claudia). Emma reacciona con rubor, respiración alterada y tensión en los dedos de los pies. Pausa para café y tilo. Emma pide el tilo sin reconocer en voz alta que es por los nervios.
-
-### Escena 83: Almuerzo, parque y cafetería (Día 16, tarde)
-
-Mark cocina una receta de su madre mientras Emma lo observa desde la silla de ruedas en la cocina abierta. Almuerzo en el comedor: Mark da de comer a Emma, conversación con risas. Paseo al parque cercano: Emma sale con solo la toalla cubriendo la zona íntima (rechaza la manta de Olivia). Miradas de transeúntes; a Emma no le importa. Helado en el parque, paseo completo por el camino de la fuente (Olivia nunca tuvo tiempo). Tarta en la cafetería al salir del parque: primera vez que Emma entra allí. Tarde fuera de casi dos horas, la más larga desde que empezó el tratamiento.
-
-### Escena 84: Vuelta a casa, botella y lectura nocturna (Día 16, tarde-noche)
-
-Al volver de la cafetería Emma pide la botella urinaria. Mark va a buscarla y la deja con la zona íntima expuesta; Emma no protesta. Higiene con toallitas después de la micción: Mark limpia con más cuidado que por la mañana; Emma hace un comentario involuntario sobre que Olivia tarda menos ("normalmente Olivia tarda menos en esta parte") y luego lo retira. Mark lee el último capítulo de la novela: Claudia y Sara tienen una relación a escondidas de Daniel; fiesta swinger donde Sara llega al orgasmo mirando a Daniel con otra mujer mientras Claudia la toca; desenlace donde Sara queda cuadraplégica tras un accidente y los tres se reúnen, escena íntima final con Sara sin sensación del cuello para abajo. Emma reacciona visiblemente: mancha en la toalla, que Mark nota y cambia sin comentario neutro ("es una respuesta involuntaria"). Conversación breve sobre el libro: Emma dice que "es sobre depender de alguien y que eso no te quite nada". Mark se levanta con erección visible que Emma nota pero no menciona.
-
-### Escena 85: Cena, película y noche (Día 16, noche)
-
-Mark prepara cena liviana, la da a Emma en cama. Emma pide ver una película ("La última señal", thriller) y sugiere acercar el sofá para que los dos vean bien. Dos horas juntos viendo la película con comentarios. Después, conversación de una hora sobre gustos, libros, rutinas. Emma ríe en un momento, brevemente, con una risa diferente a todo el día. Cerca de la una, Emma propone dormir antes de que lo haga Mark. Mark la acomoda: reclinación de cama, almohadas ajustadas (pide una más arriba para el cuello). Apaga la lámpara. Emma dice buenas noches sin el tono clínico. Antes de dormirse, Emma le pide a Mark que mañana durante el baño la depile con la maquinilla (zona perineal y muslos accesibles, que es lo que más la excita). Mark acepta. Emma duerme.
-
----
-
-## Día 17 — Mañana
-
-### Escena 86: Despertar, café y baño con depilación e intimidad (Día 17, mañana)
-
-Mark se levanta a las 5am para cambiar la posición de Emma (ella se despierta brevemente y vuelve a dormirse). A las 8am organiza la cocina sin ruido; Emma despierta con el olor a café. Desayuno más relajado que el primer día: Emma pide la botella sin rodeos. Baño: cara y cuello, higiene íntima meticulosa. Depilación con maquinilla (espuma, estiramiento de piel, paso por labios internos; Emma emite sonidos involuntarios). Aplicación de loción post-depilación con dedos sobre vulva y clítoris; la situación escala: Mark se desnuda, sube a la cama, los dos se masturban mutuamente, beso, frotamiento del pene sobre el clítoris, penetración hasta donde el yeso permite, clímax simultáneo. Primera intimidad de Emma desde el inicio del tratamiento. Mark limpia, se viste, ofrece repetirlo cuando ella lo necesite. Emma agradece sin el tono clínico.
-
-### Escena 87: Ducha, mensajes y preparativos para el mercado (Día 17, mañana)
-
-Mark se ducha. Mensajes: Patricia anuncia primera sesión de rehabilitación con prótesis de gancho y pregunta por el libro. Megan reporta que Emily está intentando impresionarla. Diane informa que Tori usó el vibrador 40 minutos esa mañana. Mark pregunta a Patricia si intentó masturbarse; Hannah responde que sí (dos intentos). Mark le dice a Hannah que hable directamente con Patricia. Hannah lo hace: Patricia acepta con vergüenza y luego con ganas; Hannah la masturba; Patricia apoya la cabeza en su hombro al terminar y pide repetirlo mañana. Mark configura a Claire para que Hannah se excite al ayudar a Patricia. Mark escribe a Megan; ella reporta dos masturbaciones y comportamiento de Emily más táctil. Mark y Emma listos para salir al mercado dominical.
-
-### Escena 88: Mercado dominical — Día 17, mañana
-
-Mark transfiere a Emma a la silla de ruedas con la grúa de traslado. Le pone el gorro de lana gris de Olivia para proteger el cuello del frío. Van al mercado dominical en vehículo (~5 min). Dos horas recorriendo puestos: pan de centeno, desayuno en el propio mercado. Café en una terraza con sol al salir del mercado. Emma comenta que es la primera vez que entra a esa cafetería. Regresan a casa. La tarde más larga fuera desde que empezó el tratamiento.
-
-### Escena 89: Tarde y noche del Día 17 — loción e intimidad múltiple
-
-De vuelta: botella urinaria, almuerzo cocinado por Mark (receta especial). Emma inventa pretexto de "irritación post-depilación" para que Mark aplique loción en la zona perineal. La situación escala: aplicación de loción → masaje con dedos sobre clítoris y labios → orgasmo de Emma. Luego Emma ofrece oral a Mark. Mark come a Emma simultáneamente (69). Emma tiene un segundo orgasmo durante el 69; Mark se viene en su boca. Por la noche, Emma pide "tratamiento profundo" con rodeos clínicos; penetración con Mark encima → orgasmo simultáneo. Duermen juntos.
+## Día 17 — Mañana (continuación)
 
 ### Escena 90: Día 18 — jornada tranquila y segunda noche
 
@@ -421,7 +381,53 @@ En el salón, ya con el uniforme de trabajo puesto, Vera pregunta por la habitac
 
 Mark se despide de Rachel, Sophie y Dana y sale hacia el Creston Medical Center. Entra por la entrada principal de admisión (vestíbulo amplio, mostrador curvo, ambiente cálido). Un recepcionista robot le pide su nombre para iniciar el ingreso.
 
+### Escena 143: Admisión, mensaje a Dana, instrucción secreta a Claire, quirófano (Día 23, noche)
+
+Completado el registro (pulsera identificativa), una enfermera lleva a Mark a una sala de preparación. Antes del consentimiento, Mark le escribe a Dana pidiéndole que lo mantenga informado de novedades en casa; Dana confirma que todo está tranquilo. Mark le escribe a Claire con una instrucción especial: durante su ausencia, que ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa, iniciado por una de ellas (dado que Vera es profesional en su trabajo) — Claire decide quién y cuándo, sin decírselo a Mark; podría enterarse después, por ejemplo por Dana. Claire confirma. Decisión de Claire (no revelada a Mark en la narración): será Sophie quien inicie algo con Vera durante una maniobra de ayuda para tener intimidad con Rachel, en algún momento entre el Día 24 y el Día 29 [detalle completo marcado como secreto en `personajes/vera.md`].
+
+La Dra. Mills repasa los últimos puntos antes de bajar a quirófano: consentimiento firmado en panel táctil, vía intravenosa colocada en el dorso de la mano izquierda, sedante suave administrado antes del traslado. Mark pregunta la talla de senos resultante; Mills estima copa D con un margen de un centímetro, a confirmar tras retirar el vendaje (~Día 30). Traslado en camilla a quirófano; anestesia completa ya dentro. Todo se apaga.
+
 ---
 
-**La conversación termina aquí: Mark en el mostrador de admisión del Creston Medical Center, Día 23 noche, iniciando el ingreso para la cirugía de feminización (recepcionista pidiendo su nombre).**
-**Próximo paso pendiente: completar el proceso de admisión e ingresar a la habitación. Cirugía esa misma noche. Internamiento hasta ~Día 30 con Dra. Mills a cargo. Visitas al hospital pendientes de coordinar: Patricia, Megan (Día 24 tarde), Mira (~Día 25-26), Tori, Jude (desde el 2°-3er día), Rachel y Sophie (con Vera).**
+## Día 24 — Post-operatorio, día 1
+
+### Escena 144: Despertar — vendaje total e inmovilidad (Día 24, mañana)
+
+Mark despierta en su habitación del Creston. Cuerpo vendado por completo de pies a cabeza: cráneo y rostro cubiertos con aberturas solo en ojos, fosas nasales y boca; senos vendados cada uno por separado en forma de copa; pene y testículos vendados como unidad, fijados en ángulo de 90° respecto al cuerpo (no pegados al vientre); piernas y manos, dedo por dedo, cubiertas y rígidas. Sonda puesta. Inmovilidad total: no puede mover ninguna parte del cuerpo, ni siquiera los dedos. Una enfermera explica el protocolo del día: silencio estricto (sin habla, papel ni dispositivo), comunicación solo por ojos (arriba = sí, abajo = no). Mark confirma haber entendido con los ojos hacia arriba.
+
+### Escena 145: Visita de la Dra. Mills — dolor manejable (Día 24, mañana)
+
+La enfermera revisa vitales y deja descansar a Mark. Más tarde entra la Dra. Mills: confirma que la cirugía salió sin complicaciones, revisa la fijación del vendaje (pecho y base del pene) y pregunta por el dolor con el sistema de ojos. Mark confirma dolor presente pero manejable (no fuerte). Mills inyecta un analgésico preventivo por la vía y anuncia que volverá a pasar antes de que termine el día. El resto del Día 24 transcurre en calma: controles de enfermería espaciados, alimentación líquida por jeringa en la boca, sin visitas (protocolo del primer día). Noche de sueño más profundo.
+
+---
+
+## Día 25 — Post-operatorio, día 2
+
+### Escena 146: Primera rutina de cuidados — baño, pomadas, cambio de vendaje, primera vez que habla (Día 25, mañana)
+
+La Dra. Mills entra con dos enfermeras y un carrito de curas. Anuncia que empieza la rutina activa de recuperación (baño, pomada, vendaje nuevo) y que el silencio estricto ya terminó — Mark puede volver a hablar. Al saludar, su voz sale distinta (más aguda, con esfuerzo); Mills explica que es normal mientras las cuerdas vocales se asientan. Desenvuelven la cabeza primero: cicatrización correcta según Mills, sin hinchazón fuera de lo esperado. Mills le pregunta si quiere verse ya; Mark prefiere seguir primero con el resto. Continúan por zonas (destapan, lavan, aplican pomada, vendan de nuevo antes de pasar a la siguiente): cuello y hombros sin marcas, brazos con manos ya feminizadas, senos (grandes, simétricos, piel algo rosada en la base), cintura/cadera con la nueva curva, zona genital (pene más grande que antes de la cirugía, piel tersa y sin vello, ligera hinchazón en la base sin preocupación), y piernas hasta los pies. Vendaje nuevo completo al terminar, pene refijado en el mismo ángulo de 90°.
+
+### Escena 147: Traslado a medicina interna — exposición pública (Día 25, mañana)
+
+Mills anuncia traslado a medicina interna para controles no realizables en la habitación. Conforme al protocolo (sin cobertura de ningún tipo mientras esté vendado, ni siquiera en traslados), la cama sale sin sábana. Cruzan una sala de espera con varias pacientes (todas mujeres, coherente con la composición del área); varias se quedan mirando el vendaje del pene en ángulo fijo, una comenta algo en voz baja a otra. En la sala de escáner esperan dos mujeres: una técnica (bata azul, pene marcado bajo la tela) y una aprendiz. Extraen muestra de sangre de la vía ya puesta y pasan la camilla bajo el brazo del escáner sin cobertura; la técnica comenta el caso a la aprendiz frente a Mark ("fijan el pene en ángulo así las primeras semanas...") y la aprendiz observa abiertamente, comentando que "es más grande de lo que pensé". Resultado: todo bien, sin nada que reportar. Vuelta a la habitación por el mismo trayecto, de nuevo expuesto.
+
+### Escena 148: Mensajes de casa — leídos y respondidos por la enfermera (Día 25, mañana)
+
+Mark le pide a la siguiente enfermera que le lea los mensajes del móvil. Ella lee: Dana (todo tranquilo, Rachel y Sophie durmieron bien, Vera acomodándose); Megan (vino a la tarde del Día 24 pero no había visitas ese día, pide que le escriba cuando pueda); Diane (rutina normal de Tori, vibrador y comida, sin novedades médicas — corregido para no atribuirle preguntas a Tori, ya que Diane no interpreta sus señales); Patricia (pregunta cuándo puede ir a verlo). Mark dicta respuestas: a Megan, que puede venir hoy si quiere; a Dana, que ya lo leyó; a Patricia, que puede visitarlo mañana cuando quiera. La enfermera envía los tres. Llegan respuestas rápidas: Megan confirma que irá esa tarde; Patricia confirma para mañana.
+
+### Escena 149: Picazón en el pene — revisión y tratamiento (Día 25, mañana)
+
+Mark reporta picazón molesta en el pene a la enfermera. Ella avisa a la Dra. Mills, que entra con la misma enfermera para revisar. Recorre el pene presionando distintos puntos (base, mitad del tronco, corona) preguntando por dolor o picazón en cada uno; Mark confirma picazón leve en la corona. Mills diagnostica resequedad de piel nueva bajo el vendaje, sin gravedad. La enfermera aplica crema en toda la zona con énfasis en la corona y revenda en el mismo ángulo de siempre. Mills se retira indicando que avisen si vuelve a molestar.
+
+### Escena 150: Visita de Megan (Día 25, tarde)
+
+Megan llega en silla de ruedas empujada por Emily (no puede autopropulsarse: brazo derecho enyesado desde debajo de la axila hasta la mano con dedos libres y codo fijo, hombro móvil; brazo izquierdo amputado corto por encima de donde debería estar el codo; pierna izquierda enyesada hasta casi la nalga con tacón de goma). Blusa sin mangas verde oliva, falda corta elástica ajustada que marca el contorno del pene sin disimularlo (moda del lugar), sandalia en el pie protésico. Emily la deja y sale a buscar café.
+
+Megan reacciona al ver a Mark completamente vendado y expuesto ("como una momia"). Nota que el pene se ve más grande incluso bajo el vendaje; Mark confirma que pidió que quedara así incluso flácido. Conversación sobre Emily: Megan avanzó parcialmente (le dijo en el baño del Día 23 que le importa lo que piensa) pero no ha dicho la palabra directa. Mark insiste en que hable con Emily esa misma noche, en orden (sentimientos primero, yesos voluntarios después, amputación del brazo para más adelante) y que plantee los yesos más largos como algo que ya venía pensando, para ver la reacción antes de soltar el resto. Megan acepta hacerlo esa noche sin más demora.
+
+Durante la visita, a instrucción de Mark, Claire hace entrar a la Dra. Mills y a la enfermera para revisar la picazón reportada antes (delante de Megan): la enfermera retira el vendaje del pene, Mills palpa varios puntos preguntando por picazón o dolor, aplica crema y revenda. Megan observa todo el procedimiento. Al quedar de nuevo a solas, Megan admite que sintió algo de envidia de la enfermera; Mark bromea que se lo tendrá que contar en vez de hacerlo, ya que ella no tiene las manos libres. Conversación sobre la fecha de quitarse los yesos (~Día 29, en unos cuatro días) y sobre si llegará a esa fecha con la cabeza clara por lo de Emily. Emily vuelve con el café; Megan se despide ("Cuídate, momia.") y ambas salen.
+
+---
+
+**La conversación termina aquí: Día 25, tarde. Mark solo en su habitación del Creston tras la visita de Megan, que esa noche planea hablar con Emily sobre sus sentimientos y revelar que los yesos son voluntarios.**
+**Próximo paso pendiente: resultado de la conversación Megan-Emily (Día 25 noche). Visita de Patricia confirmada para el Día 26. Mira estimada Día 25-26 (aún sin confirmar). Tori y Jude sin visita coordinada todavía. Rachel y Sophie: visita con Vera, día por coordinar — la "sorpresa" secreta de Claire (ver `personajes/vera.md`) sigue pendiente de ocurrir, Mark no debe enterarse en la narración hasta que suceda.**

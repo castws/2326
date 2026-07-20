@@ -27,7 +27,8 @@ ficha no se toca nunca.
 ## Activos en el arco actual _(se carga al inicio)_
 
 - **[Vera](personajes/vera.md)** — robot, enfermera de la mansión. 29 años, rubia, delgada. Dominante BDSM en su vida privada; fetiche por yesos e inmovilización (revelado a Mark, Día 23). A cargo de Rachel y Sophie desde Día 23 tarde. Vive en la casa de huéspedes.
-- **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston Medical Center. Castaña oscura, moño bajo, ojos avellana. A cargo de la feminización de Mark; evaluación pre-quirúrgica completada Día 23.
+- **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston Medical Center. Castaña oscura, moño bajo, ojos avellana. A cargo de la feminización de Mark y su recuperación post-op (Día 23–~30).
+- **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). Yeso brazo der (bajo axila-mano, dedos libres) y pierna izq (hasta casi nalga) hasta ~Día 29. Apartamento, Emily la cuida. Visitó a Mark en el Creston Día 25; planea hablarle a Emily esa noche de sus sentimientos y de que los yesos son voluntarios. Arco romántico con Emily activo.
 
 - **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia, tratamiento de inmovilización). Cobriza, pálida. Full body cast (cabeza/cuello libres), apertura perineal. Cama hospitalaria en su salón. Olivia retomó el cuidado (Día 19).
 - **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética. Retomó el cuidado el Día 19 tras el fin de semana de Mark.
@@ -40,7 +41,6 @@ ficha no se toca nunca.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
 
-- **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). Yesos voluntarios pierna+brazo hasta ~Día 29. Apartamento, Emily la cuida. Reflexionando sobre amputación voluntaria del brazo derecho. Arco romántico con Emily activo.
 - **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, sin prótesis. "Novia" de Mark. Casa de Hannah; rehabilitación con prótesis de gancho en curso. Arco romántico con Hannah activo.
 - **[Hannah](personajes/hannah.md)** — robot ciudad, cuidadora de Patricia. Morena, pene funcional, liberal sin tapujos. Su casa. Configurada para excitarse al ayudar a Patricia; arco romántico con Patricia activo.
 - **[Ivy](personajes/ivy.md)** — robot ciudad, contacto de una noche. Pelirroja, yeso en brazo izq. Conocida por Hannah en el Club Insomnia.

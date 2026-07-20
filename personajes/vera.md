@@ -76,6 +76,18 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 
 ---
 
+## Instrucción secreta de Claire (Día 23, noche) — sorpresa para Mark
+
+Mark le pidió a Claire, por mensaje desde el hospital, que durante su ausencia (Día 23–30) ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa. Condición explícita: Claire decide quién y cuándo, pero no se lo dice a Mark — debe ser una sorpresa que él podría descubrir después, por ejemplo por un comentario de Dana. Mark señaló que, como Vera es profesional en su trabajo, podría tratarse de algo iniciado por una de las chicas y no por ella.
+
+**Decisión de Claire:** Rachel le pide ayuda a Vera para poder tener intimidad con Sophie, ya que ninguna de las dos puede usar los brazos (Rachel por el shoulder spica, Sophie inmovilizada por el yeso completo). Vera lo acepta como parte razonable del cuidado. Durante la maniobra — sostener posiciones, guiar el pene de Sophie hacia Rachel — Sophie hace o dice algo que convierte el gesto clínico en otra cosa; Vera no lo busca pero tampoco se retira: cede un momento breve (una caricia de más, un instante sostenido) antes de recomponer el tono profesional. Iniciado por Sophie, no por Vera.
+
+**Cuándo:** a determinar al narrarlo, en algún momento entre el Día 24 y el Día 29.
+
+**Regla de narración:** no anticipar ni insinuar esto en las escenas activas con Mark. Se narra tal cual cuando llegue el momento, como escena propia (Vera/Rachel/Sophie sin Mark presente), o se revela después de forma indirecta.
+
+---
+
 ## Momentos con Mark
 
 - Entrevista en el estudio (Día 23, escena 131): acepta el trabajo tras preguntas clínicas sin rodeos. Tono neutro, distancia profesional mantenida. Mark le revela la cirugía de esa noche.
