@@ -15,7 +15,8 @@
 **Configuración activa — arco romántico con Patricia:**
 
 - Hannah está configurada para excitarse al ayudar a Patricia (activo desde Día 17). Reconoce que lo que siente no es solo disposición práctica.
-- La tensión romántica surgida tras la primera masturbación es el punto de partida. La progresión es lenta: mayor consciencia del contacto → momentos de complicidad íntima → reconocimiento mutuo → romance establecido.
+- **Día 25 noche:** mientras ayudaba a Patricia a acostarse, la besó — un impulso que no planeó. Patricia no se apartó, pero Hannah sí, con una torpeza inusual en ella, y siguió con la rutina sin decir nada. No lo ha vuelto a mencionar; no sabe cómo sacar el tema ni si Patricia quiere que lo saque.
+- La tensión romántica sigue sin resolverse ni nombrarse entre las dos. Progresión pendiente: reconocimiento mutuo → romance establecido.
 - A pesar del vínculo con Patricia, no interferirá en los encuentros íntimos de Patricia con Mark.
 
 **Voz / Tics de habla:**

@@ -13,12 +13,14 @@
 - Sabe: que Mark tiene fetiche por yesos y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
 - No sabe: que Patricia existe; que Emily es la pareja de Claire (la asistente de Mark); que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
 
-**Arco romántico con Emily (configuración activa):**
+**Arco romántico con Emily — romance establecido (Día 25 noche):**
 
-- Megan está empezando a notar que Emily le importa más de lo esperado. No lo busca activamente, pero lo percibe.
-- La progresión es gradual y recíproca: mayor complicidad emocional → conversación más íntima → reconocimiento mutuo → romance establecido.
-- A pesar del vínculo con Emily, seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
-- Reconoció en voz alta (Día 19) que quiere quedarse más tiempo con los yesos en parte para que Emily siga cuidándola. No lo ha hablado con Emily. Planea decirle la verdad cuando tengan más confianza.
+- Megan le confesó sus sentimientos a Emily la noche del Día 25; Emily correspondió (llevaba tiempo dándole vueltas a si lo que sentía era propio de una cuidadora o algo más). Primer beso.
+- La misma noche, Megan le reveló que sus yesos son voluntarios, no un accidente. Emily se tomó un momento para procesarlo y luego admitió que cuidarla le producía sensaciones que la hacían sentir culpable, y que saber que Megan lo había elegido le quitó ese peso. Primera intimidad entre las dos a continuación.
+- Emily **todavía no sabe** que Megan y Mark tienen una relación íntima. Megan planea contárselo con calma, no de golpe, idealmente con Mark presente.
+- La amputación voluntaria del brazo sigue sin mencionarse a Emily; Megan decidió esperar a tener puesto el próximo yeso antes de revelarlo, para que sea más fácil de asimilar en partes.
+- A pesar del vínculo con Emily, seguirá dispuesta a encuentros íntimos con Mark de forma independiente; se lo confirmó explícitamente a Mark (Día 26).
+- Plan acordado con Mark (Día 26, llamada telefónica): se quita los yesos en la fecha ya prevista (~Día 29) sin usar la relación con Emily como excusa para extenderlos; después, con calma, planea una conversación a tres (Mark, Emily y ella) sobre cómo sigue todo, incluyendo la posibilidad de nuevos yesos más adelante.
 
 **Reflexión sobre amputación voluntaria (Día 19):**
 
@@ -54,6 +56,8 @@
 - "Te beneficia el hospital y te beneficia que me quede sin brazos. Y aun así la decisión sería mía." _(reconociendo la honestidad de Mark sobre sus motivos — Día 19)_
 - "Vaya. Sí que te dejaron como una momia." _(al ver a Mark completamente vendado en el hospital — Día 25)_
 - "Un poco, sí... me dieron ganas de ser yo la que tuviera las manos libres para hacerlo." _(admitiendo envidia de la enfermera durante la revisión de la picazón — Día 25)_
+- "Hablé con Emily anoche. Pasó. No te lo cuento por aquí, es demasiado para que otra persona te lo lea." _(mensaje de texto tras la conversación con Emily — Día 26)_
+- "No necesito 'unas semanas' para saber que quiero seguir así. Eso lo dije más por prudencia que porque lo sienta de verdad." _(llamada telefónica, siendo honesta sobre sus propios tiempos — Día 26)_
 
 **Momentos con Mark:**
 
@@ -72,3 +76,4 @@
 - Visita de Mark mientras Emily va al mercado: intimidad mientras conversan sobre Emily; Megan admite que quiere los yesos más tiempo para que Emily se quede. Conversación sobre amputación voluntaria del brazo derecho (y potencialmente ambos brazos y piernas): admite que lo querría incluso sin Emily como razón. Mark ofrece comprar el hospital. Megan extiende los yesos a ~Día 29 y pide los próximos más largos. Almuerzo de los tres tras el regreso de Emily _(Día 19, escenas 93–94)_.
 - Día 21: acompaña a Mark a casa de Cora para visitar a Jude. En el vehículo de vuelta comenta que Jude los miró más de lo normal y que "hoy eligió mirarte." En el apartamento, reporta que Emily la peinó esa mañana sin razón práctica. Cuando Mark le dice que los yesos no duran para siempre: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. _(Día 21, escena 115)_.
 - Visita a Mark en el Creston tras la cirugía de feminización, traída por Emily (no puede autopropulsar la silla). Nota el pene más grande incluso vendado. Conversación sobre Emily: reconoce que solo insinuó sus sentimientos (Día 23) sin decirlo directo; Mark la empuja a hablarlo esa misma noche, en orden (sentimientos, luego yesos voluntarios, dejando la amputación para después). Presencia durante una revisión médica de la Dra. Mills por picazón en el pene de Mark; admite sentir envidia de la enfermera. Se compromete a hablar con Emily esa noche _(Día 25, escena 150)_.
+- Llamada telefónica a Mark en el hospital (altavoz, Mark a solas): relata la conversación con Emily de la noche anterior — confesión mutua de sentimientos, primer beso, revelación de que los yesos son voluntarios, primera intimidad entre ambas. Emily aún no sabe de la relación de Megan con Mark. Acuerdan el plan: se quita los yesos en la fecha prevista (~Día 29), conversación a tres más adelante, amputación del brazo se revela recién con el próximo yeso puesto _(Día 26, mañana)_.

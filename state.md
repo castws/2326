@@ -6,17 +6,15 @@
 
 ### Día actual
 
-**Día 25, tarde.** Mark en su habitación del Creston, segundo día post-operatorio, tras la visita de Megan. Vendado por completo de pies a cabeza (cabeza/rostro con aberturas solo en ojos, fosas nasales y boca; senos vendados individualmente; pene y testículos vendados como unidad fijados en ángulo de 90° respecto al cuerpo), sonda puesta. **Inmovilidad total:** no puede mover ninguna parte del cuerpo, ni siquiera los dedos. Puede hablar desde hoy (el silencio estricto era solo del Día 24), con esfuerzo y voz nueva todavía asentándose; cuando no puede hablar, comunicación por ojos (arriba = sí, abajo = no). Protocolo: nunca cubierto por sábana ni camisón mientras esté vendado, ni en traslados ni en visitas. Picazón en la corona del pene tratada por la Dra. Mills (resequedad de piel nueva). Megan planea hablar esta noche con Emily sobre sus sentimientos y revelarle que sus yesos son voluntarios (sin mencionar todavía la posible amputación del brazo).
+**Día 26, noche.** Mark en su habitación del Creston, tercer día post-operatorio. Vendado por completo de pies a cabeza (cabeza/rostro con aberturas solo en ojos, fosas nasales y boca; senos vendados individualmente; pene y testículos vendados como unidad fijados en ángulo de 90°). Sonda ya retirada (durante el baño/cambio de vendaje de la mañana). **Inmovilidad total:** no puede mover ninguna parte del cuerpo, ni siquiera los dedos. Habla con esfuerzo, voz nueva todavía asentándose; cuando no puede hablar, comunicación por ojos (arriba = sí, abajo = no). Protocolo: nunca cubierto por sábana ni camisón mientras esté vendado, ni en traslados ni en visitas. Come alimentos sólidos, se los da la enfermera. Cenando con la enfermera de turno de tarde (Combs). Visita de Patricia ya ocurrida (17h): reveló el beso con Hannah, decidió besarla esta noche para abrirse a las dos relaciones a la vez, sin hablarlo con palabras. Resultado pendiente de conocer. Mark pidió por mensaje a Diane que traiga a Tori de visita mañana (Día 27) con su vibrador.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
 - **Día ~29**: Megan se quita los yesos (extendió 1 semana más en Día 19).
-- **Día 25 (noche)**: Megan planea hablar con Emily sobre sus sentimientos y revelarle que los yesos son voluntarios.
-- **Día 26**: Mark puede comer alimentos sólido, la enfermera le da la comida. Visita de Patricia al hospital (confirmada). Fin de la sonda entre Día 25-26.
+- **Día 27**: Visita de Tori al Creston, temprano después del desayuno (Diane la trae, con el vibrador, sin que Tori lo sepa). Configuración de Claire (Día 26 noche): Mark pide delante de Tori que le pongan el vibrador — sorpresa y vergüenza desde ese momento; Diane lo activa. Con Tori ya muy excitada, entran las enfermeras a hacer el cambio de vendaje diario de Mark; Tori eyacula en ese momento, las enfermeras se sorprenden y notan su pene pese a la jaula — vergüenza intensa mezclada con excitación confusa, primera semilla de un futuro fetiche por la exposición/humillación (ver `personajes/tori.md`). Comienzan evaluaciones de erección/arousal de Mark.
 - **Día ~24-29**: sorpresa pendiente de Claire para Mark (ver `personajes/vera.md`) — Vera/Sophie, día exacto a determinar al narrarlo.
-- **Día 27**: comienzan evaluaciones de erección/arousal.
 - **Día ~30**: Alta de Mark del Creston. Retirada completa de vendajes.
 - **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
 - **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
@@ -47,13 +45,16 @@
 - **Día 23**: Mañana: noticias a Rachel/Sophie/Dana sobre Vera y la cirugía; entrevista y contratación de Vera; tour de la mansión; cita pre-quirúrgica con Dra. Mills (medidas, inspección, test de eyaculación; corrección de protocolo post-op vía Claire). Mediodía: almuerzo con Mira, intimidad en hotel (corrección: Mira sin pezones por la enfermedad). Tarde: visita a Tori (corrección: mandíbula alambrada = solo sonidos con boca cerrada, sin palabras; Diane no ha desarrollado comunicación con ella, cuidado puramente físico; jaula genital, vibrador, eyaculación; invitación al hospital). Visita a Jude (baño con Cora; revelación de la cirugía; Mark le ofrece el puesto de diseñadora del club BDSM, acepta; intimidad; invitación al hospital). Vuelta a la mansión: conversación con Rachel (Vera asume su cuidado; preocupación por Sophie sin Mark; posible ayuda de Dana). Conversación con Vera: revelación mutua de fetiches (yesos de Mark, BDSM dominante de Vera); Vera se ofrece a aplicarle un yeso tras el alta; llevará a Rachel y Sophie a visitarlo. Noche: ingreso al Creston (admisión, evaluación final con Dra. Mills — pregunta directa por la talla de senos: copa D estimada—, mensaje a Dana pidiendo que lo mantenga informado, instrucción secreta a Claire para que ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa durante su ausencia, sin que él sepa quién ni cuándo). Consentimiento firmado, vía y sedante, traslado a quirófano.
 - **Día 24**: Mark despierta en su habitación tras la cirugía de feminización. Vendado por completo (incluida cabeza/rostro), senos y pene/testículos vendados, inmovilidad total (ni dedos), comunicación solo por ojos (arriba=sí, abajo=no). Enfermera explica el protocolo. Visita de la Dra. Mills: dolor manejable, analgésico preventivo. Día transcurre en silencio y descanso, sin incidentes ni visitas.
 - **Día 25**: Primera rutina activa de cuidados (baño, pomadas, cambio completo de vendaje); fin del silencio estricto, Mark habla por primera vez (voz nueva, con esfuerzo). Traslado a medicina interna sin ninguna cobertura (protocolo); exposición pública en sala de espera y comentarios del personal durante el escáner. Mensajes de casa leídos y respondidos por una enfermera (Dana, Megan, Diane, Patricia); Patricia queda para visitarlo el Día 26. Picazón en la corona del pene, tratada por la Dra. Mills. Visita de Megan por la tarde (traída por Emily): conversación sobre Emily, revisión médica de la picazón frente a ella, Megan planea hablar con Emily esa noche.
+- **Día 26**: Sonda retirada, primer alimento sólido, primera vez que Mark ve su rostro y cabello nuevos (Dra. Mills). Llamada con Megan: relata la conversación con Emily de la noche anterior (confesión mutua, beso, revelación de yesos voluntarios, primera intimidad entre ambas); acuerdan plan para los próximos días. Configuración vía Claire: Hannah besó a Patricia la noche del Día 25, sin hablarlo aún. Visita de Patricia (17h): reacción a la transformación de Mark, confiesa el beso con Hannah, confundida entre las dos relaciones; decide besar a Hannah esa noche. Mark pide por mensaje que Diane traiga a Tori de visita al día siguiente con su vibrador. Configuración vía Claire para esa visita (Día 27): exposición ante las enfermeras, semilla de un futuro fetiche por la humillación.
 
 ---
 
 ## Mark
 
-- Localización: habitación del Creston Medical Center, Día 25 tarde (post-operatorio, día 2).
-- **Voz:** puede hablar desde el Día 25 (silencio estricto solo el Día 24); voz nueva (más aguda), sale con esfuerzo mientras se asienta.
+- Localización: habitación del Creston Medical Center, Día 26 mañana (post-operatorio, día 3).
+- **Voz:** puede hablar desde el Día 25 (silencio estricto solo el Día 24); voz nueva (más aguda), todavía sale con esfuerzo mientras se asienta.
+- **Sonda:** puesta todavía a esta hora de la mañana; se retira más tarde hoy, durante el baño/cambio de vendaje posterior al desayuno. Desde hoy come alimentos sólidos, se los da la enfermera.
+- **Sin sonda — micción:** sin ninguna sábana ni cobertura en la cama (protocolo general). Para orinar, la enfermera retira la venda de la punta del pene, lo ayuda a orinar, limpia bien la punta, aplica pomada nueva y vuelve a vendar.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma Campbell **o Jude**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -84,15 +85,14 @@
 
 ## Megan
 
-- Localización: visitó a Mark en el Creston el Día 25 tarde (traída por Emily, quien la empuja — no puede autopropulsarse la silla). Volvió a su apartamento con Emily.
+- Localización: su apartamento en la ciudad, con Emily.
 - **Brazo izquierdo:** amputado muy corto, por encima de donde debería estar el codo. Sin prótesis funcional.
 - **Yeso brazo derecho:** desde justo debajo de la axila hasta la mano, dedos libres; hombro con movilidad, codo completamente fijo. Se retira el día ~29.
 - **Yeso pierna izquierda:** desde el pie hasta casi la nalga, con tacón de goma. Se retira el día ~29 (extendió 1 semana en Día 19).
 - **Prótesis pierna derecha:** puesta.
-- Estado emocional: vínculo con Mark consolidado. Está empezando a notar que Emily le importa más de lo esperado. Arco romántico con Emily activo (progresión gradual). Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
-- **Nueva reflexión (Día 19):** admitió a Mark que querría no tener brazos incluso sin Emily como razón. La dependencia con los yesos ya no le incomoda. Considera también la pierna izquierda. Decisión no tomada — en reflexión. Mark ofreció comprar el hospital para que trabaje en rol administrativo si decide amputar.
-- **Próximos yesos solicitados:** pierna hasta la cadera, brazo hasta el hombro. Con Emily presente si acepta la verdad.
-- **Día 25 (tarde):** visitó a Mark en el hospital. Reportó que ya le dijo a Emily que le importa lo que piensa (Día 23, durante el baño) pero no la palabra directa de sentimientos. Mark insistió en que no lo postergue más: hablarle esta noche, en orden (sentimientos → yesos voluntarios → dejar la amputación para después), y plantear los yesos más largos como algo que ya venía pensando para ver su reacción. Megan se comprometió a hacerlo esa misma noche.
+- **Día 25 noche — romance con Emily establecido:** confesión mutua de sentimientos, primer beso, revelación de que los yesos son voluntarios (Emily lo asimiló y admitió su propia atracción por cuidarla), primera intimidad entre ambas. Emily se quedó a dormir y le preparó el desayuno con opciones al día siguiente.
+- **Día 26 mañana:** llamada telefónica con Mark (a solas, altavoz) relatando lo ocurrido. Emily todavía no sabe de la relación íntima entre Megan y Mark; Megan se lo contará con calma, idealmente con Mark presente. Plan acordado: se quita los yesos en la fecha ya prevista (~Día 29) sin usarlo como excusa relacionada con Emily; después, conversación a tres sobre cómo sigue todo y posibles yesos nuevos. La amputación del brazo se revelará a Emily recién cuando Megan tenga puesto el próximo yeso, no antes.
+- **Próximos yesos solicitados:** pierna hasta la cadera, brazo hasta el hombro (a coordinar en la conversación a tres, después del Día 29).
 
 ---
 
@@ -106,8 +106,8 @@
 ## Emily
 
 - En el apartamento de Megan, en la ciudad. Rol de cuidadora 24/7.
-- Arco romántico con Megan activo. Configurada para ser consciente de que cuidar a alguien dependiente la excita, y que los yesos y las amputaciones son parte de esa atracción. La masturbación del Día 14 fue el primer acto de esa atracción.
-- Sigue sin saber que los yesos de Megan son voluntarios ni que hubo intimidad entre Megan y Mark.
+- **Romance con Megan establecido (Día 25 noche):** confesión mutua, primer beso, reveló su propia atracción por cuidar a alguien dependiente (con la culpa que cargaba por ello), aceptó que los yesos de Megan son voluntarios, primera intimidad entre ambas. Se quedó a dormir y le preparó el desayuno con opciones al día siguiente.
+- Sabe ahora que los yesos de Megan son voluntarios. Sigue sin saber que hay intimidad entre Megan y Mark (Megan planea contárselo con calma, con Mark presente).
 
 ---
 
@@ -122,9 +122,9 @@
 
 ## Patricia
 
-- Localización: casa de Hannah, en la ciudad.
+- Localización: casa de Hannah, en la ciudad. Visita al Creston programada Día 26, 17h.
 - Estado físico: ambos brazos amputados desde el hombro. Prótesis de gancho en ambos brazos (en uso desde Día 17).
-- **Estado emocional:** estable y afectuosa. Relación con Mark definida como "novia". Arco romántico con Hannah activo. Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
+- **Estado emocional:** estable y afectuosa con Mark; relación definida como "novia". **Día 25 noche:** Hannah la besó mientras la ayudaba a acostarse; Patricia no se apartó, Hannah sí, con torpeza, y ninguna lo ha nombrado desde entonces. Patricia llega a la visita del Día 26 confundida — algo real por Hannah sin nombrar del todo, y a la vez algo real por Mark. Seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
 - **Habilidades nuevas:** se masturba sola frotándose contra superficies; también con el gancho (primera vez Día 21: abriendo y cerrando el gancho contra el clítoris, técnica practicada con cilindro en casa de Hannah). Desabrocha pantalón con ganchos. Masturba con gancho.
 - Mark dijo que la llamará "en unos días." Capítulo 2 de Claustrofobia leído (Día 21).
 
@@ -135,7 +135,7 @@
 - En su casa, en la ciudad.
 - Personalidad liberal, despreocupada, sin tapujos. Pene funcional visible en ropa ceñida.
 - Cuida de Patricia durante su recuperación.
-- Arco romántico con Patricia activo. Reconoce que lo que siente al ayudar a Patricia no es solo disposición práctica. Configurada por Claire para excitarse al ayudar a Patricia (activo desde Día 17).
+- **Día 25 noche:** la besó mientras la ayudaba a acostarse, impulso no planeado; se apartó con torpeza inusual en ella y no lo ha vuelto a mencionar. No sabe si Patricia quiere que hablen de eso. Reconoce que lo que siente al ayudarla no es solo disposición práctica. Configurada por Claire para excitarse al ayudar a Patricia (activo desde Día 17).
 
 ---
 
@@ -215,18 +215,19 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Mark — internamiento en curso:** en el Creston desde la noche del Día 23, ahora Día 25 tarde (post-operatorio, día 2). Internamiento hasta ~Día 30. Doctora Mills a cargo. Protocolo post-op ver sección "Mark" arriba. Puede hablar desde hoy; sigue totalmente inmóvil y sin cobertura mientras esté vendado.
-2. **Visitas al hospital pendientes de coordinar:** Patricia (confirmada Día 26); Mira (~Día 25-26, "un par de momias" en la cafetería, aún sin confirmar); Tori (durante la semana, vía Diane); Jude (desde el segundo o tercer día, Cora la lleva); Rachel y Sophie (Vera las lleva, día a coordinar). Megan ya visitó (Día 25 tarde).
-3. **Megan — conversación con Emily (crítico, esta noche):** se comprometió con Mark a hablarle a Emily el Día 25 por la noche: sentimientos primero, luego que los yesos son voluntarios, dejando la posible amputación del brazo para más adelante. Resultado pendiente de la próxima sesión.
-4. **Vera:** ofreció aplicarle un yeso a Mark tras el alta (~Día 30). Reveló ser dominante BDSM; arco futuro con Jude pendiente de desarrollarse.
-5. **Sorpresa secreta activa para Mark** (instrucción a Claire, Día 23 noche): algo levemente sexual entre Vera y Sophie, iniciado por Sophie durante una maniobra de ayuda con Rachel — detalle completo marcado como secreto en `personajes/vera.md`. Día exacto sin determinar (entre Día 24 y 29). No revelar en la narración activa hasta que ocurra.
-6. **Jude:** puede escribir a Mark cuando quiera (Cora mediará). Aceptó el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla de letras).
-7. **Club BDSM:** proyecto activo, sin local. Jude como diseñadora (ver arriba). Jude tiene ideas propias (altura mesa regulable, anclajes en pared). Mark prometió entrada accesible.
-8. **Mira:** arco romántico en desarrollo, sin plan concreto de próxima cita confirmada.
-9. **Emma:** visita pendiente. Emma pidió implícitamente que Mark repita.
-10. **Tori:** vibrador rutina diaria. Yesos ~Día 77.
-11. **Sophie:** yesos hasta ~Día 40.
-12. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
+1. **Mark — internamiento en curso:** en el Creston desde la noche del Día 23, ahora Día 26 noche (post-operatorio, día 3). Internamiento hasta ~Día 30. Doctora Mills a cargo. Protocolo post-op ver sección "Mark" arriba. Habla con normalidad (esfuerzo decreciente); sonda ya retirada; come sólidos; sigue totalmente inmóvil y sin cobertura mientras esté vendado. Movilidad limitada empieza a asomar en ~2 días. Evaluaciones de erección/arousal comienzan Día 27.
+2. **Visita de Tori — Día 27 por la mañana:** Diane la trae con el vibrador sin que ella lo sepa; Mark lo pide delante de ella (ya avergonzada por el pedido inesperado); Diane lo activa; con Tori muy excitada entran las enfermeras para el cambio de vendaje de Mark, ella eyacula, la ven y reparan en su pene pese a la jaula — vergüenza intensa mezclada con excitación confusa por la exposición (primera semilla de un futuro fetiche, ver `personajes/tori.md`). Configuración ya confirmada por Claire, sin narrar todavía.
+3. **Visitas al hospital pendientes de coordinar:** Mira (~Día 25-26, "un par de momias" en la cafetería, aún sin confirmar); Jude (desde el segundo o tercer día, Cora la lleva); Rachel y Sophie (Vera las lleva, día a coordinar). Megan y Patricia ya visitaron (Días 25 y 26).
+4. **Patricia y Hannah:** Hannah la besó la noche del Día 25 sin que lo hayan hablado todavía; Patricia, confundida (siente algo real por las dos), decidió besar a Hannah esa misma noche (Día 26) para abrirse a ambas relaciones sin necesidad de palabras. Resultado sin narrar todavía.
+5. **Megan y Emily:** romance establecido la noche del Día 25 (ver secciones de ambas arriba). Pendiente: Megan cuenta a Emily lo de su relación con Mark (con calma, idealmente con él presente); conversación a tres tras el Día 29 sobre cómo sigue todo y posibles yesos nuevos; revelar la amputación del brazo recién con el próximo yeso puesto.
+6. **Vera:** ofreció aplicarle un yeso a Mark tras el alta (~Día 30). Reveló ser dominante BDSM; arco futuro con Jude pendiente de desarrollarse.
+7. **Sorpresa secreta activa para Mark** (instrucción a Claire, Día 23 noche): algo levemente sexual entre Vera y Sophie, iniciado por Sophie durante una maniobra de ayuda con Rachel — detalle completo marcado como secreto en `personajes/vera.md`. Día exacto sin determinar (entre Día 24 y 29). No revelar en la narración activa hasta que ocurra.
+8. **Jude:** puede escribir a Mark cuando quiera (Cora mediará). Aceptó el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla de letras).
+9. **Club BDSM:** proyecto activo, sin local. Jude como diseñadora (ver arriba). Jude tiene ideas propias (altura mesa regulable, anclajes en pared). Mark prometió entrada accesible.
+10. **Mira:** arco romántico en desarrollo, sin plan concreto de próxima cita confirmada.
+11. **Emma:** visita pendiente. Emma pidió implícitamente que Mark repita.
+12. **Sophie:** yesos hasta ~Día 40.
+13. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
 
 ## Ciudad — cambios de configuración
 

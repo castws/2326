@@ -2,15 +2,11 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–89 (Días 1–17) archivadas en `scene_log_archive.md`.
+> Escenas 1–90 (Días 1–18) archivadas en `scene_log_archive.md`.
 
 ---
 
-## Día 17 — Mañana (continuación)
-
-### Escena 90: Día 18 — jornada tranquila y segunda noche
-
-Día 18 transcurre con normalidad: desayuno, lectura, película, conversación sin plan concreto. Emma más abierta que el primer día; menos rodeos para pedir lo que necesita (botella, café). Por la noche: Emma usa el pretexto de "loción de antes de dormir"; oral de Emma a Mark; Mark come a Emma; 69 → orgasmo de Emma al mismo tiempo que Mark se viene; posteriormente penetración con orgasmo simultáneo. Duermen juntos.
+## Día 19 — Mañana
 
 ### Escena 91: Día 19 mañana — regreso de Olivia
 
@@ -429,5 +425,37 @@ Durante la visita, a instrucción de Mark, Claire hace entrar a la Dra. Mills y 
 
 ---
 
-**La conversación termina aquí: Día 25, tarde. Mark solo en su habitación del Creston tras la visita de Megan, que esa noche planea hablar con Emily sobre sus sentimientos y revelar que los yesos son voluntarios.**
-**Próximo paso pendiente: resultado de la conversación Megan-Emily (Día 25 noche). Visita de Patricia confirmada para el Día 26. Mira estimada Día 25-26 (aún sin confirmar). Tori y Jude sin visita coordinada todavía. Rachel y Sophie: visita con Vera, día por coordinar — la "sorpresa" secreta de Claire (ver `personajes/vera.md`) sigue pendiente de ocurrir, Mark no debe enterarse en la narración hasta que suceda.**
+---
+
+## Día 26 — Post-operatorio, día 3
+
+### Escena 151: Desayuno y primera cura completa (Día 26, mañana)
+
+Una enfermera nueva, Grace (~26 años, rubio ceniza en coleta baja, ojos grises, uniforme verde claro), entra con el desayuno: primer alimento sólido desde la cirugía (puré espeso). Le da de comer con cuchara; Mark ya puede hablar, así que no hace falta el sistema de parpadeos. Después llega la Dra. Mills con Grace y otra enfermera para la rutina diaria: retiran la sonda (desinflado del balón, extracción del tubo, limpieza), y Mark pide ver su rostro por primera vez — Mills sostiene un espejo de mano: ojos alargados, cejas finas, nariz pequeña, pómulos marcados, labios llenos, piel tersa sin marcas visibles. Le gusta lo que ve. Continúan destapando el resto del cráneo: cabello castaño oscuro liso hasta media espalda, ya crecido. Rutina completa por zonas (cuello, brazos, senos, cintura/cadera, zona genital — picazón de ayer ya resuelta —, piernas) con lavado, pomada y vendaje nuevo. Mills anuncia que en dos días empezará algo de movilidad.
+
+### Escena 152: Mensajes, micción asistida y llamada con Megan (Día 26, mediodía)
+
+Grace lee los mensajes pendientes: Dana (todo tranquilo en casa), Patricia (confirma visita a las 17h), Diane (rutina normal de Tori) y Megan, que evita detalles por texto ("Hablé con Emily anoche. Pasó. [...] Te lo cuento en persona o por llamada"). Mark pide que responda a Patricia confirmando la hora y que llame a Megan en altavoz, dejándolo a solas. Megan relata la conversación de la noche anterior: le confesó sus sentimientos a Emily, beso mutuo, luego reveló que sus yesos son voluntarios; Emily admitió que cuidarla la excitaba desde hacía tiempo y que sentía culpa por eso; primera intimidad entre las dos. Emily se quedó a dormir y le preparó el desayuno con opciones. Megan y Mark acuerdan el plan: se quita los yesos en la fecha ya prevista (~Día 29) sin usarlo como excusa por Emily; después, conversación a tres sobre cómo sigue todo; la amputación del brazo se revelará a Emily recién con el próximo yeso puesto. Megan reafirma que seguirá viendo a Mark de forma independiente; se lo dirá a Emily con calma, idealmente con él presente.
+
+Antes de la llamada, durante la ronda de control de Grace, Mark pide orinar: sin sonda ni cobertura, Grace retira la venda de la punta del pene, lo ayuda con una botella, limpia, aplica pomada nueva y revenda.
+
+### Escena 153: Configuración vía Claire — Patricia y Hannah (Día 26, mediodía)
+
+Mark llama a Claire y le pide que, para la visita de Patricia esa tarde, el arco romántico con Hannah haya avanzado: algo erótico ocurrió entre ellas que ninguna se atreve a nombrar todavía, y Patricia debe llegar confundida porque también siente algo real por Mark. Claire pide precisión y ejecuta: la noche del Día 25, mientras Hannah ayudaba a Patricia a acostarse, la besó; Patricia no se apartó, Hannah sí, con torpeza, y ninguna lo ha mencionado desde entonces. Mark le pide a Claire que le recuerde lo que Patricia ya le había contado antes sobre Hannah (mensajes del Día 19: las masturbaciones asistidas, "Hannah huele bien").
+
+### Escena 154: Visita de Patricia (Día 26, 17h)
+
+Patricia llega con vestido color arena de espalda abierta para las prótesis de gancho. Reacción genuina de sorpresa al ver a Mark completamente vendado, incluida la cabeza, y con el pelo largo asomando; también nota el pene vendado más grande y pregunta si fue parte del plan (Mark confirma que sí). Sentada junto a la cama, cuenta lo del beso de Hannah la noche anterior: no se apartó, le gustó, y no sabe qué hacer porque también siente algo real por Mark. Mark le habla de su propia no exclusividad y la anima a no elegir, a tener ambas cosas; sugiere que, si le cuesta hablarlo, simplemente bese ella a Hannah esa noche para dar la señal sin palabras. Patricia decide hacerlo esa misma noche, al llegar a casa. Se despide con la frente apoyada en la de Mark.
+
+### Escena 155: Cena y mensaje a Diane (Día 26, noche)
+
+La enfermera de turno de tarde, Combs (~30 años, cabello oscuro corto), trae la cena. A pedido de Mark, envía un mensaje a Diane pidiendo que traiga a Tori de visita al día siguiente, temprano después del desayuno, con su vibrador. Diane confirma. Combs da de cenar a Mark mientras llegan los mensajes.
+
+### Escena 156: Llamada nocturna con Claire — configuración para la visita de Tori (Día 26, noche)
+
+Mark llama a Claire y detalla el plan para la visita de Tori del Día 27: con el vibrador activo y ella muy excitada, que entre el equipo de enfermeras a hacer el cambio de vendaje diario de Mark; Tori eyacula en ese momento, las enfermeras se sorprenden y reparan en su pene pese a la jaula — vergüenza intensa para ella, mezclada con una excitación confusa por sentirse expuesta (primera semilla de un futuro fetiche por la exposición/humillación). Corrección de Mark: Tori no debe saber que Diane trae el vibrador; será el propio Mark quien, delante de ella, pida que se lo pongan — la sorpresa de ese pedido ya la avergüenza antes de que nada empiece. Claire confirma y ejecuta. Día 26 termina con todo listo para la visita de mañana.
+
+---
+
+**La conversación termina aquí: Día 26, noche. Mark solo en su habitación del Creston, luces apagadas, tras la llamada con Claire.**
+**Próximo paso pendiente: visita de Tori al Creston Día 27 por la mañana (configuración de Claire ya lista: vibrador sorpresa, exposición ante las enfermeras durante el cambio de vendaje de Mark). Ese mismo día comienzan las evaluaciones de erección/arousal de Mark. Resultado de la decisión de Patricia (besar a Hannah esa noche) sin narrar todavía. Mira, Jude y Rachel/Sophie sin visita coordinada al hospital. La "sorpresa" secreta de Claire entre Vera y una de las chicas de la casa (ver `personajes/vera.md`) sigue pendiente de ocurrir.**

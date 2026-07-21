@@ -44,6 +44,8 @@
 - "En reposo va a quedar alrededor de catorce centímetros... En erección subirá poco desde ahí." _(dando el tamaño final del pene a pedido de Mark — Día 23)_
 - "Con la banda torácica que medimos hoy y el volumen que se va a redistribuir, vas a quedar en una copa D." _(estimando la talla de senos antes de la cirugía — Día 23)_
 - "Buena cicatrización. Nada de hinchazón fuera de lo esperado, la piel ya tomó la textura que buscábamos." _(primera revisión del rostro tras el vendaje — Día 25)_
+- "Voy a desinflar el balón primero. Vas a notar un tirón raro cuando saque el tubo, no duele, pero avisa si molesta." _(retirando la sonda — Día 26)_
+- "Esto es solo lo de la cara. El pelo lo vas a ver entero cuando quitemos el resto de la venda de la cabeza." _(mostrándole el rostro nuevo con un espejo — Día 26)_
 
 ## Momentos con Mark
 
@@ -51,3 +53,4 @@
 - Repaso final antes de quirófano (Día 23, noche): consentimiento, vía, sedante; da la talla de senos estimada (copa D) a pedido de Mark.
 - Visita post-op Día 24: confirma cirugía sin complicaciones, revisa fijación del vendaje, evalúa dolor por el sistema de ojos (manejable) y aplica analgésico preventivo.
 - Rutina del Día 25: dirige la primera cura completa (baño, pomada, vendaje nuevo por zonas), confirma buena cicatrización del rostro, acompaña el traslado a medicina interna. Revisa la picazón reportada por Mark (recorre el pene punto por punto preguntando por dolor/picazón), diagnostica resequedad de piel nueva en la corona y ordena crema.
+- Rutina del Día 26: retira la sonda personalmente; confirma que la picazón ya está resuelta; le muestra el rostro con un espejo de mano (primera vez que Mark se ve tras la cirugía) y luego revela el cabello completo al desenvolver el resto del cráneo; dirige la cura completa por zonas. Anuncia que en ~2 días empieza algo de movilidad.

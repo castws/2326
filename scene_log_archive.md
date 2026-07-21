@@ -1,6 +1,6 @@
-# Registro de Escenas — Archivo (Días 1–17)
+# Registro de Escenas — Archivo (Días 1–18)
 
-Escenas 1–89, verbatim. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
+Escenas 1–90, verbatim. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
 
 ---
 
@@ -612,3 +612,11 @@ Mark transfiere a Emma a la silla de ruedas con la grúa de traslado. Le pone el
 ### Escena 89: Tarde y noche del Día 17 — loción e intimidad múltiple
 
 De vuelta: botella urinaria, almuerzo cocinado por Mark (receta especial). Emma inventa pretexto de "irritación post-depilación" para que Mark aplique loción en la zona perineal. La situación escala: aplicación de loción → masaje con dedos sobre clítoris y labios → orgasmo de Emma. Luego Emma ofrece oral a Mark. Mark come a Emma simultáneamente (69). Emma tiene un segundo orgasmo durante el 69; Mark se viene en su boca. Por la noche, Emma pide "tratamiento profundo" con rodeos clínicos; penetración con Mark encima → orgasmo simultáneo. Duermen juntos.
+
+---
+
+## Día 17 — Mañana (continuación)
+
+### Escena 90: Día 18 — jornada tranquila y segunda noche
+
+Día 18 transcurre con normalidad: desayuno, lectura, película, conversación sin plan concreto. Emma más abierta que el primer día; menos rodeos para pedir lo que necesita (botella, café). Por la noche: Emma usa el pretexto de "loción de antes de dormir"; oral de Emma a Mark; Mark come a Emma; 69 → orgasmo de Emma al mismo tiempo que Mark se viene; posteriormente penetración con orgasmo simultáneo. Duermen juntos.

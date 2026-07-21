@@ -15,10 +15,11 @@
 - No sabe: que Megan existe; que tiene activo un ajuste emocional aplicado por Claire (tristeza contenida escalando a llanto según la interacción con Mark).
 - Cree erróneamente: que el yeso de Mark es médico.
 
-**Arco romántico con Hannah (configuración activa):**
+**Arco romántico con Hannah — atracción explícita, sin hablar todavía (Día 25 noche):**
 
-- Patricia está empezando a notar la diferencia entre Hannah y cualquier otra persona. No lo busca ni lo nombra, pero está ahí.
-- La progresión es lenta: mayor consciencia del contacto de Hannah → dependencia emocional más reconocida → atracción explícita → romance establecido.
+- Anoche, mientras Hannah la ayudaba a acostarse, algo pasó entre las dos que fue más allá de la ayuda de siempre — un beso que empezó Hannah y que Patricia no cortó. Ninguna de las dos dijo nada después; Hannah se apartó con una torpeza que no es habitual en ella y siguió con la rutina como si no hubiera pasado. Patricia tampoco lo nombró.
+- Desde entonces hay una incomodidad nueva y silenciosa entre las dos, sin que ninguna se atreva a sacar el tema.
+- Patricia llega confundida a la visita del Día 26: siente algo por Hannah que no sabe nombrar del todo, y al mismo tiempo sigue sintiendo algo real por Mark. No sabe qué hacer con las dos cosas a la vez, ni si lo de anoche fue solo el momento o significa algo más para Hannah.
 - A pesar del vínculo con Hannah, seguirá dispuesta a encuentros íntimos con Mark de forma independiente.
 
 **Voz / Tics de habla:**
@@ -44,6 +45,8 @@
 - "Con el cilindro de Hannah no es lo mismo. El metal es distinto." _(sobre masturbarse con el gancho vs. práctica en casa de Hannah — Día 21)_
 - "Los ganchos están bien. Pero esto también." _(comparando segunda intimidad sin prótesis — Día 21)_
 - "No. Solo que ya sé cómo termina cuando los llevo puestos." _(declinando los panties a la mañana siguiente — Día 22)_
+- "No sabía que iba a ser... así. Todo. Y el pelo." _(primera reacción al ver a Mark vendado por completo tras la cirugía — Día 26)_
+- "Porque tú también me gustas. Eso no cambió por lo de anoche. Y no entiendo cómo pueden ser las dos cosas verdad al mismo tiempo." _(confundida entre Mark y Hannah — Día 26)_
 
 **Momentos con Mark:**
 
@@ -60,3 +63,4 @@
 - Primera vez que escribe sola a Mark con el gancho (mensaje directo); conversación íntima por texto sobre sus masturbaciones con Hannah: describe el proceso con honestidad, reconoce que no le incomoda y que Hannah huele bien _(Día 19, escena 92)_.
 - Noche en la mansión: primera intimidad con prótesis puestas. Desabrocha el pantalón de Mark con los ganchos (práctica que hace con Hannah con un cilindro); lo masturba con el gancho derecho; lo cabalga dictando el ritmo ("Quieto tú. Yo me muevo."). También: primera masturbación propia con el gancho (clítoris y pezón durante lectura de Claustrofobia). Segunda intimidad sin prótesis: muñones libres contra cara y cuerpo de Mark _(Día 21, escenas 117, 120, 121)_.
 - Conoce a Dana; conversación sobre adaptación a prótesis de gancho _(Día 22, escena 122)_.
+- Visita al Creston tras la cirugía de feminización de Mark: reacción de sorpresa genuina al vendaje total y al cabello nuevo; comenta el pene vendado más grande. Le cuenta el beso de Hannah la noche anterior, confundida entre las dos relaciones. Mark le habla de su propia no exclusividad y sugiere que bese a Hannah para abrirse sin necesidad de palabras; Patricia decide hacerlo esa misma noche _(Día 26, escena 154)_.

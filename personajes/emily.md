@@ -8,15 +8,17 @@
 
 **Conocimiento:**
 
-- Sabe: que Megan tiene yesos en pierna y brazo; que Mark tiene un yeso en la pierna derecha.
-- No sabe: la existencia de Patricia ni de ninguna otra mujer de Mark; que su presencia como cuidadora fue gestionada por Claire a petición de Mark.
-- Cree erróneamente: que los yesos de Megan son médicos; que el yeso de Mark es por una luxación de tobillo (historia inventada por Mark).
+- Sabe: que los yesos de Megan son voluntarios, no médicos (se lo reveló Megan la noche del Día 25); que Mark tiene un yeso en la pierna derecha (ya retirado).
+- No sabe: la existencia de Patricia ni de ninguna otra mujer de Mark; que su presencia como cuidadora fue gestionada por Claire a petición de Mark; que Megan y Mark tienen una relación íntima.
+- Creía erróneamente hasta el Día 25: que los yesos de Megan eran médicos; que el yeso de Mark era por una luxación de tobillo (historia inventada por Mark, sin corregir todavía).
 
-**Configuración activa — arco romántico con Megan:**
+**Arco romántico con Megan — romance establecido (Día 25 noche):**
 
-- Emily tiene activa la conciencia de que cuidar a alguien dependiente le produce excitación, y que los yesos y las amputaciones son parte de esa atracción. La masturbación durante el aseo fue el primer acto de esa atracción, no un impulso aislado.
-- La progresión hacia Megan es gradual: contacto más consciente y táctil → conversación más personal → algo más explícito → reconocimiento mutuo de lo que sienten → romance establecido.
-- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark.
+- Emily tenía activa la conciencia de que cuidar a alguien dependiente le producía excitación, y que los yesos y las amputaciones eran parte de esa atracción; se sentía culpable por ello sin decírselo a nadie.
+- La noche del Día 25, Megan le confesó sus sentimientos; Emily correspondió, reconociendo que llevaba tiempo dándole vueltas a si lo que sentía era propio de una cuidadora o algo más. Primer beso.
+- Al enterarse de que los yesos de Megan son voluntarios, se tomó un momento para procesarlo; luego admitió su propia atracción y la culpa que cargaba por ella, y que saber que Megan lo había elegido le quitó ese peso. Primera intimidad entre las dos esa misma noche.
+- Se quedó a dormir con Megan (algo que no hacía entre semana) y le preparó el desayuno con dos opciones a elegir, a la mañana siguiente.
+- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark — aunque todavía no sabe que existen.
 
 **Voz / Tics de habla:**
 
