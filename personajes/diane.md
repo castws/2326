@@ -19,6 +19,7 @@
 - Traspaso rutinario del cuidado de Tori al llegar Mark de visita _(Día 14 en adelante)_.
 - **Visita Día 23 (tarde):** abre la puerta sin ninguna calidez particular. Trae el vibrador anal a pedido de Mark y lo inserta ella misma con la misma eficiencia de siempre, ajena a que ocurre en un contexto íntimo con Mark presente. Limpia y cambia el pañal de Tori al final de la visita, sin comentarios.
 - **Día 26 (noche), por mensaje:** Mark le pide (vía enfermera del hospital) que lleve a Tori al Creston la mañana del Día 27, con el vibrador, sin decirle a Tori que lo trae. Diane confirma sin preguntas ("Claro, sin problema. Llevo el vibrador y el mando.") y avisa que se lo dirá a Tori esa noche.
+- **Día 27 (mañana), visita al Creston:** trae a Tori con el vibrador. A pedido de Mark, le quita la falda y el pañal, inserta y sube el vibrador por niveles, y acaricia directamente los testículos y el pene de Tori a través de las ranuras de la jaula — acepta con la misma calma práctica de siempre, aclarando que no es parte de su trabajo pero que no le molesta hacerlo. Limpia y viste a Tori de nuevo al final de la visita, sin comentarios.
 
 ---
 

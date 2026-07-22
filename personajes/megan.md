@@ -10,7 +10,7 @@
 
 **Conocimiento:**
 
-- Sabe: que Mark tiene fetiche por yesos y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
+- Sabe: que Mark tiene fetiche por yesos, amputaciones y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
 - No sabe: que Patricia existe; que Emily es la pareja de Claire (la asistente de Mark); que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
 
 **Arco romántico con Emily — romance establecido (Día 25 noche):**

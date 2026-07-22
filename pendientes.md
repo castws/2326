@@ -60,3 +60,19 @@ Una mujer que quedó muda, aprendió a hablar por señas y luego perdió ambos b
 # Enana
 
 Una mujer de apenas un metro de altura. Caderas grandes. La enyesaré en un DHS y saldré con ella cargada con un pañal.
+
+# Tori
+
+En algún momento llevaré a Tori al centro comercial solo con el pañal puesto y con el vibrador. Activaré el vibrador cuando estemos en público. Tori sentirá una profunda verguenza, pero también empezará a ser más consciente de la excitación que eso le produce.
+
+# Amiga de Megan, Sasha
+
+Megan tiene una amiga desde la adolescencia, Sasha, administrativa en una oficina de gestión del área. ~24 años aparentes, piel canela clara, cabello rizado castaño oscuro, ojos color avellana, cintura delgada, cadera ancha, senos entre medianos y grandes. Pene funcional, resaltado en la ropa como es la norma social. Es autosuficiente por decisión propia — no delega tareas ni pide ayuda, ni en el trabajo ni en casa. Reservada, disciplinada, resta importancia a sus propios sentimientos ("no es nada, es una tontería") salvo cuando habla en privado del tema con Megan.
+
+Cuando Megan perdió el brazo, Sasha la visitó dos veces en el hospital. Megan notó que no paraba de mirar su muñón vendado durante las visitas. Durante los años siguientes, a veces Sasha le preguntaba sobre su amputación y le miraba el muñón, como tratando de disimular. Cuando Megan perdió la pierna, se repitió el mismo patrón, hasta que un día Megan le preguntó y Sasha le contó la verdad.
+
+Sasha siempre ha sentido que sus piernas y brazos no le pertenecen y querría ser amputada, pero nunca ha hablado de ello con alguien más. Le confiesa que a veces se venda ambas piernas y un brazo doblándolos lo más que pueda y se queda horas simulando que está amputada (se vendaría el otro brazo, pero sola no es capaz). A veces trata de hacer los deberes de la casa con los brazos doblados hacia adentro y agarrando todo con los codos, como si no tuviera brazos.
+
+Después de la confesión, hablaron del tema más de una vez, pero ambas lo daban por algo sin salida: Sasha es autosuficiente por decisión propia, y a la Megan de entonces la idea le parecía una locura. Nunca lo mencionan como algo que pudiera pasar de verdad, solo como la rareza privada de Sasha.
+
+Con los yesos voluntarios y el despertar del propio deseo de amputación de Megan (y el ofrecimiento de Mark de ayudarla), la perspectiva de Megan cambió por completo — pero todavía no se lo ha contado a Sasha. Sasha sabe que Megan lleva yesos ahora mismo, pero los asume médicos, iguales a los de sus amputaciones anteriores; no sabe que son voluntarios ni sabe de Mark. La amputación electiva sin causa médica no es algo fácil de conseguir — lo que podría hacerla posible para Sasha es específicamente la posición e influencia de Mark en el área, no un procedimiento accesible en general. Su propio deseo sigue viviéndolo como una fantasía privada e irrealizable — aunque, tras la confesión a Megan, ya no con vergüenza pura sino con una curiosidad tranquila por ir un poco más allá de las vendas.

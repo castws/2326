@@ -2,102 +2,7 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–90 (Días 1–18) archivadas en `scene_log_archive.md`.
-
----
-
-## Día 19 — Mañana
-
-### Escena 91: Día 19 mañana — regreso de Olivia
-
-Rutina matutina breve. Media hora antes de la llegada de Olivia, Mark y Emma tienen un intercambio tranquilo. Mark se viste. Último beso discreto antes de que llegue Olivia. Olivia llega puntual: hace el traspaso visual del estado de Emma, le dirige a Mark una sonrisa discreta sin comentario. Mark sale.
-
----
-
-**La conversación termina aquí: Mark sale de casa de Emma al final del Día 19. Olivia ha retomado el cuidado.**
-**Próximo paso pendiente: Mark regresa a la mansión o visita a otra persona; visita pendiente a Patricia (capítulo 2 de Claustrofobia prometido); seguimiento de Megan y Tori; presentación conjunta de las dos mujeres del parque de la ribera.**
-
----
-
-## Día 19 — Mañana (continuación)
-
-### Escena 92: Vehículo y cafetería — configuraciones de Claire, mensajes (Día 19, mañana)
-
-Mark, en el vehículo de regreso desde casa de Emma, escribe a Claire con cuatro instrucciones de configuración: (1) activar arco romántico gradual entre Emily y Megan, con base en que Emily descubrió que cuidar a alguien dependiente la excita y que los yesos y amputaciones son parte de esa atracción (la masturbación del aseo fue el primer acto de esa atracción); (2) activar arco romántico gradual entre Hannah y Patricia, a partir de la tensión surgida tras la primera masturbación; (3) en ambos casos, la relación no excluye encuentros íntimos con Mark; (4) simular que Rachel cae de una escalera y se fractura ambos húmeros — doble shoulder spica — y que Dana llamará a Mark al hospital para ir a recogerla. Claire confirma todos los cambios y ejecuta.
-
-Mark llega a una cafetería de ladrillo oscuro en la calle principal del centro. Revisa mensajes: Megan reporta que Emily le preparó dos platos para elegir en el desayuno (comportamiento distinto al habitual) y pregunta a qué hora va Mark; Hannah/Patricia informan de la sesión de rehabilitación con prótesis a las 10h; Diane reporta que Tori usó el vibrador 25 minutos la noche anterior y de nuevo esa mañana.
-
-Mark responde a los tres: a Megan dice que puede ir en una hora y le pregunta si querría quedarse con los yesos más tiempo del acordado; a Patricia le pide que le escriba directamente (como ejercicio de rehabilitación) y que tiene una pregunta privada; a Diane le manda saludos para Tori (Diane los transmite; Tori responde con dos parpadeos largos).
-
-Patricia escribe directamente con el gancho por primera vez (errores tipográficos visibles). Mark le pregunta si se ha masturbado sola desde la vez en su casa. Patricia responde que sola no, pero con ayuda de Hannah sí, dos veces más desde la primera. Describe el proceso: Hannah le pone la mano donde necesita y espera a que Patricia marque el ritmo, sin comentarios; la primera vez Patricia se apoyó en su hombro al terminar. Cada sesión posterior ha durado más que la anterior. Mark dice que le excita imaginarlo y pregunta cómo se lo toma Hannah y cómo lo hace. Patricia responde con honestidad: Hannah simplemente lo hace, no para, tardó más de lo necesario esta mañana. Mark pregunta cómo se siente Patricia al respecto. Patricia responde que no se siente incómoda, que Hannah huele bien (lo dice como algo raro pero verdadero), que no sabe qué significa. Mark cierra diciendo que es curioso, que se verán pronto y que quiere que le muestre lo que puede hacer con sus nuevas manos. Patricia responde que son "un gancho y medio" y que tiene que ir a la sesión.
-
-Megan confirma que sí quiere quedarse con los yesos más tiempo. Añade que Emily le preguntó ayer si el yeso pesaba al final del día y que la pregunta le pareció distinta a las de antes.
-
----
-
-**La conversación termina aquí: Mark en la cafetería del centro, Día 19, mañana. Va a visitar a Megan en aproximadamente una hora (Emily sale al mercado a las 11:30).**
-**Próximo paso pendiente: visita a Megan en el apartamento. Rachel tendrá el accidente en algún momento del Día 19; Dana llamará a Mark. Visita pendiente a Patricia con capítulo 2 de Claustrofobia.**
-
----
-
-## Día 19 — Mediodía y tarde
-
-### Escena 93: Llegada al apartamento de Megan — intimidad (Día 19, mediodía)
-
-Mark sube al tercer piso. Emily sale justo en ese momento con bolsa de compras (vestido color mantequilla, manga corta), le informa que tardará unos 40 minutos y se va al mercado. Mark entra. Megan está en el sillón con la pierna enyesada sobre cojín, brazo derecho enyesado, camiseta de tirantes y pantalón cortado, muñón muy corto al aire. Prótesis puesta. Mark la desviste mientras conversan. Megan reporta que Emily la masturbó esa mañana, más despacio que otras veces, y que se quedó en silencio mirándola después sin apartarse. Mark la penetra y masturba su pene simultáneamente. Conversan durante el acto: Megan admite que quiere quedarse con los yesos más tiempo probablemente porque necesita que Emily siga allí, y reconoce que no sabe cómo decírselo. Señala la asimetría: Mark viene en visitas breves, Emily está cuando Megan se despierta y cuando duerme.
-
-### Escena 94: Conversación sobre amputaciones voluntarias (Día 19, mediodía)
-
-Durante la intimidad, Mark menciona espontáneamente que si Megan perdiera el otro brazo tendría una excusa permanente para que Emily se quedara. Megan no lo descarta: responde "No lo descartes tan rápido." Clímax simultáneo. Post-coital: Megan admite que querría no tener brazos incluso sin Emily como razón; que el muñón izquierdo nunca le faltó; que la dependencia con los yesos ya no le incomoda. Reflexiona también sobre la pierna izquierda enyesada ("también produce algo"). Cuando Mark pregunta qué pensaría de alguien sin brazos y sin piernas, responde: "No me produce rechazo. Eso ya me dice algo." Mark señala los obstáculos: la mentira necesaria, la pérdida del trabajo de enfermería, quedarse sin red si Emily se va. Mark ofrece comprar el hospital para que trabaje en un rol administrativo; Megan lo recibe sin rechazarlo, reconociendo la honestidad de Mark ("te beneficia el hospital y te beneficia que me quede sin brazos"). Megan decide quedarse con los yesos una semana más (~Día 29). Mark la viste; Megan pide yesos más largos la próxima vez (pierna hasta la cadera, brazo hasta el hombro), con Emily presente si ella acepta la verdad. Emily regresa. Almuerzo tranquilo de los tres: Emily cocina, le aparta el pelo a Megan sin propósito funcional. Mark se queda dos horas y se despide.
-
-### Escena 95: Mensaje de Dana — Rachel en urgencias (Día 19, tarde)
-
-Al salir del edificio de Megan, Mark recibe mensaje de Dana: Rachel cayó de una escalera cambiando una bombilla en el pasillo, fractura de ambos húmeros, en urgencias esperando subir a planta. Dana confirma poder con la casa y con Sophie sola; añade que Rachel preguntó por Mark antes de que la llevaran. Mark toma un vehículo autónomo al hospital central. Llega a urgencias. La escena queda abierta: una enfermera en el mostrador le pregunta a quién busca.
-
-### Escena 96: Visita a Rachel — habitación 214 (Día 19, tarde)
-
-En el mostrador de urgencias, una enfermera de unos 23 años con pelo negro en trenza baja y yeso corto en la muñeca izquierda busca a Rachel en el sistema. La encuentra bajo el apellido **Holt**. Rachel Holt está en la habitación 214, segunda planta. Mark sube.
-
-Rachel está semiincorporada en la cama hospitalaria, espalda contra la cabecera elevada. El yeso es masivo: cubre el torso completo desde las caderas y se extiende por ambos brazos hasta los codos, en abducción a los lados. Bata de hospital abierta por la espalda, cabello rubio suelto sobre el yeso (no puede apartárselo). Primer comentario de Rachel: "igual que alguien con los dos brazos pegados al cuerpo." Confirma que Dana llamó. Pide agua; Mark le da vaso con pajita. Pregunta por Sophie.
-
-Mark sale al corredor y pide a una enfermera de pelo cobrizo con prótesis de gancho en el brazo derecho que llame a la doctora. Vuelve a la habitación. Rachel menciona que no puede dormir de lado y que Dana no sabe aún cómo funciona todo con Sophie.
-
-Llega la doctora Mills (~27 años aparentes, pelo castaño oscuro a la mandíbula, gafas de montura fina, bata blanca sobre blusa verde, yeso corto en la pierna derecha visible bajo el pantalón del uniforme, camina con leve asimetría). Diagnóstico: doble fractura de húmero, yeso 6-8 semanas, inmovilización total de ambos brazos, necesita ayuda para todo. Mark dice que tiene alguien en casa. Cuando Mark ofrece bañarla él mismo, Rachel dice "No" sin más. La doctora Mills confirma el alta posible al día siguiente si el dolor se mantiene estable y se retira. Mark se despide de Rachel y sale del hospital.
-
-### Escena 97: Claire — compra del Creston Medical Center y creación de Mira (Día 19, tarde)
-
-Mark va directamente a casa de Claire. Le informa que Rachel está estable y enyesada por buen tiempo. Le da dos instrucciones:
-
-1. **Compra del Creston Medical Center:** simular que Mark adquirió el hospital central de la ciudad (Creston Medical Center) a partir de hoy, Día 19. El personal recibe la notificación de cambio de titularidad internamente. Mark le contará a Megan por su cuenta.
-
-2. **Nueva personaje — Mira:** mujer de 25 años con epidermólisis bullosa para la app de citas. Cuerpo completamente vendado (ojos azules y boca visibles), sin cabello ni orejas, senos grandes. Brazo derecho amputado al codo (cáncer). Todos los dedos de la mano izquierda y los pies amputados. Pene amputado a la mitad de la longitud; pene y testículos también vendados. Pies en posición fija ~90° ligeramente hacia adentro, rodillas con movilidad limitada, codo y muñeca izquierdos fijos ~90°. Sin zapatos ni ropa interior. Silla de ruedas eléctrica (joystick con muñón derecho). Habla con dicción cuidadosa por microstomia; vendas no cubren la boca. Caricias suaves puede recibirlas; penetración y sexo oral directo no. Se masturba con vibrador sobre las vendas (intensidad mínima, poco frecuente); June la ayuda y en algunas ocasiones se han masturbado juntas. Usa sonda en primera cita. Personalidad alegre, directa, romántica; le gusta dibujar; sale sola en silla de ruedas para sentirse independiente. Sabe que su caso es el más extremo documentado en la literatura médica. Vive con su hermana June (27 años, cuidadora de apoyo, sin atracción hacia Mark ni Mira; vida detenida en torno al cuidado).
-
-Tras varias correcciones de detalle (ojos azules, boca sin vendas, caricias suaves permitidas, sin pelo corto en el perfil de la app, rodillas con movilidad limitada, pies ligeramente hacia adentro), el personaje queda activo en la app. Claire sugiere: que Mira tenga una relación compleja con ser estudiada vs. recibir interés personal genuino; que June cargue algo no nombrado por años de cuidado. Mark aprueba ambas sugerencias y se incorporan a la ficha.
-
----
-
-**La conversación termina aquí: Mark en casa de Claire, final del Día 19. Mira activa en la app. Creston Medical Center figura como propiedad de Mark.**
-**Próximo paso pendiente: Rachel recibe el alta al Día 20 si el dolor es estable (Dana la bañará). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan reflexionando sobre amputación voluntaria (~Día 29 para quitarse los yesos). Primera aparición posible de Mira en la app.**
-
----
-
-## Día 19 — Noche
-
-### Escena 98: Regreso a la mansión — app de citas y Mira (Día 19, noche)
-
-Mark regresa a la mansión desde casa de Claire. Dana ha traído a Sophie al salón en la silla reclinable. Mark se sienta en el sofá junto a ella y abre la app de citas. Encuentra tres perfiles nuevos; el primero es Mira (25 años, ojos azules, silla de ruedas, descripción en primera persona sobre ciudades imaginarias y conversaciones que importan). Sophie lo observa sin comentario. Mark escribe a Mira proponiéndole quedar en una hora en el café del centro. Mira pregunta si es urgencia o ganas; Mark responde con honestidad. Mira acepta.
-
-### Escena 99: Primera cita con Mira — café del centro (Día 19, noche)
-
-Mark llega al café. Mira ya está en la mesa del rincón, junto a la rampa. Vestido corto de tirantes color crema. Cuerpo completamente vendado — solo ojos azules y boca libres. Brazo derecho amputado al codo (muñón sobre el joystick). Mano izquierda sin dedos, apoyada sobre la mesa. Pies en ángulo fijo hacia adentro, sin zapatos, sin dedos. Silla de ruedas eléctrica compacta.
-
-Conversación larga y fluida: Mark menciona los dibujos de ciudades (Mira lo recibe con sorpresa positiva, esperaba otra respuesta). Mira explica la epidermólisis bullosa y las amputaciones con naturalidad. Mark revela que tiene tres mucamas (una con cuerpo entero enyesado, otra con brazos y piernas amputadas, otra recién accidentada). Mira encuentra la situación notable. Mark es honesto sobre su situación sentimental (múltiples personas, sin exclusividad). Mira lo recibe sin rechazo pero lo anota. Piden algo de comer; Mark la ayuda con la tarta. Confesión recíproca: Mark le dice que le gusta que alguien le bañe; Mira admite que piensa en cómo sería que alguien que no fuera June la bañara íntimamente. Química clara. Mark la invita a su casa; Mira acepta tras avisarle a June.
-
-### Escena 100: Mira en la mansión — primera intimidad (Día 19, noche)
-
-Vehículo autónomo a la mansión. Mira ve la fachada sin comentario. Dana abre la puerta. Sophie las saluda desde el salón; Mira y Sophie intercambian unas frases directas sobre los yesos. Mark lleva a Mira a la sala y la transfiere del silla al sofá (espalda y bajo los muslos). Retira la bolsa de la sonda antes de moverla. Con Mira en el sofá, Mark le quita el catéter foley: desinfla el balón con la jeringa del morral, extrae el tubo despacio con una toalla bajo el pene.
-
-Mark la lleva en brazos a la habitación principal. La deposita en la cama. Se desnudan. Intimidad progresiva: Mark acaricia los senos vendados (Mira los siente a través de las capas), besa a Mira (primera vez que alguien la besa excepto June en la frente), lame la punta del pene de Mira con la palma izquierda sobre los testículos de Mark. Mark usa el vibrador del morral de Mira sobre la punta del pene (intensidad mínima, movimientos circulares). Mira llega al primer orgasmo de su vida — eyaculación por la apertura uretral (libre tras retirar la sonda) sobre las vendas del vientre. Mark se viene sobre las sábanas. Limpieza con toalla. Mira no tiene vendas de repuesto; June las cambiará mañana. Reposición de Mira de lado (derecho) con almohada entre las rodillas. Duermen juntos.
+> Escenas 1–100 (Días 1–19) archivadas en `scene_log_archive.md`.
 
 ---
 
@@ -457,5 +362,33 @@ Mark llama a Claire y detalla el plan para la visita de Tori del Día 27: con el
 
 ---
 
-**La conversación termina aquí: Día 26, noche. Mark solo en su habitación del Creston, luces apagadas, tras la llamada con Claire.**
-**Próximo paso pendiente: visita de Tori al Creston Día 27 por la mañana (configuración de Claire ya lista: vibrador sorpresa, exposición ante las enfermeras durante el cambio de vendaje de Mark). Ese mismo día comienzan las evaluaciones de erección/arousal de Mark. Resultado de la decisión de Patricia (besar a Hannah esa noche) sin narrar todavía. Mira, Jude y Rachel/Sophie sin visita coordinada al hospital. La "sorpresa" secreta de Claire entre Vera y una de las chicas de la casa (ver `personajes/vera.md`) sigue pendiente de ocurrir.**
+## Día 27 — Post-operatorio, día 4
+
+### Escena 157: Despertar y mensajes (Día 27, mañana)
+
+Grace entra con el desayuno (puré sólido) y pregunta cómo amaneció Mark; sin dolor ni molestias durante la noche. Mark le pide que le lea los mensajes: Dana (todo tranquilo en casa, Vera acomodándose), Diane (confirma que lleva a Tori después del desayuno, con el vibrador) y Patricia, que relata por escrito que besó a Hannah la noche anterior al llegar a casa — Hannah se lo devolvió, más largo; ninguna de las dos ha hablado todavía de lo que son ahora, pero Patricia no se arrepiente. Mark le dicta a Grace una respuesta animando a Patricia a hablar abiertamente con Hannah de sus sentimientos, ya que es evidente que ambas sienten lo mismo. Patricia responde que lo intentará hoy. Grace da el desayuno a Mark con cuchara.
+
+### Escena 158: Llegada de Tori — exposición de la jaula (Día 27, mañana)
+
+Diane trae a Tori en silla de ruedas (shoulder spica + minerva, mandíbula con alambre, pañal, jaula de castidad). El auricular de Mark se activa al acercarse; el pensamiento de Tori revela sorpresa y algo de alivio al verlo. Mark le dice que en su estado no podrá complacerla como de costumbre y le pide a Diane que se quede a ayudar. Le comenta a Tori que también pidió que le agrandaran el pene en la cirugía; ella reacciona con vergüenza (Diane presente) y una mezcla de curiosidad marcada por el auricular. A pedido de Mark, Diane retira la falda y después el pañal de Tori, dejando la jaula al descubierto: el pene queda envuelto por el metal con varias ranuras que dejan la piel accesible en distintos puntos, mientras los testículos quedan completamente libres, sujetos solo por un aro de anclaje detrás de ellos.
+
+**Nota de continuidad establecida en esta escena:** no existe ningún protocolo real de comunicación con Tori, ni siquiera parpadeos — cuando Mark parece "entenderla", en realidad está guiándose por lo que escucha en secreto vía auricular, sin que ella lo sepa (corrección aplicada también a `personajes/tori.md` y `state.md`).
+
+### Escena 159: Vibrador y caricias — escalada de niveles (Día 27, mañana)
+
+Diane inserta el vibrador anal y lo enciende en el nivel más bajo a pedido de Mark. A petición suya (aclarando que no es parte de su trabajo, pero que no le molesta), Diane acaricia los testículos libres de Tori y, a través de las ranuras de la jaula, distintos puntos del pene, mientras sube el vibrador a nivel dos y luego tres. Tori reacciona con una mezcla de vergüenza intensa (ninguna comunicación real posible, solo sonidos ininteligibles con la boca cerrada) y una excitación que la confunde.
+
+Grace y dos enfermeras llegan para la cura diaria de Mark mientras el vibrador sigue en un nivel bajo. Mark le pide a Claire que retroceda ese momento: para Tori y Diane, esa primera entrada no llega a ocurrir; Grace y el equipo entrarán "por primera vez" cuando el vibrador esté en nivel cuatro. Claire confirma y ejecuta; el grupo se retira sin dejar rastro en la memoria de Tori ni de Diane.
+
+### Escena 160: Entrada de las enfermeras — clímax y vergüenza de Tori (Día 27, mañana)
+
+Diane sube el vibrador a nivel cuatro a pedido de Mark. Grace y el equipo entran de nuevo para la cura diaria, esta vez de forma real para Tori y Diane. Notan la escena (nada inusual por el pene, normal en la población) y comentan solo sobre el mal momento. La sorpresa de ser vista así por desconocidas hace que Tori llegue al clímax en ese instante; el semen escapa por una de las ranuras de la jaula. Vergüenza intensa para ella, mezclada con una excitación confusa por sentirse expuesta — primera semilla del fetiche de humillación/exposición planeado la noche anterior. Diane limpia y coloca un pañal nuevo con su eficiencia habitual.
+
+### Escena 161: Cura diaria de Mark y primera evaluación de erección (Día 27, mañana)
+
+Con Tori todavía presente, Grace y el equipo hacen la rutina diaria de vendaje por zonas (cuello, brazos, senos, cintura/cadera, piernas) y, por primera vez desde hoy, una evaluación de erección: Grace recorre el pene con los dedos y anota la respuesta en el terminal. Todo normal. Diane viste a Tori de nuevo. Mark decide que ha sido suficiente por hoy; Diane se la lleva a descansar. Mientras se alejan por el pasillo, el auricular sigue transmitiendo los pensamientos de Tori — vergüenza, confusión, y el deseo contradictorio de que vuelva a pasar — hasta que la distancia corta la señal.
+
+---
+
+**La conversación termina aquí: Día 27, media mañana. Tori y Diane ya se fueron; Mark solo de nuevo en su habitación del Creston.**
+**Próximo paso pendiente:** Día 28 Mills anunció el inicio de algo de movilidad para Mark. Resultado de la conversación de Patricia con Hannah (decidió intentarlo "hoy") sin narrar todavía. Mira, Jude y Rachel/Sophie sin visita coordinada al hospital. La "sorpresa" secreta de Claire entre Vera y una de las chicas de la casa (ver `personajes/vera.md`) sigue pendiente de ocurrir. Alta de Mark estimada ~Día 30.

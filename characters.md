@@ -38,7 +38,7 @@ ficha no se toca nunca.
 - **[Jude](personajes/jude.md)** — robot ciudad. Cabello negro, piel blanca, tatuajes. 24 años. Derrame a los 21; inmovilización total, solo ojos. Traqueotomía, respirador, sonda gástrica. Apartamento con Cora (hermana/cuidadora). Mark la conoció el Día 21. Configuración activa: tuvo sexo con Mark, le gustó y quiere repetir.
 - **[Tori](personajes/tori.md)** — robot ciudad. Morena, gafas muy gruesas (miopía severa); múltiples amputaciones/aparatos, jaula de castidad, habla con sustitución fonética. Shoulder spica + minerva, mandíbula con alambre, pañal hasta ~Día 77. Apartamento 204; Diane la cuida; pensamientos audibles para Mark por auricular.
 - **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. Comunicación por parpadeos. No sabe que el accidente de Tori fue simulado.
-- **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho en uso. "Novia" de Mark. Casa de Hannah; visita al Creston Día 26. Confundida: Hannah la besó Día 25 noche (sin hablarlo aún) y a la vez sigue sintiendo algo real por Mark.
+- **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho en uso. "Novia" de Mark. Casa de Hannah. Se besaron mutuamente con Hannah la noche del Día 26; ninguna lo ha hablado aún. Decidió hablar abiertamente con Hannah de sus sentimientos el Día 27.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
 
