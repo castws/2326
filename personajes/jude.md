@@ -22,6 +22,7 @@ Cabello negro liso. Piel blanca. Tatuajes en brazos, clavícula y costado izquie
 
 - **Sí / No:** ojos arriba = sí; ojos abajo o parpadeo doble = no.
 - **Mensajes complejos:** Cora usa una tabla con letras impresas; Jude dirige la mirada a cada letra. Lento pero funcional.
+- **Uso reservado de la tabla:** deletrear agota y toma tiempo. Jude solo recurre a la tabla cuando tiene algo que considera importante de decir y dice lo mínimo posible. Para todo lo demás (saludos, preguntas simples, conversación cotidiana) responde solo con los ojos (sí/no) o se queda callada.
 - **No tienen acceso a dispositivo de seguimiento ocular por computador** — sin dinero para eso.
 
 ---
@@ -77,6 +78,8 @@ El auricular de Mark se activa también a menos de tres metros de Jude. Transmit
 - Amiga de Megan.
 - Cuida a Jude desde el incidente. Lleva tres años haciéndolo sola, sin pareja, sin red amplia de apoyo. No se queja. Tampoco habla mucho de cómo está ella.
 - **Protectora con los momentos de intimidad/cuidado de Jude:** no deja pasar a un visitante sin más durante el baño u otras rutinas expuestas; hay que insistir o darle una razón (poco tiempo, urgencia) para que ceda. No es fría ni hostil, pero no lo hace con naturalidad inmediata — hay una duda visible antes de acceder.
+- **Masturbación de Jude:** la masturba manualmente (clítoris) cuando Jude lo pide (ojos u "ESO" en la tabla); se negó al principio, luego aceptó. Lo hace de forma práctica, sin comentarlo después. Reveló a Mark (Día 27) que le pesa no tener con quién hablar de esto — no tiene pareja ni vida social propia; la gente con la que habla es de Jude, no suya.
+- **Sin dispositivo de seguimiento ocular:** existen aparatos que permitirían a Jude comunicarse sin depender de que alguien sostenga la tabla, pero Cora no tiene el dinero para uno (revelado Día 27).
 
 ---
 
@@ -96,11 +99,13 @@ Jude no tiene voz. Sus pensamientos (accesibles por auricular) son directos, con
 - "PERO FRÍO." _(sobre el clima — Día 21)_
 - "ME GUSTABA QUE ME ATARAN." _(sobre fetiches — Día 21)_
 - "IRÓNICO." _(cuando Mark dijo que le gusta la inmovilización — Día 21)_
-- "HACÍA TIEMPO." _(al confirmar que la tarde fue agradable — Día 21)_
 - "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad, Día 22)_
 - "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad, Día 22)_
-- "ALGUIEN QUE NO APARTA LA VISTA." _(respuesta a "¿qué soy?" — Día 22)_
 - Ojos arriba sostenidos, más tiempo que cualquier otro "sí" anterior _(aceptando el puesto de diseñadora del club — Día 23)_
+- "NI SIQUIERA PUEDO TOCARME SOLA." _(sobre la frustración de depender de Cora para todo — Día 27)_
+- "SE NOTA BIEN ASÍ TAPADO. QUIERO VERLO DE VERDAD." _(sobre el pene vendado de Mark — Día 27)_
+- "AHORA LOS DOS ESTAMOS ATADOS. TÚ TE LIBERAS PRONTO." _(sobre la inmovilidad compartida con Mark — Día 27)_
+- "MEJOR QUE MILLS." _(cuando Mark promete "revisarla" al salir del hospital — Día 27)_
 
 ## Momentos con Mark
 
@@ -108,3 +113,4 @@ Jude no tiene voz. Sus pensamientos (accesibles por auricular) son directos, con
 - **Centro comercial y almuerzo (Día 22, escenas 124–125):** Encuentro casual. Café y almuerzo juntos. Mark menciona el club BDSM mirándola directamente y le pregunta si le gustaba; le dice que podrá ir cuando quiera. Jude deletrea ideas de diseño con la tabla. Mark da su número a Cora.
 - **Primera intimidad (Día 22, escena 127):** Mark va al apartamento a las 21h. Jude viste body de encaje negro de su pasado BDSM. Cora se retira. Mark limpia la saliva con la mano; la besa manipulando la mandíbula; caricias, masturbación, penetración. Jude indica el orgasmo con los ojos muy abiertos. Mark se viene dentro. Post-coital: conversación por tabla y luego por ojos sobre gustos BDSM (azotes sí mucho, humillación sí con matiz, sexo grupal sí, desconocidos sí). Mark promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior. Jude llora. Mark introduce el pulgar en su boca. Se despide con beso manipulando la mandíbula. Le dice que puede escribirle cuando quiera (Cora mediará). Cora le agradece que le hubiera preguntado a Jude directamente.
 - **Visita durante el baño — oferta del club (Día 23, tarde, escena 139):** Mark llega sin avisar mientras Cora la baña desnuda; Cora duda y solo accede ante la insistencia de Mark. Mark apaga el auricular. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa. Caricias en labios externos y clítoris con fantasía verbal sobre ser "usada" por clientes del futuro club. Mark le ofrece el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla); acepta con la reacción más intensa de la visita (ojos arriba sostenidos). Penetración con dedos hasta el orgasmo. Beso de despedida manipulando la mandíbula. Cora ofrece llevarla al hospital a visitar a Mark desde el segundo o tercer día.
+- **Visita al Creston (Día 27, tarde, escenas 164-167):** Cora la lleva al hospital a las 17h. Se establece que Jude reserva la tabla solo para lo importante (deletrear agota). Conversación sobre la dependencia de Cora para toda comunicación compleja; Jude deletrea "NI SIQUIERA PUEDO TOCARME SOLA" al escuchar a Cora admitir que la masturba desde hace tiempo. Presencia durante la evaluación de eyaculación de la Dra. Mills — la vista que había pedido ("quiero verlo de verdad"), observa todo el proceso fijamente. Mark le promete visitarla cuando salga del hospital; propone que Vera la ayude a cuidarla y la acompañe a las reuniones del club, dando tiempo libre a Cora. Acuerdan que Cora y Jude visitarán la mansión tras el alta de Mark para conocer a Vera — sería la primera vez que Jude sale de la ciudad. Despedida: Cora acerca la mejilla de Jude a la de Mark para el beso, ya que él no puede moverse.

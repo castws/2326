@@ -2,93 +2,7 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–100 (Días 1–19) archivadas en `scene_log_archive.md`.
-
----
-
-## Día 20 — Mañana
-
-### Escena 101: Despertar con Mira — desayuno en la terraza (Día 20, mañana)
-
-Mark y Mira se despiertan en la habitación principal. Mira necesita volver antes de las nueve para que June le cambie las vendas. Mark propone desayunar primero. Dana prepara el desayuno mientras Mark reposiciona a Mira (sentada en el borde de la cama), la ayuda a orinar con botella de plástico del morral (toalla alrededor del pene, botella en la abertura uretral), y la lleva en brazos a la silla de ruedas. Desayunan en la terraza junto a la piscina: Mira sin vestido, completamente vendada. Mark le unta las tostadas. Conversación larga: Mira cuenta cómo fue la primera vez que le pidió a June que la masturbara (tenía veintidós años, lo dijo directamente, June respondió como si fuera una cosa más de la lista). Anécdota del vibrador durante la visita inesperada de la amiga de June (cuarenta minutos encendido, daño en las vendas). Revela que June se masturbó con ella en tres ocasiones: la primera sin planear mientras June miraba hacia la ventana; la segunda con June mirándola directamente; la tercera con June completamente desnuda acostada en el borde de la cama a treinta centímetros. No se tocaron en ninguna de las tres. No lo han hablado nunca. Hace ocho meses de la tercera vez.
-
-### Escena 102: Segunda masturbación — tumbonas de la piscina (Día 20, mañana)
-
-Mark propone masturbarse juntos en las tumbonas de la piscina antes de llevar a Mira a casa. Mira acepta y avisa a June que llegará en una hora. Mark la traslada a una tumbona. Coloca el vibrador en la banda elástica de la mano izquierda de Mira y lo posiciona en la punta del pene. Mark se sienta en la tumbona de al lado, desnudo, y se masturba. Conversan mientras lo hacen: Mark le pregunta por qué no han contratado a alguien que ayude a June; Mira explica que lo intentaron una vez y la persona era demasiado invasiva, Mira pidió que la despidieran. Clímax simultáneo. Eyaculación de Mira sobre las vendas del vientre. Limpieza.
-
-### Escena 103: Dana baña a Mark — Mira observa (Día 20, mañana)
-
-Mark invita a Mira a observar su baño diario. Van al baño principal. Dana entra a la ducha con Mark (uniforma quitado, ganchos y prótesis puestos). Mira en la silla junto a la puerta abierta. Dana baña a Mark metódicamente; cuando llega a la zona genital, Mark tiene erección — Dana la registra sin detenerse, rodea el pene con la esponja con el gancho y baja y sube despacio. Mira observa en silencio. Mark le pregunta qué opina; Mira responde "que entiendo por qué lo pides" y "que nunca había visto nada igual".
-
-### Escena 104: Vuelta a casa de Mira — primera vez que Mark conoce a June (Día 20, mañana)
-
-Mark viste a Mira con el vestido de tirantes. Vehículo autónomo a casa de Mira (tres calles del café, edificio de dos plantas de ladrillo claro). June abre la puerta: 27 años, castaña oscura lisa hasta los hombros, ojos marrones, complexión media, ropa sencilla. Evalúa a Mark con una mirada rápida de inventario hacia las vendas de Mira. Mark acepta el café. En el apartamento: sala ordenada, mesa de dibujo junto a la ventana con cuaderno de bocetos abierto (ciudad vista desde arriba, sin escalones). Mira muestra más dibujos y Mark da opiniones. Café de los tres en la sala: June pregunta sobre Mark con preguntas breves y directas, lo escucha más de lo que habla. Al final June pregunta si Mark volverá; Mark confirma. Algo en la expresión de June se asienta. Mark se despide con beso a Mira y sale. Desde dentro, antes de que se cierre la puerta, se escucha a Mira decirle a June "ya sé que tienes preguntas" y la respuesta de June "muchas".
-
----
-
-**La conversación termina aquí: Día 20, mañana. Mark sale del apartamento de Mira y se dirige al hospital a recoger a Rachel.**
-**Próximo paso pendiente: Rachel recibe el alta el Día 20 (Dana la bañará en casa). Visita pendiente a Patricia con capítulo 2 de Claustrofobia. Megan: próximos yesos más largos y conversación sobre Emily. Mira: segunda cita pendiente.**
-
----
-
-## Día 20 — Mañana y tarde (continuación)
-
-### Escena 105: Mensajes en tránsito al hospital (Día 20, mañana)
-
-Mark en el vehículo hacia el hospital central. Tres notificaciones: Dana (Sophie prefiere quedarse en su habitación, tiene todo controlado para cuando llegue Rachel); hospital de planta 2 (Rachel Holt estable, doctora Mills pasa a las 9:30, alta tramitable después); Mira (June tiene las vendas listas, dice que Mark "huele a café" — buena señal).
-
-Mark escribe a Mira preguntando si June dijo algo sobre las manchas en las vendas. Mira responde: June notó una mancha diferente, preguntó si había pasado algo, Mira dijo que sí pero que no quería hablar todavía. June procesó en silencio y siguió cambiando las vendas. "Avísame cuando tengas tiempo. No tengo prisa, pero tampoco quiero esperar demasiado." Mark le dice que debería contarle a June. Mira: "Lo sé. Necesito un poco más de tiempo para saber qué quiero que sea real. Pero sí. Se lo voy a contar."
-
-Mark escribe a Megan (¿alguna novedad?) y a Olivia (¿cómo ha estado Emma?). Megan reporta que Emily se quedó parada junto a la cama sin decir nada y luego fue a la cocina; el brazo pesa más hoy. Olivia reporta que Emma durmió de un tirón (inusual antes del fin de semana) y pidió el café antes de que Olivia lo propusiera. Mark escribe a Megan: "Voy a recoger a Rachel." Megan: "Okay. Cuéntame cómo va cuando puedas."
-
-Mark escribe a Megan: "Por cierto, adivina qué hice. Compré el hospital." Megan: desconcertada (¿el Creston?), lo procesa lentamente, confirma que lo que se habló el día anterior era en serio. Mark confirma: llamó al abogado, el trámite está hecho, a partir de hoy es suyo. Megan: "Eres muy listo. Y muy raro. Estoy pensando en ello. No te digo nada más por ahora."
-
-### Escena 106: Alta de Rachel — hospital (Día 20, mañana)
-
-Mark llega al hospital. La recepcionista en planta 2 le busca a Rachel Holt. Entra a la habitación 214: Rachel semiincorporada, yeso masivo, brazos en abducción. Doctora Mills ya firmó los papeles. Una enfermera de unos treinta años con pelo recogido repasa las instrucciones: yeso sin mojar, toallitas para el baño, piel bajo el borde vigilada, dormir semi-incorporada los primeros días, analgesia oral cada ocho horas con comida, revisión en tres semanas. Mark firma. Rachel baja de la cama con ayuda y sale en silla de ruedas.
-
-Mark había vestido a Rachel en el hospital antes de salir: le había traído panties y una falda. La parte superior no necesitaba cubrirse (torso cubierto por el yeso). Los panties requirieron técnica especial (pasar por las piernas de abajo hacia arriba evitando el borde del yeso). Rachel en silla, brazos flotando en abducción.
-
-### Escena 107: Regreso a la mansión — maniobra de Dana y baño (Día 20, mediodía)
-
-En tránsito, Mark escribe a Claire: hacer que Dana diga que tiene que salir urgente por un tema familiar, sin saber cuánto tarda. Claire confirma. Al llegar a la mansión, Dana abre la puerta, evalúa el yeso de Rachel, y casi de inmediato recibe una llamada: "Es mi hermana." Coge el bolso con el gancho y sale. Rachel: "Qué casualidad."
-
-Mark le dice que tendrá que bañarla él. Rachel rechaza ("No"), argumenta que puede esperar a Dana. Mark: "Rachel, hueles mal, no querrás estar cerca de Sophie así. Ya hemos estado desnudos juntos." Rachel: "Cuando me bañas tú, no sé dónde pones las manos." Mark instruye a Claire que Sophie se queje del olor al acercarse. En la habitación de Sophie, ella arruga la nariz y le pide a Mark que la bañe antes. Rachel no dice nada.
-
-En el baño: Mark quita la falda y los panties a Rachel, se desnuda él. Rachel: "Solo el cuerpo. No la cara, me la lavo yo sola después. Y no tardes más de lo necesario en ninguna parte." Durante el baño, al llegar a la zona genital Mark separa los labios y limpia el clítoris y labios internos. Rachel: "Eso es más de lo necesario." (no se aparta). Mark: "¿No quieres quedar bien limpia ahí para Sophie?" Rachel: "Continúa." Mark la seca y la viste. Rachel: "No digas nada más al respecto." Y va con Sophie.
-
-### Escena 108: Intimidad en la habitación de Sophie — tarde del Día 20
-
-Mark instruye a Claire (desde la biblioteca): hacer que Sophie le pida a Rachel sexo; Rachel vendrá a pedir ayuda para desvestirse y para que Mark introduzca el pene de Sophie en su vagina. Unos quince minutos después, Rachel aparece en la biblioteca: Sophie quiere que se quede con ella; necesita que Mark le quite la falda y los panties y que luego entre un momento.
-
-En la habitación de Sophie: Sophie en la cama, full body cast, pene erecto. Mark ayuda a Rachel a montarse sobre Sophie; guía el pene de Sophie, abre los labios de Rachel en el proceso. Mark se sienta en la silla, se masturba observando. Luego se sube al borde de la cama y toca los senos de Sophie mientras sigue masturbándose. Sophie pide que Mark bese a Rachel ("Bésala"). Mark pide permiso; Rachel cierra los últimos centímetros.
-
-Mark para de masturbarse, se concentra en el clítoris de Rachel mientras Sophie está siendo penetrada. Dice a Rachel cuánto la deseaba. La besa apasionadamente. Rachel llega al clímax (sonido largo y contenido). Sophie llega inmediatamente después. Mark acomoda a Rachel al lado de Sophie en la cama, se arrodilla entre las piernas de Rachel, la penetra, mientras con la otra mano masturba el pene flácido de Sophie. El pene de Sophie responde de nuevo. Rachel preguntada cómo se siente sin poder apartarle: "Bien. Se siente bien." Añade: "Porque no puedo pararte." y "No lo sabía hasta hoy" (al preguntarle si la excita la dependencia). Escena detallada: Rachel llega primera (sonido largo, caderas apretadas, brazos abiertos en el aire sin poder agarrarse), Mark llega dentro de ella, Sophie llega última. Limpieza con papel higiénico.
-
-Dana regresa. Almuerzo cocinado por Dana. Mark da de comer a Rachel, le limpia los labios con servilleta.
-
-### Escena 109: Biblioteca — primera apertura de Rachel (Día 20, tarde)
-
-Después del almuerzo, Rachel pide leer pero necesita que alguien le pase las páginas. Van a la biblioteca. Rachel elige continuar desde el capítulo siete de su novela (una mujer que reconstruye las relaciones de una ciudad devastada, no los edificios). Mark lee en voz alta durante una hora; cuando Rachel necesita orinar van al baño (Mark la desviste, la ayuda a sentarse, la limpia con papel higiénico separando los labios, la viste de nuevo). Vuelven a la biblioteca. Mark le sirve una copa de vino. Leen y comentan los capítulos 7, 8 y 9: Rachel hace observaciones cortas pero precisas sobre los personajes ("él reconstruye para él, no para la ciudad"; "a veces es más fácil rehacer que explicar"; nota el personaje recurrente del paraguas antes de que Mark lo mencione). Al terminar el capítulo nueve: "Es mejor libro de lo que parece al principio."
-
-Mark se acerca a besarla. Rachel no se aparta pero tampoco cierra los últimos centímetros: "Esta tarde ya fue mucho." Mark le susurra que todavía la desea. Entonces la besa; Rachel responde. "El capítulo nueve." — como si necesitara volver a algo conocido.
-
-Capítulo 10: más conversación y alguna risa. Al final: "No sabía que leías bien en voz alta." Mark propone ir a cenar. Dana ha cocinado. Mark da de comer a Rachel de nuevo. Después: un último capítulo y acostarse. Rachel acepta. Sin más vino. Capítulo 10 leído con conversación. Rachel: "Tenía un poco de razón [el libro]. Hoy estuvo bien."
-
-### Escena 110: Noche — primera intimidad directa Mark-Rachel (Día 20, noche)
-
-Mark propone ir a la cama. Ayuda a Rachel a levantarse del sillón de la biblioteca. Se coloca frente a ella con las manos en sus caderas. Le dice que hoy lo pasó muy bien y que siente que se abrió un poco a él. Rachel: "No saques conclusiones todavía. Pero sí. Hoy estuvo bien." Mark la abraza y la besa en el cuello. Rachel: "Vamos a la cama."
-
-Dormitorio. Mark desnuda a Rachel y luego se desnuda. La ayuda a tumbarse. Se acuesta a su lado. Pide permiso para acariciarla un poco; Rachel: "Un poco." Mark acaricia el muslo. Rachel, mirando al techo: "¿Por qué te gusto?" Mark: "Porque eres hermosa y un poco misteriosa." Rachel (genuina): "¿Misteriosa?" Mark explica que le intriga saber más de ella, que hoy pasó eso mientras le leía. Mientras habla, mueve la mano hacia la entrepierna. Rachel deja que suba.
-
-"Hoy fue distinto. No lo sabía hasta hoy." (sobre la dependencia que le produce el yeso). Mark la masturba con los dedos dentro de la vagina; Rachel: "Mark." (solo el nombre — primera vez que lo dice así). Mark se monta, la besa, la penetra. Rachel: "Entonces dámelo." Mark pregunta cómo se siente no poder apartarle. Rachel: "Bien." / "Porque no puedo pararte." / "No lo sabía hasta hoy." Escena: Rachel llega primera (sonido largo, caderas apretadas contra Mark, brazos inútiles del shoulder spica abiertos en el aire, manos abiertas y cerradas). Mark llega dentro de ella. Silencio.
-
-Luz apagada. Mark llama su nombre. Rachel responde "¿Qué?" sin el tono habitual. Mark dice que le ha encantado no solo el sexo sino haber hablado abiertamente. Rachel: "A mí también. Lo digo mientras compruebo si es verdad." / "Duerme." Mark le acaricia el cabello hasta que Rachel se duerme.
-
----
-
-**La conversación termina aquí: Día 20, noche. Mark y Rachel duermen juntos en la habitación principal tras la primera intimidad directa entre los dos.**
-**Próximo paso pendiente: Día 21 por determinar. Visita pendiente a Patricia (capítulo 2 de Claustrofobia). Megan sigue reflexionando sobre amputaciones voluntarias. Mira: segunda cita pendiente. Megan: próximos yesos más largos con Emily presente si acepta la verdad.**
+> Escenas 1–110 (Días 1–20) archivadas en `scene_log_archive.md`.
 
 ---
 
@@ -390,5 +304,73 @@ Con Tori todavía presente, Grace y el equipo hacen la rutina diaria de vendaje 
 
 ---
 
-**La conversación termina aquí: Día 27, media mañana. Tori y Diane ya se fueron; Mark solo de nuevo en su habitación del Creston.**
-**Próximo paso pendiente:** Día 28 Mills anunció el inicio de algo de movilidad para Mark. Resultado de la conversación de Patricia con Hannah (decidió intentarlo "hoy") sin narrar todavía. Mira, Jude y Rachel/Sophie sin visita coordinada al hospital. La "sorpresa" secreta de Claire entre Vera y una de las chicas de la casa (ver `personajes/vera.md`) sigue pendiente de ocurrir. Alta de Mark estimada ~Día 30.
+## Día 27 — Tarde (continuación)
+
+### Escena 162: Mensajes de la tarde (Día 27, tarde)
+
+Grace entra a hacer la ronda y le lee los mensajes a Mark: Dana (todo tranquilo, Vera acomodándose), Vera (Rachel y Sophie preguntan cuándo pueden visitar), Cora (confirma que lleva a Jude a las cinco) y Patricia (contó que habló con Hannah, quien le devolvió el abrazo con los dos brazos — corrección de continuidad: Hannah no tiene amputaciones). Mark responde a Cora confirmando la hora y a Dana pidiendo que mañana solo venga con Rachel, sin Sophie (yeso de cuerpo completo dificulta el traslado).
+
+### Escena 163: Ayuda para defecar (Día 27, tarde)
+
+Mark pide ayuda para defecar dado que está en inmovilidad total. Grace llama a una segunda enfermera; entre las dos lo giran con cuidado, colocan una cuña, lo asisten y limpian, revisando que el vendaje no se dañe.
+
+### Escena 164: Llegada de Cora y Jude — visita de las 17h (Día 27, tarde)
+
+Cora llega con Jude en la silla de ruedas con soporte de cabeza y respirador portátil. Auricular activo. Se establece una nueva regla de comunicación: deletrear en la tabla agota mucho a Jude, así que la reserva solo para lo que considera importante; para lo demás responde solo con los ojos (añadido a `personajes/jude.md`). Mark pregunta cómo le ha ido; Jude responde con los ojos, sin usar la tabla.
+
+### Escena 165: Conversación sobre la dependencia de Cora y la masturbación de Jude (Día 27, tarde)
+
+Mark pregunta si a Cora le incomoda facilitar las conversaciones íntimas de su hermana. Cora explica que no hay otra forma de comunicación compleja sin ella (la tabla requiere que alguien la sostenga y lea; existe tecnología de seguimiento ocular pero no tienen dinero para eso). Admite que le pesa no tener con quién hablar de estas cosas, al no tener pareja ni red de apoyo. Revela, a petición de Mark, que masturba a Jude desde hace tiempo (se lo pidió ella, Cora se negó al principio y luego aceptó); lo hace con la mano en el clítoris, sin comentarlo después. Jude, por primera vez, usa la tabla para decir "ni siquiera puedo tocarme sola".
+
+### Escena 166: Evaluación de eyaculación de la Dra. Mills frente a Jude y Cora (Día 27, tarde)
+
+La Dra. Mills llega para la evaluación de eyaculación pendiente. Mark decide continuarla con las visitas presentes; Cora se queda. Mills desviste el pene del vendaje y realiza la estimulación manual con técnica clínica (agarre, presión en la corona, marcaje de tiempos). Jude observa fijamente todo el proceso — la vista que había pedido antes ("quiero verlo de verdad"). Clímax a los 3:41, mejor tiempo que en la evaluación pre-quirúrgica. Mills rebanda y se retira, anunciando que volverá al día siguiente.
+
+### Escena 167: Promesa a Jude y propuesta sobre Vera (Día 27, tarde)
+
+Mark le promete a Jude que la visitará cuando salga del hospital para "revisarla" a ella también; Jude reacciona con humor negro vía tabla ("mejor que Mills"). Mark propone que Vera (la enfermera de la mansión) ayude a cuidar de Jude y la acompañe a las reuniones del club BDSM con la empresa constructora, dando tiempo libre a Cora. Cora hace preguntas prácticas (si Vera sabe leer los ojos de Jude, si esto reemplaza otras tareas de cuidado); Jude muestra interés inmediato. Acuerdan que, cuando Mark salga del hospital, invitará a Cora y Jude a la mansión a pasar la tarde y conocer a Vera antes de decidir — sería la primera vez que Jude sale de la ciudad. Despedida: como Mark no puede moverse, Cora acerca la mejilla de Jude a la de él para el beso de siempre.
+
+### Escena 168: Conversación con Claire — visitas pendientes y reprogramación (Día 27, noche)
+
+Mark le pregunta a Claire quiénes faltan por visitarlo y cuántos días quedan de internamiento (tres: alta estimada Día 30; movilidad empieza a probarse mañana). Reprograma las visitas: Mira pasa a Día 28 por la mañana (sin ropa, con sonda urinaria puesta — práctica ya habitual en ella cuando sale sola, no una novedad); Rachel y Dana pasan de la mañana a la tarde del Día 28 para no cruzarse con Mira. Sophie no viene por el yeso de cuerpo completo.
+
+### Escena 169: Picazón, cena y sueño (Día 27, noche)
+
+Combs, enfermera de turno tarde, ayuda a Mark a rascarse una picazón en el pene (retira el vendaje puntualmente, revisa la piel, no hay irritación). Cena asistida. Mark se duerme.
+
+---
+
+## Día 28 — Post-operatorio, día 5
+
+### Escena 170: Despertar (Día 28, mañana)
+
+Mark despierta; una enfermera hace la ronda de rutina sin mencionar las visitas del día (no es información que el personal del hospital manejaría). Desayuno asistido.
+
+### Escena 171: Visita de Mira — masturbación y clímax prematuro (Día 28, mañana)
+
+Mira llega en su silla de ruedas eléctrica, maniobrando el joystick con el muñón del brazo derecho (mano izquierda sin ningún dedo). Desnuda como es su costumbre, sonda urinaria puesta con bolsa colectora en el lateral de la silla. Curiosea el ángulo fijo del pene (nunca hablaron de esto, es la primera vez que lo ve tras la cirugía) y accede a tocarlo con la palma sin dedos a pedido de Mark. Mark llega al clímax antes de lo esperado, justo cuando la Dra. Mills entra para la evaluación de eyaculación programada; Mills pospone la evaluación real un par de horas, sin darle importancia.
+
+### Escena 172: Salida a la cafetería (Día 28, mañana)
+
+Mark pide ir a la cafetería del hospital. Dos auxiliares (mujeres — no hay hombres en este mundo) lo trasladan con grúa a una silla de ruedas reclinable con soporte de cabeza; Mira lo acompaña en la suya. En la cafetería, conversación ligera sobre el nuevo tamaño del pene, batido con pajita (Mira lo sostiene contra su antebrazo), y la explicación de que la piel frágil de Mira por su enfermedad impide cualquier penetración, no la inmovilidad de Mark. Vuelta a la habitación; despedida con beso a través de las aberturas de la boca de ambos vendajes.
+
+### Escena 173: Nuevo uniforme del Creston (Día 28, mediodía)
+
+Mark le pide a Claire que todo el personal de enfermería del Creston use, desde ahora, vestido blanco ceñido y corto de botones frontales con medias veladas blancas (norma del hospital, añadida a `world.md`).
+
+### Escena 174: Mensajes y resolución Patricia/Hannah (Día 28, mediodía)
+
+Grace, ya con el nuevo uniforme, lee los mensajes: Dana confirma la visita de la tarde con Rachel; Diane reporta la rutina normal de Tori; Patricia cuenta que habló abiertamente con Hannah la noche anterior — ambas van a intentarlo, sin ponerle nombre todavía a la relación. Mark responde agradeciéndole y deseándoles que les vaya bien.
+
+### Escena 175: Visita de Rachel y Dana (Día 28, tarde)
+
+Rachel (doble shoulder spica) y Dana llegan. A pedido de Mark, Claire ajusta dos reglas permanentes: mientras Rachel tenga el yeso, solo viste de la cintura para abajo (el yeso ya cubre el torso), y Dana no usa el uniforme de mucama fuera de la mansión. Rachel elige ropa deliberadamente sexy (falda corta de cuero sobre tanga de encaje). Reacción de sorpresa de Rachel ante la transformación de Mark; Dana, más práctica, sin sorpresa. Grace hace la revisión rutinaria del pene delante de las dos. La Dra. Mills llega: primeros movimientos de mobilidad (dedos de manos y pies) y evaluación de eyaculación pendiente de la mañana, ambas realizadas con Rachel y Dana presentes — reacción incómoda/celosa de Rachel, curiosidad práctica de Dana. Tras irse Mills, a pedido de Mark, Dana masturba a Rachel con el muñón del antebrazo (primera intimidad entre ambas) mientras Mark observa. Despedida con beso de Rachel en la mejilla.
+
+### Escena 176: Cena, picazón y masturbación extendida con Combs (Día 28, noche)
+
+Combs trae la cena y luego ayuda con otra picazón en el pene. A pedido de Mark, lo masturba de nuevo; la escena se extiende varias interacciones — Combs se desabotona el vestido, se quita el sujetador y luego el panty (revelando vagina) a pedido de Mark, y termina masturbándose ella misma con la mano libre. Doble clímax. Se viste, revisa el vendaje y se despide con un beso de buenas noches a pedido de Mark.
+
+---
+
+**La conversación termina aquí: Día 28, noche. Mark se queda dormido en su habitación del Creston tras la visita de Combs.**
+**Próximo paso pendiente:** Mañana la Dra. Mills sigue con movilidad de brazos y piernas si todo responde bien. Alta estimada ~Día 30. Pendiente: primera intimidad Dana-Rachel sin narrar sus consecuencias emocionales; plan de visita de Cora y Jude a la mansión tras el alta (conocer a Vera); "sorpresa" secreta de Claire entre Vera y Sophie (ver `personajes/vera.md`) sigue sin ocurrir; Megan se quita los yesos ~Día 29.

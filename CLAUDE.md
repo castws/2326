@@ -62,6 +62,14 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 - **Modificaciones físicas**: cualquier modificación corporal (cambio de sexo, amputación, regeneración completa sin secuelas) es un procedimiento rutinario en 2326.
 - **Yeso médico**: ya no se usa para tratar fracturas (se usa estimulación celular dirigida en horas), pero los robots mantienen el material disponible para quien lo solicite por preferencia personal.
 
+## Verificación de continuidad antes de narrar
+
+- Antes de narrar una acción física de un personaje con discapacidad/inmovilización establecida (alcanzar algo, girar la cabeza, moverse, hablar), verificar contra su ficha en `personajes/<nombre>.md` que la acción es compatible con su estado actual — no asumir capacidades no descritas.
+- No trasladar automáticamente una mecánica de un personaje (protocolo de comunicación, tic de habla, dispositivo) a otro personaje distinto, aunque la situación se parezca (por ejemplo, varios personajes mudos). Cada mecánica debe estar explícitamente establecida en la ficha propia del personaje en cuestión.
+- Hechos de cronología o estado ya fijados (duración de una relación, orden de un procedimiento médico, dependencia física) se verifican en `state.md` antes de narrarlos; no se improvisan siguiendo patrones genéricos si ya existe un dato establecido.
+- Rasgos o estados activos para la escena actual (mudez con sonidos no verbales, vergüenza sostenida, tics de habla) se mantienen presentes en cada beat de una escena larga, no solo se mencionan una vez al principio.
+- Las convenciones de worldbuilding marcadas como norma social en este documento o en `world.md` (pene en mujeres, moda de exposición, vehículos autónomos, procedimientos médicos rutinarios, etc.) **nunca** generan sorpresa, comentario o extrañeza en ningún personaje — ni siquiera en personajes nuevos o de fondo. Reservar la sorpresa genuina solo para elementos que resultarían inusuales para los propios personajes dentro de su vida cotidiana (una habitación de yesos privada en una casa, la escala de la mansión, etc.), nunca para normas sociales ya establecidas como parte del mundo.
+
 ## Coherencia entre sesiones
 
 Al final de cada sesión, actualizar `state.md`, `scene_log.md`, la ficha de cada personaje que intervino en `personajes/<nombre>.md` y el índice `characters.md` (si hubo personajes nuevos, cambios de nivel de carga o cambios permanentes), y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.

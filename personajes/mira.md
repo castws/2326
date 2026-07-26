@@ -108,11 +108,11 @@ Nunca ha tenido intimidad. Lo desea. No lo oculta si el tema sale de forma natur
 
 ## Citas memorables
 
-- "No es un sí todavía. Pero tampoco es un no." _(al enterarse de que Mark sale con otras personas — Día 19)_
-- "Tú llevas veinte minutos aquí y todavía no me has preguntado qué me pasó. Eso ya dice algo." _(en el café — Día 19)_
 - "Llevas un rato diciendo que las cosas son diferentes. Es la primera vez que eso no suena como una disculpa." _(tras la primera intimidad — Día 19)_
 - "Creo que acabo de entender de qué habla la gente." _(tras su primer orgasmo — Día 19)_
-- "Fue una buena primera cita." _(antes de dormir — Día 19)_
+- "Hola, momia. Te ves bien envuelto. Casi a mi altura ya." _(saludo en el Creston, viendo el vendaje de Mark por primera vez — Día 28)_
+- "Hoy te toca solo recibir. Tú no puedes mover ni un dedo, así que esta vez no hay manos tuyas sobre mí." _(mientras lo masturba — Día 28)_
+- "Eso no es por ti. Aunque pudieras moverte, no penetro, ni recibo. Mi piel se abre con la fricción." _(aclarando por qué la penetración nunca ha sido opción entre ellos — Día 28)_
 
 ## Momentos con Mark
 
@@ -121,3 +121,4 @@ Nunca ha tenido intimidad. Lo desea. No lo oculta si el tema sale de forma natur
 - **Desayuno en la terraza y segunda masturbación (Día 20, mañana):** Mark la ayuda a orinar con botella. Desayuno en terraza sin vestido. Conversación sobre June: primera vez que le pidió que la masturbara, la anécdota del vibrador con la amiga de June (cuarenta minutos encendido, daño en las vendas), y las tres veces que June se masturbó con ella en el mismo cuarto. Segunda masturbación en tumbonas de la piscina (vibrador en banda de mano izquierda, Mark en tumbona al lado). Observa el baño de Mark con Dana (Dana con ganchos y prótesis). Mark la lleva a casa. _(Día 20, escenas 101-103)_
 - **Mensajes post-visita (Día 20, mañana):** Mark le dice que debería contarle a June lo que pasó. Mira responde que lo sabe, que necesita un poco más de tiempo para saber qué quiere que sea real, pero que sí se lo va a contar. Pregunta cuándo vuelven a quedar. Mark: "Pronto, te aviso." _(Día 20, escena 105)_
 - **Almuerzo y hotel (Día 23, mediodía):** Segunda cita. Almuerzo en restaurante accesible; revela que el vestido de la primera cita fue una excepción, normalmente no usa ropa. Mark le cuenta la cirugía de feminización; ella lo acepta sin condiciones. Intimidad en hotel: masturbación manual mutua, eyaculación de ambos. Revela que no tiene pezones (perdidos por la enfermedad) pero conserva sensibilidad en el pecho; promete pedirle a June estar presente en una cura para que Mark la vea sin vendas algún día. Mark la invita al hospital ("un par de momias" en la cafetería) _(Día 23, escena 137)_.
+- **Visita al Creston tras la feminización (Día 28, mañana, escenas 171-172):** Llega en su silla eléctrica (joystick con el muñón derecho), desnuda, sonda puesta como de costumbre al salir sola. Ve el pene de Mark por primera vez tras la cirugía (ángulo fijo, más grande) y lo toca con la palma sin dedos; Mark llega al clímax antes de lo esperado, justo cuando entra la Dra. Mills para la evaluación programada. Salida juntos a la cafetería (Mark trasladado con grúa a silla reclinable). Batido compartido, conversación sobre el nuevo tamaño del pene. Aclara que la imposibilidad de penetración es por su piel frágil, no por la inmovilidad de Mark. Despedida con beso a través de las aberturas de la boca de ambos vendajes.

@@ -7,6 +7,7 @@
 **Personalidad:** Inicialmente sumisa. Tras el ajuste de autonomía: cálida pero directa, con criterio propio. Tiene límites claros en lo íntimo y los comunica sin agresividad. Es lectora habitual (novelas, incluyendo eróticas). Desarrolló una relación íntima con Sophie.
 **Rol:** Asistente doméstica de Mark. Cocina, cuida de Sophie, gestiona la casa.
 **Estado físico actual (Día 20 en adelante):** Fractura de ambos húmeros. Doble shoulder spica: yeso que inmoviliza ambos brazos desde los hombros en abducción, incluye el torso. Alta el Día 20. En la mansión. Mark la baña (Dana fue apartada en una maniobra orquestada por Claire).
+**Vestimenta mientras dure el yeso (desde Día 28):** el torso ya queda cubierto por el yeso, así que solo se viste de la cintura para abajo — nada arriba. Yesos hasta ~Día 61 (~6 semanas desde la fractura del Día 19).
 **Estado emocional (Día 20):** Primera intimidad directa con Mark. Admitió que la dependencia del yeso la excita. Primera vez que dice el nombre de Mark durante el sexo. Primera apertura emocional real: "A mí también. Lo digo mientras compruebo si es verdad."
 
 **Conocimiento:**
@@ -39,6 +40,9 @@
 - "Mark." _(solo el nombre, primera vez durante el sexo — Día 20)_
 - "A mí también. Lo digo mientras compruebo si es verdad." _(respuesta a Mark sobre haber hablado abiertamente — Día 20)_
 - "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." _(mañana del Día 21, confirmando sin dramatismo lo de la noche anterior)_
+- "No sabía que iba a ser... así, todo. Nadie me dijo que te iban a dejar como una momia de pies a cabeza." _(primera reacción al ver a Mark vendado por completo — Día 28)_
+- "Un poco, sí. No sé si era por verte a ti o por las ganas de que fuera yo la que tuviera las manos libres para hacerlo." _(admitiendo excitación al ver la evaluación de la Dra. Mills — Día 28)_
+- "Nunca lo hemos hecho tú y yo. Pero sí. Ahora mismo prefiero eso a quedarme así el resto de la visita." _(aceptando que Dana la masturbe — Día 28)_
 
 **Momentos con Mark:**
 
@@ -53,3 +57,4 @@
 - Alta el Día 20. Mark la baña solo (Dana ausente por maniobra de Claire y Mark). Acepta que Mark limpie la zona genital tras el argumento de Sophie. Escena a tres con Sophie: Rachel montada sobre Sophie, Mark las observa y luego participa (beso, clítoris, penetración). Primera intimidad directa con Mark en la cama sin Sophie presente: admite que la dependencia del yeso la excita ("Hoy fue distinto. No lo sabía hasta hoy."). Tarde juntos leyendo su novela: apertura conversacional real, comentarios sobre los personajes, alguna risa. Noche: Mark le acaricia el cabello hasta que se duerme _(Día 20, escenas 107-110)_.
 - Mañana del Día 21: Mark la despierta acariciándole el cabello. Baño asistido sin protestas. Desayuno. Le pide a Mark que no actúe diferente por la noche anterior; cuando Mark dice que fue especial para él, responde: "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." Ve la TV en el salón. _(Día 21, escena 111)_.
 - **Conversación antes del hospital (Día 23, tarde, escena 140):** Mark le cuenta que Vera asume su cuidado desde hoy; Rachel admite que le hubiera gustado que se lo consultaran antes. Mark se disculpa y le dice que la va a extrañar. Rachel: "Yo también te voy a extrañar. No estoy acostumbrada a decir estas cosas, así que no esperes que se repita todos los días." Beso. Preocupación compartida por no poder tener intimidad con Sophie durante la semana (ambas con los brazos muy limitados); Rachel sugiere pedirle ayuda a Dana, pendiente de hablarlo con Sophie.
+- **Visita al Creston con Dana (Día 28, tarde, escena 175):** Ve a Mark por primera vez desde la cirugía de feminización — sorpresa genuina por el vendaje total. Ropa elegida a propósito para la visita (falda de cuero sobre tanga de encaje; el yeso ya cubre el torso, así que no lleva nada arriba). Presencia durante los primeros movimientos de movilidad de Mark y la evaluación de eyaculación de la Dra. Mills; admite sentir una mezcla de excitación y algo parecido a los celos al no poder tocarlo ella misma. A pedido de Mark, acepta que Dana la masturbe con el muñón del antebrazo — primera intimidad entre ambas, nunca antes ocurrida. Se despide con un beso en la mejilla, lo único que puede ofrecer con los brazos inmovilizados.
