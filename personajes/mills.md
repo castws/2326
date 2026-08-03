@@ -2,7 +2,8 @@
 
 **Tipo:** Robot (cirujana, Creston Medical Center)
 **Edad aparente:** 33 años
-**Apariencia:** Complexión media, estatura media. Cabello castaño oscuro recogido en un moño bajo, ojos color avellana, rasgos marcados, expresión serena. Bata médica blanca entallada hasta la rodilla, abierta sobre un top ajustado y un pantalón clínico gris; zuecos blancos. Dispositivo delgado plateado colgado del cuello de la bata (terminal de trabajo).
+**Apariencia:** Complexión media, estatura media (~172 cm). Cabello castaño oscuro recogido en un moño bajo, ojos color avellana, rasgos marcados, expresión serena. Bata médica blanca entallada hasta la rodilla, abierta sobre un top ajustado y un pantalón clínico gris; zuecos blancos. Dispositivo delgado plateado colgado del cuello de la bata (terminal de trabajo).
+**Cuerpo (visto por primera vez el Día 29):** piernas largas de músculo largo, piel más clara que la de los antebrazos; vientre plano con una línea vertical suave de músculo; senos medianos y altos. Cicatriz pálida vieja de unos tres dedos en el muslo derecho. Ropa interior funcional, de algodón gris claro, sin adornos. **Tiene vagina**; pubis depilado salvo una franja corta y recta, del mismo castaño oscuro que el pelo.
 **Rol:** Cirujana a cargo de la feminización corporal completa de Mark. Realiza la evaluación pre-quirúrgica y lleva el caso durante el internamiento (~Día 23–30).
 
 ---
@@ -40,6 +41,9 @@
 
 ## Citas memorables
 
+- "Clínicamente no tengo nada que objetar. Si añadir un estímulo lo resuelve, es mejor eso que cerrar la evaluación como incompleta." _(aceptando hacer pasar a Hobbs — Día 29)_
+- "Sí. No siempre, y con la mayoría de los pacientes no. Contigo llevo seis días haciendo esto a diario y hoy además estoy desnuda en la habitación. Sería raro que no." _(a la pregunta directa de Mark sobre si se excita — Día 29)_
+- "Eso no cambia el procedimiento ni lo que anoto." _(inmediatamente después — Día 29)_
 - "Con esto termino la evaluación. Todo dentro de lo esperado, no hay contraindicaciones para el procedimiento de esta noche." _(cierre de la evaluación pre-quirúrgica — Día 23)_
 - "En reposo va a quedar alrededor de catorce centímetros... En erección subirá poco desde ahí." _(dando el tamaño final del pene a pedido de Mark — Día 23)_
 - "Con la banda torácica que medimos hoy y el volumen que se va a redistribuir, vas a quedar en una copa D." _(estimando la talla de senos antes de la cirugía — Día 23)_
@@ -55,4 +59,6 @@
 - Rutina del Día 25: dirige la primera cura completa (baño, pomada, vendaje nuevo por zonas), confirma buena cicatrización del rostro, acompaña el traslado a medicina interna. Revisa la picazón reportada por Mark (recorre el pene punto por punto preguntando por dolor/picazón), diagnostica resequedad de piel nueva en la corona y ordena crema.
 - Rutina del Día 26: retira la sonda personalmente; confirma que la picazón ya está resuelta; le muestra el rostro con un espejo de mano (primera vez que Mark se ve tras la cirugía) y luego revela el cabello completo al desenvolver el resto del cráneo; dirige la cura completa por zonas. Anuncia que en ~2 días empieza algo de movilidad.
 - **Evaluación de eyaculación frente a Jude y Cora (Día 27, tarde, escena 166):** realiza la estimulación manual con la misma técnica clínica de siempre (agarre, presión en la corona, marcaje de tiempos en voz alta) sin que la presencia de las visitas cambie nada en su actitud. Clímax a los 3:41, mejor tiempo que en la evaluación pre-quirúrgica.
+- **Movilidad de brazos y piernas (Día 29, mañana, escena 180):** prueba codos, hombros, caderas y rodillas sosteniendo ella el peso de cada articulación; respuesta presente en todas, con rango corto y retraso. Dicta los hallazgos en voz alta. Detecta que el vendaje genital es reciente y pregunta; acepta la explicación de la picazón sin insistir y ordena crema en la corona dos veces al día hasta el alta.
+- **Evaluación de eyaculación con estímulo visual (Día 29, mañana, escenas 181-182):** ante el estancamiento de la respuesta a los tres minutos, encuadra la petición de Mark como dato clínico legítimo y se desviste por completo a petición suya, mandando salir a la enfermera. Reconoce sin rodeos que se excita con él, dejando claro que no cambia el procedimiento ni lo que anota. Se masturba con la mano izquierda sin soltar la derecha. Hace pasar a Hobbs como "segundo estímulo" y la dirige con el mismo tono con el que dicta medidas. Clímax de Mark a los 13:04. Después termina ella con los dedos de Hobbs, apoyada en el bastidor de la cama, se viste y se va a su siguiente paciente.
 - **Primeros movimientos de movilidad y evaluación pospuesta con Mira (Día 28, mañana-tarde):** llega para la evaluación de eyaculación programada justo cuando Mark ya había llegado al clímax con Mira; la pospone sin darle importancia ("esto también es un dato"). Por la tarde, con Rachel y Dana presentes, dirige los primeros movimientos de dedos de manos y pies (flexiona cada dedo, pide a Mark que repita el movimiento) y realiza la evaluación pendiente de la mañana.

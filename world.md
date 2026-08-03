@@ -11,6 +11,20 @@
 
 ---
 
+## Percepción de los personajes sobre el mundo (importante)
+
+- **Solo Mark y Claire conocen la verdad completa**: el año real (2326), que la población que Mark trata es en su inmensa mayoría robots, la historia real resumida abajo, y el nivel real de la tecnología (curación instantánea, reversibilidad total de cualquier modificación corporal, gestión total por IA).
+- **El resto de personajes** (personal doméstico, población de la ciudad, personal médico del Creston) viven y perciben su propia realidad como equivalente al año 2026: mismas limitaciones médicas y tecnológicas del mundo real de esa época. No saben que son robots ni que existe tecnología de curación instantánea o reversión sin secuelas, y no tienen ninguna razón para comportarse como si la tuvieran.
+  - Una fractura real requiere un yeso real y tarda semanas o meses en sanar, como en el mundo real de 2026 (ejemplo ya establecido: la fractura de húmeros de Rachel, ~6 semanas de yeso).
+  - Una amputación es permanente desde la perspectiva de quien la sufre o la elige; no existe regeneración a su alcance ni a su conocimiento. Las prótesis disponibles son las descritas en la sección de la ciudad (gancho de accionamiento corporal), sin alternativa más avanzada.
+  - Cualquier cirugía (incluida la de feminización de Mark) es un procedimiento real, con anestesia y recuperación gradual equivalente a una cirugía real de 2026 — nunca instantánea ni percibida como rutinaria por quien la recibe o la practica.
+  - El personal médico (Dra. Mills, enfermeras del Creston, etc.) practica medicina real dentro de esa lógica: no ofrece ni conoce atajos milagrosos.
+- **El fetichismo de inmovilización/yesos voluntarios** (como el de Megan) es una práctica minoritaria y privada, no un hábito social reconocido ni normalizado. Quienes lo practican lo ocultan de su entorno general (trabajo, familia, conocidos), igual que se ocultaría cualquier fetiche real hoy; solo lo revelan a parejas íntimas de confianza. Conseguir un yeso sin fractura real requiere justificación creíble ante un profesional (dolor real, historial, alguien dispuesto a hacerlo de forma discreta), nunca un trámite electivo abierto que se tramite sin preguntas.
+- **Las convenciones sociales ya establecidas como norma abierta** (mujeres con pene visible en la ropa, moda de exposición, vehículos autónomos, composición de la ciudad) siguen sin generar sorpresa ni comentario en ningún personaje: son simplemente cómo es su mundo para ellos, no dependen de tecnología oculta ni rompen la ilusión de 2026 — son cultura visible y cotidiana que todos conocen y aceptan como cualquier otra costumbre social.
+- **Nunca** hacer que un personaje que no sea Mark o Claire mencione, sepa o actúe conforme a la tecnología real oculta del mundo (curación en horas, reversibilidad de modificaciones corporales, año real, naturaleza robótica, cifras de población mundial).
+
+---
+
 ## Historia reciente (resumen que Claire le dio a Mark)
 
 - Las décadas posteriores a 2026 fueron convulsas: guerras, crisis climáticas y colapsos económicos. La población mundial cayó drásticamente.
@@ -32,7 +46,7 @@
 
 **Construcción:** Los robots constructores trabajan en miles de unidades simultáneas. Los materiales se sintetizan localmente, sin cadenas de suministro ni transporte. Una mansión grande se levanta en ~6 horas; una ciudad pequeña de 5.000 habitantes, en 2-3 días.
 
-**Medicina:** Las fracturas se curan en horas mediante estimulación celular dirigida. El yeso médico ya no se usa con fines terapéuticos, aunque los robots mantienen el material disponible. Cualquier modificación corporal (cambio de sexo, amputación, regeneración completa sin secuelas) es un procedimiento rutinario.
+**Medicina (tecnología real de la civilización, oculta para todos excepto Mark y Claire):** existe la capacidad de curar fracturas en horas mediante estimulación celular dirigida y de revertir cualquier modificación corporal sin secuelas. **Esta capacidad nunca se usa ni se menciona en la ficción activa.** Todos los personajes salvo Mark y Claire viven y practican una medicina equivalente a 2026: un yeso trata una fractura real de forma convencional (semanas de inmovilización), una amputación es permanente, y cualquier cirugía (incluida la de feminización de Mark) tiene una recuperación real y gradual. Ver "Percepción de los personajes sobre el mundo" arriba.
 
 **Transporte:** Todos los vehículos son de conducción autónoma. No requieren conductor.
 

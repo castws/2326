@@ -34,9 +34,14 @@ ficha no se toca nunca.
 - **[Jude](personajes/jude.md)** — robot ciudad. Cabello negro, piel blanca, tatuajes. 24 años. Derrame a los 21; inmovilización total, solo ojos. Traqueotomía, respirador, sonda gástrica. Apartamento con Cora (hermana/cuidadora). Mark la conoció el Día 21. Configuración activa: tuvo sexo con Mark, le gustó y quiere repetir.
 
 - **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho en uso. "Novia" de Mark. Casa de Hannah. Se besaron mutuamente con Hannah la noche del Día 26; hablaron abiertamente el Día 27 — van a intentarlo, sin nombre todavía a lo suyo.
+- **[Hobbs](personajes/hobbs.md)** — robot, residente de primer año del Creston. 23 años, baja y menuda, rubia oscura corta, pecas, ojos azules claros. Sin discapacidades. Acompaña a la Dra. Mills; presente en la evaluación del Día 29.
+- **[Hobbs](personajes/hobbs.md)** — robot, residente de primer año del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso. Primera semana en el hospital. Sumisa (lo descubre con Mark, Día 29); arco BDSM iniciado. Vuelve antes de las 19h del Día 29.
+- **[Reyes](personajes/reyes.md)** — robot, enfermera del turno de mañana del Creston. 27, piel morena clara, trenza negra, atlética; pene. Directa y práctica. Primer turno con Mark el Día 29.
 - **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos azules. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo, opera silla eléctrica con el muñón; mano izq sin ningún dedo; pene amputado a la mitad. No puede ser penetrada (piel frágil). En su apartamento con June. Visitó a Mark en el Creston Día 28.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_
+
+- **[Reyes](personajes/reyes.md)** — robot, enfermera del turno de mañana del Creston. 27 años, morena clara, trenza negra, atlética, pene funcional. Turno de mañana del Día 29 con Mark.
 
 - **[Tori](personajes/tori.md)** — robot ciudad. Morena, gafas muy gruesas (miopía severa); múltiples amputaciones/aparatos, jaula de castidad, habla con sustitución fonética. Shoulder spica + minerva, mandíbula con alambre, pañal hasta ~Día 77. Apartamento 204; Diane la cuida; pensamientos audibles para Mark por auricular.
 - **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. Comunicación por parpadeos. No sabe que el accidente de Tori fue simulado.

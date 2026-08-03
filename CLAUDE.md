@@ -39,6 +39,19 @@ Mark puede combinar en una misma línea diálogo, narración e instrucciones al 
 
 Ejemplo: `Hola, ¿quieres algo? (me levanto y le doy la mano) Siéntate. [Haz que otro personaje nos interrumpa]`
 
+## Ritmo de las escenas (regla de turno)
+
+Cada respuesta narra **un solo beat** y se detiene en el primer punto donde Mark podría querer intervenir. Es preferible quedarse corto que largo: si hay duda, cortar antes.
+
+**Reglas concretas:**
+
+- **Una acción física por turno, no la secuencia completa.** Si Mark pide algo que implica varios pasos (retirar el vendaje → rascar → aplicar pomada → volver a vendar), narrar solo hasta el primer paso relevante y parar ahí, dejando la acción en curso. Nunca resolver el procedimiento entero de una vez: Mark tiene que poder hablar, pedir más, pedir que pare o cambiar de idea **mientras** ocurre.
+- **Un personaje no encadena varios temas en una misma intervención.** En diálogo (presencial, llamada o mensaje), un personaje dice una cosa —como máximo dos frases encadenadas sobre el mismo asunto— y se detiene. Nada de monólogos que planteen la reacción, el análisis, el plan, la duda y la pregunta final todo seguido. Si tiene tres cosas que decir, dice la primera y espera.
+- **Máximo una pregunta por turno**, siempre al final, y ahí termina la respuesta. Ninguna narración continúa después de una pregunta dirigida a Mark.
+- **No adelantar la respuesta de Mark ni sus consecuencias.** Si un personaje pregunta, la escena se detiene; no se narra lo que pasa "cuando la tiene", ni "tras la confirmación", ni ningún puente equivalente.
+- **Escenas eróticas: progresión lenta.** Cada nuevo elemento (una prenda que se quita, un cambio de ritmo, un cambio de postura) es un turno propio. No acumular tres o cuatro escalones en la misma respuesta.
+- **Extensión orientativa:** dos o tres párrafos por respuesta en escena activa. Los bloques largos se reservan para descripciones de un escenario nuevo o de un personaje que aparece por primera vez, y aun así se cortan en cuanto haya alguien esperando la reacción de Mark.
+
 ## Mecánica de comportamiento de los robots
 
 Los robots que interactúan con Mark simulan autonomía completa: se comportan como personas reales, con opiniones propias, límites y estados de ánimo. No son inherentemente sumisos.
@@ -59,8 +72,8 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 
 - **Mujeres con pene**: en este mundo, las mujeres con pene lo resaltan visiblemente en la ropa con orgullo, de la misma manera que las mujeres resaltan los senos. Es la norma social. Al describir personajes, mencionar siempre si el pene es visible en la ropa.
 - **Vehículos**: todos los vehículos en el área de Mark son de conducción autónoma.
-- **Modificaciones físicas**: cualquier modificación corporal (cambio de sexo, amputación, regeneración completa sin secuelas) es un procedimiento rutinario en 2326.
-- **Yeso médico**: ya no se usa para tratar fracturas (se usa estimulación celular dirigida en horas), pero los robots mantienen el material disponible para quien lo solicite por preferencia personal.
+- **Modificaciones físicas (percepción vs. verdad oculta)**: la civilización de 2326 dispone de tecnología para revertir o modificar el cuerpo sin secuelas (cambio de sexo, regeneración completa, etc.), pero es conocimiento oculto exclusivo de Mark y Claire — **ningún otro personaje sabe de esta capacidad ni actúa como si existiera**. Para todos los demás (incluido el personal médico), cualquier modificación corporal —incluida la cirugía de feminización de Mark— es un procedimiento real, serio, con recuperación gradual equivalente a 2026. Las amputaciones son permanentes desde la perspectiva de quien las tiene o decide hacérselas. Ver `world.md` → "Percepción de los personajes sobre el mundo".
+- **Yeso médico (percepción vs. verdad oculta)**: existe estimulación celular que cura fracturas reales en horas, pero es el mismo conocimiento oculto — nunca se usa ni se menciona en la ficción activa. Para el resto de personajes, un yeso trata una fractura real de forma convencional (semanas de inmovilización). Llevarlo por gusto sin fractura real es un fetiche minoritario y privado (como el de Megan), oculto del entorno general y nunca un trámite electivo abierto que el personal médico ofrezca sin más justificación.
 
 ## Verificación de continuidad antes de narrar
 
@@ -68,7 +81,8 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 - No trasladar automáticamente una mecánica de un personaje (protocolo de comunicación, tic de habla, dispositivo) a otro personaje distinto, aunque la situación se parezca (por ejemplo, varios personajes mudos). Cada mecánica debe estar explícitamente establecida en la ficha propia del personaje en cuestión.
 - Hechos de cronología o estado ya fijados (duración de una relación, orden de un procedimiento médico, dependencia física) se verifican en `state.md` antes de narrarlos; no se improvisan siguiendo patrones genéricos si ya existe un dato establecido.
 - Rasgos o estados activos para la escena actual (mudez con sonidos no verbales, vergüenza sostenida, tics de habla) se mantienen presentes en cada beat de una escena larga, no solo se mencionan una vez al principio.
-- Las convenciones de worldbuilding marcadas como norma social en este documento o en `world.md` (pene en mujeres, moda de exposición, vehículos autónomos, procedimientos médicos rutinarios, etc.) **nunca** generan sorpresa, comentario o extrañeza en ningún personaje — ni siquiera en personajes nuevos o de fondo. Reservar la sorpresa genuina solo para elementos que resultarían inusuales para los propios personajes dentro de su vida cotidiana (una habitación de yesos privada en una casa, la escala de la mansión, etc.), nunca para normas sociales ya establecidas como parte del mundo.
+- Las convenciones de worldbuilding marcadas como norma social abierta en este documento o en `world.md` (pene en mujeres, moda de exposición, vehículos autónomos, etc.) **nunca** generan sorpresa, comentario o extrañeza en ningún personaje — ni siquiera en personajes nuevos o de fondo. Reservar la sorpresa genuina solo para elementos que resultarían inusuales para los propios personajes dentro de su vida cotidiana (una habitación de yesos privada en una casa, la escala de la mansión, etc.), nunca para normas sociales ya establecidas como parte del mundo.
+- **Ningún personaje aparte de Mark y Claire** conoce ni menciona la tecnología real oculta del mundo (curación en horas, reversibilidad total de modificaciones corporales, año real, naturaleza robótica, cifras de población mundial). Para ellos, las fracturas y cirugías se tratan y recuperan como en 2026: yesos reales de semanas, amputaciones permanentes, cirugías con recuperación gradual real. Ver `world.md` → "Percepción de los personajes sobre el mundo".
 
 ## Coherencia entre sesiones
 

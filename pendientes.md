@@ -80,3 +80,19 @@ Después de la confesión, hablaron del tema más de una vez, pero ambas lo daba
 Con los yesos voluntarios y el despertar del propio deseo de amputación de Megan (y el ofrecimiento de Mark de ayudarla), la perspectiva de Megan cambió por completo. Hasta ahora, Sasha sabe que Megan lleva yesos, pero los asume médicos, iguales a los de sus amputaciones anteriores; no sabe que son voluntarios ni sabe de Mark. La amputación electiva sin causa médica no es algo fácil de conseguir — lo que podría hacerla posible para Sasha es específicamente la posición e influencia de Mark en el área, no un procedimiento accesible en general. Su propio deseo sigue viviéndolo como una fantasía privada e irrealizable — aunque, tras la confesión a Megan, ya no con vergüenza pura sino con una curiosidad tranquila por ir un poco más allá de las vendas.
 
 Tras una de las visitas de Megan al hospital, Sasha la llama para invitarla a tomar algo. Megan le cuenta todo: que los yesos son voluntarios, que quiere amputarse el brazo derecho (y no descarta más), y que existe Mark — cuya posición en el área es la razón concreta por la que algo así ha dejado de ser una fantasía imposible. Sasha, que lleva años conteniéndose incluso con la única persona que conoce su secreto, se abre de golpe: no necesita confesar otra vez el deseo (Megan ya lo sabe desde hace tiempo), pero por primera vez deja caer del todo la contención frente a ella.
+
+# Mira
+
+Le propongo a Mira que me visite un fin de semana, le digo que la enfermera le puede cambiar los vendajes. El proceso de cambiar los vendajes es doloroso. La veo desnuda por primera vez.
+
+Mira me cita a un café y me cuenta que ella y su hermana recibieron una herencia o que se ganaron la lotería. Mira decidió vivir sola y ahora tiene tres enfermeras que se turnan para cuidar de ella.
+
+Mira se entera de las amputaciones de los otros personajes y me pide que le ayude a amputarse todos los miembros, eso disminuiría el tiempo de dolor cuando le cambian los vendajes. La idea ya le venía rondando en la cabeza desde que le amputaron el brazo.
+
+# Reducciones
+
+Una mujer joven en una cafetería con amputaciones en los dedos. De la mano derecha, solo tiene el pulgar, índice y meñique. De la mano izquierda, tiene el meñique y el anular y una venda que cubre la amputación del pulgar. También se amputó todos los dedos de los pies. Cuando le preguntan de forma casual, dice que tiene una enfermedad que hace que le tengan que amputar los dedos, pero en realidad lo ha hecho ella misma. Es escritora amateur, le gusta escribir en su laptop en el mismo café. Su familia es adinerada, su madre descubrió la verdad después de la segunda amputación, pero ya se hizo a la idea de que nada va a detener a su hija. Ella sabe que perder los dedos será una limitación para escribir, pero su deseo por ser amputada es mayor. No tiene claro hasta donde quiere llegar con las amputaciones, pero de momento no quiere parar. Cuando una amputación ha sanado y ya no tiene vendas ni puntos, tiene la urgencia de cortar algo más.
+
+Los siguientes dedos que se amputará en orden serán el índice derecho, el anular izquierdo y el pulgar derecho, quedando solo con ambos meñiques. Luego se amputará ambas manos a nivel de la muñeca, una después de la otra. De ahí en adelante, ella decidirá que seguir amputando. Lo que ella nunca hace es cortar una extensión grande: por ejemplo, ella no amputaría a nivel de la rodilla o la pantorrilla sin antes haber amputado a nivel del tobillo. Las amputaciones que se haga en adelante no tienen porque ser simétricas, en cada amputación, ella tomará una decisión según lo que quiera en el momento.
+
+Lo primero que se amputó fue el meñique del pie izquierdo. Luego siguió amputando los demás dedos de los pies hasta que no quedó ninguno. Ahí dio el salto a los dedos de las manos.

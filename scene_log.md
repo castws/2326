@@ -372,5 +372,47 @@ Combs trae la cena y luego ayuda con otra picazón en el pene. A pedido de Mark,
 
 ---
 
-**La conversación termina aquí: Día 28, noche. Mark se queda dormido en su habitación del Creston tras la visita de Combs.**
-**Próximo paso pendiente:** Mañana la Dra. Mills sigue con movilidad de brazos y piernas si todo responde bien. Alta estimada ~Día 30. Pendiente: primera intimidad Dana-Rachel sin narrar sus consecuencias emocionales; plan de visita de Cora y Jude a la mansión tras el alta (conocer a Vera); "sorpresa" secreta de Claire entre Vera y Sophie (ver `personajes/vera.md`) sigue sin ocurrir; Megan se quita los yesos ~Día 29.
+---
+
+## Día 29 — Post-operatorio, día 6
+
+### Escena 177: Despertar y llegada de Reyes (Día 29, mañana)
+
+Mark despierta y comprueba que los dedos de manos y pies siguen respondiendo (torpes, con retraso). Entra **Reyes**, enfermera del turno de mañana que sustituye a Grace (libra hoy): ~27 años, piel morena clara, cabello negro en trenza larga, complexión atlética, pene visible bajo el uniforme nuevo del Creston. Trae el desayuno y anuncia que la Dra. Mills pasará después para probar movilidad de brazos y piernas. Pregunta por dolor, molestias o picazón.
+
+### Escena 178: Picazón y masturbación con Reyes (Día 29, mañana)
+
+Mark reporta picazón en el pene y pide que le rasquen; a continuación pide que lo masturbe. Reyes acepta con condiciones propias ("no está en el plan de cuidados, pero tampoco está prohibido"), fija un límite de media hora (llegada de Mills) y echa el pestillo por decisión propia. Usa la pomada del vendaje como lubricante. La escena escala por pasos a petición de Mark: se quita el vestido, después el sujetador, después los panties; se masturba con la mano libre mientras sigue con la otra; se inclina para que Mark le chupe los pezones a través de la abertura del vendaje. Clímax de los dos (Reyes termina sobre su propio muslo y la media). Limpia, aplica pomada, rehace el vendaje del pene y del vientre sin dejar rastro, se viste y recompone la habitación.
+
+### Escena 179: Llamada con Megan — los yesos se aplazan (Día 29, mañana)
+
+Mark le pide a Claire (fuera de la ficción para los demás robots) que Megan no recuerde que hoy es el día previsto para quitarse los yesos, y que Mills no sepa lo ocurrido con Reyes. Reyes retira el desayuno intacto, avisa a Mills de que pase media hora más tarde y pone a Megan en altavoz antes de retirarse.
+
+Megan confirma que se le había olvidado por completo ("eso ya me dice algo de cómo estoy con esto"). Mantiene el plan de quitárselos y descarta alargarlos por Emily, pero no hay nada previsto sobre cómo hacerlo: ella no puede, Mark está vendado, Emily nunca ha quitado un yeso. Propone a Rachel; Mark le cuenta que Rachel se fracturó ambos húmeros cayéndose de una escalera y está con doble shoulder spica — noticia para Megan, que reacciona con genuina preocupación. Mark le ofrece a Vera, la enfermera de la mansión. Acuerdan hacerlo en la mansión, no en el apartamento. Mark pide aplazarlo un par de días para descansar tras el alta: **queda fijado para ~Día 32**. Megan acepta sin problema.
+
+Segunda parte de la llamada: Emily todavía no sabe nada de la relación entre Megan y Mark. Mark le propone que se lo cuente **antes** de ir a la mansión y **a solas**, cambiando el plan previo (contarlo con él delante), porque con él presente Emily se cohibiría. Megan acepta y decide hacerlo hoy mismo. Sobre la retirada de los yesos: Emily no ha dicho una sola palabra del tema desde que lo supo, y Megan interpreta que no quiere que se los quite y no se atreve a decirlo. Mark le recuerda que seguramente no serán los últimos yesos; Megan responde que ya tiene pedidos los siguientes (pierna hasta la cadera, brazo hasta el hombro).
+
+### Escena 180: Revisión de movilidad con la Dra. Mills (Día 29, ~10:30)
+
+Mills llega con una enfermera y el carrito de curas. Prueba codos, hombros, caderas y rodillas sosteniendo ella el peso de cada articulación. Rango corto y movimiento con retraso, pero **respuesta presente en todas**; lo dicta en voz alta para que lo anoten. Conclusión: dentro de lo esperado, incluso mejor de lo esperado para el sexto día. Al destapar la zona genital nota que el vendaje es reciente y pregunta; Mark explica lo de la picazón y el cambio de vendaje (sin mencionar el resto). Mills lo da por bueno, lo anota como tercer episodio de picazón, confirma que no hay irritación y ordena crema dos veces al día en la corona hasta el alta.
+
+### Escena 181: Evaluación de eyaculación — estímulo visual (Día 29, ~10:45)
+
+Mills inicia la evaluación diaria con su técnica clínica habitual (ritmo constante, tiempos en voz alta). A los tres minutos no hay avance: la respuesta se estanca en meseta, muy por encima del tiempo del día anterior. Mark pide "ayuda visual"; Mills lo encuadra como dato clínico legítimo ("si el estímulo manual solo no basta, el dato es que no basta"), manda salir a la enfermera y se desviste por partes a petición de Mark: bata, pantalón, top y braguitas. **Se establece que Mills tiene vagina** (pubis depilado salvo una franja corta y recta). A pregunta directa de Mark reconoce sin rodeos que sí se excita con él ("llevo seis días haciendo esto a diario y hoy además estoy desnuda en la habitación"), aclarando que eso no cambia el procedimiento ni lo que anota. A ofrecimiento de Mark, se masturba con la mano izquierda sin soltar la derecha. A los nueve minutos sigue sin descarga.
+
+### Escena 182: Entrada de Hobbs — segundo estímulo (Día 29, ~11:00)
+
+Mark sugiere llamar a la otra enfermera; Mills lo evalúa clínicamente y hace pasar a **Hobbs**, residente de primer año que esperaba fuera con el carrito: 23-24 años, menuda, rubio oscuro a la mandíbula, cara redonda con pecas, pene grueso (~15 cm de largo y casi otro tanto de circunferencia) visible bajo el uniforme. Hobbs reacciona con sorpresa genuina al ver a Mills desnuda — es su primera semana en el Creston. Mills la dirige con el mismo tono con el que dicta medidas: desabrocharse el vestido, quitarse los panties, quitarse el sujetador, acercarse, tocarse. Hobbs eyacula primero, sobre el vendaje del pecho de Mark. Mark eyacula a continuación: **13:04**, con estímulo visual añadido. Mills termina después con los dedos de Hobbs, apoyada en el bastidor de la cama, y se viste. Deja instrucción de cambiar el vendaje del tronco entero y sale (paciente a las 11).
+
+### Escena 183: Hobbs se queda — vendaje, BDSM y primera orden (Día 29, mediodía)
+
+A solas, Hobbs pide quedarse y masturbarse otra vez cerca de Mark ("cuando le cayó encima, hace un momento. Fue eso"). Mark accede y le pide que le toque los senos con la otra mano por encima del vendaje — primera vez desde la cirugía que alguien se los toca con intención sexual. Hobbs eyacula por segunda vez sobre él. Mark le pide que se quede desnuda mientras esté en la habitación; después que se ponga los panties para terminar la cura.
+
+Durante el cambio completo de vendaje del tronco, conversación larga: Hobbs cuenta que le gusta que le digan qué hacer y que se bloquea si le preguntan qué quiere; relata una experiencia pasada con una expareja (una hora desnuda de pie sin tocarse mientras la otra leía) que nunca había contado a nadie. Mark le nombra lo que es — BDSM, sumisión — y ella reconoce que nunca lo había asociado. Confirma que le atraen la inmovilización y las órdenes; la humillación no la sabe. Mark le ofrece hacerlo y ella acepta ("no sé en qué me estoy metiendo, pero quiero"), reservándose la posibilidad de parar. Acuerdan verse cuando Mark salga del hospital; ella pide además estar presente en la retirada de vendajes del Día 30 aunque no le toque por turno.
+
+**Primera orden de Mark:** guardar sujetador y panties en un cajón de la habitación y terminar el turno sin ropa interior bajo el uniforme; no debe tener una erección (que se notaría bajo el vestido) y debe volver a informar antes de terminar el turno. Hobbs señala que no puede controlarlo y que la orden real es pasarse la mañana intentándolo; lo acepta. Se lleva el carrito como pantalla, sabiendo que tendrá que soltarlo. Queda en volver **antes de las siete** o antes si la mandan a esta planta en la ronda de la tarde.
+
+---
+
+**La conversación termina aquí: Día 29, mediodía. Hobbs sale de la habitación con el carrito; Mark se queda solo con el vendaje del tronco recién cambiado.**
+**Próximo paso pendiente:** Hobbs vuelve al final de su turno (antes de las 19h del Día 29) a informar de cómo le fue con la orden. Alta el Día 30 con retirada completa de vendajes (Hobbs quiere estar presente). Megan se quita los yesos ~Día 32 en la mansión, con Vera; hoy le cuenta a Emily lo suyo con Mark. Pendiente: primera intimidad Dana-Rachel sin narrar sus consecuencias emocionales; visita de Cora y Jude a la mansión tras el alta; "sorpresa" secreta de Claire entre Vera y Sophie (ver `personajes/vera.md`) sigue sin ocurrir.

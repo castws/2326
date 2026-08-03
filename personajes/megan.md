@@ -22,6 +22,8 @@
 - A pesar del vínculo con Emily, seguirá dispuesta a encuentros íntimos con Mark de forma independiente; se lo confirmó explícitamente a Mark (Día 26).
 - Plan acordado con Mark (Día 26, llamada telefónica): se quita los yesos en la fecha ya prevista (~Día 29) sin usar la relación con Emily como excusa para extenderlos; después, con calma, planea una conversación a tres (Mark, Emily y ella) sobre cómo sigue todo, incluyendo la posibilidad de nuevos yesos más adelante.
 
+**Estado Día 29 (mañana):** acaba de levantarse y **no recuerda que hoy es el día previsto para quitarse los yesos** (ajuste ejecutado por Claire a petición de Mark). No lo tiene agendado ni se lo ha mencionado a Emily.
+
 **Reflexión sobre amputación voluntaria (Día 19):**
 
 - Admitió a Mark que querría no tener brazos incluso sin Emily como razón. La dependencia con los yesos ya no le incomoda; la autosuficiencia forzada durante años fue adaptación, no preferencia.
@@ -29,6 +31,14 @@
 - Obstáculos reconocidos: la mentira necesaria, la pérdida del trabajo de enfermería. Mark ofreció comprar el hospital para un rol administrativo; Megan lo recibió sin rechazarlo.
 - Decisión no tomada. Condición previa: resolver lo de Emily primero.
 - Próximos yesos solicitados: pierna hasta la cadera, brazo hasta el hombro. Con Emily presente si acepta la verdad sobre los yesos voluntarios.
+
+**Día 29 — llamada con Mark (aplazamiento y cambio de plan):**
+
+- Se levantó **sin acordarse** de que era el día previsto para quitarse los yesos (ajuste de Claire). Lo reconoce como un dato sobre sí misma: "eso ya me dice algo de cómo estoy con esto".
+- Mantiene la decisión de quitárselos y descarta alargarlos por Emily. Pero no había plan de ejecución: ella no puede, Mark está vendado, Emily nunca ha quitado un yeso, y Rachel —que se los puso— está con doble shoulder spica. **Se entera aquí del accidente de Rachel**, con preocupación genuina.
+- **Nueva fecha: ~Día 32**, en la mansión (no en su apartamento), ejecutado por Vera, con Mark presente. Aceptó el aplazamiento sin problema para que Mark descanse tras el alta.
+- **Cambio de plan sobre Emily:** se lo contará **antes** de ir a la mansión y **a solas**, no con Mark delante como estaba previsto — con él presente Emily se cohibiría para decir lo que siente. Decidió hacerlo ese mismo día.
+- Sobre la retirada de yesos: Emily no ha dicho **una sola palabra** del tema desde que lo supo. Megan lo interpreta como que no quiere que se los quite y no se atreve a decirlo. Queda pendiente hablarlo con ella.
 
 **Voz / Tics de habla:**
 
@@ -54,6 +64,9 @@
 - "Creo que llevo mucho tiempo siendo muy autosuficiente porque no me quedaba otra. No porque lo prefiriera." _(explicando por qué querría no tener brazos — Día 19)_
 - "No me produce rechazo. Eso ya me dice algo." _(sobre la idea de no tener brazos ni piernas — Día 19)_
 - "Te beneficia el hospital y te beneficia que me quede sin brazos. Y aun así la decisión sería mía." _(reconociendo la honestidad de Mark sobre sus motivos — Día 19)_
+- "Joder. Es verdad. Se me había ido completamente. Eso ya me dice algo de cómo estoy con esto, ¿no?" _(al recordar que hoy era el día de quitarse los yesos — Día 29)_
+- "Tres semanas llevo con esto, Mark. Dos días más no me van a cambiar la vida." _(aceptando el aplazamiento — Día 29)_
+- "No me ha dicho nada. Ni una palabra desde que se lo conté. Y eso ya es raro en ella. Emily pregunta hasta por el pan." _(sobre el silencio de Emily respecto a los yesos — Día 29)_
 - "Vaya. Sí que te dejaron como una momia." _(al ver a Mark completamente vendado en el hospital — Día 25)_
 - "Un poco, sí... me dieron ganas de ser yo la que tuviera las manos libres para hacerlo." _(admitiendo envidia de la enfermera durante la revisión de la picazón — Día 25)_
 - "Hablé con Emily anoche. Pasó. No te lo cuento por aquí, es demasiado para que otra persona te lo lea." _(mensaje de texto tras la conversación con Emily — Día 26)_
