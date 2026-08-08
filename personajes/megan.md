@@ -40,6 +40,16 @@
 - **Cambio de plan sobre Emily:** se lo contará **antes** de ir a la mansión y **a solas**, no con Mark delante como estaba previsto — con él presente Emily se cohibiría para decir lo que siente. Decidió hacerlo ese mismo día.
 - Sobre la retirada de yesos: Emily no ha dicho **una sola palabra** del tema desde que lo supo. Megan lo interpreta como que no quiere que se los quite y no se atreve a decirlo. Queda pendiente hablarlo con ella.
 
+**Día 29 (tarde) — se lo contó a Emily:**
+
+- Se lo dijo **a solas** y ese mismo día, como habían acordado en la llamada de la mañana.
+- Emily **no se enfadó**: la escuchó entera, se quedó callada un rato y después le contó que **ella también tiene pareja y vive con ella** — años juntas, una casa fuera de la ciudad, **sin dar el nombre** —, y que **su pareja ya sabe lo de ellas y no le importa**.
+- Megan lo pasó mal un rato: venía preparada para pedir perdón y acabó siendo ella la que no sabía qué decir. Le dio más miedo que a Emily no le importara que si le hubiera dicho que se iba.
+- Emily siguió con la rutina normal, le dio el almuerzo como cualquier otro día y se quedó en el apartamento. "No está roto; solo no es lo que yo tenía en la cabeza."
+- **Lo que Megan no sabe:** que la pareja de Emily es Claire. Mark le contó que Emily vive con su vecina —así la conoció para recomendársela— y que nunca le pareció que fueran pareja, solo que vivían juntas. Preguntó cómo era la vecina; Mark dijo que unos 35 años.
+- Duda de fondo: sospecha que puede ser "algo aparte" para Emily, igual que Mark lo es para ella, y preferiría saber en qué está.
+- Sobre los yesos: corrigió la fecha (son tres días, el **Día 32**) y admitió vértigo ante volver a apañarse sin que le hagan todo.
+
 **Voz / Tics de habla:**
 
 - Frases de aprobación brevísimas durante el sexo: "Bien así.", "Mejor así.", "Sí.", "Así.", "Más fuerte.", "Despacio.". No describe lo que siente, lo afirma.
@@ -71,6 +81,11 @@
 - "Un poco, sí... me dieron ganas de ser yo la que tuviera las manos libres para hacerlo." _(admitiendo envidia de la enfermera durante la revisión de la picazón — Día 25)_
 - "Hablé con Emily anoche. Pasó. No te lo cuento por aquí, es demasiado para que otra persona te lo lea." _(mensaje de texto tras la conversación con Emily — Día 26)_
 - "No necesito 'unas semanas' para saber que quiero seguir así. Eso lo dije más por prudencia que porque lo sienta de verdad." _(llamada telefónica, siendo honesta sobre sus propios tiempos — Día 26)_
+- "Yo venía preparada para pedir perdón y de repente era yo la que no sabía qué decir." _(sobre la reacción de Emily — Día 29)_
+- "Me dio más miedo que no le importara que si me hubiera dicho que se iba." _(Día 29)_
+- "Puede que le vaya perfectamente bien y yo sea algo aparte, como lo eres tú para mí. Que tampoco me parece mal. Solo que preferiría saber en qué estoy." _(Día 29)_
+- "Y yo estoy aquí en una silla con medio cuerpo escayolado. No sé qué compara uno en esa situación." _(al oír la edad de la pareja de Emily — Día 29)_
+- "Avísame cuando estés en casa y ya con ropa encima, que quiero verte entera de una vez." _(despidiéndose antes del alta — Día 29)_
 
 **Momentos con Mark:**
 

@@ -82,9 +82,11 @@ Mark le pidió a Claire, por mensaje desde el hospital, que durante su ausencia 
 
 **Decisión de Claire:** Rachel le pide ayuda a Vera para poder tener intimidad con Sophie, ya que ninguna de las dos puede usar los brazos (Rachel por el shoulder spica, Sophie inmovilizada por el yeso completo). Vera lo acepta como parte razonable del cuidado. Durante la maniobra — sostener posiciones, guiar el pene de Sophie hacia Rachel — Sophie hace o dice algo que convierte el gesto clínico en otra cosa; Vera no lo busca pero tampoco se retira: cede un momento breve (una caricia de más, un instante sostenido) antes de recomponer el tono profesional. Iniciado por Sophie, no por Vera.
 
-**Cuándo:** a determinar al narrarlo, en algún momento entre el Día 24 y el Día 29.
+**Cuándo:** ocurrió la **noche del Día 27**, en la habitación de Rachel, sin Mark presente. Dana vio parte de la maniobra desde el pasillo y no le dio importancia en su momento.
 
-**Regla de narración:** no anticipar ni insinuar esto en las escenas activas con Mark. Se narra tal cual cuando llegue el momento, como escena propia (Vera/Rachel/Sophie sin Mark presente), o se revela después de forma indirecta.
+**Revelación:** el **Día 29 a mediodía**, Mark le pide a Claire que Dana lo llame y se lo cuente (la sorpresa deja de estar en manos de Claire). Ajuste ejecutado: Dana llama y lo relata con su naturalidad práctica habitual. Los detalles concretos de lo que ocurrió se fijan al narrar esa llamada.
+
+**Regla de narración:** Vera no menciona el episodio a Mark por iniciativa propia; para ella fue un momento breve que recompuso enseguida y no forma parte del parte diario de cuidados.
 
 ---
 

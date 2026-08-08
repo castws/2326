@@ -772,3 +772,63 @@ Dormitorio. Mark desnuda a Rachel y luego se desnuda. La ayuda a tumbarse. Se ac
 "Hoy fue distinto. No lo sabía hasta hoy." (sobre la dependencia que le produce el yeso). Mark la masturba con los dedos dentro de la vagina; Rachel: "Mark." (solo el nombre — primera vez que lo dice así). Mark se monta, la besa, la penetra. Rachel: "Entonces dámelo." Mark pregunta cómo se siente no poder apartarle. Rachel: "Bien." / "Porque no puedo pararte." / "No lo sabía hasta hoy." Escena: Rachel llega primera (sonido largo, caderas apretadas contra Mark, brazos inútiles del shoulder spica abiertos en el aire, manos abiertas y cerradas). Mark llega dentro de ella. Silencio.
 
 Luz apagada. Mark llama su nombre. Rachel responde "¿Qué?" sin el tono habitual. Mark dice que le ha encantado no solo el sexo sino haber hablado abiertamente. Rachel: "A mí también. Lo digo mientras compruebo si es verdad." / "Duerme." Mark le acaricia el cabello hasta que Rachel se duerme.
+
+---
+
+## Día 21 — Mañana
+
+### Escena 111: Despertar con Rachel — baño y desayuno (Día 21, mañana)
+
+Mark despierta a Rachel acariciándole el cabello. Rachel despierta despacio, pide el baño antes de desayunar. Mark la ayuda a levantarse, la acompaña al baño: la desviste, la sienta en el inodoro, la limpia con papel higiénico. Rachel se lava la cara inclinándose sobre el grifo (sin poder usar las manos); Mark le acerca la toalla sin que lo pida. Rachel: "La cara me la lavo yo." Desayuno en el comedor: Dana tiene café y tostadas. Mark da de comer a Rachel con pajita y trozos. Al llevarla al salón a ver TV (su serie de documentales sobre arquitectura), Rachel le pide que no actúe diferente por lo de la noche anterior: "Anoche... no tienes que actuar diferente por lo de anoche." Mark dice que fue especial para él. Rachel: "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." Le pide que vaya a hacer lo que tenga que hacer.
+
+### Escena 112: Visita a Sophie — conversación y masturbación (Día 21, mañana)
+
+Mark entra a la habitación de Sophie. Está acostada, toallas sobre senos y pene. Mark se sienta en el borde y pregunta cómo durmió. Sophie pregunta por Rachel. Mark le agradece lo de la víspera (haber pedido que Mark besara a Rachel). Sophie: "No hice nada. Ella ya lo quería. Solo hice falta yo de excusa." Añade que Rachel no era cortante con Mark, sino cuidadosa: "Son cosas distintas." Explica que Rachel necesitaba permiso de una forma que no pareciera que ella lo pedía. Mark retira la toalla del pene de Sophie y empieza a acariciarlo. Sophie: "Que me toques. Y no pares cuando diga que sí." Mark la masturba despacio, luego más rápido a petición implícita. Sophie llega al clímax (sonido corto y ahogado). Mark la limpia con papel higiénico. Sophie comenta que el yeso acumula manchas de semen y que Dana dice que huele, pero que a ella no le molesta.
+
+### Escena 113: Mensajes y visita a Claire — creación de Jude (Día 21, mañana)
+
+Mark revisa el móvil. Tres mensajes: Mira (le contó a June anoche; June está rara, le da tiempo). Patricia (quiere el libro, tipeo con gancho visible: "cuanfo vienes con el libor"). Diane (Tori usó el vibrador 20 minutos esa mañana, come bien, sin novedades médicas). Mark escribe a Megan; ella responde que iba a salir a ver a una amiga e invita a Mark a acompañarla.
+
+Mark visita a Claire en su casa. Le encarga un nuevo personaje: Jude, 24 años, derrame cerebral a los 21, inmovilización completa (solo ojos y párpados), boca siempre abierta, cánula de traqueotomía, sonda gástrica, cabello negro, piel blanca, tatuajes geométricos y florales, senos grandes, caderas anchas. Pasado activo en BDSM (le gustaba ser inmovilizada: shibari, cintas, esposas). Hermana Cora (26 años, castaña clara, delgada, cara con cansancio acumulado y sonrisa lenta) como cuidadora y amiga de Megan. No aparece en la app. El auricular de pensamientos se activa también a menos de tres metros de Jude. Mark conocerá a Jude a través de Megan: la próxima visita, Megan la invitaría a acompañarla. Estado emocional de Jude: frustrada, con rabia por su situación; la ironía central es que antes elegía que la inmovilizaran y ahora no puede elegir nada. Claire ejecuta. Jude queda activa.
+
+### Escena 114: Primera visita a Jude — tarde con Megan, Cora y Jude (Día 21, mañana-tarde)
+
+Mark llega al apartamento de Megan. Emily abre la puerta. Megan está lista con abrigo y bolso. Van juntos en vehículo a casa de Cora, edificio de ladrillo claro a diez minutos.
+
+Cora abre la puerta (26 años, castaña clara, cara cansada, sonrisa que tarda en llegar). En el salón: Jude en la cama hospitalaria — cabello negro sobre almohada, camiseta negra sin mangas, tatuajes al descubierto, boca abierta, cánula de traqueotomía visible en la base del cuello, respirador portátil junto a la cama. El auricular de Mark se activa al acercarse. Mark la saluda directamente. Jude lo sigue con los ojos. Cora explica que Jude entiende todo perfectamente pero no puede responder con voz.
+
+Mark ayuda a trasladar a Jude a la silla de ruedas con soporte de cabeza; Cora la reposiciona. Se sientan en la sala. La conversación dura toda la tarde: clima, vida en el barrio, sexo, fetiches. Jude interviene deletreando con la tabla de letras que Cora sostiene: "PERO FRÍO" (sobre el clima); "ME GUSTABA QUE ME ATARAN" (sobre fetiches); "IRÓNICO" (cuando Mark menciona que le gusta la inmovilización); "MEJOR ANTES" (sobre el barrio). Cora narra brevemente el derrame: Jude sola en casa, Cora llegó tres horas después. El auricular transmite pensamientos de Jude en tiempo real: evaluación directa de Mark, sorpresa de que no aparte la vista, ganas de seguir hablando por primera vez en mucho tiempo.
+
+Mark configura a Claire por mensaje: Jude queda con ganas de tener sexo con Mark; lo hablará con Cora esta tarde o noche; Cora inicialmente no estará de acuerdo pero cederá; Cora se lo contará a Megan por mensaje. Mark se despide de Jude con beso en la mejilla. Jude deletrea "VUELVES". Mark: "¿Por qué no? Ha sido una agradable tarde." Jude: "SÍ. HACÍA TIEMPO." Cora: "Puede volver cuando quiera." Pensamiento de Jude en el auricular: "Primera vez en tres años que quiero que alguien vuelva."
+
+### Escena 115: Regreso al apartamento de Megan — conversación y despedida (Día 21, tarde)
+
+Mark y Megan vuelven en vehículo al apartamento. Megan dice que Jude los miró mucho, más de lo habitual con gente nueva; propone que fue por el comentario sobre la inmovilización o porque simplemente le gustó Mark. Añade que Jude antes era de las que elegían a las personas, no de las que esperaban; "hoy eligió mirarte." Mark y Megan suben al apartamento. Emily en la cocina. Mark pide agua y dice que tiene que irse pronto. Conversación: Megan reporta que Emily la peinó esa mañana sin razón práctica. Mark le recuerda que los yesos no duran para siempre y que tiene que tomar una decisión. Megan: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. Mark la deja con esa pregunta y se despide. Le dice que le mantenga informado ("ya sabes a qué me refiero"). Megan asiente. Mark sale.
+
+---
+
+## Día 21 — Noche (continuación)
+
+### Escena 116: Invitación a Patricia — llegada a la mansión con prótesis (Día 21, tarde-noche)
+
+Mark, en la ciudad, escribe a Patricia pidiéndole que vaya a la mansión esa noche. Patricia acepta y llega media hora después en vehículo autónomo. Lleva vestido negro corto que comienza desde la base de los senos, pezoneras doradas con pequeños colgantes, aberturas laterales desde la cadera hasta el bajo. Prótesis de gancho puestas en ambos brazos; arneses cruzados visibles sobre los hombros. Sin panties: Mark se los quitó en la entrada (los guardó en el bolsillo). Beso y caricia de seno al llegar. Patricia comenta que lleva las prótesis desde el lunes y que todavía le cansan los hombros; Hannah las escogió combinadas con el vestido porque "los ganchos quedaban bien, que se veían."
+
+### Escena 117: Intimidad en la biblioteca — primera vez con prótesis puestas (Día 21, noche)
+
+En la biblioteca. Mark derrama vino accidentalmente sobre un seno de Patricia; lo lame y retira las dos pezoneras. Progresión: Mark lame el pezón → Patricia pide que la laman más abajo → usa el gancho para señalar la zona íntima con la falda subida → pide en voz alta que le laman el coño ("En el coño, Mark. Quiero que me lamas el coño." — primera petición explícita directa). Mark la lame. Patricia acaricia a Mark con los ganchos (cabello, cuello, hombros). Patricia desabrocha el pantalón de Mark con los ganchos (práctica que hace con Hannah usando un cilindro); masturba a Mark con el gancho derecho, movimiento controlado abriendo y cerrando. Mark se sienta en el sillón; Patricia se sienta encima. Patricia dicta el ritmo ("Quieto tú. Yo me muevo."). Monta con ganchos como ancla en los hombros de Mark; clímax de los dos. Mark no repone las pezoneras después. Comentario de Patricia: "Con el cilindro de Hannah no es lo mismo. El metal es distinto."
+
+### Escena 118: Cena con Dana — Patricia y Dana se conocen (Día 21, noche)
+
+Cena ligera preparada por Dana: ensalada, pan, queso y fiambre. Patricia come sola con los ganchos, despacio pero con precisión (se nota que lleva días practicando). Mark comenta que no se conocían. Patricia pregunta cuándo llegó Dana y si las amputaciones fueron de nacimiento. Mark explica que fueron accidentes, sin recordar los detalles. Patricia dice que hablará con ella después si no le molesta. Mark propone que sea al día siguiente.
+
+### Escena 119: Reconfiguración de Jude vía Claire (Día 21, noche)
+
+Durante la cena, Mark escribe a Claire con instrucciones de nueva secuencia para Jude: cancelar configuración anterior (no habla con Cora todavía); Día 22 Mark las encontrará en el centro comercial → Cora y Mark parecerán coquetear ante Jude → auricular mostrará frustración física de Jude → al volver a casa Jude confiesa a Cora atracción y ganas de sexo con Mark → Cora cede tras resistencia → sin contacto de Mark, habla primero con Megan → Megan contacta a Mark → Mark llama a Cora. Claire confirma y ejecuta.
+
+### Escena 120: Lectura de Claustrofobia — masturbación de Patricia con ganchos (Día 21, noche)
+
+De vuelta en la biblioteca. Mark retoma la lectura del capítulo 2 en adelante. Durante una escena erótica, Patricia empieza a masturbarse en silencio: gancho derecho abriendo y cerrando rítmicamente contra labios y clítoris, gancho izquierdo sobre el pezón con presión intermitente. Pide que no pare de leer y que vaya más despacio. Orgasmo: ganchos se abren al máximo, cuerpo tenso, sonido contenido. Primera vez que se masturba con el gancho directamente en lugar del cilindro de Hannah; dice que el metal es diferente y mejor.
+
+### Escena 121: Segunda intimidad — sin prótesis (Día 21, noche)
+
+Patricia pide que Mark le quite las prótesis antes de acostarse. Mark desabrocha los dos arneses despacio. Con los muñones libres del peso, Patricia se mueve con más soltura. Intimidad lenta: muñones rozan hombros, pecho, cuello, mejillas de Mark durante el acto. Orgasmo de Patricia con los muñones apretados contra las mejillas de Mark. Duermen juntos. Patricia: "Los ganchos están bien. Pero esto también."

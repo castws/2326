@@ -29,7 +29,7 @@
 - **Desde Día 25:** fin del silencio estricto (puede hablar, con esfuerzo mientras la voz nueva se asienta). Rutina diaria — baño en cama, aplicación de pomadas en todo el cuerpo, cambio completo de vendaje; además traslado a otras áreas del hospital para revisiones no realizables en la habitación (rayos X, escáner, etc.), siempre sin cobertura.
 - **Desde Día 26:** puede comer comidas sólidas, la enfermera lo alimentará.
 - **Desde Día 27:** evaluaciones de erección/arousal y eyaculación cada día. Movilidad limitada con recuperación gradual.
-- **Alta:** ~Día 30, retirada completa de vendajes.
+- **Día 30 (alta):** retirada completa de vendajes. **Cambio de protocolo (instrucción de Mark vía Claire, Día 29):** por tratarse de un procedimiento poco convencional, Mills quiere confirmar los resultados funcionales antes de dar el alta, así que la evaluación final **no** es de eyaculación como las anteriores, sino una **evaluación de penetración**. **Hobbs está presente** en esa evaluación. **La penetración se realiza con la propia Dra. Mills**, encuadrada por ella como parte del procedimiento clínico. Programada **antes** de la retirada de vendajes: Mark permanece vendado de pies a cabeza y solo se le retira el vendaje del pene y los testículos para la evaluación. La retirada completa se hace después.
 
 ---
 

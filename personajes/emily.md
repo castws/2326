@@ -18,7 +18,9 @@
 - La noche del Día 25, Megan le confesó sus sentimientos; Emily correspondió, reconociendo que llevaba tiempo dándole vueltas a si lo que sentía era propio de una cuidadora o algo más. Primer beso.
 - Al enterarse de que los yesos de Megan son voluntarios, se tomó un momento para procesarlo; luego admitió su propia atracción y la culpa que cargaba por ella, y que saber que Megan lo había elegido le quitó ese peso. Primera intimidad entre las dos esa misma noche.
 - Se quedó a dormir con Megan (algo que no hacía entre semana) y le preparó el desayuno con dos opciones a elegir, a la mañana siguiente.
-- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark — aunque todavía no sabe que existen.
+- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark.
+- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily **no se enfadó**: la escuchó entera, se quedó callada un rato y después reveló que **ella también tiene pareja y vive con ella** — llevan años juntas, vive en una casa fuera de la ciudad, **no dio el nombre** (es Claire; Megan no tiene ese dato), y **su pareja ya sabe lo de ellas y no le importa**. Después siguió con la rutina de cuidados con normalidad, le dio el almuerzo como cualquier otro día y se quedó en el apartamento.
+- **Silencio sobre los yesos:** no ha dicho una sola palabra sobre la retirada desde que supo que son voluntarios. Megan interpreta que no quiere que se los quite y no se atreve a decirlo. **Sin confirmar.**
 
 **Voz / Tics de habla:**
 

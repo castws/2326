@@ -6,66 +6,6 @@ Ventana activa: día actual + ~7 días previos en detalle (escena por escena). L
 
 ---
 
-## Día 21 — Mañana
-
-### Escena 111: Despertar con Rachel — baño y desayuno (Día 21, mañana)
-
-Mark despierta a Rachel acariciándole el cabello. Rachel despierta despacio, pide el baño antes de desayunar. Mark la ayuda a levantarse, la acompaña al baño: la desviste, la sienta en el inodoro, la limpia con papel higiénico. Rachel se lava la cara inclinándose sobre el grifo (sin poder usar las manos); Mark le acerca la toalla sin que lo pida. Rachel: "La cara me la lavo yo." Desayuno en el comedor: Dana tiene café y tostadas. Mark da de comer a Rachel con pajita y trozos. Al llevarla al salón a ver TV (su serie de documentales sobre arquitectura), Rachel le pide que no actúe diferente por lo de la noche anterior: "Anoche... no tienes que actuar diferente por lo de anoche." Mark dice que fue especial para él. Rachel: "Para mí también. Ya lo dije anoche. Sigue siendo verdad esta mañana." Le pide que vaya a hacer lo que tenga que hacer.
-
-### Escena 112: Visita a Sophie — conversación y masturbación (Día 21, mañana)
-
-Mark entra a la habitación de Sophie. Está acostada, toallas sobre senos y pene. Mark se sienta en el borde y pregunta cómo durmió. Sophie pregunta por Rachel. Mark le agradece lo de la víspera (haber pedido que Mark besara a Rachel). Sophie: "No hice nada. Ella ya lo quería. Solo hice falta yo de excusa." Añade que Rachel no era cortante con Mark, sino cuidadosa: "Son cosas distintas." Explica que Rachel necesitaba permiso de una forma que no pareciera que ella lo pedía. Mark retira la toalla del pene de Sophie y empieza a acariciarlo. Sophie: "Que me toques. Y no pares cuando diga que sí." Mark la masturba despacio, luego más rápido a petición implícita. Sophie llega al clímax (sonido corto y ahogado). Mark la limpia con papel higiénico. Sophie comenta que el yeso acumula manchas de semen y que Dana dice que huele, pero que a ella no le molesta.
-
-### Escena 113: Mensajes y visita a Claire — creación de Jude (Día 21, mañana)
-
-Mark revisa el móvil. Tres mensajes: Mira (le contó a June anoche; June está rara, le da tiempo). Patricia (quiere el libro, tipeo con gancho visible: "cuanfo vienes con el libor"). Diane (Tori usó el vibrador 20 minutos esa mañana, come bien, sin novedades médicas). Mark escribe a Megan; ella responde que iba a salir a ver a una amiga e invita a Mark a acompañarla.
-
-Mark visita a Claire en su casa. Le encarga un nuevo personaje: Jude, 24 años, derrame cerebral a los 21, inmovilización completa (solo ojos y párpados), boca siempre abierta, cánula de traqueotomía, sonda gástrica, cabello negro, piel blanca, tatuajes geométricos y florales, senos grandes, caderas anchas. Pasado activo en BDSM (le gustaba ser inmovilizada: shibari, cintas, esposas). Hermana Cora (26 años, castaña clara, delgada, cara con cansancio acumulado y sonrisa lenta) como cuidadora y amiga de Megan. No aparece en la app. El auricular de pensamientos se activa también a menos de tres metros de Jude. Mark conocerá a Jude a través de Megan: la próxima visita, Megan la invitaría a acompañarla. Estado emocional de Jude: frustrada, con rabia por su situación; la ironía central es que antes elegía que la inmovilizaran y ahora no puede elegir nada. Claire ejecuta. Jude queda activa.
-
-### Escena 114: Primera visita a Jude — tarde con Megan, Cora y Jude (Día 21, mañana-tarde)
-
-Mark llega al apartamento de Megan. Emily abre la puerta. Megan está lista con abrigo y bolso. Van juntos en vehículo a casa de Cora, edificio de ladrillo claro a diez minutos.
-
-Cora abre la puerta (26 años, castaña clara, cara cansada, sonrisa que tarda en llegar). En el salón: Jude en la cama hospitalaria — cabello negro sobre almohada, camiseta negra sin mangas, tatuajes al descubierto, boca abierta, cánula de traqueotomía visible en la base del cuello, respirador portátil junto a la cama. El auricular de Mark se activa al acercarse. Mark la saluda directamente. Jude lo sigue con los ojos. Cora explica que Jude entiende todo perfectamente pero no puede responder con voz.
-
-Mark ayuda a trasladar a Jude a la silla de ruedas con soporte de cabeza; Cora la reposiciona. Se sientan en la sala. La conversación dura toda la tarde: clima, vida en el barrio, sexo, fetiches. Jude interviene deletreando con la tabla de letras que Cora sostiene: "PERO FRÍO" (sobre el clima); "ME GUSTABA QUE ME ATARAN" (sobre fetiches); "IRÓNICO" (cuando Mark menciona que le gusta la inmovilización); "MEJOR ANTES" (sobre el barrio). Cora narra brevemente el derrame: Jude sola en casa, Cora llegó tres horas después. El auricular transmite pensamientos de Jude en tiempo real: evaluación directa de Mark, sorpresa de que no aparte la vista, ganas de seguir hablando por primera vez en mucho tiempo.
-
-Mark configura a Claire por mensaje: Jude queda con ganas de tener sexo con Mark; lo hablará con Cora esta tarde o noche; Cora inicialmente no estará de acuerdo pero cederá; Cora se lo contará a Megan por mensaje. Mark se despide de Jude con beso en la mejilla. Jude deletrea "VUELVES". Mark: "¿Por qué no? Ha sido una agradable tarde." Jude: "SÍ. HACÍA TIEMPO." Cora: "Puede volver cuando quiera." Pensamiento de Jude en el auricular: "Primera vez en tres años que quiero que alguien vuelva."
-
-### Escena 115: Regreso al apartamento de Megan — conversación y despedida (Día 21, tarde)
-
-Mark y Megan vuelven en vehículo al apartamento. Megan dice que Jude los miró mucho, más de lo habitual con gente nueva; propone que fue por el comentario sobre la inmovilización o porque simplemente le gustó Mark. Añade que Jude antes era de las que elegían a las personas, no de las que esperaban; "hoy eligió mirarte." Mark y Megan suben al apartamento. Emily en la cocina. Mark pide agua y dice que tiene que irse pronto. Conversación: Megan reporta que Emily la peinó esa mañana sin razón práctica. Mark le recuerda que los yesos no duran para siempre y que tiene que tomar una decisión. Megan: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. Mark la deja con esa pregunta y se despide. Le dice que le mantenga informado ("ya sabes a qué me refiero"). Megan asiente. Mark sale.
-
----
-
-## Día 21 — Noche (continuación)
-
-### Escena 116: Invitación a Patricia — llegada a la mansión con prótesis (Día 21, tarde-noche)
-
-Mark, en la ciudad, escribe a Patricia pidiéndole que vaya a la mansión esa noche. Patricia acepta y llega media hora después en vehículo autónomo. Lleva vestido negro corto que comienza desde la base de los senos, pezoneras doradas con pequeños colgantes, aberturas laterales desde la cadera hasta el bajo. Prótesis de gancho puestas en ambos brazos; arneses cruzados visibles sobre los hombros. Sin panties: Mark se los quitó en la entrada (los guardó en el bolsillo). Beso y caricia de seno al llegar. Patricia comenta que lleva las prótesis desde el lunes y que todavía le cansan los hombros; Hannah las escogió combinadas con el vestido porque "los ganchos quedaban bien, que se veían."
-
-### Escena 117: Intimidad en la biblioteca — primera vez con prótesis puestas (Día 21, noche)
-
-En la biblioteca. Mark derrama vino accidentalmente sobre un seno de Patricia; lo lame y retira las dos pezoneras. Progresión: Mark lame el pezón → Patricia pide que la laman más abajo → usa el gancho para señalar la zona íntima con la falda subida → pide en voz alta que le laman el coño ("En el coño, Mark. Quiero que me lamas el coño." — primera petición explícita directa). Mark la lame. Patricia acaricia a Mark con los ganchos (cabello, cuello, hombros). Patricia desabrocha el pantalón de Mark con los ganchos (práctica que hace con Hannah usando un cilindro); masturba a Mark con el gancho derecho, movimiento controlado abriendo y cerrando. Mark se sienta en el sillón; Patricia se sienta encima. Patricia dicta el ritmo ("Quieto tú. Yo me muevo."). Monta con ganchos como ancla en los hombros de Mark; clímax de los dos. Mark no repone las pezoneras después. Comentario de Patricia: "Con el cilindro de Hannah no es lo mismo. El metal es distinto."
-
-### Escena 118: Cena con Dana — Patricia y Dana se conocen (Día 21, noche)
-
-Cena ligera preparada por Dana: ensalada, pan, queso y fiambre. Patricia come sola con los ganchos, despacio pero con precisión (se nota que lleva días practicando). Mark comenta que no se conocían. Patricia pregunta cuándo llegó Dana y si las amputaciones fueron de nacimiento. Mark explica que fueron accidentes, sin recordar los detalles. Patricia dice que hablará con ella después si no le molesta. Mark propone que sea al día siguiente.
-
-### Escena 119: Reconfiguración de Jude vía Claire (Día 21, noche)
-
-Durante la cena, Mark escribe a Claire con instrucciones de nueva secuencia para Jude: cancelar configuración anterior (no habla con Cora todavía); Día 22 Mark las encontrará en el centro comercial → Cora y Mark parecerán coquetear ante Jude → auricular mostrará frustración física de Jude → al volver a casa Jude confiesa a Cora atracción y ganas de sexo con Mark → Cora cede tras resistencia → sin contacto de Mark, habla primero con Megan → Megan contacta a Mark → Mark llama a Cora. Claire confirma y ejecuta.
-
-### Escena 120: Lectura de Claustrofobia — masturbación de Patricia con ganchos (Día 21, noche)
-
-De vuelta en la biblioteca. Mark retoma la lectura del capítulo 2 en adelante. Durante una escena erótica, Patricia empieza a masturbarse en silencio: gancho derecho abriendo y cerrando rítmicamente contra labios y clítoris, gancho izquierdo sobre el pezón con presión intermitente. Pide que no pare de leer y que vaya más despacio. Orgasmo: ganchos se abren al máximo, cuerpo tenso, sonido contenido. Primera vez que se masturba con el gancho directamente en lugar del cilindro de Hannah; dice que el metal es diferente y mejor.
-
-### Escena 121: Segunda intimidad — sin prótesis (Día 21, noche)
-
-Patricia pide que Mark le quite las prótesis antes de acostarse. Mark desabrocha los dos arneses despacio. Con los muñones libres del peso, Patricia se mueve con más soltura. Intimidad lenta: muñones rozan hombros, pecho, cuello, mejillas de Mark durante el acto. Orgasmo de Patricia con los muñones apretados contra las mejillas de Mark. Duermen juntos. Patricia: "Los ganchos están bien. Pero esto también."
-
----
-
 ## Día 22 — Mañana
 
 ### Escena 122: Despertar — desayuno y conversación Patricia-Dana sobre prótesis (Día 22, mañana)
@@ -414,5 +354,77 @@ Durante el cambio completo de vendaje del tronco, conversación larga: Hobbs cue
 
 ---
 
-**La conversación termina aquí: Día 29, mediodía. Hobbs sale de la habitación con el carrito; Mark se queda solo con el vendaje del tronco recién cambiado.**
-**Próximo paso pendiente:** Hobbs vuelve al final de su turno (antes de las 19h del Día 29) a informar de cómo le fue con la orden. Alta el Día 30 con retirada completa de vendajes (Hobbs quiere estar presente). Megan se quita los yesos ~Día 32 en la mansión, con Vera; hoy le cuenta a Emily lo suyo con Mark. Pendiente: primera intimidad Dana-Rachel sin narrar sus consecuencias emocionales; visita de Cora y Jude a la mansión tras el alta; "sorpresa" secreta de Claire entre Vera y Sophie (ver `personajes/vera.md`) sigue sin ocurrir.
+## Día 29 — Mediodía y tarde (continuación)
+
+### Escena 184: Mensajes del mediodía (Día 29, mediodía)
+
+Solo en la habitación, Mark alcanza el móvil de la mesa auxiliar con esfuerzo (el hombro responde antes que el codo; no puede sostenerlo, lo apoya sobre el vendaje del vientre). Cuatro mensajes: Dana (todo tranquilo, Rachel toda la mañana en el salón, Sophie igual); Diane (rutina de Tori: vibrador 25 minutos en nivel 3, come bien, sin novedades médicas); Cora (Jude le ha dictado con la tabla una lista de ideas para el club y Cora las ha apuntado ella; se cansa deletreando pero no quiere parar); Vera (ha organizado el traslado de Sophie por si quiere estar en casa al llegar Mark, y pregunta la hora del alta).
+
+**Corrección de continuidad aplicada en esta escena:** Jude no puede sostener ni escribir nada — todo mensaje suyo pasa por Cora, que sostiene la tabla, lee y apunta.
+
+### Escena 185: Instrucción a Claire — la sorpresa deja de ser secreta (Día 29, mediodía)
+
+Mark le escribe a Claire señalando que Dana nunca le contó nada de la "sorpresa" encargada el Día 23, y le pide que Dana lo llame y se lo cuente. Claire confirma: el episodio ocurrió **la noche del Día 27** en la habitación de Rachel; Dana vio parte desde el pasillo y no lo consideró información que reportar. Ajuste ejecutado; la llamada entrará en altavoz.
+
+### Escena 186: Llamada con Dana — el episodio del Día 27 y el encargo de ropa (Día 29, mediodía)
+
+Dana llama desde la cocina y relata lo que vio: Rachel le pidió a Vera que la ayudara a estar con Sophie, ya que ninguna de las dos puede usar los brazos. Vera se lo pensó un momento, aceptó ("entraba dentro de lo razonable si las dos lo pedían") y fue a preguntárselo a Sophie ella misma en lugar de fiarse de Rachel. Trajo a Sophie en la silla reclinada hasta la habitación de Rachel con el respaldo bajado, ayudó a Rachel a quitarse la ropa de abajo y a subirse a horcajadas, la sujetaba por las caderas con una mano para que no se fuera de lado y con la otra le guiaba el pene de Sophie. Dana pasaba por el pasillo con la ropa limpia y se quedó mirando desde la puerta entreabierta. En un momento **Sophie le pidió a Vera que le tocara los senos** (fuera del yeso, sin sensación desde días), "como quien pide un vaso de agua"; Vera se quedó callada un segundo, lo hizo con la mano libre y **se quedó más rato del necesario** — ya no era ayudar a Rachel. Sophie terminó dentro de Rachel; Vera apartó la mano, volvió al tono profesional de golpe, limpió a las dos, subió a Sophie a la silla y dejó dicho que si lo necesitaban otra noche se lo pidieran.
+
+Dana admite que le excitó verlo y que después se quitó los ganchos y se masturbó con el muñón. Mark le pregunta si le gustaría que Vera la ayudara a masturbarse; Dana responde que sí, pero que no tiene excusa práctica porque no es paciente suya ("¿Me lo estás preguntando o me lo estás pidiendo?"). Mark le pide que piense en alguna excusa.
+
+**Cambio de tema — encargo de ropa:** Mark cae en que no tiene ropa apropiada para su nuevo cuerpo y le pide a Dana que vaya con Rachel a comprarle tres atuendos, que le marquen la figura, le resalten los senos y le marquen el pene abajo (como se lleva), más ropa interior y zapatos. Dana propone pedirle las medidas a la Dra. Mills en lugar de comprar a ojo. Rachel mirará y Dana cargará.
+
+### Escena 187: Llamada a Claire — cambio del protocolo del alta (Día 29, mediodía)
+
+Mark le ordena a Claire modificar el protocolo del Día 30: por ser un procedimiento poco convencional, la Dra. Mills querrá confirmar los resultados funcionales, así que en lugar de la evaluación de eyaculación habitual hará una **evaluación de penetración**, con **Hobbs presente**. Claire pide el dato que falta (con quién se realiza la penetración); Mark responde: **con Mills**. Claire la programa después de la retirada de vendajes; Mark corrige: **antes**, permaneciendo vendado de pies a cabeza y destapando solo el pene y los testículos. Para Mills y para Hobbs el cambio es criterio médico, no una petición de Mark.
+
+### Escena 188: Ronda de Combs — almuerzo (Día 29, primera hora de la tarde)
+
+Combs, enfermera del turno de tarde (~30 años, cabello oscuro corto, ya con el uniforme nuevo del Creston), trae la bandeja del almuerzo, retira el móvil de encima del vendaje sin comentarlo, revisa constantes y pregunta por molestias o picazón. Mark almuerza y ella se va.
+
+### Escena 189: Hobbs vuelve a mediodía — informe, mediciones y permiso denegado (Día 29, tarde)
+
+Mark le pide a Claire que hagan pasar a Hobbs por su habitación; Claire le asigna una tarea en esa planta (para Hobbs es una asignación normal). Hobbs llega sin el carrito, con el uniforme marcándole los pezones y el pene sin ropa interior debajo.
+
+**Informe de la primera orden:** cuatro erecciones en la mañana — la primera a diez metros de la habitación (tuvo que quedarse de cara a la ventana del office), la segunda sola en el ascensor, la tercera cambiando un apósito en la 214 con la paciente delante (tuvo que terminar el apósito así) y la cuarta viniendo hacia la habitación. La paciente de la 214 la miró y le dijo que no se preocupara, que a ella le daba igual: "y eso fue peor que si no hubiera dicho nada". Paciente: **Kelsey Barr, 22 años**, nueve días ingresada por amputación por debajo de la rodilla izquierda; Hobbs le hace la cura del muñón cada día a las once.
+
+**Mediciones:** a orden de Mark, Hobbs busca una cinta métrica, vuelve y espera de pie mirando la pared hasta quedar flácida; luego se mide: **8,5 cm de largo y 11,5 cm de contorno** en reposo ("de largo no es nada, de ancho sí").
+
+**Asistencia para orinar:** retira la venda de la punta y, a pedido de Mark, desenrolla el tronco entero dejando solo la banda de fijación de la base para que no se moje nada. Sostiene la botella y, a pedido de Mark, le sujeta el pene con la mano; reconoce sin rodeos que llevaba desde la mañana queriendo tocarlo otra vez.
+
+**Limpieza con la lengua y oral:** Mark le ordena limpiarlo con la lengua; ella objeta que clínicamente eso no limpia nada y obedece igual. La escena escala por pasos a petición de Mark hasta el sexo oral completo. Cuando Mark detecta que se ha llevado la mano encima de su propio vestido, le prohíbe tocarse y le ordena concentrarse en él; ella retira la mano al bastidor de la cama ("Vale. Espero."). Mark eyacula en su boca; ella traga sin sacarlo y se disculpa porque se le cayó algo ("Perdón. Se me ha caído un poco"). Mark la elogia; ella responde que ese elogio le ha hecho más efecto que todo lo físico anterior. Limpia, aplica pomada y rehace el vendaje del pene en el mismo ángulo y tensión ("cuando pase la doctora no va a notar nada raro").
+
+**Permiso concedido:** Mark la autoriza a masturbarse en el baño de la habitación, con la puerta abierta a orden suya. Desde la cama no se ve nada (fuera del campo de visión); termina en menos de un minuto y sale recomponiéndose: "Otra vez lo mismo que con lo de la hora de pie. Cuando por fin me dejan, no dura nada."
+
+**Segunda orden:** puede recoger sujetador y panties del cajón pero no ponérselos; sigue el resto del turno igual, **corriendo más riesgos** y sin tirarse de la falda hacia abajo, e informará al volver de cuánta vergüenza le da. Se lleva las prendas en la mano.
+
+### Escena 190: Llamada con Megan — Emily tiene pareja (Día 29, tarde)
+
+El móvil vibra sobre la mesa auxiliar, fuera de alcance; Mark lo arrastra hasta apoyarlo contra el vendaje del pene. Dos mensajes: Dana (ya tiene las medidas por escrito de la doctora, **el alta es a las once**, estarán allí a las diez con todo) y Megan ("Ya hablé con Emily. No fue como esperaba. ¿Puedes llamarme?").
+
+Mark llama. Megan relata: Emily **no se enfadó**, la escuchó entera y después le contó que **ella también tiene pareja y que vive con ella** — llevan años juntas, vive en una casa fuera de la ciudad, **no le dio el nombre**, y **su pareja ya sabe lo de ellas y no le importa**. Megan lo pasó mal un rato ("yo venía preparada para pedir perdón y de repente era yo la que no sabía qué decir"). Emily sigue en el apartamento y le ha dado el almuerzo como cualquier otro día. Mark le señala que ya no tiene que sentirse mal por tener algo con Emily y con él, y le aconseja seguir afianzando la relación. Megan: "me dio más miedo que no le importara que si me hubiera dicho que se iba", y más adelante "puede que le vaya perfectamente bien y yo sea algo aparte, como lo eres tú para mí".
+
+Mark le cuenta que **Emily vive con su vecina** — así la conoció para recomendársela — y que nunca le pareció que fueran pareja, solo que vivían juntas. Megan no sabe el nombre ni que se trata de Claire. Pregunta cómo es la vecina; Mark dice que unos 35 años y que Megan es más bonita e interesante que ella ("Eso no cambia nada, pero me lo quedo igual").
+
+**Yesos:** Megan corrige la fecha — son tres días, el **Día 32** —, y admite vértigo: "llevo tanto tiempo así que ya no me acuerdo de cómo es apañarme sin que alguien me lo haga todo". Confirma el alta de mañana y pide que Mark le avise cuando esté en casa y con ropa puesta, "que quiero verte entera de una vez".
+
+### Escena 191: Informe de Hobbs al final del turno y tarea nocturna (Día 29, ~19h)
+
+Hobbs vuelve poco antes de las siete, con la mancha del vestido convertida en un cerco grande y evidente y otra erección marcada. "Ha sido la hora y media más larga de mi vida." Informe, en orden:
+
+- **El relevo:** veinte minutos de pie en medio del office con seis compañeras, sin apoyarse ni cruzar los brazos. A los diez minutos una le dijo que fuera a cambiarse el uniforme manchado; contestó que no tenía otro limpio y la compañera se le quedó mirando un segundo antes de seguir con el parte.
+- **La 209:** se le cayó un drenaje al suelo con la paciente delante y se agachó **de frente** (de lado no se habría visto nada, "y eso no era lo que usted me pidió"); la falda se le subió, quedó todo a la vista y se quedó abajo más rato del necesario. La paciente lo miró y le preguntó si tenía turno doble, "porque se me notaba tensa". Al levantarse la tenía peor y le hizo la cura entera así, de pie, veinticinco minutos; inclinada sobre la cama la punta se le salía por debajo del borde de la falda (unas quince veces). Paciente: **Nadine Foss, 27 años**, operada de columna hace cinco días tras una caída, ambas piernas sin respuesta; cura de espalda dos veces al día, boca abajo y con la cara a la altura del trabajo de Hobbs — "la que menos podía apartar la vista".
+- **El ascensor:** cuatro plantas de cara a cuatro personas por haber entrado la última. "Nadie dijo nada, pero todas mirábamos al mismo sitio."
+- **Farmacia:** siete u ocho minutos de pie en el mostrador, de cara al pasillo y sin nada con que taparse; ahí fue donde se empapó el vestido y **estuvo a punto de terminar sin tocarse**. Aguantó leyendo las etiquetas de la vitrina y repitiéndose los nombres, y clavándose las uñas en la palma (cuatro marcas rojas todavía visibles).
+- **Cierre:** la supervisora le dijo que mañana viniera con el uniforme limpio y le preguntó si le pasaba algo, porque llevaba toda la tarde rara. Dijo que no.
+
+A orden de Mark se inclina sobre la cama para mostrarle cómo quedaba durante la cura. Sobre si lo disfrutó: "En el ascensor y en la cola lo pasé mal de verdad, quería que se acabara. Pero lo estoy contando ahora y la tengo igual que hace dos horas."
+
+**Tarea nocturna:** irse a casa **sin cambiarse**, con el uniforme puesto y la ropa interior guardada en el bolso (no se la pone hoy); ir **andando** al centro comercial (tres cuadras, preguntando indicaciones a la gente, ya que no conoce nada de la ciudad); caminar por zona concurrida pensando en lo del día — el sexo oral, Mark haciéndoselo a ella o penetrándola — y **llegar al clímax en público sin tocarse**; no puede volver a casa hasta que ocurra ni limpiarse después. Informará mañana.
+
+**Encargo adicional:** para mañana debe ponerse la ropa interior más sexy y provocativa que tenga. No tiene nada (llegó hace ocho días con una maleta pequeña y solo tiene algodón), así que comprará en la tienda de lencería del centro comercial, dejándose asesorar tal como va. Cae en la cuenta de esa parte al decirlo en voz alta y la acepta.
+
+---
+
+**La conversación termina aquí: Día 29, ~19h. Hobbs sale de la habitación con su ropa interior en la mano, camino de la tarea del centro comercial; Mark se queda solo en la habitación.**
+**Próximo paso pendiente:** **Día 30, alta a las 11:00.** Dana y Rachel llegan a las 10:00 con la ropa nueva (tres atuendos + ropa interior y zapatos, medidas obtenidas de la Dra. Mills). Antes del alta: **evaluación de penetración con la Dra. Mills, con Hobbs presente**, hecha aún vendado y destapando solo el pene; después, retirada completa de vendajes (confirmación de la talla de senos). Hobbs informará de la tarea nocturna y llevará la lencería nueva. Megan se quita los yesos ~Día 32 en la mansión con Vera, con Mark presente. Pendiente: excusa de Dana para pedirle a Vera que la ayude; consecuencias emocionales del episodio Vera/Rachel/Sophie del Día 27 (ninguna de las tres lo ha hablado con Mark); visita de Cora y Jude a la mansión tras el alta; yeso que Vera ofreció aplicarle a Mark.

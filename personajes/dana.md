@@ -30,6 +30,10 @@
 - "Hoy no. Es el primer día." _(declinando actuar sobre la erección de Mark — Día 15, baño)_
 - "¿Debería?" _(cuando Sophie dice que Dana no parece incomodarse por el cuerpo enyesado — Día 15)_
 - "Dime si algo no te gusta. Y si prefieres que pare, lo digo una vez y ya está, no hace falta explicar más." _(antes de masturbar a Rachel por primera vez — Día 28)_
+- "Me acordé de una cosa que no te conté y no sé si es de las que quieres saber o de las que no." _(abriendo la llamada del Día 29)_
+- "¿Me lo estás preguntando o me lo estás pidiendo?" _(cuando Mark le pregunta si querría que Vera la ayudara — Día 29)_
+- "Yo me apaño sola, así que no sería por necesidad, sería por otra cosa." _(sobre lo mismo — Día 29)_
+- "Lo de esperar desnudo ya lo vi el otro día, así que eso no me sorprende." _(cerrando la llamada — Día 29)_
 
 **Momentos con Mark:**
 
@@ -37,4 +41,5 @@
 - Primer baño con Rachel y Mark: practica la zona genital bajo la guía de Rachel; Mark tiene erección; Dana la registra y termina sin detenerse; declina hacer algo al respecto; seca a Mark con la toalla enrollada en los ganchos _(Día 15, escena 72)_.
 - Ducha sola con Mark esa noche: a petición de Mark se demora en la zona genital; lo masturba cuando él lo pide (pregunta directa "¿hago algo con lo de antes?"). Duerme con Mark; se quita todas las prótesis; le acaricia el pene con el muñón del antebrazo hasta que se duerme _(Día 15, escena 80)_.
 - Prepara cena y desayuno para Mark y Patricia. Primer contacto con Patricia (Día 22): conversación en el salón sobre adaptación a prótesis de gancho; Patricia lleva menos de una semana y tiene fatiga de arnés; Dana responde con practicidad sobre el entrenamiento muscular. Responde "Nada que haya querido de verdad aprender" cuando Patricia pregunta si hay algo que no pudo aprender _(Día 22, escena 122)_.
+- **Llamada del Día 29 (mediodía, escena 186):** a instrucción de Mark vía Claire, llama al hospital para contarle lo que vio la noche del Día 27 entre Vera, Rachel y Sophie (ver `personajes/vera.md`). Hasta ese momento no lo había mencionado por no considerarlo relevante. Lo relata con detalle y sin pudor, desde la puerta entreabierta y con la ropa limpia todavía en los ganchos. Admite que le excitó, que se quedó mirando más de lo que pensaba y que después se quitó los ganchos y **se masturbó con el muñón** ("que para eso me apaño mejor"). Dice que **le gustaría que Vera la ayudara a masturbarse**, pero que no tiene excusa práctica porque no es paciente suya; Mark le pide que piense en alguna — **pendiente**. En la misma llamada recibe el encargo de la ropa nueva de Mark (tres atuendos que marquen figura, senos y pene, más ropa interior y zapatos), propone pedir las medidas a la Dra. Mills en vez de comprar a ojo, y queda en llegar al Creston a las 10:00 del Día 30 con Rachel.
 - **Visita al Creston con Rachel (Día 28, tarde, escena 175):** Reacción práctica y sin sorpresa ante el vendaje total de Mark. Presente durante la evaluación de eyaculación de la Dra. Mills, con curiosidad directa ("¿Eso lo hacen todos los días?"). A pedido de Mark, masturba a Rachel con el muñón del antebrazo hasta el clímax — primera intimidad entre ambas, ofrecida con la misma naturalidad práctica de siempre.
