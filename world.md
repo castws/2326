@@ -112,7 +112,7 @@
 - Todos los vehículos son autónomos.
 - App de citas activa (ver sección dedicada más abajo).
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioelétricas en el área.
-- **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio.
+- **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio. **Excepción única (Días 30–32):** la ortesis completa de Mark (de la cadera a los pies) y su férula peneana son piezas post-quirúrgicas fabricadas a medida para su caso concreto, no artículos que existan en el área. Nadie más lleva ni puede conseguir algo así; la regla general sigue intacta.
 - **Moda topless y ropa de exposición (opción disponible, no obligatoria):** una parte de la población lleva los senos al descubierto. Las variantes de ropa que lo permiten incluyen:
   - Pantalones de talle muy alto que llegan hasta la base de los senos.
   - Vestidos que comienzan desde la base de los senos, algunos con tirantes en triángulo invertido sobre cada seno.

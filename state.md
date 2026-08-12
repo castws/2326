@@ -6,22 +6,25 @@
 
 ### Día actual
 
-**Día 29, ~19h (final de la tarde).** Mark solo en su habitación del Creston, sexto día post-operatorio. **Hobbs** acaba de salir tras informar de cómo le fue el turno con la primera orden; se va con una tarea nocturna en el centro comercial y con el encargo de comprar lencería para mañana. **Movilidad:** dedos de manos y pies desde el Día 28; codos, hombros, caderas y rodillas probados el Día 29 por la Dra. Mills con respuesta presente en todas las articulaciones (rango corto, movimiento con retraso). Ya alcanza el móvil de la mesa auxiliar con mucho esfuerzo, pero no puede sostenerlo: lo apoya sobre el vendaje del vientre o contra el del pene. Sigue vendado de pies a cabeza y sin ninguna cobertura (protocolo). Habla con normalidad, come sólidos asistido. **Alta mañana (Día 30) a las 11:00**, con evaluación de penetración previa y retirada completa de vendajes después; pendiente de confirmar al destapar la talla de senos (copa D estimada).
+**Día 30, ~11:55.** Mark ya dado de alta, en el vehículo autónomo saliendo del Creston camino de la mansión (~20 minutos de trayecto). Viaja **tumbado de lado** en el asiento trasero porque la barra de abducción no pasa de frente por la puerta. Rachel delante (no cabe atrás con los brazos abiertos), Dana al final del asiento trasero.
+
+**Estado de Mark al salir del hospital:** sin vendajes (retirados por completo esta mañana); **copa D confirmada** (85 de banda, 106 de contorno). Lleva **ortesis completa de cadera a pies + barra de abducción + férula peneana** (ver detalle abajo), y **camina con muletas canadienses** con marcha rígida de balanceo. Vestido con falda negra de talle alto con abertura en V, jersey corto, pezoneras adhesivas con cadena, capuchas sobre el glande y sobre los testículos, y zapatos ortopédicos de velcro dos números más grandes.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día ~32**: Megan se quita los yesos en la mansión, con Vera ejecutando y Mark presente (fecha original ~Día 29; aplazada en la llamada del Día 29 porque Mark quiere descansar tras el alta). Pendiente: decidir si Emily la acompaña.
+- **Día 30, 20:20**: cita de Mark con **Hobbs** en la puerta principal del centro comercial (la del aparcamiento grande), cuando ella libre a las ocho. Ella eligió la ropa salvo indicación previa. Mark le ordenó tirar toda su ropa interior; pendiente resolver que se queda sin nada para el turno siguiente.
+- **Día 30, noche**: **Rachel habla con Vera** cuando vaya a acostarlas a ella y a Sophie. Estrategia acordada con Mark: abrir contando que le gustó verla tocar a Sophie y **preguntarle a Vera si a ella le gustaría tocarla**, en vez de pedírselo — para que Vera pueda decir que no sin coste. Mark se comprometió a no intervenir: la conversación es de Rachel.
+- **Día 31**: se retira la **barra de abducción** de la ortesis de Mark (dos tornillos de mariposa; puede hacerlo él o quien le ayude). Sigue con el resto.
+- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Mark camina sin ayuda ni dispositivos.
+- **Día 32**: Megan se quita los yesos en la mansión, con Vera ejecutando y Mark presente. Pendiente: decidir si Emily la acompaña.
+- **Lunes siguiente**: primera sesión de rehabilitación de Mark en el Creston (tres veces por semana; cita ya puesta en la carpeta del alta).
+- **Sin fecha (tras el alta)**: Mark invita a Cora y Jude a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club BDSM, dando tiempo libre a Cora. Primera vez que Jude sale de la ciudad.
+- **Sin fecha**: yeso que Vera ofreció aplicarle a Mark tras el alta.
+- **Día ~40**: Sophie termina su periodo de yesos completos.
 - **Día ~61**: Rachel se quita el doble shoulder spica (~6 semanas desde la fractura del Día 19).
-- **Día 29, mediodía**: Dana llama a Mark para contarle lo que vio la noche del Día 27 entre Vera, Rachel y Sophie (instrucción de Mark a Claire; la "sorpresa" pasa a revelarse por vía directa).
-- **Día 30, mañana**: Hobbs informa de la tarea nocturna del Día 29 (clímax en público sin tocarse en el centro comercial, sin limpiarse después, sin volver a casa hasta que ocurriera) y viene con la lencería nueva puesta, comprada esa noche en la tienda del centro comercial.
-- **Día 30**: Alta de Mark del Creston. Retirada completa de vendajes. Hobbs pedirá a la Dra. Mills estar presente aunque no le toque por turno. **Evaluación final modificada (instrucción a Claire, Día 29):** en lugar de una evaluación de eyaculación como las anteriores, la Dra. Mills realiza una **evaluación de penetración** para confirmar los resultados funcionales del procedimiento; **Hobbs presente**. La penetración se realiza **con la propia Dra. Mills**, y **antes** de la retirada de vendajes: Mark sigue vendado entero y solo se le destapa el pene y los testículos para la evaluación. La retirada completa viene después. **Hora del alta: 11:00.** Dana y Rachel llegan antes con ropa nueva (tres atuendos que marquen senos y figura + ropa interior y zapatos); Dana ya obtuvo las medidas de la Dra. Mills el Día 29 por la tarde.
-- **Tras el alta**: Mark y Hobbs quedan en verse fuera del hospital; ella no conoce nada de la ciudad. Arco BDSM iniciado (ver `personajes/hobbs.md`).
-- **Día 29 (hoy)**: Megan le cuenta a Emily a solas lo de su relación con Mark.
-- **Tras el alta (~Día 30+)**: Mark invita a Cora y Jude a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club BDSM con la empresa constructora, dando tiempo libre a Cora. Primera vez que Jude sale de la ciudad.
-- **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula (~8 semanas desde día 14, aproximadamente).
-- **Día ~40**: Sophie termina su periodo de yesos completos (~1 mes más desde día 10).
+- **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula.
 
 ### Hitos pasados (referencia)
 
@@ -58,6 +61,8 @@
 
 - **Día 29 (mediodía y tarde)**: mensajes del mediodía (Dana, Diane, Cora, Vera). Mark pide a Claire que Dana le cuente la "sorpresa": llamada de Dana con el relato del episodio de la **noche del Día 27** (Rachel pidió ayuda a Vera para estar con Sophie; Vera aceptó y se lo consultó a Sophie directamente; durante la maniobra Sophie le pidió que le tocara los senos y Vera se quedó más rato del necesario antes de recomponer el tono profesional). Dana admite que le excitó y que se masturbó después; dice que le gustaría que Vera la ayudara pero no tiene excusa práctica. Encargo de ropa nueva a Dana y Rachel para el alta. Cambio del protocolo del alta vía Claire (evaluación de penetración con Mills, Hobbs presente, aún vendado). Almuerzo con Combs. Hobbs vuelve a mediodía: informe de cuatro erecciones en la mañana, medición del pene en reposo (8,5 × 11,5 cm), asistencia para orinar, limpieza con la lengua y sexo oral con permiso de tocarse denegado, autorización posterior en el baño de la habitación (termina en menos de un minuto), y segunda orden (seguir sin ropa interior corriendo más riesgos). Llamada con Megan: **Emily reveló que tiene pareja con la que vive** (años juntas, fuera de la ciudad, sin nombre; su pareja ya sabe lo de ellas y no le importa); Mark le cuenta que Emily vive con su vecina, sin revelar que es Claire. Informe final de Hobbs (relevo, la 209, ascensor, farmacia, supervisora) y tarea nocturna en el centro comercial + encargo de lencería.
 
+- **Día 30 (alta)**: Séptimo día post-op. Informe de Hobbs de la tarea nocturna (tienda de lencería, clímax en público en el centro comercial); acuerda seguir con los retos pero fija un límite propio dentro del hospital. **Evaluación final planteada abiertamente por la Dra. Mills** (no requisito del alta, no va en la carpeta, ambas partes pueden decir no); Mills impide que Mark conteste por Hobbs, y Hobbs fija su propio límite (mira, no participa) que se respeta toda la escena; se desnuda por decisión y motivo propios, y se acerca diciendo "esto lo estoy decidiendo yo". **Retirada completa de vendajes: copa D confirmada** (85/106). **Recuperación acelerada vía Claire**: sale caminando con muletas y el Día 32 sin nada; ortesis completa a medida (excepción única del área), barra de abducción solo hoy, férula peneana con dos correas de velcro. Primera vez de pie y primeros pasos; se ve entero en el espejo por primera vez. **Mark le revela a Hobbs que es el dueño del Creston**; ella señala lo que eso cambia y le pide que no toque nunca su situación laboral — Mark se lo promete y acepta no pedirle nada más dentro del hospital. Alta firmada a las 11:00. Llegan Dana y Rachel: la ropa comprada no sirve con la férula; encargo nuevo (falda con abertura en V, capuchas, pezoneras). A solas, **Rachel le confiesa el episodio del Día 27 con Vera** y lo que querría pedirle; acuerdan que se lo plantee ella misma esta noche, en forma de pregunta y no de petición. Salida del Creston hacia la mansión.
+
 ---
 
 ## Mark
@@ -65,9 +70,8 @@
 - Localización: habitación del Creston Medical Center, Día 29 ~19h (post-operatorio, día 6).
 - **Ropa para el alta:** Dana y Rachel le compran tres atuendos (que marquen la figura, resalten los senos y marquen el pene abajo, como se lleva), más ropa interior y zapatos. Medidas obtenidas de la Dra. Mills. Llegan a las 10:00 del Día 30.
 - **Voz:** puede hablar desde el Día 25 (silencio estricto solo el Día 24); voz nueva (más aguda), esfuerzo ya casi nulo.
-- **Movilidad:** total inmovilidad hasta el Día 27. Día 28: dedos de manos y pies (rango limitado, torpe). **Día 29: codos, hombros, caderas y rodillas probados por la Dra. Mills — respuesta presente en todas las articulaciones**, con rango corto y movimiento con retraso. Conclusión de Mills: mejor de lo esperado para el sexto día. Sigue sin poder incorporarse ni sostener nada.
-- **Sonda:** retirada el Día 26. Come alimentos sólidos, se los da la enfermera.
-- **Micción:** sin ninguna sábana ni cobertura en la cama (protocolo general). Para orinar, la enfermera retira la venda de la punta del pene, lo ayuda a orinar, limpia bien la punta, aplica pomada nueva y vuelve a vendar.
+- **Movilidad (Día 30):** **camina con muletas canadienses**, marcha rígida de balanceo (las dos muletas delante, dejarse caer entre ellas). Con las rodillas bloqueadas no puede levantar un pie ni doblar de cintura para abajo. Se cansa rápido de brazos y muñecas. Necesita ayuda para levantarse, sentarse y entrar en un vehículo. Hipotensión ortostática al incorporarse (se resuelve sola). Cuello y cabeza sin limitación. **Día 32: movilidad normal sin dispositivos.**
+- **Sonda:** retirada el Día 26. Come sólidos con normalidad.
 - **Yeso pierna derecha:** retirado la noche del Día 15 por Rachel.
 - **Idioma:** inducción neurolingüística completada el Día 12. Comprensión pasiva completa del idioma actual. Producción oral en ~2 semanas de uso regular (~Día 26).
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma Campbell **o Jude**. Transmite pensamientos internos en voz limpia. Carga con calor corporal.
@@ -89,12 +93,13 @@
 ## Rachel
 
 - **Apellido:** Holt.
-- **Estado físico:** Fractura de ambos húmeros. Doble shoulder spica (torso + ambos brazos en abducción hasta los codos). Alta el Día 20. En la mansión. Yesos hasta ~Día 61 (~6 semanas desde la fractura del Día 19).
+- **Estado físico:** Fractura de ambos húmeros. Doble shoulder spica (torso + ambos brazos en abducción). **El yeso cubre los brazos enteros, incluidas muñecas y manos: lo único libre son los dedos.** No puede agarrar, apoyar la palma, sostener nada ni impulsarse; solo mueve los dedos, y para llevarlos a cualquier sitio tiene que desplazar el cuerpo entero. Alta el Día 20. En la mansión. Yesos hasta ~Día 61 (~6 semanas desde la fractura del Día 19).
 - **Baño:** Mark la bañó el Día 20 (maniobra de Dana). Rachel lo aceptó tras el argumento de Sophie y la presión del olor.
 - **Estado emocional (Día 20):** Primera intimidad directa con Mark. Primera apertura emocional significativa: admitió que la dependencia del yeso la excita; dijo "A mí también" al comentario de Mark sobre haber hablado abiertamente. Límite íntimo cruzado por primera vez con Mark de forma activa.
 - Sigue con relación íntima activa con Sophie.
 - **Día 23:** Vera asume su cuidado diario desde esta tarde. Rachel expresó a Mark que le hubiera gustado que se lo consultaran antes del cambio; Mark se disculpó. Preocupada por no poder tener intimidad con Sophie durante la semana de Mark en el hospital (su propio yeso le impide usar los brazos); consideran pedirle ayuda a Dana, a confirmar con Sophie.
 - **Vestimenta mientras dure el yeso (desde Día 28):** el torso ya queda cubierto por el yeso, así que solo se viste de la cintura para abajo — nada arriba.
+- **Día 30 (Creston, a solas con Mark):** primera vez que lo ve sin vendas; reacciona al cuerpo nuevo y al metal. Le toca la cara, el cuello y el pecho moviendo el cuerpo entero (los codos fijos no le dejan otra cosa), y después la piel de los costados de la férula por el hueco entre las correas. Acaba parando porque sin brazos no puede sostener la postura. **Le confiesa a Mark el episodio del Día 27 con Vera** por iniciativa propia y antes de que se lo contara nadie: que fue ella quien le pidió ayuda, que Vera consultó a Sophie a solas antes de mover nada, y que Sophie le pidió que le tocara los senos y Vera se quedó más rato del necesario. Admite que le gustó estar delante y que le gustó que Vera se quedara. **Lo que querría pedirle a Vera:** que la toque a ella, abajo — lo único que le queda fuera del yeso y lo único que siente, y que no puede alcanzarse sola desde el Día 19. Su preocupación es cómo pedírselo sin que a Vera le cueste decir que no, viviendo las dos en casa de Mark. Acuerdan invertirlo: **preguntarle a Vera si a ella le gustaría**, abriendo con que le gustó verla tocar a Sophie. **Decide hacerlo esa misma noche.** Mark se compromete a no intervenir.
 - **Día 28 (tarde, visita al Creston):** vio a Mark por primera vez desde la cirugía de feminización (sorpresa genuina). Presenció la evaluación de eyaculación de la Dra. Mills; reacción incómoda, mezcla de excitación y celos, admitida a medias. A pedido de Mark, Dana la masturbó con el muñón del antebrazo hasta el clímax — primera intimidad entre Rachel y Dana. Sin consecuencias emocionales narradas todavía.
 
 ---
@@ -140,7 +145,7 @@
 - **Día 28 (tarde, visita al Creston con Rachel):** a pedido de Mark, masturbó a Rachel con el muñón del antebrazo hasta el clímax — primera intimidad entre ambas, nunca antes ocurrida.
 - **Día 27 (noche):** vio parte del episodio Vera/Rachel/Sophie desde el pasillo con la ropa limpia en los ganchos. Le excitó; después se quitó los ganchos y se masturbó con el muñón. No lo había reportado por no considerarlo relevante.
 - **Día 29 (llamada, mediodía):** se lo cuenta todo a Mark. Dice que **le gustaría que Vera la ayudara a masturbarse**, pero que no tiene excusa práctica porque no es paciente suya. Mark le pidió que piense en alguna. **Pendiente.**
-- **Encargo Día 30:** compra la ropa nueva de Mark con Rachel (tres atuendos + ropa interior y zapatos); pidió las medidas a la Dra. Mills. Llegan al Creston a las 10:00.
+- **Día 30 (Creston):** llega con Rachel y la ropa nueva. Detecta al instante los dos fallos (los zapatos no entran sobre los estribos; los tres atuendos están comprados para que el pene cuelgue hacia abajo y no sirven con la férula horizontal). Sale sola a resolverlo: ortopedia para zapatos dos números más grandes con velcro, y la tienda de al lado para la falda con abertura en V, dos capuchas y las pezoneras. **Viste a Mark entera ella sola** (Rachel no puede ayudar en nada): coloca las dos capuchas usando los ganchos como pinzas opuestas, lo levanta para subirle la falda salvando estribos, abrazaderas y barra, le pega las pezoneras centradas y le enhebra el jersey manga a manga. También lo levanta y lo mete tumbado de lado en el vehículo. Sin dramatismo en ningún momento; resuelve cada obstáculo enunciándolo primero en voz alta.
 
 ---
 
@@ -237,27 +242,24 @@
 - **Revelación mutua (Día 23, tarde):** Mark le confesó su fetiche por los yesos (sorprendida al ver la habitación de yesos de la mansión). Vera lo recibió con calma y reveló a su vez que es dominante BDSM en su vida privada, atraída por los yesos y la dependencia que producen. Se ofreció a aplicarle personalmente un yeso a Mark cuando él quiera, planeado para después del alta (~Día 30). También llevará a Rachel y Sophie a visitarlo al hospital.
 - Le gusta el sexo con personas distintas; se insinúa cuando siente que el momento es adecuado.
 - **Día 27 (noche) — episodio con Rachel y Sophie (ya ocurrido):** Rachel le pidió ayuda para poder estar con Sophie; Vera aceptó como parte razonable del cuidado y fue a consultárselo a Sophie directamente. Durante la maniobra (sostener a Rachel por las caderas, guiar el pene de Sophie), **Sophie le pidió que le tocara los senos**; Vera lo hizo con la mano libre y se quedó más rato del necesario antes de recomponer el tono profesional de golpe. Limpió a las dos y dejó dicho que si lo necesitaban de nuevo se lo pidieran. **No lo menciona a Mark por iniciativa propia**; para ella fue un momento breve que no forma parte del parte diario.
-- **Hilo abierto (sin fecha):** Vera dejó la puerta abierta a repetir la maniobra si Rachel y Sophie lo piden. Ninguna de las tres lo ha hablado con Mark. Sin fecha ni condición fijada.
+- **Hilo abierto — Día 30 noche:** **Rachel piensa hablarle esta noche**, cuando vaya a acostarlas. No le va a pedir nada: va a contarle que le gustó verla tocar a Sophie y a preguntarle **si a ella le gustaría tocarla**, precisamente para que Vera pueda decir que no sin coste. Vera no sabe nada todavía. Mark está al corriente pero no va a intervenir.
+- **Hilo abierto (sin fecha):** Vera dejó la puerta abierta a repetir la maniobra si Rachel y Sophie lo piden. Sin fecha ni condición fijada.
 - Arco futuro con Jude (atracción mutua cuando Jude conozca el perfil BDSM de Vera).
 
 ---
 
 ## Pendiente / Próximos pasos
 
-1. **Mark — internamiento en curso:** en el Creston desde la noche del Día 23, ahora Día 28 noche (post-operatorio, día 5). Internamiento hasta ~Día 30. Doctora Mills a cargo. Protocolo post-op ver sección "Mark" arriba. Habla con normalidad; sonda ya retirada; come sólidos; sin cobertura mientras esté vendado. Movilidad de dedos (manos y pies) ya lograda Día 28; brazos y piernas se prueban Día 29. Evaluaciones de erección/eyaculación en curso (todas normales hasta ahora).
-2. **Visitas al hospital:** Mira, Rachel y Dana ya visitaron Día 28. Megan, Tori, Patricia y Jude visitaron Días 25-27. Sophie no ha venido (yeso de cuerpo completo dificulta el traslado) ni tiene visita programada.
-3. **Patricia y Hannah:** Patricia habló abiertamente con Hannah la noche del Día 27 (mensaje recibido Día 28): le dijo que también siente algo por Mark; Hannah respondió que no necesita que las dos cosas encajen de forma perfecta. Van a intentarlo, sin ponerle nombre todavía a la relación. Patricia sigue viendo a Mark de forma independiente.
-4. **Megan y Emily:** romance establecido la noche del Día 25 (ver secciones de ambas arriba). Pendiente: Megan cuenta a Emily lo de su relación con Mark (con calma, idealmente con él presente); conversación a tres tras el Día 29 sobre cómo sigue todo y posibles yesos nuevos; revelar la amputación del brazo recién con el próximo yeso puesto.
-5. **Vera:** ofreció aplicarle un yeso a Mark tras el alta (~Día 30). Reveló ser dominante BDSM; arco futuro con Jude pendiente de desarrollarse.
-6. **Sorpresa secreta (instrucción a Claire, Día 23 noche) — ya ocurrida:** algo levemente sexual entre Vera y Sophie, iniciado por Sophie durante una maniobra de ayuda para que Rachel y Sophie pudieran tener intimidad. Fecha fijada: **noche del Día 27**, sin Mark presente; Dana vio parte desde el pasillo. El **Día 29 a mediodía** Mark le pide a Claire que Dana lo llame y se lo cuente. Detalle en `personajes/vera.md`.
-7. **Jude:** puede escribir a Mark cuando quiera (Cora mediará). Aceptó el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla de letras). Uso de la tabla reservado a mensajes que considera importantes (deletrear agota; ver `personajes/jude.md`). Plan pendiente: tras el alta de Mark, visita a la mansión con Cora para conocer a Vera y evaluar si las ayuda con el club (ver Eventos programados).
-8. **Club BDSM:** proyecto activo, sin local. Jude como diseñadora (ver arriba). Jude tiene ideas propias (altura mesa regulable, anclajes en pared). Mark prometió entrada accesible.
-9. **Mira:** arco romántico en desarrollo, sin plan concreto de próxima cita confirmada.
-10. **Emma:** visita pendiente. Emma pidió implícitamente que Mark repita.
-11. **Sophie:** yesos hasta ~Día 40.
-12. Pendiente: presentación conjunta con las dos mujeres del parque de la ribera (polio + brazos amputados).
-13. **Rachel y Dana:** primera intimidad entre ambas ocurrió Día 28 (Dana la masturbó con el muñón a pedido de Mark, mientras él observaba). Consecuencias emocionales o si se repite sin narrar todavía.
-14. **Nuevo uniforme del Creston:** desde Día 28, todo el personal de enfermería usa vestido ceñido de botones frontales con medias veladas blancas (instruido por Mark, ver `world.md`).
+1. **Llegada a la mansión (inmediato):** Mark llega en ~20 minutos con la ortesis, la barra y la férula puestas. Vera organizó el traslado de Sophie para que estuviera en casa a su llegada. Primera vez que Sophie y Vera lo ven después de la cirugía.
+2. **Cita con Hobbs, Día 30 a las 20:20**, puerta principal del centro comercial. Fuera del hospital ella no tiene límites; dentro, Mark ya se comprometió a no pedirle nada. Pendiente resolver el problema práctico de la ropa interior (le ordenó tirar toda la que tiene y se queda sin nada para el turno siguiente).
+3. **Rachel y Vera, esta noche.** Rachel se lo plantea sola, en forma de pregunta y no de petición. Mark no interviene. Sin resolver: cómo reacciona Vera, y si esto se cruza con lo de Dana.
+4. **Dana y Vera:** Dana dijo el Día 29 que le gustaría que Vera la ayudara a masturbarse pero que no tiene excusa práctica al no ser paciente suya. Mark le pidió que pensara en una. **Sigue pendiente.**
+5. **Dispositivos de Mark:** barra de abducción fuera el Día 31; ortesis y férula las retira Mills en la mansión el **Día 32 a las 9:00**. Rehabilitación desde el lunes.
+6. **Megan, Día 32:** se quita los yesos en la mansión, ejecutado por Vera y con Mark presente. Pendiente decidir si Emily la acompaña. Megan quiere ver a Mark "entera y con ropa puesta" en cuanto llegue a casa. Sigue pendiente la conversación a tres y los próximos yesos (pierna hasta la cadera, brazo hasta el hombro); la amputación del brazo se revelará a Emily solo con el próximo yeso ya puesto.
+7. **Emily:** Megan sabe que tiene pareja con la que vive y que esa pareja está al corriente, pero no sabe que es Claire. Megan sospecha ser "algo aparte" y preferiría saber en qué está.
+8. **Cora y Jude:** visita a la mansión para conocer a Vera y decidir si ayuda con el cuidado y con las reuniones del club. Sería la primera vez que Jude sale de la ciudad. Club BDSM sigue sin local.
+9. **Vera y el yeso de Mark:** ofrecido para después del alta, sin fecha.
+10. **Sin cerrar:** visita pendiente a Emma; presentación conjunta con las dos mujeres del parque de la ribera; consecuencias de la primera intimidad Rachel-Dana del Día 28; arco con Mira sin próxima cita; Patricia y Hannah "intentándolo" sin nombre todavía.
 
 ## Ciudad — cambios de configuración
 

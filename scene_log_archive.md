@@ -832,3 +832,67 @@ De vuelta en la biblioteca. Mark retoma la lectura del capítulo 2 en adelante. 
 ### Escena 121: Segunda intimidad — sin prótesis (Día 21, noche)
 
 Patricia pide que Mark le quite las prótesis antes de acostarse. Mark desabrocha los dos arneses despacio. Con los muñones libres del peso, Patricia se mueve con más soltura. Intimidad lenta: muñones rozan hombros, pecho, cuello, mejillas de Mark durante el acto. Orgasmo de Patricia con los muñones apretados contra las mejillas de Mark. Duermen juntos. Patricia: "Los ganchos están bien. Pero esto también."
+
+---
+
+## Día 22 — Mañana
+
+### Escena 122: Despertar — desayuno y conversación Patricia-Dana sobre prótesis (Día 22, mañana)
+
+Despertar tranquilo. Patricia declina los panties al vestirse ("Solo que ya sé cómo termina cuando los llevo puestos."). Pezoneras recuperadas de la biblioteca y puestas. Desayuno preparado por Dana. Tras el desayuno, en el salón: Patricia le pregunta a Dana sobre la adaptación a las prótesis. Dana responde con practicidad: tres meses para las cosas básicas con los brazos; el músculo que tira del cable se entrena. Patricia reconoce que lleva menos de una semana y que los hombros le cansan. Dana: "Nada que haya querido de verdad aprender." (sobre si hay algo que no pudo aprender con las prótesis).
+
+### Escena 123: Mark lleva a Patricia a casa de Hannah (Día 22, mañana)
+
+Mark anuncia que tiene que ir a la ciudad. Patricia acepta que la lleven; aclara que "cambiarse" es ponerse los panties. Mark se los pone. En el vehículo autónomo: beso y caricia de senos. Patricia pregunta a qué hora la llamará. Mark dice que la llamará en unos días. Patricia baja frente a la casa de Hannah: "Ok." Cierra la puerta. El coche arranca.
+
+---
+
+## Día 22 — Mediodía y tarde
+
+### Escena 124: Encuentro con Cora y Jude en el centro comercial (Día 22, mañana)
+
+Mark recorre el centro comercial cuando encuentra a Cora empujando la silla de Jude en el pasillo principal. Jude lleva camiseta de rayas negras y blancas, tatuajes al descubierto, manta de lana gris sobre las piernas. Mark las saluda con beso en la mejilla a las dos. Invita a Cora a un café; ella acepta tras consultar con Jude (ojos arriba). El auricular de Mark se activa en cuanto reduce la distancia.
+
+### Escena 125: Café y almuerzo juntos (Día 22, mediodía)
+
+Café en el local del fondo del centro comercial. Conversación fluida: Mark explica la compra del hospital, menciona el proyecto de abrir un club BDSM mirando a Jude al decirlo. Jude reacciona visiblemente por el auricular (recuerdos del BDSM activo, ironía de su situación). Cora pide para Jude que el club tenga entrada accesible. Mark le pregunta directamente a Jude si le gustaba el BDSM; Jude responde con ojos arriba; Cora añade que le encantaba. Mark dice a Jude que podrá venir cuando quiera; Jude sube los ojos y empieza a deletrear ideas con la tabla (altura mesa regulable, anclajes en pared). Mark propone retomarlo en otra ocasión con las ideas ya preparadas y da su número a Cora. Pasan al restaurante de la esquina: almuerzo sin incidentes, conversación sobre el hospital y el club. Despedida con beso en la mejilla a las dos en la calle.
+
+### Escena 126: Cafetería del hospital — canal de audio (Día 22, tarde)
+
+Mark va al Creston Medical Center y espera en la cafetería. Claire activa un canal de audio al apartamento de Cora. Mark escucha en tiempo real: Jude deletrea a Cora que Mark le gusta y que quiere que la toque. Cora duda, argumenta que no sabe cómo pedirle eso a alguien, cede finalmente. Decide llamar a Megan antes que a Mark directamente. Megan llama a Mark; Mark llama a Cora. Acuerdan que Mark irá esa noche a las 21h. Mark pide que Jude elija ropa de su pasado BDSM; Cora lo consultará con ella. Mark desactiva el canal y da una vuelta por ortopedia.
+
+---
+
+## Día 22 — Noche
+
+### Escena 127: Primera intimidad con Jude (Día 22, noche)
+
+Mark llega a las 21h al apartamento. Jude está en la cama hospitalaria con body de encaje negro semitransparente de su pasado BDSM: escote en uve profundo, aperturas laterales en los costados, tanga del mismo tejido. Tatuajes al descubierto. Cora explica el sistema de comunicación (ojos/tabla) y el protocolo de parada (parpadeo doble), y se retira a su habitación con la puerta entornada.
+
+Mark desactiva el auricular. Intimidad progresiva: limpia la saliva de Jude con la mano (no el pañuelo); la besa manipulando la mandíbula para simular el beso recíproco, lengua sobre la lengua inmóvil de Jude; caricias en senos y zona íntima; desabrocha el body; masturba a Jude hasta humedecerla; cierra la mano de Jude alrededor de su pene y se masturba con ella como ancla; posiciona las piernas sobre cojines y la penetra con fuerza creciente. Jude indica el orgasmo con los ojos completamente abiertos y sostenidos, tal como acordaron. Mark se viene dentro. Post-coital: conversación breve con la tabla ("hace mucho tiempo que nadie me llamaba hermosa"; "te conozco desde ayer y ya sé qué eres"; "alguien que no aparta la vista"). Mark cierra las piernas de Jude, se acuesta a su lado y gira su rostro hacia él.
+
+Conversación sin tabla sobre gustos del BDSM (solo ojos arriba/abajo): le gustaba que la azotaran (sí, mucho), la humillación (sí con matiz), el sexo grupal (sí, sin dudar), el sexo con desconocidos (sí, sin dudar). Mark le promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior aunque no pueda moverse. Jude: ojos arriba sostenidos durante varios segundos, con lágrimas. Mark introduce el pulgar en su boca y juega con la lengua inmóvil. Se despide con beso manipulando la mandíbula. Llama a Cora. Mark le pide a Jude que le escriba cuando quiera (Cora escribirá los mensajes); Cora le agradece que le hubiera preguntado a Jude directamente durante el día. Mark se va.
+
+---
+
+## Día 22 — Noche tardía (continuación)
+
+### Escena 128: Mensajes en el vehículo y consejo a Megan (Día 22, noche tardía)
+
+Mark en el vehículo de regreso a la mansión. Lee cuatro mensajes: Megan pregunta cómo fue con Jude; Diane informa que Tori usó el vibrador 35 minutos en nivel 3, sin novedades médicas; Dana reporta que Rachel y Sophie duermen y pregunta si puede apagar; Cora escribe que Jude deletreó "GRACIAS POR NO PREGUNTAR SI PODÍA" antes de dormir y luego cerró los ojos.
+
+Mark escribe a Megan: que la pasó muy bien y pregunta cómo está ella. Megan responde que Emily estuvo callada de una manera distinta durante el día, le preguntó si dormía bien con el yeso y se quedó mirándolo. Mark le dice que ya debería hablar con ella. Megan reconoce que no sabe en qué orden van las tres conversaciones que necesita tener, y que si Emily se va después de la primera no llega a las otras dos. Mark la aconseja: empezar solo por los cambios entre ellas, sin mencionar los yesos todavía. Megan lo procesa, dice que lo intentará mañana por la mañana durante el baño. Mark le desea suerte. Dana apaga.
+
+### Escena 129: Visita a Claire — Vera, casa de huéspedes, cirugía de feminización (Día 22, noche tardía)
+
+Mark llega a la mansión, pide a Dana que se vaya a dormir y va a casa de Claire. Le hace tres encargos:
+
+1. **Vera**: nueva enfermera doméstica, 29 años, mujer blanca delgada, castaña oscura lacia hasta la nuca, senos y caderas medianos, vagina, ropa oscura/negra por preferencia. Profesional con experiencia en cuidado domiciliario. En su vida privada: dominante BDSM, usa látex y lencería en sesiones, practica shibari e inmovilización, ha aplicado yesos como fetiche, atraída por yesos médicos y amputaciones. No revela sus fetiches salvo que la situación lo haga natural. Arco futuro con Jude (atracción mutua cuando Jude sepa del BDSM de Vera). Entrevista mañana a las 9, vestida a su gusto.
+
+2. **Casa de huéspedes**: construida esta noche, lado oeste de la mansión, materiales iguales. Una planta: sala pequeña, dormitorio, baño completo, espacio adaptable para segunda cama o equipamiento médico (previsto para Jude). Vera vivirá aquí.
+
+3. **Cirugía de feminización completa en el Creston, Día 23 noche**: remodelación ósea de cadera y cintura, redistribución de grasa, senos grandes y proporcionados, voz femenina, rostro femenino, cabello castaño oscuro hasta media espalda, suavizado de brazos/piernas/manos/pies, textura de piel femenina, eliminación permanente de vello corporal. Conserva pene y testículos. Modificación pene grower→shower (flácido ~70-80% del erecto). Internamiento en el Creston hasta ~Día 30 (7 días). Doctora Mills asignada al caso. Protocolo de recuperación: sonda los primeros 3 días; sin camisón mientras todo el cuerpo esté vendado (camisón en cuanto se retire cualquier venda que exponga senos o área genital); silencio estricto el primer día (solo gestos, sin papel ni dispositivo); traslados diarios sin camisón mientras dure la cobertura total: Día 24 a medicina interna, Día 25 a rehabilitación, Día 26 a radiología; evaluaciones de erección y arousal a partir del Día 27. Personal del Creston sin yesos ni discapacidades (excepción futura: Megan). Mark escribirá a sus personas cercanas antes de ingresar; a Vera se lo dirá en la entrevista.
+
+Claire ejecuta todo; fuera ya se escucha maquinaria. Mark regresa a la mansión y se acuesta.
+
+---

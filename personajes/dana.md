@@ -43,3 +43,20 @@
 - Prepara cena y desayuno para Mark y Patricia. Primer contacto con Patricia (Día 22): conversación en el salón sobre adaptación a prótesis de gancho; Patricia lleva menos de una semana y tiene fatiga de arnés; Dana responde con practicidad sobre el entrenamiento muscular. Responde "Nada que haya querido de verdad aprender" cuando Patricia pregunta si hay algo que no pudo aprender _(Día 22, escena 122)_.
 - **Llamada del Día 29 (mediodía, escena 186):** a instrucción de Mark vía Claire, llama al hospital para contarle lo que vio la noche del Día 27 entre Vera, Rachel y Sophie (ver `personajes/vera.md`). Hasta ese momento no lo había mencionado por no considerarlo relevante. Lo relata con detalle y sin pudor, desde la puerta entreabierta y con la ropa limpia todavía en los ganchos. Admite que le excitó, que se quedó mirando más de lo que pensaba y que después se quitó los ganchos y **se masturbó con el muñón** ("que para eso me apaño mejor"). Dice que **le gustaría que Vera la ayudara a masturbarse**, pero que no tiene excusa práctica porque no es paciente suya; Mark le pide que piense en alguna — **pendiente**. En la misma llamada recibe el encargo de la ropa nueva de Mark (tres atuendos que marquen figura, senos y pene, más ropa interior y zapatos), propone pedir las medidas a la Dra. Mills en vez de comprar a ojo, y queda en llegar al Creston a las 10:00 del Día 30 con Rachel.
 - **Visita al Creston con Rachel (Día 28, tarde, escena 175):** Reacción práctica y sin sorpresa ante el vendaje total de Mark. Presente durante la evaluación de eyaculación de la Dra. Mills, con curiosidad directa ("¿Eso lo hacen todos los días?"). A pedido de Mark, masturba a Rachel con el muñón del antebrazo hasta el clímax — primera intimidad entre ambas, ofrecida con la misma naturalidad práctica de siempre.
+
+---
+
+## Día 30 (Creston, escenas 205, 206, 208, 209)
+
+Llega con Rachel y la ropa nueva y detecta al instante los dos fallos: los zapatos no entran sobre los estribos de la ortesis, y los tres atuendos están comprados para que el pene cuelgue hacia abajo, de modo que con la férula horizontal ninguno sirve. Sale sola a resolverlo (ortopedia abajo, tienda de al lado), avisando de que se lleva dos tallas de capucha porque la férula es rígida y no sabe si entrará.
+
+**Viste a Mark ella sola**, porque Rachel no puede ayudar en nada: coloca las dos capuchas usando los ganchos como pinzas opuestas y sin tocar nunca el adhesivo de las pezoneras; lo levanta de la cama sin ayuda; le sube la falda salvando estribos, abrazaderas y barra; le pega las pezoneras centradas; y le enhebra el jersey manga a manga porque él no tiene rango para levantar los brazos. Después lo mete tumbado de lado en el vehículo, girando el bloque rígido de las piernas "como quien mete un mueble por una puerta estrecha".
+
+Registro constante: enuncia el obstáculo en voz alta, sin dramatismo ni reproche, y a continuación la solución.
+
+**Citas nuevas:**
+
+- "Ya. Pues los zapatos no valen." _(al ver los estribos — Día 30)_
+- "Este vestido cae recto hacia abajo. Con eso puesto no cae hacia abajo por ningún lado." _(Día 30)_
+- "Tú no puedes sujetarlo. Ni un poco." _(a Rachel, sin reproche, antes de levantar a Mark sola — Día 30)_
+- "Pues eso funciona. Con cualquier otra cosa habrías salido con la falda haciendo tienda de campaña." _(sobre la falda con abertura en V — Día 30)_
