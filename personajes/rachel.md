@@ -77,3 +77,9 @@
 - "Con las manos así no puedo ni llegarme yo. Llevo desde el Día 19 dependiendo de que alguien decida hacerlo, y de eso no se habla en voz alta hasta que un día lo dices." _(Día 30)_
 - "Prefiero pedírselo yo, si te parece bien. Que no venga de ti." _(Día 30)_
 - "Se lo digo esta noche, cuando venga a acostarnos a Sophie y a mí. Si me lo pienso más días, no lo hago." _(Día 30)_
+- "¿Y esto lo decidiste hoy o lo tenías pensado desde antes de entrar al hospital?" _(única en preguntar por el cambio de nombre en vez de aceptarlo sin más — Día 30)_
+
+**Día 30 (llegada a la mansión, escenas 210–211):**
+
+- Viaja delante en el vehículo y entra de lado por la puerta de la mansión. No puede ayudar en nada durante la llegada; Dana lo hace todo.
+- Presente en el anuncio de **Marcie**. Es la que más tarda en reaccionar de las cuatro, y cuando habla no mira a las demás: pregunta si la decisión es de hoy o venía de antes. La conversación con Vera sigue prevista para esa noche.

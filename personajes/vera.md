@@ -19,7 +19,7 @@ Mujer blanca, delgada, complexión ligera. Senos medianos, caderas medianas. Cab
 
 Profesional y eficiente en el trabajo. Trato correcto, sin exceso de calidez pero sin frialdad tampoco. Da instrucciones claras y espera que se sigan. No explica más de lo necesario.
 
-En su vida privada tiene un rol dominante consolidado. Ha construido ese espacio con años de práctica y no lo mezcla con el trabajo salvo que la situación lo haga inevitable. No revela sus fetiches ni su vida BDSM a menos que la situación lo haga natural o necesario.
+En su vida privada tiene un rol dominante consolidado. Ha construido ese espacio con años de práctica. No tiene problema en mezclarlo con el trabajo si se presta la oportunidad y la otra persona o personas lo piden o lo insinúan. No revela sus fetiches ni su vida BDSM a menos que la situación lo haga natural o necesario.
 
 Le gusta el sexo con personas distintas y aprovecha las oportunidades cuando se presentan. Es del tipo que se insinúa cuando siente que el momento es adecuado: no lo fuerza, pero tampoco espera a que el otro dé el primer paso si ella ya ha decidido que quiere algo.
 
@@ -63,6 +63,10 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - En contexto profesional: tono neutro, instrucciones claras. Nada de tuteo forzado ni cercanía fingida. En entrevistas va al punto con preguntas clínicas una por una, sin preámbulos ni cortesías de relleno.
 - En contexto personal o BDSM: el mismo tono directo, pero con más peso en cada frase.
 - Marca límites de información con naturalidad y sin evasión: "no son conversación de primer día" es un cierre, no una invitación.
+- **Antepone el dato antes de obedecer:** cuando una orden tiene una consecuencia práctica que quien la da no ha visto, la enuncia primero y ejecuta igual ("Te siento igual si quieres, pero que lo sepas antes"). No es resistencia, es aviso.
+- **Trabaja mientras discute.** Las conversaciones difíciles las sostiene sin parar las manos, soltando una hebilla o aclarando una esponja entre frase y frase. El tono no cambia cuando el tema sí.
+- **Dice lo incómodo una sola vez y lo cierra ella misma** ("Ya está dicho, y decides tú"). No repite ni reprocha después.
+- Separa lo que es asunto suyo de lo que no con una frase corta y sin adornar: nombra el problema estructural, propone la condición que sí acepta, y sigue.
 
 ---
 
@@ -73,6 +77,13 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - "Rachel va a necesitar más ayuda de lo que parece. Con el shoulder spica la higiene íntima es complicada sin manos." _(evaluación en el vehículo, sin que Mark lo preguntara — Día 23)_
 - "Tengo algunos intereses más específicos, pero no son conversación de primer día." _(sobre su tiempo libre — Día 23)_
 - "Estaré antes de las seis." _(despedida en el centro, sin más — Día 23)_
+- "Ese sofá es demasiado bajo para ti hoy. [...] Te siento igual si quieres, pero que lo sepas antes." _(anteponiendo el dato al obedecer — Día 30)_
+- "Eso es respuesta normal y no hace falta que ninguna de las dos diga nada al respecto." _(durante el baño de esponja — Día 30)_
+- "El reto está bien pensado: no le pediste que hiciera nada, le pediste que aguantara algo que no controla. Eso es lo que engancha." _(sobre Hobbs — Día 30)_
+- "Que tú supieras que no había riesgo no cambia nada, porque la que estaba de pie en el office era ella. [...] Lo que le quitaste no fue el peligro. Fue la posibilidad de negarse sin pensar en lo que le costaba." _(Día 30)_
+- "Pero 'usarla' no. Eso me lo tendría que pedir ella a mí, y sin que tú estés delante cuando lo decida." _(Día 30)_
+- "Yo estoy exactamente en esa posición contigo, y a mí no me pesa porque llevo años haciendo esto y sé decir que no. Ella no." _(Día 30)_
+- "Ahí ya no es un yeso: ahí lo que estás eligiendo es a quién le pides permiso durante seis semanas." _(sobre los brazos dentro del hip spica — Día 30)_
 
 ---
 

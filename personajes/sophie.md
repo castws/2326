@@ -47,3 +47,16 @@
 - Escena a tres con Rachel y Mark (Día 20): Rachel montada sobre Sophie, Mark observa y luego participa. Sophie pide a Mark que bese a Rachel ("Bésala"). Llega al clímax dos veces: con Rachel encima y cuando Mark la masturba manualmente. Queda al lado de Rachel en la cama después. _(Día 20, escena 108)_.
 - **Día 27 (noche) — episodio con Vera y Rachel (sin Mark presente):** Rachel pidió a Vera que las ayudara a estar juntas; Vera fue a consultárselo a Sophie directamente antes de aceptar. Durante la maniobra, Sophie **le pidió a Vera que le tocara los senos** (fuera del yeso, sin sensación desde días) "como quien pide un vaso de agua"; Vera lo hizo y se quedó más rato del necesario. Sophie terminó dentro de Rachel. Iniciativa de Sophie, no de Vera. Mark se enteró el Día 29 por Dana, que lo vio desde el pasillo. **Sophie no ha hablado de esto con Mark** _(Día 27, referido en escena 186)_.
 - Conversación con Mark sobre Rachel (Día 21): explica que Rachel no era cortante sino cuidadosa, y que necesitaba permiso para abrirse de una forma que no pareciera que ella lo pedía. Mark le agradece lo del beso; Sophie: "No hice nada. Solo hice falta yo de excusa." Mark la masturba hasta el clímax. Comenta el olor del yeso con indiferencia. _(Día 21, escena 112)_.
+
+---
+
+## Día 30 (llegada de Marcie a la mansión, escenas 210–211)
+
+- Vera organizó el traslado para que estuviera en el salón, en la silla de respaldo alto con el respaldo más levantado de lo habitual y de cara a la entrada, cuando Marcie llegara del hospital.
+- **Primera vez que la ve después de la cirugía de feminización.** Reacciona con su humor seco habitual, sin aspaviento y sin preguntar nada: "Te fuiste hombre y has vuelto con más hierro que yo."
+- Presente en el anuncio del cambio de nombre. Es la primera de las cuatro en usarlo, probándolo en voz alta: "Marcie. Suena mejor que Mark."
+
+**Citas nuevas:**
+
+- "Te fuiste hombre y has vuelto con más hierro que yo." _(al ver a Marcie con la ortesis por primera vez — Día 30)_
+- "Marcie. Suena mejor que Mark." _(Día 30)_

@@ -2,83 +2,7 @@
 
 Ventana activa: día actual + ~7 días previos en detalle (escena por escena). Las escenas más antiguas se consolidan en `scene_log_archive.md` (no se carga al inicio). El índice día-a-día está en `state.md` → "Hitos pasados". Tamaño de ventana ajustable (ver CLAUDE.md → "Ventana del registro de escenas").
 
-> Escenas 1–129 (Días 1–22) archivadas en `scene_log_archive.md`.
-
----
-
-## Día 23 — Mañana
-
-### Escena 130: Cocina — noticias a Rachel, Sophie y Dana (Día 23, mañana)
-
-Mark se levanta temprano. Dana está en la cocina preparando café. Mark pide que traiga a Rachel y Sophie al salón. Reunidas las cuatro, Mark les da dos noticias: viene una enfermera llamada Vera a las 9h para entrevista, y él se someterá esa noche a una cirugía de feminización completa, estando ausente aproximadamente una semana. Reacciones: Sophie ("Mujer con pene. Coherente."), Rachel hace preguntas prácticas (quién toma decisiones de la casa mientras no está, si la enfermera vivirá allí). Mark aclara: Rachel tomará las decisiones de la casa; la enfermera decidirá lo médico de Rachel y Sophie, y vivirá en la casa de huéspedes. Sophie y Rachel observan la casa de huéspedes nueva desde la ventana del jardín. Rachel: "La construyeron anoche."
-
-### Escena 131: Entrevista con Vera en el estudio (Día 23, 9h)
-
-Vera llega puntual. Dana la conduce al estudio. Mark la recibe y le ofrece café (acepta, sin añadidos). Descripción: 29 años, mujer blanca delgada, cabello rubio lacio hasta la nuca suelto, blusa negra ajustada de manga larga, pantalón negro de corte recto, botas cortas. Rasgos precisos, expresión controlada. Mark explica la situación: Rachel con doble shoulder spica, Sophie con full body cast (cabeza y cuello libres, usa silla reclinable), Dana con amputaciones de brazos y piernas. Vera hace preguntas clínicas precisas y escuetas: tipo de yesos, si Sophie puede moverse sola (no), si cabeza y cuello están libres (sí), si existe protocolo médico activo (no). Acepta el trabajo sin deliberación. Empezará esa tarde y vivirá en la casa de huéspedes.
-
-### Escena 132: Tour de la mansión y presentaciones (Día 23, mañana)
-
-Mark muestra la mansión y la casa de huéspedes a Vera (omite la sala de yesos). En el salón: presentaciones. Vera saluda a Rachel, Sophie y Dana con tono aséptico ("Rachel. Sophie."). Sin exceso de calidez, sin frialdad. Dana ofrece mostrarle la casa de huéspedes antes de que Vera se marche a buscar sus pertenencias.
-
-### Escena 133: Vehículo a la ciudad con Vera (Día 23, mañana)
-
-Mark y Vera comparten vehículo al centro. En el trayecto: Vera evalúa la situación de las asistentes con criterio propio: "Rachel va a necesitar más ayuda de lo que parece. Con el shoulder spica la higiene íntima es complicada sin manos. Sophie está bien estabilizada para el tiempo que lleva. Dana maneja bien la situación para lo que tiene." Cuando Mark pregunta qué le gusta hacer en su tiempo libre, Vera responde: "Leer. Salir a caminar. Tengo algunos intereses más específicos, pero no son conversación de primer día." Al mencionar la cita en el Creston, Vera comenta que la Dra. Mills es directa. Vera baja en el centro: "Estaré antes de las seis."
-
-### Escena 134: Instrucciones a Claire y cafetería del Creston (Día 23, mañana)
-
-Mark escribe a Claire: (1) uniforme de trabajo de Vera: vestido de enfermera ceñido y corto, medias veladas blancas; (2) cita con Dra. Mills a las 11h para evaluación pre-quirúrgica del pene (medidas flácido/erecto, prueba de eyaculación, Dra. Mills realiza la manipulación). Claire confirma ambas instrucciones. Mark en la cafetería del Creston. Mensajes: Megan (habló con Emily durante el baño — le dijo que le importa lo que piensa; Emily se quedó callada y luego se quedó 40 minutos más sin hacer nada); Patricia ("cuanfo vienes? Hannah dice q el capítulo 3 es mejor q el 2"); Diane (Tori usó vibrador 20 minutos nivel 2, come bien, sin novedades médicas). Durante la sesión también se actualizó la ficha de Vera vía Claire: se añadió que le gusta el sexo con personas distintas y que se insinúa cuando siente que el momento es adecuado.
-
-### Escena 135: Mensajes desde la cafetería (Día 23, mañana)
-
-Mark responde mensajes: a Megan le dice que le dé más señales de que a ella también le importa Emily; a Patricia le comunica la cirugía de feminización y le pregunta si lo visitaría en el hospital (sola, ya que él no podrá ir a buscarla); a Diane saludos para Tori y posible visita. Respuestas: Patricia confirma que irá sola ("ok voy sola entonces. suerte"); Diane transmite saludos, Tori subió los ojos dos veces. Mark explica a Megan la feminización (aspecto completamente femenino, conserva el pene); Megan responde que ya se lo imaginaba. Mark: la cirugía es esta noche. Megan: visitará mañana en la tarde. Cierra con "Era un chiste. Cuídate."
-
----
-
-## Día 23 — Mediodía (continuación)
-
-### Escena 136: Evaluación pre-quirúrgica con la Dra. Mills (Día 23, 11h)
-
-Mark llega al consultorio 4 del ala de cirugía plástica. Dra. Mills: complexión media, cabello castaño oscuro en moño bajo, ojos avellana, bata blanca entallada sobre top y pantalón clínico gris, zuecos blancos, terminal plateado al cuello. Evaluación: medidas corporales generales, inspección y palpación anal (silla de exploración con reposapiés articulados), medidas de pene flácido (9,2 cm) y erecto (16,8 cm) y de circunferencia, evaluación testicular, test de eyaculación (Mills manipula manualmente, recoge la muestra en el terminal; tiempo de respuesta 4:12). Sin hallazgos, apta para cirugía.
-
-Mills explica la recuperación; Mark corrige dos puntos vía Claire (edición en vivo, invisible para Mills): el objetivo del pene es que quede más grande y de tamaño similar en reposo y erección (no un salto brusco tipo grower), y que a partir del segundo día (Día 25) haya cambio diario de vendaje completo (baño en cama + pomadas) y traslados a otras áreas del hospital para pruebas no realizables en la habitación (rayos X, escáner). Mills repite la explicación ya corregida. A la pregunta directa de Mark, Mills da el tamaño final esperado: ~14 cm en reposo, ~17-17,5 cm erecto, ~13 cm de circunferencia en ambos estados.
-
-### Escena 137: Almuerzo e intimidad con Mira (Día 23, mediodía)
-
-Mark le escribe a Mira proponiendo almorzar; ella acepta y pide un lugar sin escalones y con espacio para la silla. Se encuentran en un restaurante accesible del centro. Mira sin ropa (explica que el vestido de la primera cita fue una excepción para causar buena impresión). Mark la ayuda con el tenedor en la banda elástica; ella pide la comida cortada. Mark le cuenta la cirugía de feminización; Mira lo acepta sin condiciones y pregunta si cambia algo entre ellos — Mark responde que no. Van a un hotel cercano: caricias mutuas, masturbación manual simultánea (mano vendada de Mira sobre el pene de Mark; mano de Mark sobre el pene vendado de Mira), eyaculación de ambos (la de Mira empapa el vendaje visiblemente; se cubre con una toalla del hotel para el camino a casa). Conversación íntima: Mira revela que no tiene pezones (pérdida por la progresión de la enfermedad) pero conserva sensibilidad en el resto del pecho; promete pedirle a June estar presente en una cura para que Mark la vea sin vendas algún día. Mark la invita al hospital ("un par de momias" en la cafetería); Mira acepta, estimado Día 25-26. Despedida en el vehículo de vuelta a casa de Mira.
-
-### Escena 138: Visita a Tori (Día 23, tarde)
-
-Mark llega al apartamento 204 con el auricular activado. Diane abre: cuidado puramente físico, sin ningún sistema de comunicación desarrollado con Tori (ni parpadeos ni tabla) — fuente de frustración y aislamiento para Tori, que depende de Mark para "hablar" de verdad vía auricular. Con la mandíbula alambrada, Tori no puede articular palabras, solo sonidos ininteligibles con la boca cerrada.
-
-Mark le muestra el cuerpo (pierna derecha paralizada sin aparato, muñón izquierdo sin prótesis, jaula de castidad bajo el pañal) y la acaricia; Tori muestra vergüenza marcada por la presencia de Diane, que permanece ajena. Mark le cuenta la cirugía de feminización y el tamaño final del pene. Enciende el vibrador anal (nivel 2, luego más) mientras la masturba a través de la jaula; la erección atrapada le produce dolor mezclado con placer (su condición conocida). Eyaculación retenida por la jaula, gotea sobre la sábana. Mark le seca las lágrimas y acaricia la piel expuesta entre los barrotes. La invita a visitarlo en el hospital a partir del segundo o tercer día de internamiento; Diane limpia y cambia el pañal a pedido de Mark antes de que se despida.
-
-### Escena 139: Visita a Jude — oferta del club y intimidad (Día 23, tarde)
-
-Mark le pide a Claire que Cora esté bañando a Jude desnuda cuando llegue; al notar que la reacción de Cora resultaba demasiado natural para no haber sido avisada, Mark corrige la instrucción con Claire: llega sin avisar, Cora inicialmente le pide esperar y solo accede tras la insistencia de Mark (poco tiempo disponible).
-
-En el baño: Jude desnuda en silla de ducha reclinable, Cora lavándole el pelo. Mark apaga el auricular. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa mientras siga siendo él. Cora trae la tabla de letras: Jude deletrea que no le importa su nueva imagen mientras la siga mirando así. Mark pide privacidad; Cora se retira a la sala (rasgo ya establecido: Cora es protectora con los momentos íntimos de Jude, cede solo con insistencia o razón de peso).
-
-A solas: caricias en labios externos y clítoris, fantasía verbal sobre ser "usada" por clientes del futuro club BDSM. Mark le ofrece el puesto de diseñadora del club: una empresa de diseño ejecutará sin conocimiento BDSM, Jude los instruirá con ayuda de una asistente y la tabla de letras. Jude acepta (ojos arriba sostenidos, la reacción más intensa de la visita). Penetración con dedos hasta el orgasmo. Mark le limpia la saliva, le cierra la mandíbula y la besa de despedida. Cora, de vuelta, ofrece llevar a Jude al hospital cuando Mark pueda recibir visitas (desde el segundo o tercer día). Mark sale.
-
-## Día 23 — Tarde (continuación)
-
-### Escena 140: Regreso a la mansión — Rachel y mensajes (Día 23, tarde)
-
-En el vehículo, Mark revisa mensajes: Vera confirma que llegó a la casa de huéspedes; Claire confirma que todo está listo para el ingreso; Dana reporta que Rachel preguntó por él. En casa, Mark visita a Rachel: doble shoulder spica, bata sin mangas abierta por delante, slip blanco. Rachel le reprocha con calma no haber sido consultada sobre el cambio de cuidadora (Vera) y admite que lo va a extrañar la semana del hospital. Mark le cuenta que también le preocupa que ella y Sophie no puedan tener intimidad sin él (ambas con los brazos muy limitados); Rachel sugiere pedirle ayuda a Dana, pendiente de hablarlo con Sophie. Beso. Mark va al comedor, donde Dana le tiene lista una comida rápida; le pide que le muestre la casa a Vera y la deje esperando en el salón.
-
-### Escena 141: Conversación con Vera — revelación mutua (Día 23, tarde)
-
-En el salón, ya con el uniforme de trabajo puesto, Vera pregunta por la habitación de yesos que vio en el recorrido, con sorpresa genuina (nunca había visto una en una casa privada). Mark le confiesa su fetiche por los yesos. Vera lo recibe con calma profesional y calidez ("no me parece raro... gracias por decírmelo"), y se ofrece a aplicarle un yeso ella misma en el futuro. Ante la pregunta directa de Mark sobre si estaría dispuesta a dejarlo dependiente y cuidar de él, Vera revela que es dominante BDSM en su vida privada y que le excita administrar esa dependencia; propone acordar reglas claras cuando Mark salga del hospital (~Día 30). Vuelven a lo profesional: Vera pregunta por protocolos médicos (no hay ninguno, solo cuidar de Rachel y Sophie) y por a quién contactar en una urgencia; Mark le da el contacto de Claire (presentada como vecina de confianza) y le pide que también esté pendiente de Dana. Vera acepta llevar a Rachel y Sophie a visitar a Mark al hospital cuando estén listas. Se despide y va a ver a Rachel y Sophie.
-
-### Escena 142: Despedidas e ingreso al Creston (Día 23, noche)
-
-Mark se despide de Rachel, Sophie y Dana y sale hacia el Creston Medical Center. Entra por la entrada principal de admisión (vestíbulo amplio, mostrador curvo, ambiente cálido). Un recepcionista robot le pide su nombre para iniciar el ingreso.
-
-### Escena 143: Admisión, mensaje a Dana, instrucción secreta a Claire, quirófano (Día 23, noche)
-
-Completado el registro (pulsera identificativa), una enfermera lleva a Mark a una sala de preparación. Antes del consentimiento, Mark le escribe a Dana pidiéndole que lo mantenga informado de novedades en casa; Dana confirma que todo está tranquilo. Mark le escribe a Claire con una instrucción especial: durante su ausencia, que ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa, iniciado por una de ellas (dado que Vera es profesional en su trabajo) — Claire decide quién y cuándo, sin decírselo a Mark; podría enterarse después, por ejemplo por Dana. Claire confirma. Decisión de Claire (no revelada a Mark en la narración): será Sophie quien inicie algo con Vera durante una maniobra de ayuda para tener intimidad con Rachel, en algún momento entre el Día 24 y el Día 29 [detalle completo marcado como secreto en `personajes/vera.md`].
-
-La Dra. Mills repasa los últimos puntos antes de bajar a quirófano: consentimiento firmado en panel táctil, vía intravenosa colocada en el dorso de la mano izquierda, sedante suave administrado antes del traslado. Mark pregunta la talla de senos resultante; Mills estima copa D con un margen de un centímetro, a confirmar tras retirar el vendaje (~Día 30). Traslado en camilla a quirófano; anestesia completa ya dentro. Todo se apaga.
+> Escenas 1–143 (Días 1–23) archivadas en `scene_log_archive.md`.
 
 ---
 
@@ -384,7 +308,7 @@ Hobbs llega puntual con uniforme limpio y la lencería nueva puesta (encaje negr
 
 ### Escena 195: Acuerdo de continuidad y el límite del hospital (Día 30, ~9:20)
 
-Mark le pregunta si quiere que le siga poniendo retos. Hobbs dice que sí sin pensárselo ("si me lo pienso me voy a echar atrás"), pero pone un límite propio y lo enuncia como profesional, no como pudor: **dentro del hospital hay un límite**, porque su supervisora ya le preguntó qué le pasaba y un expediente en la primera semana le costaría la plaza. "Fuera de aquí lo que usted quiera." Mark lo acepta. Ella se va antes de que llegue Mills, pidiendo no saber de antemano qué va a pasar en la evaluación.
+Mark le pregunta si quiere que le siga poniendo retos. Hobbs dice que sí sin pensárselo ("si me lo pienso me voy a echar atrás"). "Fuera de aquí lo que usted quiera." Mark lo acepta. Ella se va antes de que llegue Mills, pidiendo no saber de antemano qué va a pasar en la evaluación.
 
 ### Escena 196: Mills plantea la evaluación final (Día 30, 9:30)
 
@@ -392,11 +316,11 @@ Mills entra con Hobbs, que empuja el carro. Anuncia dos cosas antes de las once:
 
 ### Escena 197: Hobbs decide por sí misma; inicio de la evaluación (Día 30, ~9:40)
 
-Mills pregunta a Hobbs si se queda o prefiere esperar fuera. Mark contesta por ella ("a mí me parece que se quiere quedar, ¿cierto?") y Mills lo corta: **"Eso me lo tiene que decir ella."** Hobbs contesta en primera persona: se queda, pero solo a mirar; no participa, no la toca nadie y no toca a nadie, y lo dice "ahora y no cuando ya estemos". Mark pregunta si quedará en algún reporte; Mills confirma que no escribe nada, y añade que la ausencia de papel cambia el riesgo pero no la respuesta de Hobbs, que sigue en pie. Echa el pestillo, se desviste y retira el vendaje del pene y los testículos (revisión: base sin hinchazón, cicatrización cerrada, "esto está mejor de lo que suele estar"), avisando de que ante cualquier molestia para en el momento. Empieza despacio, comprobando el recorrido por tramos.
+Mills pregunta a Hobbs si se queda o prefiere esperar fuera. Hobbs contesta en primera persona: se queda, pero solo a mirar. Mark pregunta si quedará en algún reporte; Mills confirma que no escribe nada, y añade que la ausencia de papel cambia el riesgo pero no la respuesta de Hobbs, que sigue en pie. Echa el pestillo, se desviste y retira el vendaje del pene y los testículos (revisión: base sin hinchazón, cicatrización cerrada, "esto está mejor de lo que suele estar"), avisando de que ante cualquier molestia para en el momento. Empieza despacio, comprobando el recorrido por tramos.
 
 ### Escena 198: Desarrollo y cierre de la evaluación (Día 30, ~9:50–10:15)
 
-Mark pide a Hobbs que se quede de pie como estímulo visual; ella accede a eso concretamente, aclarando que no es lo que ha dicho que no, y repite que el resto no cambia. Mills se quita el top a petición de Mark. Ante la mancha del uniforme, Hobbs se lo quita **por decisión propia y por un motivo propio** (es el único limpio que tiene y entra de turno a las 10:30), reafirmando el límite. Mark retira expresamente cualquier petición de que lo toque a él o a Mills y le da permiso para tocarse ella; Hobbs acepta ("llevo desde las nueve de pie sin poder hacer esto") sin soltar el bastidor en ningún momento. Mark le ofrece terminar encima de él; Mills aclara que el límite de Hobbs lo mueve solo Hobbs, y ella se acerca diciendo "esto lo estoy decidiendo yo". Clímax de Hobbs sobre el vendaje del pecho, después el de Mills, y por último el de Mark, notablemente más largo que las evaluaciones anteriores. Mills tira la venda usada en vez de reutilizarla: "Eso responde a todo lo que quería saber."
+Mark pide a Hobbs que se quede de pie como estímulo visual; ella accede a eso concretamente. Mills se quita el top a petición de Mark. Ante la mancha del uniforme, Hobbs se lo quita (es el único limpio que tiene y entra de turno a las 10:30). Mark le da permiso para tocarse ella; Hobbs acepta ("llevo desde las nueve de pie sin poder hacer esto") sin soltar el bastidor en ningún momento. Mark le ofrece terminar encima de él; Ella se acerca. Clímax de Hobbs sobre el vendaje del pecho, después el de Mills, y por último el de Mark, notablemente más largo que las evaluaciones anteriores. Mills tira la venda usada en vez de reutilizarla: "Eso responde a todo lo que quería saber."
 
 ### Escena 199: Retirada completa de vendajes (Día 30, ~10:20)
 
@@ -416,7 +340,7 @@ Sentado en el borde con las piernas colgando abiertas, episodio de hipotensión 
 
 ### Escena 203: Revelación a Hobbs — Mark es el dueño del Creston (Día 30, ~10:50)
 
-De vuelta en la cama, Mills sale a por los documentos del alta a petición de Mark (instrucción a Claire) y lo deja a solas con Hobbs. Mark le dice que su trabajo nunca ha corrido riesgo y le pregunta si sabe de quién es el hospital. Hobbs lo deduce en mitad de la frase, se queda pálida y da medio paso atrás: todo lo que decidió esta mañana lo decidió creyendo que se lo pedía un paciente cualquiera. Pregunta si se lo dice para tranquilizarla o para que sepa de quién depende. Mark explica que no se lo dijo antes porque notó que le gustaba la tensión. Hobbs lo agradece pero marca la diferencia ("antes yo creía que arriesgaba algo y decidía sabiendo lo que arriesgaba; ahora lo que hay es que usted es el dueño y no va a hacerme nada malo, y eso no es lo mismo") y **pide una promesa concreta: que él no toque nunca su situación en el hospital, ni para bien ni para mal**. Mark se la da. A la pregunta de si habría preferido saberlo desde el principio, responde que "nunca" era la peor opción de las tres, y que lo que ganó al saberlo fue poder decirle que no sin calcular qué le costaba — la primera vez en toda la semana. **Mark acepta no volver a pedirle nada dentro del hospital.** Quedan a las **20:20 en la puerta principal del centro comercial** (el mismo de la tarea nocturna) cuando ella libre a las ocho. Por mensaje, Mark le ordena tirar toda su ropa interior; ella avisa del problema práctico de quedarse sin nada para el turno siguiente.
+De vuelta en la cama, Mills sale a por los documentos del alta a petición de Mark (instrucción a Claire) y lo deja a solas con Hobbs. Mark le dice que su trabajo nunca ha corrido riesgo y le pregunta si sabe de quién es el hospital. Hobbs lo deduce en mitad de la frase, se queda pálida y da medio paso atrás: todo lo que decidió esta mañana lo decidió creyendo que se lo pedía un paciente cualquiera. Pregunta si se lo dice para tranquilizarla o para que sepa de quién depende. Mark explica que no se lo dijo antes porque notó que le gustaba la tensión. Hobbs lo agradece pero marca la diferencia ("antes yo creía que arriesgaba algo y decidía sabiendo lo que arriesgaba; ahora lo que hay es que usted es el dueño y no va a hacerme nada malo"). A la pregunta de si habría preferido saberlo desde el principio, responde que "nunca" era la peor opción de las tres. Quedan a las **20:20 en la puerta principal del centro comercial** (el mismo de la tarea nocturna) cuando ella libre a las ocho. Por mensaje, Mark le ordena tirar toda su ropa interior; ella avisa del problema práctico de quedarse sin nada para el turno siguiente.
 
 ### Escena 204: Alta firmada (Día 30, 11:00)
 
@@ -446,6 +370,66 @@ Rachel vuelve con Reyes, que se para en seco al verlo vestido y de pie ("esta ma
 
 ---
 
-**La conversación termina aquí: Día 30, ~11:55, en el vehículo autónomo saliendo del Creston Medical Center camino de la mansión.** Mark viaja tumbado de lado en el asiento trasero con la ortesis completa, la barra de abducción y la férula peneana puestas, vestido con la falda de abertura en V, el jersey y las pezoneras. Rachel acaba de decirle: "Veinte minutos y estás en casa."
+## Día 30 — Mediodía (llegada a la mansión)
 
-**Próximo paso pendiente:** llegada a la mansión (reencuentro con Sophie y con Vera, que preguntó la hora del alta y organizó el traslado de Sophie para que estuviera en casa). **Día 30, 20:20: cita con Hobbs en la puerta principal del centro comercial.** **Día 31: retirada de la barra de abducción.** **Día 32, 9:00: Mills va a la mansión a retirar la ortesis y la férula**; ese mismo día, Megan se quita los yesos en la mansión con Vera. Esta noche, Rachel piensa hablar con Vera. Siguen pendientes: la excusa de Dana para pedirle ayuda a Vera; la visita de Cora y Jude a la mansión; el yeso que Vera ofreció aplicarle a Mark.
+> **Cambio de nombre:** a partir de la escena 211, el personaje pasa a llamarse **Marcie**. Las escenas anteriores conservan "Mark" tal como se narraron.
+
+### Escena 210: Llegada a la mansión — Sophie y Vera (Día 30, ~12:15)
+
+El vehículo se detiene en el camino de entrada. Dana lo saca sola del asiento trasero (lo endereza por partes, le sostiene el peso hasta que la ortesis lo tiene de pie, le encaja las muletas con los ganchos) y camina a su lado sin tocarlo los veinte metros hasta la puerta. Rachel entra de lado por el marco. En la sala principal esperan **Sophie**, en la silla de respaldo alto colocada de cara a la entrada con el respaldo más levantado de lo habitual, y **Vera**, de uniforme, con una mano en el respaldo de la silla. Ninguna dice nada durante unos segundos: Vera recorre el metal, el pecho y la férula con la vista; Sophie mira sin poder hacer otra cosa. Sophie rompe el silencio: "Te fuiste hombre y has vuelto con más hierro que yo."
+
+### Escena 211: El anuncio — Mark pasa a ser Marcie (Día 30, ~12:20)
+
+Mark pide a Vera que lo ayude a sentarse. Vera advierte que el sofá es demasiado bajo para él ese día (con las rodillas bloqueadas quedaría casi tumbado y haría falta alguien para sacarlo) y, a petición suya, manda a Dana traer cuatro cojines firmes de la biblioteca para subir el asiento un palmo. Ya sentado, **anuncia a las cuatro que a partir de ahora es oficialmente una mujer y que se llama Marcie.** Sophie lo prueba en voz alta ("Suena mejor que Mark"); Dana lo acepta con practicidad ("si se me escapa el otro los primeros días, es la boca, no la cabeza"); Rachel tarda más y pregunta si lo decidió ese día o antes de entrar al hospital. Marcie responde que lo decidió estando en el hospital.
+
+### Escena 212: Traslado a la habitación y baño de esponja (Día 30, ~12:30)
+
+Marcie pide a Vera que la lleve a la habitación, la acueste y le dé un baño de esponja. Vera la acompaña por el corredor medio paso por detrás, sin tocarla. En la habitación principal (cortinas a medio correr, cama hecha con sábanas limpias) la baja de costado en dos movimientos, levantando las piernas juntas por la barra como una sola pieza. Antes de empezar pregunta qué se puede retirar; Marcie le indica que todo puede quitarse estando acostada, ya que la ortesis es soporte para caminar. Vera trae palangana, esponjas, jabón neutro, toallas y un hule, y desviste por orden: el jersey (manga a manga, inclinándola a cada lado), la falda por arriba —que no toca la estructura porque la abertura en V queda por debajo—, y después las pezoneras adhesivas, despegadas tirando de la piel para que el adhesivo suelte. Lava por zonas de arriba abajo: cara, nuca, cuello, clavículas; el pecho con la mano y sin esponja por ser zona operada hace siete días (comprueba simetría por el tacto: "ni bultos ni zonas duras"); brazos y manos dedo a dedo; esternón y vientre hasta la cinturilla del cinturón pélvico.
+
+### Escena 213: La historia de Hobbs y las objeciones de Vera (Día 30, durante el baño)
+
+Marcie le cuenta a Vera lo ocurrido en el hospital: la enfermera de la mañana, la evaluación de eyaculación estancada, la Dra. Mills desvistiéndose como "ayuda visual", y **Hobbs**. Le relata que Hobbs le contó lo de la expareja que la tuvo una hora desnuda y de pie junto a la cama, que descubrió que lo que le gusta se llama BDSM, y el primer reto (terminar el turno sin ropa interior evitando una erección). Vera va contestando mientras trabaja, con criterio propio y en tres tiempos:
+
+1. **Sobre el reto:** "está bien pensado: no le pediste que hiciera nada, le pediste que aguantara algo que no controla. Eso es lo que engancha." Pero objeta el **dónde**: primera semana en un sitio nuevo, con supervisora y compañeras, y si sale mal la que paga es ella.
+2. **Sobre "no la puse en peligro porque soy el dueño":** lo rechaza de plano — la que estaba de pie en el office era ella y ella sí creía que había riesgo; lo que le quitó al decírselo no fue el peligro, sino la posibilidad de negarse sin calcular el coste.
+3. **Sobre la propuesta de traerla a la casa como enfermera sumisa y que Vera sea su maestra:** acepta conocerla y aprueba el plan de invitarla primero para que decida informada, pero **rechaza el encuadre de "usarla"** ("eso me lo tendría que pedir ella a mí, y sin que tú estés delante cuando lo decida") y señala el problema de fondo: si Marcie le da el trabajo, la casa y la maestra, el día que quiera dejarlo tendrá que calcular qué pierde. Lo dice desde su propia posición: "yo estoy exactamente en esa posición contigo, y a mí no me pesa porque llevo años haciendo esto y sé decir que no. Ella no."
+
+Marcie argumenta que Hobbs ya le dijo que no a una petición en el hospital y que él lo respetó. Vera precisa que ese "no" lo dijo donde tenía algo detrás —un turno, una supervisora, unas normas— y que en la casa no tendría nada de eso. Cierra el tema y no vuelve sobre él: "Ya está dicho, y decides tú. Si viene, yo hablo con ella a solas antes de nada."
+
+### Escena 214: Retirada del aparato, limpieza genital y el yeso futuro (Día 30, ~12:50)
+
+A orden de Marcie, Vera retira el aparato entero: abrazaderas de muslo, rodilla y pantorrilla de ambos montantes, cinturón pélvico, los dos tornillos de mariposa de la barra de abducción (las piernas se juntan por primera vez desde el hospital), y por último la férula — capuchas, arnés de cintura, las dos correas de velcro, la pletina dorsal (el pene deja de estar fijado en horizontal por primera vez en siete días) y el anillo de la base con su pasador. Revisa la marca del anillo comprobando color y temperatura: sin hallazgos. Lava las piernas de los pies hacia arriba y después, con jabón neutro y sin esponja, la zona genital en detalle: pliegues inguinales, testículos por fuera y por detrás, el pene de la base hacia arriba en pasadas cerradas (dos vueltas para abarcar la circunferencia), deteniéndose en la marca del anillo y en la cara de abajo, y la corona solo con las yemas por ser la piel más nueva. Aclara, seca a golpecitos y aplica la pomada de la pauta de Mills. Al notar la erección: "eso es respuesta normal y no hace falta que ninguna de las dos diga nada al respecto."
+
+Marcie saca el tema del yeso que Vera le ofreció. Vera avisa de que hasta el Día 32 no se puede hacer nada, pero contesta: a ella no le sirve un brazo ni una pierna — lo que quiere es no poder resolverse nada sola, y eso solo lo da un **hip spica** de debajo del pecho a los pies, con las dos piernas dentro y barra entre las rodillas. Plantea entonces la decisión real, **los brazos dentro o fuera**: con los brazos fuera conserva manos (teléfono, comida, lectura, tocarse); con los brazos dentro en abducción, como los de Rachel, no tiene nada y cada cosa que quiera tiene que pedirla en voz alta — "ahí ya no es un yeso: ahí lo que estás eligiendo es a quién le pides permiso durante seis semanas". Le pide que se lo piense esos dos días. **Sin decidir.**
+
+### Escena 215: Recolocación del aparato y el espejo (Día 30, ~13:05)
+
+A orden de Marcie, Vera vuelve a montarlo todo en orden inverso (montantes, cinturón pélvico, barra, y la férula con el anillo, la cuna, la pletina, las correas y el arnés), dejándolo idéntico a como salió del hospital. Marcie ordena no vestirla ni cubrirla: quiere quedarse desnuda para verse el cuerpo nuevo. Vera, sin comentar la orden, señala que tumbada no se verá más que las rodillas y trae el espejo de pie con ruedas del vestidor, lo coloca en diagonal a los pies de la cama y bloquea las ruedas. **Primera vez que Marcie se ve entera tumbada:** el pelo sobre la almohada, los senos con las aureolas todavía marcadas por el adhesivo, la cintura y la cadera, la piel pálida de siete días sin luz y sin vello, y de la cintura abajo el metal con la férula apuntando al espejo. Vera se lleva la ropa y avisa de que estará con Rachel y Sophie.
+
+### Escena 216: Visita de Claire — creación de Sadie Ford (Día 30, ~13:10)
+
+Claire llega por la puerta del jardín. Saluda ya con el nombre nuevo y anuncia que el cambio está **registrado en todos los sistemas del área desde las 12:20** (nombre, tratamiento y género), de modo que nadie tendrá que corregirse fuera de la casa. Marcie le encarga un personaje nuevo y Claire lo ejecuta: **Sadie Ford**, 22 años, escritora — bestseller de fantasía medieval erótica llevado al cine, con independencia económica. Amputaciones: los diez dedos de los pies; mano derecha con pulgar, índice y meñique; mano izquierda con meñique y anular, más el pulgar recién amputado y vendado. Versión pública: una enfermedad. Verdad: se las hace ella misma, y se lo contará a Marcie cuando la conozca más. Secuencia siguiente fijada (índice derecho, anular izquierdo, pulgar derecho → los dos meñiques; después las dos manos por la muñeca, una tras otra); nunca corta tramos largos de golpe y no busca simetría. Primer cruce solo de vista, con Marcie tomando la iniciativa después.
+
+Marcie descarta el primer nombre propuesto; Claire ofrece cuatro alternativas (Elsie Vandermeer, Nell Carraway, Sadie Ford, Bryn Halloway) y Marcie elige **Sadie**.
+
+### Escena 217: El Marginalia y el reloj de las amputaciones (Día 30, ~13:15)
+
+Marcie pide que el café de Sadie no sea de paso y esté en el centro comercial. Claire crea el **Marginalia** (ver `world.md`): café-biblioteca de una sola planta en la galería, pared de libros de papel de suelo a techo con escalera corredera, barra alta contra el cristal, mesas con lámpara verde, mesa comunal de roble, muro de fichas de una línea, todo a nivel y abierto hasta medianoche. Sadie escribe en la mesa del fondo, junto a la pared de libros y **de cara a la puerta**; desde la barra alta se la ve.
+
+**Ritmo de las amputaciones.** Marcie plantea alterar la percepción del tiempo de Sadie. Claire señala el coste (no podría hablar de fechas con ella nunca, y los dos calendarios se separarían cada vez más) y ofrece dos alternativas sin ese problema: cicatrización rápida integrada en la enfermedad que ya usa como coartada, o adelantar el impulso a la retirada de puntos. Marcie pregunta los plazos de la segunda: dos semanas por dedo, tres o cuatro por mano — insuficiente. Se adopta la **cicatrización rápida** y, sobre ella, el **reloj anclado a las visitas**: cada vez que Marcie entre al café **en un día distinto del anterior**, Sadie habrá avanzado **un paso, nunca más de uno**, sin importar cuánto tiempo haya pasado. Dos visitas el mismo día no cuentan. Claire advierte de la consecuencia: a ese ritmo, los dedos y las manos se terminan en cinco visitas y a partir de ahí ya no hay guion.
+
+Correcciones de Marcie en esta escena: le quedan **cinco** dedos (tres en la derecha, dos en la izquierda), no tres — Claire lo reconoce como error propio. Y cambios sobre Sadie: nada de ropa holgada, sino **estilo alternativo ceñido** que luce el cuerpo (tops cortos, arneses, medias de rejilla, botas, piercings y tatuajes, a veces con pezoneras); lo primero que la hace levantar la vista es **el aparato ortopédico y sobre todo la férula peneana**, con excitación directa que la descoloca, y solo después viene el interés por la persona y por las historias que Marcie cuente. **El cruce de esta noche cuenta como visita 1.**
+
+### Escena 218: Jaula de castidad para Hobbs y vestuario nuevo (Día 30, ~13:20)
+
+Marcie encarga una **jaula de castidad** como regalo para Hobbs, para recogerla en la sex shop del centro comercial estando ya con ella y colocársela allí mismo, con la intención de pedirle que la lleve varios días seguidos. Claire recomienda diseño para uso continuado: **titanio** (la mitad de peso que el acero), jaula **de barras abiertas** y no tubo cerrado (se seca sola y se lava sin desmontar), punta abierta para orinar de pie, **sin tubo uretral**, longitud de 7 cm (por debajo de la longitud en reposo de Hobbs, 8,5 cm), testículos libres con aro de anclaje como la de Tori, y anillo de **45 mm** con bisagra y pasador, con la misma advertencia de circulación que la del anillo de Marcie. Antes de encargarla, Claire señala que llevarla varios días seguidos incluye los turnos de Hobbs y que Marcie le prometió esa misma mañana no pedirle nada dentro del hospital. Marcie responde que la pida igual, que no afectará su trabajo. Claire la encarga sin insistir: estará en el mostrador a su nombre desde las siete, en caja cerrada sin marcas, cuatro locales más allá del Marginalia.
+
+**Vestuario:** Marcie ordena retirar toda su ropa de hombre y sustituirla por un vestuario femenino completo con gran variedad de estilos, incluidos los más reveladores de la ciudad. Claire lo ejecuta y añade la salvedad práctica de que hasta el Día 32 casi nada sirve con la férula y los estribos; aparta en el vestidor una selección corta que sí funciona sobre el aparato (faldas y pantalones de talle alto con abertura en V, vestidos abiertos por delante, tops y jerséis cortos, pezoneras y los zapatos de velcro anchos). Se despide anunciando que le dirá a Vera que le suba algo de comer y que vuelva a las seis a vestirla.
+
+**Corrección de continuidad aplicada en esta escena:** los brazos y hombros de Marcie funcionan con normalidad y **puede levantarlos sin problema** (registrado en `state.md`).
+
+---
+
+**La conversación termina aquí: Día 30, ~13:20, en el dormitorio principal de la mansión.** Marcie está sola, tumbada boca arriba y desnuda por decisión propia, con la ortesis completa, la barra de abducción y la férula recién recolocadas, y el espejo de pie bloqueado en diagonal a los pies de la cama. Claire acaba de salir por el corredor. Quedan casi cinco horas hasta que Vera venga a vestirla y siete hasta el centro comercial.
+
+**Próximo paso pendiente:** la tarde libre en la mansión (Vera sube comida; vuelve a las seis a vestirla y montarle el aparato). **Día 30, ~20:20: doble cita en el centro comercial** — Hobbs en la puerta principal, la jaula de castidad esperando en la sex shop, y el primer cruce de vista con Sadie en el Marginalia (cuenta como visita 1). **Esta noche: Rachel habla con Vera** cuando vaya a acostarlas, sola y sin que Marcie intervenga. **Día 31: retirada de la barra de abducción.** **Día 32, 9:00: Mills retira la ortesis y la férula en la mansión**; ese mismo día Megan se quita los yesos con Vera. Sin decidir: **brazos dentro o fuera** en el hip spica que Vera le pondrá. Siguen pendientes: la excusa de Dana para pedirle ayuda a Vera; la visita de Cora y Jude; la conversación a solas de Vera con Hobbs si llega a la casa.

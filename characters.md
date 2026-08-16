@@ -19,14 +19,16 @@ ficha no se toca nunca.
 
 ## Núcleo permanente _(se carga al inicio)_
 
-- **[Claire](personajes/claire.md)** — robot, asistente principal de Mark. ~35 años, castaña, serena. Escucha siempre, ejecuta las órdenes de Mark y ajusta a los demás robots. Vive en casa adyacente. Pareja: Emily.
-- **[Rachel](personajes/rachel.md)** — robot, mucama (apellido: Holt). Rubia pelo largo. **Doble shoulder spica hasta ~Día 61: el yeso cubre torso (senos incluidos), brazos, muñecas y manos — solo los dedos libres.** Accesible: cabeza, dedos y de cintura para abajo. Volviendo a la mansión con Mark. Relación con Sophie. **Día 30 noche: piensa preguntarle a Vera si a ella le gustaría tocarla.**
-- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo (excepto rostro/senos/genitales) hasta ~Día 40; silla de ruedas reclinable. En su habitación. Relación con Rachel.
-- **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (antebrazo, ganchos) y piernas (transtibial, prótesis). Se incorporó el Día 15. Volviendo a la mansión con Mark; lo vistió y lo trasladó ella sola el Día 30.
+> **Nota:** desde el Día 30 (~12:20) el protagonista es **Marcie** (antes Mark). Cambio registrado en todos los sistemas del área; todos los personajes usan el nombre y el femenino.
+
+- **[Claire](personajes/claire.md)** — robot, asistente principal de Marcie. ~35 años, castaña, serena. Escucha siempre, ejecuta las órdenes de Marcie y ajusta a los demás robots. Vive en casa adyacente. Pareja: Emily.
+- **[Rachel](personajes/rachel.md)** — robot, mucama (apellido: Holt). Rubia pelo largo. **Doble shoulder spica hasta ~Día 61: el yeso cubre torso (senos incluidos), brazos, muñecas y manos — solo los dedos libres.** Accesible: cabeza, dedos y de cintura para abajo. En la mansión. Relación con Sophie. **Día 30 noche: piensa preguntarle a Vera si a ella le gustaría tocarla.**
+- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo (excepto rostro/senos/genitales) hasta ~Día 40; silla de ruedas reclinable. En el salón de la mansión. Relación con Rachel.
+- **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (antebrazo, ganchos) y piernas (transtibial, prótesis). Se incorporó el Día 15. En la mansión; vistió y trasladó a Marcie ella sola el Día 30.
 
 ## Activos en el arco actual _(se carga al inicio)_
 
-- **[Vera](personajes/vera.md)** — robot, enfermera de la mansión. 29 años, rubia, delgada. Dominante BDSM en su vida privada; fetiche por yesos e inmovilización (revelado a Mark, Día 23). A cargo de Rachel y Sophie desde Día 23 tarde. Vive en la casa de huéspedes.
+- **[Vera](personajes/vera.md)** — robot, enfermera de la mansión. 29 años, rubia, delgada. Dominante BDSM en su vida privada; fetiche por yesos e inmovilización. A cargo de Rachel y Sophie desde Día 23 tarde. Vive en la casa de huéspedes. **Día 30: bañó a Marcie, se interesó en conocer a Hobbs y le propuso un hip spica — decisión pendiente de brazos dentro o fuera.**
 - **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Mark y le dio el alta el Día 30. **Vuelve a la mansión el Día 32 a las 9:00** a retirarle la ortesis y la férula.
 - **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). Yeso brazo der (bajo axila-mano, dedos libres) y pierna izq (hasta casi nalga) hasta ~Día 29. Apartamento, Emily la cuida. Romance con Emily establecido (Día 25 noche): confesión mutua, yesos revelados como voluntarios, primera intimidad. Emily aún no sabe de su relación con Mark.
 - **[Emily](personajes/emily.md)** — robot, pareja de Claire. Rubia corta, ~30 años. Cuidadora 24/7 de Megan en su apartamento. Romance con Megan establecido (Día 25 noche); sabe que sus yesos son voluntarios. No sabe de la relación de Megan con Mark.
@@ -36,6 +38,7 @@ ficha no se toca nunca.
 - **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho en uso. "Novia" de Mark. Casa de Hannah. Se besaron mutuamente con Hannah la noche del Día 26; hablaron abiertamente el Día 27 — van a intentarlo, sin nombre todavía a lo suyo.
 - **[Hobbs](personajes/hobbs.md)** — robot, residente de primer año del Creston. 23-24, baja y menuda, rubio oscuro a la mandíbula, pecas, ojos azules; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Novena semana... primera semana en el hospital, no conoce la ciudad. Sumisa; arco BDSM activo. **Día 30: sabe que Mark es el dueño del Creston y le hizo prometer que no tocará nunca su situación laboral; Mark aceptó no pedirle nada dentro del hospital. Cita a las 20:20 en el centro comercial.**
 
+- **[Sadie](personajes/sadie.md)** — robot ciudad, escritora (bestseller de fantasía erótica + película). 22 años, castaña clara, ojos grises. Amputaciones autoinfligidas ocultas tras una "enfermedad": los diez dedos de los pies; mano der. con pulgar/índice/meñique; mano izq. con meñique/anular y el pulgar recién amputado, vendado. Escribe a diario en el **Marginalia** (centro comercial), segundo cubículo del entresuelo. **Aún no ha ocurrido el primer encuentro con Marcie.**
 - **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos azules. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo, opera silla eléctrica con el muñón; mano izq sin ningún dedo; pene amputado a la mitad. No puede ser penetrada (piel frágil). En su apartamento con June. Visitó a Mark en el Creston Día 28.
 
 ## En pausa _(NO se carga; abrir el archivo al reaparecer)_

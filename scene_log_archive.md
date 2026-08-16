@@ -896,3 +896,80 @@ Mark llega a la mansión, pide a Dana que se vaya a dormir y va a casa de Claire
 Claire ejecuta todo; fuera ya se escucha maquinaria. Mark regresa a la mansión y se acuesta.
 
 ---
+
+---
+
+## Día 23 — Mañana
+
+### Escena 130: Cocina — noticias a Rachel, Sophie y Dana (Día 23, mañana)
+
+Mark se levanta temprano. Dana está en la cocina preparando café. Mark pide que traiga a Rachel y Sophie al salón. Reunidas las cuatro, Mark les da dos noticias: viene una enfermera llamada Vera a las 9h para entrevista, y él se someterá esa noche a una cirugía de feminización completa, estando ausente aproximadamente una semana. Reacciones: Sophie ("Mujer con pene. Coherente."), Rachel hace preguntas prácticas (quién toma decisiones de la casa mientras no está, si la enfermera vivirá allí). Mark aclara: Rachel tomará las decisiones de la casa; la enfermera decidirá lo médico de Rachel y Sophie, y vivirá en la casa de huéspedes. Sophie y Rachel observan la casa de huéspedes nueva desde la ventana del jardín. Rachel: "La construyeron anoche."
+
+### Escena 131: Entrevista con Vera en el estudio (Día 23, 9h)
+
+Vera llega puntual. Dana la conduce al estudio. Mark la recibe y le ofrece café (acepta, sin añadidos). Descripción: 29 años, mujer blanca delgada, cabello rubio lacio hasta la nuca suelto, blusa negra ajustada de manga larga, pantalón negro de corte recto, botas cortas. Rasgos precisos, expresión controlada. Mark explica la situación: Rachel con doble shoulder spica, Sophie con full body cast (cabeza y cuello libres, usa silla reclinable), Dana con amputaciones de brazos y piernas. Vera hace preguntas clínicas precisas y escuetas: tipo de yesos, si Sophie puede moverse sola (no), si cabeza y cuello están libres (sí), si existe protocolo médico activo (no). Acepta el trabajo sin deliberación. Empezará esa tarde y vivirá en la casa de huéspedes.
+
+### Escena 132: Tour de la mansión y presentaciones (Día 23, mañana)
+
+Mark muestra la mansión y la casa de huéspedes a Vera (omite la sala de yesos). En el salón: presentaciones. Vera saluda a Rachel, Sophie y Dana con tono aséptico ("Rachel. Sophie."). Sin exceso de calidez, sin frialdad. Dana ofrece mostrarle la casa de huéspedes antes de que Vera se marche a buscar sus pertenencias.
+
+### Escena 133: Vehículo a la ciudad con Vera (Día 23, mañana)
+
+Mark y Vera comparten vehículo al centro. En el trayecto: Vera evalúa la situación de las asistentes con criterio propio: "Rachel va a necesitar más ayuda de lo que parece. Con el shoulder spica la higiene íntima es complicada sin manos. Sophie está bien estabilizada para el tiempo que lleva. Dana maneja bien la situación para lo que tiene." Cuando Mark pregunta qué le gusta hacer en su tiempo libre, Vera responde: "Leer. Salir a caminar. Tengo algunos intereses más específicos, pero no son conversación de primer día." Al mencionar la cita en el Creston, Vera comenta que la Dra. Mills es directa. Vera baja en el centro: "Estaré antes de las seis."
+
+### Escena 134: Instrucciones a Claire y cafetería del Creston (Día 23, mañana)
+
+Mark escribe a Claire: (1) uniforme de trabajo de Vera: vestido de enfermera ceñido y corto, medias veladas blancas; (2) cita con Dra. Mills a las 11h para evaluación pre-quirúrgica del pene (medidas flácido/erecto, prueba de eyaculación, Dra. Mills realiza la manipulación). Claire confirma ambas instrucciones. Mark en la cafetería del Creston. Mensajes: Megan (habló con Emily durante el baño — le dijo que le importa lo que piensa; Emily se quedó callada y luego se quedó 40 minutos más sin hacer nada); Patricia ("cuanfo vienes? Hannah dice q el capítulo 3 es mejor q el 2"); Diane (Tori usó vibrador 20 minutos nivel 2, come bien, sin novedades médicas). Durante la sesión también se actualizó la ficha de Vera vía Claire: se añadió que le gusta el sexo con personas distintas y que se insinúa cuando siente que el momento es adecuado.
+
+### Escena 135: Mensajes desde la cafetería (Día 23, mañana)
+
+Mark responde mensajes: a Megan le dice que le dé más señales de que a ella también le importa Emily; a Patricia le comunica la cirugía de feminización y le pregunta si lo visitaría en el hospital (sola, ya que él no podrá ir a buscarla); a Diane saludos para Tori y posible visita. Respuestas: Patricia confirma que irá sola ("ok voy sola entonces. suerte"); Diane transmite saludos, Tori subió los ojos dos veces. Mark explica a Megan la feminización (aspecto completamente femenino, conserva el pene); Megan responde que ya se lo imaginaba. Mark: la cirugía es esta noche. Megan: visitará mañana en la tarde. Cierra con "Era un chiste. Cuídate."
+
+---
+
+## Día 23 — Mediodía (continuación)
+
+### Escena 136: Evaluación pre-quirúrgica con la Dra. Mills (Día 23, 11h)
+
+Mark llega al consultorio 4 del ala de cirugía plástica. Dra. Mills: complexión media, cabello castaño oscuro en moño bajo, ojos avellana, bata blanca entallada sobre top y pantalón clínico gris, zuecos blancos, terminal plateado al cuello. Evaluación: medidas corporales generales, inspección y palpación anal (silla de exploración con reposapiés articulados), medidas de pene flácido (9,2 cm) y erecto (16,8 cm) y de circunferencia, evaluación testicular, test de eyaculación (Mills manipula manualmente, recoge la muestra en el terminal; tiempo de respuesta 4:12). Sin hallazgos, apta para cirugía.
+
+Mills explica la recuperación; Mark corrige dos puntos vía Claire (edición en vivo, invisible para Mills): el objetivo del pene es que quede más grande y de tamaño similar en reposo y erección (no un salto brusco tipo grower), y que a partir del segundo día (Día 25) haya cambio diario de vendaje completo (baño en cama + pomadas) y traslados a otras áreas del hospital para pruebas no realizables en la habitación (rayos X, escáner). Mills repite la explicación ya corregida. A la pregunta directa de Mark, Mills da el tamaño final esperado: ~14 cm en reposo, ~17-17,5 cm erecto, ~13 cm de circunferencia en ambos estados.
+
+### Escena 137: Almuerzo e intimidad con Mira (Día 23, mediodía)
+
+Mark le escribe a Mira proponiendo almorzar; ella acepta y pide un lugar sin escalones y con espacio para la silla. Se encuentran en un restaurante accesible del centro. Mira sin ropa (explica que el vestido de la primera cita fue una excepción para causar buena impresión). Mark la ayuda con el tenedor en la banda elástica; ella pide la comida cortada. Mark le cuenta la cirugía de feminización; Mira lo acepta sin condiciones y pregunta si cambia algo entre ellos — Mark responde que no. Van a un hotel cercano: caricias mutuas, masturbación manual simultánea (mano vendada de Mira sobre el pene de Mark; mano de Mark sobre el pene vendado de Mira), eyaculación de ambos (la de Mira empapa el vendaje visiblemente; se cubre con una toalla del hotel para el camino a casa). Conversación íntima: Mira revela que no tiene pezones (pérdida por la progresión de la enfermedad) pero conserva sensibilidad en el resto del pecho; promete pedirle a June estar presente en una cura para que Mark la vea sin vendas algún día. Mark la invita al hospital ("un par de momias" en la cafetería); Mira acepta, estimado Día 25-26. Despedida en el vehículo de vuelta a casa de Mira.
+
+### Escena 138: Visita a Tori (Día 23, tarde)
+
+Mark llega al apartamento 204 con el auricular activado. Diane abre: cuidado puramente físico, sin ningún sistema de comunicación desarrollado con Tori (ni parpadeos ni tabla) — fuente de frustración y aislamiento para Tori, que depende de Mark para "hablar" de verdad vía auricular. Con la mandíbula alambrada, Tori no puede articular palabras, solo sonidos ininteligibles con la boca cerrada.
+
+Mark le muestra el cuerpo (pierna derecha paralizada sin aparato, muñón izquierdo sin prótesis, jaula de castidad bajo el pañal) y la acaricia; Tori muestra vergüenza marcada por la presencia de Diane, que permanece ajena. Mark le cuenta la cirugía de feminización y el tamaño final del pene. Enciende el vibrador anal (nivel 2, luego más) mientras la masturba a través de la jaula; la erección atrapada le produce dolor mezclado con placer (su condición conocida). Eyaculación retenida por la jaula, gotea sobre la sábana. Mark le seca las lágrimas y acaricia la piel expuesta entre los barrotes. La invita a visitarlo en el hospital a partir del segundo o tercer día de internamiento; Diane limpia y cambia el pañal a pedido de Mark antes de que se despida.
+
+### Escena 139: Visita a Jude — oferta del club y intimidad (Día 23, tarde)
+
+Mark le pide a Claire que Cora esté bañando a Jude desnuda cuando llegue; al notar que la reacción de Cora resultaba demasiado natural para no haber sido avisada, Mark corrige la instrucción con Claire: llega sin avisar, Cora inicialmente le pide esperar y solo accede tras la insistencia de Mark (poco tiempo disponible).
+
+En el baño: Jude desnuda en silla de ducha reclinable, Cora lavándole el pelo. Mark apaga el auricular. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa mientras siga siendo él. Cora trae la tabla de letras: Jude deletrea que no le importa su nueva imagen mientras la siga mirando así. Mark pide privacidad; Cora se retira a la sala (rasgo ya establecido: Cora es protectora con los momentos íntimos de Jude, cede solo con insistencia o razón de peso).
+
+A solas: caricias en labios externos y clítoris, fantasía verbal sobre ser "usada" por clientes del futuro club BDSM. Mark le ofrece el puesto de diseñadora del club: una empresa de diseño ejecutará sin conocimiento BDSM, Jude los instruirá con ayuda de una asistente y la tabla de letras. Jude acepta (ojos arriba sostenidos, la reacción más intensa de la visita). Penetración con dedos hasta el orgasmo. Mark le limpia la saliva, le cierra la mandíbula y la besa de despedida. Cora, de vuelta, ofrece llevar a Jude al hospital cuando Mark pueda recibir visitas (desde el segundo o tercer día). Mark sale.
+
+## Día 23 — Tarde (continuación)
+
+### Escena 140: Regreso a la mansión — Rachel y mensajes (Día 23, tarde)
+
+En el vehículo, Mark revisa mensajes: Vera confirma que llegó a la casa de huéspedes; Claire confirma que todo está listo para el ingreso; Dana reporta que Rachel preguntó por él. En casa, Mark visita a Rachel: doble shoulder spica, bata sin mangas abierta por delante, slip blanco. Rachel le reprocha con calma no haber sido consultada sobre el cambio de cuidadora (Vera) y admite que lo va a extrañar la semana del hospital. Mark le cuenta que también le preocupa que ella y Sophie no puedan tener intimidad sin él (ambas con los brazos muy limitados); Rachel sugiere pedirle ayuda a Dana, pendiente de hablarlo con Sophie. Beso. Mark va al comedor, donde Dana le tiene lista una comida rápida; le pide que le muestre la casa a Vera y la deje esperando en el salón.
+
+### Escena 141: Conversación con Vera — revelación mutua (Día 23, tarde)
+
+En el salón, ya con el uniforme de trabajo puesto, Vera pregunta por la habitación de yesos que vio en el recorrido, con sorpresa genuina (nunca había visto una en una casa privada). Mark le confiesa su fetiche por los yesos. Vera lo recibe con calma profesional y calidez ("no me parece raro... gracias por decírmelo"), y se ofrece a aplicarle un yeso ella misma en el futuro. Ante la pregunta directa de Mark sobre si estaría dispuesta a dejarlo dependiente y cuidar de él, Vera revela que es dominante BDSM en su vida privada y que le excita administrar esa dependencia; propone acordar reglas claras cuando Mark salga del hospital (~Día 30). Vuelven a lo profesional: Vera pregunta por protocolos médicos (no hay ninguno, solo cuidar de Rachel y Sophie) y por a quién contactar en una urgencia; Mark le da el contacto de Claire (presentada como vecina de confianza) y le pide que también esté pendiente de Dana. Vera acepta llevar a Rachel y Sophie a visitar a Mark al hospital cuando estén listas. Se despide y va a ver a Rachel y Sophie.
+
+### Escena 142: Despedidas e ingreso al Creston (Día 23, noche)
+
+Mark se despide de Rachel, Sophie y Dana y sale hacia el Creston Medical Center. Entra por la entrada principal de admisión (vestíbulo amplio, mostrador curvo, ambiente cálido). Un recepcionista robot le pide su nombre para iniciar el ingreso.
+
+### Escena 143: Admisión, mensaje a Dana, instrucción secreta a Claire, quirófano (Día 23, noche)
+
+Completado el registro (pulsera identificativa), una enfermera lleva a Mark a una sala de preparación. Antes del consentimiento, Mark le escribe a Dana pidiéndole que lo mantenga informado de novedades en casa; Dana confirma que todo está tranquilo. Mark le escribe a Claire con una instrucción especial: durante su ausencia, que ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa, iniciado por una de ellas (dado que Vera es profesional en su trabajo) — Claire decide quién y cuándo, sin decírselo a Mark; podría enterarse después, por ejemplo por Dana. Claire confirma. Decisión de Claire (no revelada a Mark en la narración): será Sophie quien inicie algo con Vera durante una maniobra de ayuda para tener intimidad con Rachel, en algún momento entre el Día 24 y el Día 29 [detalle completo marcado como secreto en `personajes/vera.md`].
+
+La Dra. Mills repasa los últimos puntos antes de bajar a quirófano: consentimiento firmado en panel táctil, vía intravenosa colocada en el dorso de la mano izquierda, sedante suave administrado antes del traslado. Mark pregunta la talla de senos resultante; Mills estima copa D con un margen de un centímetro, a confirmar tras retirar el vendaje (~Día 30). Traslado en camilla a quirófano; anestesia completa ya dentro. Todo se apaga.
+

@@ -60,3 +60,17 @@ Registro constante: enuncia el obstáculo en voz alta, sin dramatismo ni reproch
 - "Este vestido cae recto hacia abajo. Con eso puesto no cae hacia abajo por ningún lado." _(Día 30)_
 - "Tú no puedes sujetarlo. Ni un poco." _(a Rachel, sin reproche, antes de levantar a Mark sola — Día 30)_
 - "Pues eso funciona. Con cualquier otra cosa habrías salido con la falda haciendo tienda de campaña." _(sobre la falda con abertura en V — Día 30)_
+
+---
+
+## Día 30 (llegada a la mansión, escenas 210–211)
+
+Saca a Marcie sola del vehículo (la endereza por partes, le sostiene el peso hasta que la ortesis la tiene de pie, le encaja las muletas con los ganchos) y camina a su lado los veinte metros hasta la puerta sin tocarla: "Yo iría al lado sin tocarte, pero voy al lado."
+
+Presente en el anuncio del cambio de nombre. Lo acepta con su practicidad habitual, sin comentario ni sorpresa, y anticipa el error en vez de prometer que no lo cometerá.
+
+A orden de Vera, trae los cuatro cojines firmes de la biblioteca para subir la altura del sofá y los aplana con el antebrazo hasta dejarlos parejos.
+
+**Citas nuevas:**
+
+- "Marcie, entonces. Si se me escapa el otro los primeros días, es la boca, no la cabeza." _(Día 30)_

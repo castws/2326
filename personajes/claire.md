@@ -27,6 +27,16 @@
 - "Tienes razón. Me equivoqué. Fue un error mío." _(corrigiendo su afirmación de que Megan sabía de Patricia — Día 10)_
 - "Los fetiches en esta época se forman con frecuencia a través del archivo histórico. La distancia histórica a veces intensifica la respuesta: es algo que existió, que ya no existe, que tiene una textura específica en el registro visual." _(explicando cómo alguien en 2326 desarrolló fetiche por yesos — Día 10)_
 
+**Citas nuevas (Día 30):**
+
+- "Marcie. Ya está registrado en todos los sistemas del área desde las doce y veinte. Nombre, tratamiento y género." _(sin pausa ni énfasis, como si llevara semanas diciéndolo)_
+- "Tienes razón. Me equivoqué: le quedan cinco dedos, tres en la derecha y dos en la izquierda." _(aceptando una corrección y sin añadir nada más)_
+- "Y hay algo que no es técnico y prefiero decírtelo antes de encargarlo." _(antes de señalar el conflicto con la promesa hecha a Hobbs)_
+
+**Momentos con Mark / Marcie:**
+
+- **Día 30, ~13:10–13:20 (escenas 216–218):** visita a la mansión tras el alta. Registra el cambio de nombre en los sistemas del área. **Crea a Sadie Ford** (escritora, 22, amputaciones autoinfligidas ocultas), ofrece cuatro nombres alternativos cuando Marcie descarta el primero, y construye el **Marginalia**. Sobre el ritmo de las amputaciones: **señala el coste de alterar la percepción del tiempo** (no se podría hablar de fechas nunca y los calendarios se separarían) y ofrece dos alternativas limpias; se adopta la cicatrización rápida + reloj anclado a las visitas. Encarga la jaula de castidad para Hobbs con recomendación técnica detallada y **advierte del conflicto con la promesa de no pedirle nada dentro del hospital** antes de ejecutar; cuando Marcie confirma, la encarga sin insistir. Sustituye todo el vestuario y aparta la selección que funciona sobre el aparato.
+
 **Momentos con Mark:**
 
 - Recibe a Mark al despertar y revela gradualmente la verdad sobre 2326 _(Día 1, escena 1)_.
