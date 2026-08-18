@@ -15,6 +15,8 @@ Mujer joven, delgada pero con cintura y cadera marcadas, estatura media-baja. Ca
 
 - **Mano derecha:** conserva **pulgar, índice y meñique**. Faltan el medio y el anular, ya cicatrizados, con los muñones cerrados y sin vendaje.
 - **Mano izquierda:** conserva **meñique y anular**. Faltan el índice y el medio, ya cicatrizados. El **pulgar es la amputación más reciente** y sigue **cubierto por una venda** limpia que se cambia ella misma cuando puede.
+  - **Nivel del pulgar izquierdo:** amputado **entero, a la altura de la articulación metacarpofalángica** — igual que hizo con los demás dedos, que se los quitó completos y no por falanges. Conserva el metacarpiano y la eminencia tenar, así que el borde de la mano mantiene su anchura y su carne, pero no queda ningún muñón que sobresalga: el pulgar termina a ras. La venda le envuelve todo ese borde de la mano, no un dedo.
+  - **Consecuencia funcional:** esa mano ya no hace pinza de ningún tipo. Solo sirve para sujetar cosas contra el cuerpo o atrapar entre el meñique y el anular. Todo lo que requiera pinza lo hace con la derecha (pulgar + índice, con el meñique de tope).
 
 **Pies:** los **diez dedos amputados**. Los pies terminan rectos, en línea. Camina bien, con paso algo corto y menos impulso al despegar; no usa bastón. Suele llevar zapatillas planas o ir descalza en casa.
 
@@ -72,8 +74,10 @@ Cuando una amputación ha **sanado del todo** —sin vendas y sin puntos— apar
 1. **Índice derecho**
 2. **Anular izquierdo**
 3. **Pulgar derecho** → queda **solo con los dos meñiques**
-4. **Mano derecha a nivel de muñeca**
-5. **Mano izquierda a nivel de muñeca** (una después de la otra, no a la vez)
+4. **Meñique derecho**
+5. **Meñique izquierdo**
+6. **Mano derecha a nivel de muñeca**
+7. **Mano izquierda a nivel de muñeca** (una después de la otra, no a la vez)
 
 A partir de ahí decide ella según lo que quiera en cada momento.
 
@@ -90,7 +94,7 @@ En el café donde escribe. **Solo se conocen de vista:** Sadie se fija en ella, 
 
 **Lo que la engancha primero es el aparato**, no la cara ni el cuerpo: la ortesis de metal subiendo por las dos piernas, las abrazaderas, la marcha rígida. Y sobre todo **la férula peneana** saliendo por la abertura de la falda, sosteniendo el pene en horizontal a la vista de todo el mundo. Eso le produce **excitación directa**, no curiosidad clínica, y la incomoda un poco porque no se lo esperaba. Levanta la vista del portátil y no consigue volver a bajarla del todo.
 
-**Después viene el interés por la persona.** Le da curiosidad quién es alguien que entra así, sin taparse nada y sin dar explicaciones. Quiere saber qué le pasó, de dónde salió, qué historia hay detrás. Cuando lleguen a hablar, lo que más la va a enganchar son **las historias que Marcie cuente**: le pide detalles, se queda callada escuchando, y por primera vez en mucho tiempo le interesa más lo que le están contando que lo que ella está escribiendo.
+**Después viene el interés por la persona.** Le da curiosidad quién es alguien que entra así, sin taparse nada y sin dar explicaciones. Quiere saber qué le pasó, de dónde salió, qué historia hay detrás. Cuando lleguen a hablar, lo que más la va a enganchar son **las historias que Marcie cuente**: le pide detalles, se queda callada escuchando, y por primera vez en mucho tiempo le interesa más lo que le están contando que lo que ella está escribiendo. Este interés evoluciona a desear tener intimidad con Marcie.
 
 ---
 
@@ -113,5 +117,7 @@ En el café donde escribe. **Solo se conocen de vista:** Sadie se fija en ella, 
 ## Estado actual
 
 - Creada el Día 30. Vive sola en la ciudad. Café habitual: **Café Marginalia**.
-- **Visita 1 = Día 30, ~20:20** (cruce solo de vista en el Marginalia, sin hablarse). Cuenta a efectos del reloj. Estado esa noche: el que figura arriba — **pulgar izquierdo vendado**, cinco dedos en total.
+- **Visita 1 CONSUMIDA = Día 30, ~22:45 (escena 229)** (Marcie entró al Marginalia con Hobbs). Estado esa noche: el que figura arriba — pulgar izquierdo vendado, cinco dedos en total.
+  - **Qué pasó:** levantó la vista al oír los estribos y **no la volvió a bajar**; miró el metal, las abrazaderas, la barra y sobre todo la **férula**, y no escribió una sola línea en toda la hora que estuvieron allí. A orden de Marcie vía Claire fue a la barra a pedir un café solo: pasó a un palmo de la férula, giró de lado, miró a esa altura y una sola vez a la cara, y se puso colorada hasta las orejas. Cogió la taza con la derecha (pulgar e índice como pinza, meñique de tope). **No se hablaron en ningún momento.** Al salir ellas, cerró el portátil y se quedó mirando la puerta.
+  - Dejó clavada en el muro de fichas, sin doblar todavía la esquina: **"Hoy no he escrito nada y ha valido la pena."**
 - **Estado para la visita 2 (el próximo día distinto en que Marcie entre):** cicatriz del pulgar izquierdo **ya sana, sin venda**, y **índice derecho amputado** (venda nueva ahí). Le quedarían cuatro dedos: pulgar y meñique en la derecha, meñique y anular en la izquierda.

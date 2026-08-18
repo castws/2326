@@ -74,3 +74,5 @@ A orden de Vera, trae los cuatro cojines firmes de la biblioteca para subir la a
 **Citas nuevas:**
 
 - "Marcie, entonces. Si se me escapa el otro los primeros días, es la boca, no la cabeza." _(Día 30)_
+
+- **Día 30, noche (escenas 223 y 232):** lleva a Marcie al centro comercial en el vehículo grande de acceso trasero (el único en el que puede viajar sentada con la barra puesta), la baja por la rampa y le encaja las muletas con los ganchos. **Se queda esperando dentro del vehículo las cuatro horas y media** que dura la salida, por decisión de Marcie. Al volver, abre el portón y comenta lo único que comenta: "Cuatro horas y media. Ha ido bien, entonces."

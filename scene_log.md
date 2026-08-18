@@ -308,7 +308,9 @@ Hobbs llega puntual con uniforme limpio y la lencería nueva puesta (encaje negr
 
 ### Escena 195: Acuerdo de continuidad y el límite del hospital (Día 30, ~9:20)
 
-Mark le pregunta si quiere que le siga poniendo retos. Hobbs dice que sí sin pensárselo ("si me lo pienso me voy a echar atrás"). "Fuera de aquí lo que usted quiera." Mark lo acepta. Ella se va antes de que llegue Mills, pidiendo no saber de antemano qué va a pasar en la evaluación.
+Mark le pregunta si quiere que le siga poniendo retos. Hobbs dice que sí sin pensárselo ("si me lo pienso me voy a echar atrás"). **No pone ningún límite: acepta que los retos entren también en su turno, dentro del hospital.** Ella se va antes de que llegue Mills, pidiendo no saber de antemano qué va a pasar en la evaluación.
+
+> **Corrección aplicada (sesión 33):** en la versión original de esta escena Hobbs fijaba un límite propio dentro del hospital. Ese límite **queda eliminado de la continuidad**; ni ella ni ningún otro personaje lo menciona ni actúa conforme a él. Aplicado también a `state.md`, `characters.md`, `personajes/hobbs.md` y `personajes/claire.md`.
 
 ### Escena 196: Mills plantea la evaluación final (Día 30, 9:30)
 
@@ -394,7 +396,7 @@ Marcie le cuenta a Vera lo ocurrido en el hospital: la enfermera de la mañana, 
 2. **Sobre "no la puse en peligro porque soy el dueño":** lo rechaza de plano — la que estaba de pie en el office era ella y ella sí creía que había riesgo; lo que le quitó al decírselo no fue el peligro, sino la posibilidad de negarse sin calcular el coste.
 3. **Sobre la propuesta de traerla a la casa como enfermera sumisa y que Vera sea su maestra:** acepta conocerla y aprueba el plan de invitarla primero para que decida informada, pero **rechaza el encuadre de "usarla"** ("eso me lo tendría que pedir ella a mí, y sin que tú estés delante cuando lo decida") y señala el problema de fondo: si Marcie le da el trabajo, la casa y la maestra, el día que quiera dejarlo tendrá que calcular qué pierde. Lo dice desde su propia posición: "yo estoy exactamente en esa posición contigo, y a mí no me pesa porque llevo años haciendo esto y sé decir que no. Ella no."
 
-Marcie argumenta que Hobbs ya le dijo que no a una petición en el hospital y que él lo respetó. Vera precisa que ese "no" lo dijo donde tenía algo detrás —un turno, una supervisora, unas normas— y que en la casa no tendría nada de eso. Cierra el tema y no vuelve sobre él: "Ya está dicho, y decides tú. Si viene, yo hablo con ella a solas antes de nada."
+Marcie argumenta que Hobbs sabe decir que no. Vera precisa que en el hospital Hobbs tiene algo detrás —un turno, una supervisora, unas normas— y que en la casa no tendría nada de eso. Cierra el tema y no vuelve sobre él: "Ya está dicho, y decides tú. Si viene, yo hablo con ella a solas antes de nada."
 
 ### Escena 214: Retirada del aparato, limpieza genital y el yeso futuro (Día 30, ~12:50)
 
@@ -422,14 +424,125 @@ Correcciones de Marcie en esta escena: le quedan **cinco** dedos (tres en la der
 
 ### Escena 218: Jaula de castidad para Hobbs y vestuario nuevo (Día 30, ~13:20)
 
-Marcie encarga una **jaula de castidad** como regalo para Hobbs, para recogerla en la sex shop del centro comercial estando ya con ella y colocársela allí mismo, con la intención de pedirle que la lleve varios días seguidos. Claire recomienda diseño para uso continuado: **titanio** (la mitad de peso que el acero), jaula **de barras abiertas** y no tubo cerrado (se seca sola y se lava sin desmontar), punta abierta para orinar de pie, **sin tubo uretral**, longitud de 7 cm (por debajo de la longitud en reposo de Hobbs, 8,5 cm), testículos libres con aro de anclaje como la de Tori, y anillo de **45 mm** con bisagra y pasador, con la misma advertencia de circulación que la del anillo de Marcie. Antes de encargarla, Claire señala que llevarla varios días seguidos incluye los turnos de Hobbs y que Marcie le prometió esa misma mañana no pedirle nada dentro del hospital. Marcie responde que la pida igual, que no afectará su trabajo. Claire la encarga sin insistir: estará en el mostrador a su nombre desde las siete, en caja cerrada sin marcas, cuatro locales más allá del Marginalia.
+Marcie encarga una **jaula de castidad** como regalo para Hobbs, para recogerla en la sex shop del centro comercial estando ya con ella y colocársela allí mismo, con la intención de pedirle que la lleve varios días seguidos. Claire recomienda diseño para uso continuado: **titanio** (la mitad de peso que el acero), jaula **de barras abiertas** y no tubo cerrado (se seca sola y se lava sin desmontar), punta abierta para orinar de pie, **sin tubo uretral**, longitud de 7 cm (por debajo de la longitud en reposo de Hobbs, 8,5 cm), testículos libres con aro de anclaje como la de Tori, y anillo de **45 mm** con bisagra y pasador, con la misma advertencia de circulación que la del anillo de Marcie. Claire la encarga: estará en el mostrador a su nombre desde las siete, en caja cerrada sin marcas, cuatro locales más allá del Marginalia.
 
 **Vestuario:** Marcie ordena retirar toda su ropa de hombre y sustituirla por un vestuario femenino completo con gran variedad de estilos, incluidos los más reveladores de la ciudad. Claire lo ejecuta y añade la salvedad práctica de que hasta el Día 32 casi nada sirve con la férula y los estribos; aparta en el vestidor una selección corta que sí funciona sobre el aparato (faldas y pantalones de talle alto con abertura en V, vestidos abiertos por delante, tops y jerséis cortos, pezoneras y los zapatos de velcro anchos). Se despide anunciando que le dirá a Vera que le suba algo de comer y que vuelva a las seis a vestirla.
 
 **Corrección de continuidad aplicada en esta escena:** los brazos y hombros de Marcie funcionan con normalidad y **puede levantarlos sin problema** (registrado en `state.md`).
 
 ---
+---
 
-**La conversación termina aquí: Día 30, ~13:20, en el dormitorio principal de la mansión.** Marcie está sola, tumbada boca arriba y desnuda por decisión propia, con la ortesis completa, la barra de abducción y la férula recién recolocadas, y el espejo de pie bloqueado en diagonal a los pies de la cama. Claire acaba de salir por el corredor. Quedan casi cinco horas hasta que Vera venga a vestirla y siete hasta el centro comercial.
+## Día 30 — Tarde y noche (sesión 33)
 
-**Próximo paso pendiente:** la tarde libre en la mansión (Vera sube comida; vuelve a las seis a vestirla y montarle el aparato). **Día 30, ~20:20: doble cita en el centro comercial** — Hobbs en la puerta principal, la jaula de castidad esperando en la sex shop, y el primer cruce de vista con Sadie en el Marginalia (cuenta como visita 1). **Esta noche: Rachel habla con Vera** cuando vaya a acostarlas, sola y sin que Marcie intervenga. **Día 31: retirada de la barra de abducción.** **Día 32, 9:00: Mills retira la ortesis y la férula en la mansión**; ese mismo día Megan se quita los yesos con Vera. Sin decidir: **brazos dentro o fuera** en el hip spica que Vera le pondrá. Siguen pendientes: la excusa de Dana para pedirle ayuda a Vera; la visita de Cora y Jude; la conversación a solas de Vera con Hobbs si llega a la casa.
+### Escena 219: Vera viste a Marcie para salir (Día 30, 18:00)
+
+Vera entra puntual con tres prendas contadas, no la selección entera. Antes de vestirla revisa el anillo de la base y las abrazaderas tras cinco horas puestas, y afloja dos agujeros la del muslo derecho, que ha dejado marca. Ante la erección de Marcie durante la revisión, mantiene el tono y da el dato práctico: con la pletina y las dos correas puestas no hay hacia dónde crecer. A petición de Marcie afloja las correas de velcro y, cuando ella se lo pide de vuelta por miedo a perder sujeción, las deja en un **punto intermedio** — sujeta sin apretar hasta que crezca. La levanta con las manos en los hombros tras comprobar la hipotensión (solo se mareó al incorporarse, no de pie).
+
+**Las tres prendas:** falda negra de talle alto con abertura en V (cinturilla bajo el pecho, bajo un palmo por debajo de la ingle, por detrás cubre las nalgas justas y se abre al caminar; sentada no tapa nada); vestido gris oscuro de punto de canalé, manga larga, cuello alto, hasta media pierna, abierto de arriba abajo con cuarenta y tantos corchetes planos (se pone como un abrigo y se cierra desde donde se quiera); y top de punto color hueso cortado bajo el pecho. Marcie elige **falda + top + pezoneras**. La falda entra **por arriba**, no por los pies: Vera la lleva al pie de la cama, le hace agarrarse al travesaño, le saca las muletas y le pasa el aro de tela por la cabeza.
+
+### Escena 220: Los aparatos después de la recuperación — y el ajuste de los dos registros (Día 30, ~18:10)
+
+Durante el vestido, Marcie le pregunta a Vera si le gustaría que conservara los aparatos después de recuperarse. Vera contesta que sí, pero distingue: el hierro en sí le da igual porque sostiene, deja caminar y se lo puede quitar ella; lo que le interesa es lo que no devuelve nada a cambio. Añade que ponérselo por gusto y quitárselo cuando apetezca es "un disfraz", y que lo que para ella tiene contenido es que las hebillas las cierre otra persona donde no se llega y que la retirada la decida esa persona.
+
+**Ajuste vía Claire (ejecutado en escena):** Marcie ordena que el fetiche de Vera por los yesos y los aparatos ortopédicos **deje de depender del BDSM**. Quedan dos registros independientes que disfruta por igual — **fetiche médico** (rol de enfermera y fetichista médica; la otra persona conserva toda su autonomía) y **BDSM** (rol de dominante; ella controla cierre y retirada) — y antes de cada yeso o aparato se acuerda explícitamente en cuál se hace. Vera olvida lo dicho y responde de nuevo: le gustaría verla por la casa con el hierro puesto porque le apetece llevarlo, ajustárselo por la mañana y abrírselo cuando ella diga, sin que haga falta nada más.
+
+### Escena 221: El protocolo de registros y el yeso a cuatro patas (Día 30, ~18:20)
+
+Acuerdan el mecanismo: se dice en voz alta antes de empezar ("esto es de enfermera" / "esto es lo otro"), lo puede decir cualquiera de las dos, y una vez dicho no se cambia a mitad — si a mitad se quiere lo contrario, se para, se dice y se vuelve a empezar. Vera plantea que hay que decidir ya el registro del **hip spica** del Día 32: de enfermera, lo quita Marcie cuando diga; de lo otro, la fecha la pone Vera. **Sin decidir.**
+
+Marcie propone que el hip spica sea probablemente en registro de enfermera, y que para el BDSM se le enyesen **las piernas con las rodillas a 90° y los brazos con los codos a 90°**, para tener que moverse por la casa **a cuatro patas**. A Vera le interesa y lo dice. Objeta lo que Marcie no ha dicho: un yeso no dura una tarde, así no se come, ni se limpia, ni se abre una puerta, ni se levanta uno del suelo. Marcie fija **dos o tres días** por ahora (está ocupada), con sesiones más largas más adelante. Vera acepta con condiciones: tres días de verdad, sin salir de casa, sin gente de fuera, con Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas** de apoyo. Marcie menciona que puede haber otras personas dispuestas a más tiempo; Vera se lo apunta.
+
+### Escena 222: Primer maquillaje (Día 30, ~18:30)
+
+Marcie pide que la maquillen por primera vez en su vida. Vera avisa de que ella se pinta en cuatro minutos y siempre lo mismo, y de que para una primera vez eso juega a favor. Descarta la base (piel de siete días, nada que tapar). **Delineado negro** en los dos ojos, con la decisión del extremo dejada a Marcie: **largo**. Después labios en un **rosa amarronado**, para que se note el contorno y no el color. Marcie se ve al espejo: la línea le rasga el ojo y organiza la cara entera alrededor de los ojos. Vera pide el vehículo, avisa de que **no puede acompañarla** porque esta noche acuesta a Rachel y a Sophie, y manda a **Dana**, que esperará en el vehículo.
+
+### Escena 223: Llegada al centro comercial y encuentro con Hobbs (Día 30, ~20:30)
+
+Marcie llega **diez minutos tarde a propósito** para ver la reacción de Hobbs. Dana la baja por la rampa del vehículo grande (acceso trasero, permite viajar sentada con la barra puesta) y se queda esperando dentro. Hobbs lleva diez minutos en la columna junto a la puerta principal, con el vaquero y la camiseta gris —lo único de calle que tiene— y **nada debajo**: cumplió la orden de tirar toda su ropa interior y lo informa nada más entrar. **Ajuste de horarios vía Claire:** las tiendas del centro comercial cierran a las **22:00**; el Marginalia mantiene horario propio hasta medianoche. Más tarde, segundo ajuste: las tiendas no cierran hasta que salgan de la sex shop.
+
+### Escena 224: Tienda de lencería — Sloane (Día 30, ~20:45)
+
+Marcie descarta la tienda donde Hobbs compró la noche anterior y la lleva a otra mejor, cuatro locales más allá. Atiende **Sloane**: ~26, pelo castaño rojizo en moño alto, pierna derecha amputada por encima de la rodilla sin prótesis, dos muletas de antebrazo, pantalón negro de talle muy alto con la pernera derecha recogida, senos al aire con pezoneras negras, sin pene, cinta métrica enrollada en la muñeca.
+
+Marcie elige por Hobbs: C-string de encaje negro, panties con abertura y banda de soporte de testículos, capucha, panties negros ajustados, body transparente y dos pares de pezoneras. **Hobbs se bloquea al tener que elegir las pezoneras** y pide que se las elijan (negras con colgantes azules y metálicas con cadena). Pruebas por pasos, con Marcie sentada fuera en la banqueta: el C-string no cierra hasta que consigue quedarse flácida pensando en el inventario del carro de curas; la capucha de reposo se le sale, y Sloane la mide (**13,5 cm de contorno de glande**, dos tallas por encima) y trae la de **aro interior de silicona**, que sí aguanta. Los panties ajustados los descarta ella por criterio propio (tela sin dar de sí, se rompería la costura). El **body** que cogieron era el **corte de vagina** (no cierra abajo); Sloane trae los dos cortes de pene — **bolsa de fuelle** (cierra y contiene) y **abertura rematada** (cierra abajo y el pene queda fuera, para llevar con capucha).
+
+**Momento de la escena:** Marcie manda a Hobbs a pedirle a Sloane tres prendas más "como los blancos". Hobbs cruza la tienda en encaje blanco y nada más, gira la cabeza buscando la respuesta en Marcie, **se corta a mitad de camino y decide sola**: transparente, con un lazo o un ribete cosido, "algo que se note que alguien se molestó en ponerlo". Vuelve diciendo "lo he elegido yo y no me he bloqueado". Antes de eso había dicho que el encaje blanco es el que peor lleva: el negro y el granate "parecen un disfraz" y le sirven de agarradero, y el blanco "parece mío… entonces ya no es que usted me haga hacer algo, es que soy así".
+
+**Clientas:** a orden de Marcie, Claire hace entrar a dos mujeres mientras Hobbs cruza al mostrador. Ninguna de las dos reacciona (una la mira como miraría una percha). Hobbs pierde la erección de vista bajo el encaje blanco durante la entrega y no se tapa. Lo que más le afecta es que **a nadie le importe** — mismo efecto que la paciente de la 214.
+
+Se llevan todo menos los ajustados. Marcie le da permiso —no orden— de usar en el hospital los que le gustaron; Hobbs señala la diferencia entre "puedes" y "tienes que".
+
+### Escena 225: Tienda de ropa — top y faldas (Día 30, ~21:30)
+
+Local contiguo, más grande y luminoso. Marcie le señala cuatro prendas y descarta la camiseta blanca semitransparente para otro día (no combina con las pezoneras). Hobbs se prueba el **top negro de manga larga que cubre solo brazos, hombros y clavículas** (senos enteros por fuera con las pezoneras y los colgantes azules) con la **falda de cuerina de talle alto y abertura en V**, y después con la **falda corta con vuelo** apropiada para la prenda de capucha (la punta encapuchada asoma bajo el filo). Marcie fija la combinación: cuerina con C-string, falda corta con capucha.
+
+A orden de Marcie, Hobbs se da la vuelta y se agacha sin doblar las rodillas delante de la dependienta (~28, coleta tirante, peto vaquero corto con senos al aire, **aparato ortopédico largo de polio en la pierna izquierda**, sin pene). Se llevan todo puesto y la ropa de calle a la bolsa.
+
+### Escena 226: Paseo por la galería (Día 30, ~21:45)
+
+Marcie le avisa **antes** de que quiere que la admiren, y Hobbs lo agradece expresamente ("me lo está diciendo antes"). Pasean por la galería medio vacía al ritmo lento de las muletas. Hobbs observa la diferencia: a Marcie la miran una vez y a ella la miran, apartan la vista y vuelven. Reconoce que lo que la excita no es que la miren, sino **no haber decidido nada**.
+
+### Escena 227: Sex shop — jaula de castidad y plug (Día 30, ~22:00)
+
+Marcie recoge la caja negra sin marcas que Claire encargó, a su nombre desde las siete, y compra lubricante de agua (la dependienta, ~26, pelo negro a tazón, mono de vinilo, **mano derecha amputada por la muñeca**, sin pene, se lo cuelga todo del puño de la muleta). Manda a Hobbs al probador: sin panties, sin capucha, sin falda, **de pie sobre una silla y con los ojos cerrados**, pensando en lo más aburrido del día para quedar flácida (avisa de que se apoyará en la pared para no caerse, y lo hace).
+
+Marcie le coloca el **aro** y después la **jaula** deprisa, y saca la llave antes de dejarla abrir los ojos. Hobbs reacciona con sorpresa genuina ("¿Qué es esto? Está cerrado de verdad"). Marcie le dice que es una jaula de castidad y que la llevará **varios días, hasta que ella decida**, incluidos los turnos. Hobbs señala lo que cambia: todos los retos anteriores terminaban al acabar el día. Registra que ya no puede tener erecciones — "no crece, aprieta".
+
+**Plug:** Marcie le pide en voz baja a la dependienta un plug con joya azul; le ofrece tres tamaños y recomienda el **mediano** (cuello más largo, aguanta mejor sentada). Hobbs, que no ha oído nada y no sabe qué le van a poner, se coloca de espaldas, inclinada con las manos en la silla y las piernas abiertas. Lubricación externa, después con el dedo (primera vez para ella en su vida, lo avisa "no para que pare"), y el plug entra hasta el tope. Marcie le indica que también lo llevará **todo el tiempo**, quitándoselo solo para lo imprescindible y volviéndoselo a poner ahí mismo, con el bote de lubricante en el bolso. Sale solo con la falda corta puesta; panties y capucha a la bolsa.
+
+### Escena 228: Las cuatro del banco (Día 30, ~22:30)
+
+Marcie hace que Hobbs se agache de espaldas a un banco del atrio, sin doblar las rodillas, fingiendo ajustarle el velcro de los zapatos, y le pide a Claire que le transmita al auricular la conversación de las cuatro mujeres sentadas. Comentan la jaula, la piedra azul a juego con las pezoneras y el tiempo que lleva agachada; Marcie tiene una erección que el aparato deja completamente a la vista. **Corinne Dunlap** (~24-25, castaña muy rizada recogida en alto, piercing en el labio, camiseta de tirantes recortada con los senos cubiertos, falda muy corta con **capucha rosa** asomando, sin discapacidad) se acerca a hablar. Pregunta si Hobbs está ahí abajo por gusto o porque se lo han dicho, y confiesa que se cambiaría por ella.
+
+A orden de Marcie, **Hobbs responde ella misma**: lo está pasando bien, lo de estar agachada delante de desconocidas lo ha pasado fatal, y **lo que le gusta es no haber decidido nada**. Llevan **dos días**; hasta anteayer no sabía que aquello tuviera nombre.
+
+**Las otras tres** (identificadas por Claire a petición de Marcie): **Trish**, las dos tibias rotas por una caída en el terraplén del parque de la ribera hace dos semanas, dos yesos de pierna entera, silla de ruedas, seis semanas por delante; **Maddie**, brazo derecho amputado bajo el codo hace tres años tras volcar un vehículo (seis días intentando salvarlo), la más cortada de las cuatro; **Bex**, **polio** de pequeña, cuádriceps sin respuesta, dos aparatos largos de cadera a pie con banda pélvica, pestillos de rodilla de caída y estribos en las botas, muletas de antebrazo, con pene marcado.
+
+Marcie les habla del **club BDSM** que va a abrir y toma el contacto de Corinne para avisarla. A Trish, que solo sale cuando la sacan las otras tres, le dice que ella salió porque tenía algo que hacer (traer a Hobbs a comprar ropa) — respuesta que a Trish le sirve más que cualquier ánimo. A Bex le dice que le gustaría verla con un conjunto BDSM y los aparatos; Bex lo recibe bien ("llevo toda la vida pensando en esto como en lo que me deja andar"). Se despiden; a orden de Marcie vía Claire, las cuatro deciden no pasar por el café.
+
+### Escena 229: El Marginalia — visita 1 de Sadie (Día 30, ~22:45)
+
+Primera entrada de Marcie al Marginalia (**cuenta como visita 1** del reloj de amputaciones de Sadie). **Sadie Ford** está en su mesa del fondo, de cara a la puerta: top negro corto, falda corta sobre medias de rejilla, botas militares, septum y dos aros en la ceja, delineado corrido, tatuaje del antebrazo derecho. Levanta la vista al oír los estribos y **no la vuelve a bajar**: mira el metal, las abrazaderas, la barra y sobre todo la **férula**. No se hablan en ningún momento.
+
+Se sientan en la **barra alta** (Marcie casi de pie en el taburete, girada hacia el interior del local, de frente a la mesa del fondo). Hobbs deja las bolsas en el suelo agachándose sin doblar las rodillas. A orden de Marcie, Claire hace que Sadie vaya a la barra a pedir: pasa a un palmo de la férula, gira de lado, mira a esa altura y una sola vez a la cara, y se pone colorada. Pide un café solo y vuelve. Marcie observa sus manos en detalle; **Claire precisa el nivel del pulgar izquierdo**: amputado entero a la altura de la metacarpofalángica, a ras, sin muñón, con toda esa parte de la mano vendada — esa mano ya no hace pinza de ningún tipo.
+
+**Lectura clínica de Hobbs (sin saber nada):** esas amputaciones no le cuadran con una enfermedad — están hechas por articulación, una a una, todas del mismo estilo, y el vendaje del pulgar se lo ha puesto ella misma. Marcie no discute y le confiesa a cambio algo suyo: **le atraen las mujeres con amputaciones**, aclarando que es independiente de lo que le atrae de ella.
+
+### Escena 230: Conversación en la barra (Día 30, ~23:00)
+
+Conversación larga, la más íntima que han tenido. Hobbs explica que **no le gusta complacer** (con su expareja hacía lo que ella quería y la dejó sin echarla de menos): lo que le atrae de Marcie es que **está pendiente** — manda algo y luego pregunta cómo fue, se acuerda de lo del día anterior, le compra ropa mirando lo que le queda bien. "Nadie ha estado nunca pendiente de mí así."
+
+Otros datos que da: se masturba **todos los días** antes de dormir, como forma de apagar la cabeza tras el turno; lleva desde ayer sin poder; lo que usa desde hace dos años es **la hora de pie sin poder tocarse** de su expareja, y desde ayer lo ha sustituido por la habitación del hospital y el momento en que le prohibieron tocarse. Sobre lo que lleva puesto: la ropa le gusta y por primera vez no va señalada; lo de dentro "no sube a ningún sitio, se queda dando vueltas".
+
+**Inmovilización:** confiesa que no quiere que la aten un rato, quiere **no poder moverse durante días** — que le den de comer, la limpien y tener que pedir todo en voz alta. Prefiere el yeso a la cuerda porque una cuerda se deshace en diez segundos y eso significa que sigue decidiendo ella. Marcie le cuenta que tiene la casa, el material, mucamas y una enfermera, y que dos de sus mucamas están enyesadas. Acuerdan un primer **fin de semana** (viernes al salir del turno hasta el lunes de madrugada), después unas **vacaciones de dos semanas**, y buscar la forma de conseguir **seis semanas**. Hobbs objeta lo práctico (marcas en la piel el lunes, atrofia muscular y rehabilitación tras seis semanas) y acepta igual. Lo que quiere: **cuerpo entero de debajo del pecho a los pies, las dos piernas dentro con barra entre las rodillas, los brazos también en abducción**, solo la cara libre. Para seis semanas, exactamente lo mismo: "en tres días sigo siendo yo esperando a que se acabe; en seis semanas se me olvida cómo era pedir un vaso de agua sin pedirlo".
+
+Reconoce que lo que más miedo le da no es el yeso ni la jaula, sino **lo rápido que se le está haciendo normal** dejar que decida otra persona.
+
+### Escena 231: El baño accesible (Día 30, ~23:30)
+
+Marcie pide ayuda para ir al baño y Hobbs entra con ella al cubículo ancho (dos por dos, barras abatibles, único donde caben las piernas abiertas por la barra) y echa el pestillo. Marcie se recuesta contra la pared y le manda quitarle la capucha, agachada sin doblar las rodillas; después le aclara la regla — **lo de no doblar las rodillas es solo cuando hay gente delante** — y Hobbs se pone de rodillas.
+
+Sexo oral, limitado al tramo que la cuna y el anillo dejan libre. Con la férula sujetando en horizontal, Hobbs no necesita las manos y se agarra a la abrazadera del muslo. Se le va la mano abajo por reflejo y se encuentra la jaula. Marcie le da **permiso para tocarse** y ella descubre que no puede: "me acaba de dar permiso y no puedo, y es mucho peor que cuando me lo prohibía". Marcie la autoriza entonces a **tocar el plug**, y ahí sí encuentra algo — "no sabía que se podía sentir algo así por ahí; llevo toda la noche pensando que era un castigo" — pero no llega a ninguna parte: "es como estar todo el rato a punto de estornudar".
+
+Marcie le acaricia la mejilla y la elogia; Hobbs cuenta los elogios de la noche (van cuatro, luego cinco). Marcie termina en su boca sujetándole la cabeza con las dos manos, con la ortesis aguantando todo su peso contra los azulejos. Hobbs traga sin sacarlo y se disculpa por lo que se le cae. A orden de Marcie, succiona hasta que no queda nada (avisando de la sensibilidad post-orgasmo). **Dos correcciones para la próxima vez:** quedarse más rato antes de separarse, y **quedarse quieta con la boca cerrada alrededor en el momento del clímax**, sin succionar. Hobbs señala que eso además la deja sin nada que hacer justo en ese momento, "y eso también me gusta y creo que usted ya lo sabía".
+
+Marcie le explica por qué le gusta que trague sin que se lo pidan; Hobbs responde que **escupirlo sería quedarse con la última palabra** y no la quiere. Después le devuelve la capucha (con dificultad por la sensibilidad) y aprovecha para orinar: descubre que de pie tiene que separar las piernas y sujetar la jaula con la mano para dirigirla. Marcie le indica que a partir de ahora lo haga **sentada**.
+
+### Escena 232: Despedida (Día 30, ~23:45)
+
+Antes de salir, Marcie **relaja una regla para protegerla**: en el hospital puede agacharse doblando las rodillas. Hobbs señala que es la tercera cosa de la noche en esa dirección que ella no ha pedido, y que la mitad de lo que hace Marcie es quitarle problemas de encima antes de que sepa que los tiene. Dice que le gusta y que lo que le incomoda es lo rápido que se le está haciendo normal.
+
+Salen del Marginalia (última ficha clavada en el muro de corcho, sin doblar todavía la esquina: **"Hoy no he escrito nada y ha valido la pena."**). En la galería a oscuras, Marcie **suelta las muletas**, sujeta a Hobbs por la nuca y la besa — el primer beso de las dos —, mientras con la otra mano le sube la falda y le toca la jaula y los testículos. Hobbs tiene que sostenerle todo el peso con los dos brazos para que no se caiga, así que no puede hacer nada más que dejarse. Se rompe y suplica que no pare "aunque no sirva de nada".
+
+Marcie la manda a casa. Hobbs pide diez segundos antes de poder salir a la calle, avisa de que va a ir pensando en eso las tres cuadras y de que se meterá en la cama sabiendo que no puede hacer nada, y que mañana a las siete entra de turno con todo puesto. Queda en **escribirle al llegar a casa**. Marcie sale al aparcamiento, donde **Dana** la espera con el portón abierto: "Cuatro horas y media. Ha ido bien, entonces."
+
+---
+
+**La conversación termina aquí: Día 30, ~23:50, en el aparcamiento del centro comercial.** Marcie acaba de despedir a Hobbs, que se va andando a su casa con la jaula y el plug puestos, y llega al vehículo donde Dana la espera con el portón abierto.
+
+**Próximo paso pendiente:** vuelta a la mansión con Dana. **Esta noche, ya en marcha en casa: Rachel habla con Vera** cuando vaya a acostarlas a ella y a Sophie, sola y sin que Marcie intervenga. **Mensaje de Hobbs** cuando llegue a su casa. **Día 31: retirada de la barra de abducción.** **Día 32, 9:00: Mills retira la ortesis y la férula en la mansión**; ese mismo día Megan se quita los yesos con Vera. Sin decidir: **brazos dentro o fuera** en el hip spica, y **en qué registro** (enfermera o BDSM) se hace. Pendientes: fijar el fin de semana del yeso de cuerpo entero de Hobbs; avisar a Corinne cuando abra el club; la excusa de Dana para pedirle ayuda a Vera; la visita de Cora y Jude; la conversación a solas de Vera con Hobbs; y la **visita 2 al Marginalia**, que hará avanzar un paso a Sadie (pulgar izquierdo ya sano y sin venda, índice derecho amputado y vendado).
+
+---
+
+> **Consolidación (cierre de sesión 33):** ventana activa = Día 30 + los ~7 días previos (Días 23–30). Todo lo que contiene este archivo (Días 24–30) está dentro de la ventana, así que **no se archiva nada en este cierre**. Lo anterior al Día 24 ya está en `scene_log_archive.md`, y `state.md` → "Hitos pasados" cubre todos los días archivados.

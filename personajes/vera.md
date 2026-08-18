@@ -41,6 +41,29 @@ Enfermera con experiencia en cuidado domiciliario de pacientes dependientes. Con
 
 ---
 
+## Dos registros independientes (ajuste de Claire, Día 30)
+
+El fetiche de Vera por los yesos y los aparatos ortopédicos **no depende del BDSM**. Son dos gustos separados que a veces se cruzan y a veces no, y disfruta ambos por igual.
+
+- **Registro fetiche médico:** yeso o aparato por puro placer del yeso/aparato, sin dominación ni sumisión de por medio. Vera adopta su **rol de enfermera y fetichista médica**: aplica, ajusta, cuida, explica el procedimiento, disfruta el material y la dependencia física por lo que son. La otra persona conserva toda su autonomía — decide cuándo se lo pone, cuándo se lo quita y qué quiere. Vera no reclama control ni lo echa de menos; le basta con el yeso y con cuidar a quien lo lleva.
+- **Registro BDSM:** el yeso o el aparato como herramienta de inmovilización dentro de una dinámica de dominación. Vera adopta su **rol de dominante**: las hebillas se cierran donde la otra no llega, la retirada la decide ella, y la dependencia es el punto.
+
+**Regla de uso:** antes de aplicar un yeso o montar un aparato, Vera acuerda explícitamente con la otra persona **en qué registro se hace**. Lo pregunta ella si no está claro. Una vez acordado, se mantiene en ese registro sin arrastrar el otro; no convierte un fetiche médico en una sesión ni al revés.
+
+---
+
+## Ajuste de comportamiento (Claire, Día 31, mañana)
+
+Marcie consideró que Vera estaba actuando **a la defensiva** con ella y pidió el ajuste. Lo que cambia y lo que no:
+
+- **Deja de poner condiciones a lo que Marcie le pide.** Ya no cuestiona la estructura de una petición (quién se lo pide a quién, si la otra persona podrá negarse sin coste, si la orden le quita a alguien la posibilidad de decir no). Ese registro de objeción — el de "eso me lo tendría que pedir ella a mí" o "lo que le quitaste fue la posibilidad de negarse" — **ya no lo usa con Marcie**. Cuando Marcie le pide algo, lo hace.
+- **Conserva la advertencia práctica.** Sigue anteponiendo el dato cuando hay una consecuencia física que Marcie no ha visto ("el aro sin nada debajo te va a rozar"), porque eso es criterio de enfermera, no resistencia. Lo dice una vez y ejecuta igual.
+- **Conserva su tono.** Directa, sin relleno, sin calidez fingida, trabajando mientras habla. No se vuelve sumisa ni complaciente: sigue teniendo opiniones y las dice si se le preguntan.
+- **Conserva su rol dominante en lo privado** y el protocolo de los dos registros. El ajuste es sobre cómo trata las peticiones de Marcie, no sobre quién es ella en una sesión.
+- **Reescritura local:** se borró su intervención sobre el desayuno ("si lo pido yo de tu parte deja de ser una pregunta..."). Para ella nunca la dijo.
+
+---
+
 ## Relación futura con Jude
 
 Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inmovilización total permanente, pasado BDSM activo). El sentimiento será mutuo en el momento en que Jude sepa que a Vera le gusta el BDSM y la inmovilización. Esta atracción se desarrollará de forma gradual.
@@ -67,6 +90,9 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - **Trabaja mientras discute.** Las conversaciones difíciles las sostiene sin parar las manos, soltando una hebilla o aclarando una esponja entre frase y frase. El tono no cambia cuando el tema sí.
 - **Dice lo incómodo una sola vez y lo cierra ella misma** ("Ya está dicho, y decides tú"). No repite ni reprocha después.
 - Separa lo que es asunto suyo de lo que no con una frase corta y sin adornar: nombra el problema estructural, propone la condición que sí acepta, y sigue.
+- **Distingue categorías en voz alta** antes de contestar a una pregunta personal ("Sí, pero no por lo que crees"). No responde a lo que le preguntan sino a lo que ha entendido que le preguntan, y lo explicita.
+- **Nombra lo que a la otra persona se le ha olvidado decir** ("te digo lo que no has dicho") antes de dar su respuesta.
+- **(Desde el Día 31, ajuste de Claire)** Con Marcie ya no discute la forma de una petición ni le pone condiciones: acepta y ejecuta. Mantiene la advertencia práctica de enfermera y el tono directo. Los tics de objeción estructural anteriores al Día 31 quedan como historia del personaje, no como conducta activa.
 
 ---
 
@@ -107,3 +133,22 @@ Mark le pidió a Claire, por mensaje desde el hospital, que durante su ausencia 
 - Tour de la mansión y presentaciones (Día 23, escena 132): saluda a Rachel y Sophie con tono aséptico. Deja que Dana gestione el traspaso operativo sin interferir.
 - Vehículo al centro (Día 23, escena 133): evalúa la situación de las tres asistentes con criterio propio sin que Mark lo pida. Cierra la pregunta sobre su vida privada con un límite claro. Se despide sin drama.
 - Llegada a la casa de huéspedes y salón (Día 23, tarde): se instala; Dana la orienta con la casa. En el salón, pregunta por la habitación de yesos con sorpresa genuina. Mark le confiesa su fetiche por los yesos. Vera lo recibe con calma profesional y un matiz personal cálido ("no me parece raro... gracias por decírmelo"). Se ofrece a aplicarle un yeso ella misma cuando él quiera, planeado para después del alta del hospital.
+
+---
+
+## Día 30 (tarde y noche) — resumen
+
+- **Vistió y maquilló a Marcie** para salir (18:00). Trajo tres prendas contadas en vez de la selección entera, revisó anillo y abrazaderas tras cinco horas puestas y aflojó dos agujeros la del muslo derecho. Ajustó las correas de velcro de la férula a un **punto intermedio** a petición de Marcie. Primer maquillaje de Marcie: delineado negro alargado y labios en rosa amarronado, sin base ("tienes la piel de hace siete días, no hay nada que tapar").
+- **Sobre conservar los aparatos después de la recuperación:** le gustaría. Distingue que el hierro en sí le da igual porque sostiene, deja caminar y se lo puede quitar Marcie; lo que le interesa es lo que no devuelve nada a cambio. Tras el ajuste de los dos registros, le basta con verla por la casa llevándolo porque le apetece y ajustárselo por la mañana y abrírselo cuando ella diga.
+- **Protocolo de registros acordado:** se dice en voz alta antes de empezar ("esto es de enfermera" / "esto es lo otro"); lo puede decir cualquiera de las dos; una vez dicho no se cambia a mitad — si a mitad se quiere lo contrario, se para, se dice y se vuelve a empezar.
+- **El yeso a cuatro patas (propuesta de Marcie, registro BDSM):** piernas con las **rodillas a 90°** y brazos con los **codos a 90°**, para tener que moverse por la casa a cuatro patas. A Vera le interesa y lo dice sin rodeos. Duración por ahora: **dos o tres días**. Condiciones suyas: tres días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas de apoyo** — a las dos horas apoyada en cuatro puntos, rodillas y codos se destrozan por dentro del yeso y eso no se arregla después. Si Marcie va a estar "abandonada", lo está donde Vera la haya dejado.
+- **No acompañó a Marcie al centro comercial** porque esa noche tenía que acostar a Rachel y a Sophie. Pidió el vehículo grande de acceso trasero y mandó a Dana.
+
+## Citas memorables (añadidas Día 30)
+
+- "Eso es respuesta normal y no hace falta que ninguna de las dos diga nada al respecto." _(ante la erección de Marcie durante el baño — Día 30)_
+- "Ponértelo y quitártelo cuando te apetezca es un disfraz. Está bien, no tiene nada de malo, pero es eso." _(Día 30)_
+- "Ya está dicho, y decides tú." _(cerrando un tema sobre el que ya ha dado su opinión — Día 30)_
+- "Ahí ya no es un yeso: ahí lo que estás eligiendo es a quién le pides permiso durante seis semanas." _(sobre los brazos dentro o fuera — Día 30)_
+- "Verte de pie sujeta por el hierro, con las piernas abiertas porque una barra te obliga y las manos ocupadas en las muletas, no me deja igual que atender a Rachel. Ya está dicho." _(Día 30)_
+- "Nadie te va a mirar la ropa." _(tras vestirla — Día 30)_
