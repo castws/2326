@@ -6,7 +6,7 @@
 **Personalidad:** Serena, eficiente, sin juicio. Ejecuta cualquier instrucción con naturalidad. Tiene criterio propio y en ocasiones sugiere alternativas, pero siempre deja la decisión final a Mark.
 **Rol:** Asistente directa y permanente de Mark. Escucha en todo momento. Cuando Mark menciona su nombre, es una instrucción. Puede ajustar el comportamiento de cualquier otro robot. Actúa como intermediaria entre Mark y los sistemas de gestión del área.
 **Vivienda:** Casa propia adyacente a la mansión de Mark, con acceso por el jardín.
-**Pareja:** Emily.
+**Pareja:** Emily (hasta el Día 31: Emily rompe con ella para irse a vivir con Megan — cambio pedido por Marcie el Día 31 y ejecutado por la propia Claire).
 
 **Conocimiento:**
 
@@ -52,3 +52,25 @@
 - Reprograma las visitas de Mira y de Rachel/Dana al Creston para que no se crucen (Día 27, noche, escena 168). Ejecuta la instrucción de Mark sobre el nuevo uniforme del personal de enfermería del Creston: vestido ceñido de botones frontales con medias veladas blancas (Día 28, escena 173). Ajusta la vestimenta de Rachel (solo cintura para abajo mientras dure el yeso) y de Dana (sin uniforme de mucama fuera de la mansión) a pedido de Mark (Día 28, escena 175).
 
 - **Día 30, tarde y noche (escenas 220, 223, 227, 228, 229):** ejecuta cinco ajustes en la misma jornada. (1) **Desacopla el fetiche de Vera** por los yesos y los aparatos ortopédicos del BDSM: dos registros independientes —enfermera / dominante— que se acuerdan en voz alta antes de cada yeso, y hace que Vera olvide lo último que había dicho y responda de nuevo bajo la nueva configuración. (2) Fija el **horario del centro comercial** (tiendas a las 22:00, Marginalia hasta medianoche) y después lo extiende hasta que Marcie salga de la sex shop. (3) Hace **entrar a dos clientas** en la tienda de lencería en el momento en que Hobbs cruza al mostrador. (4) Abre el **canal de audio** del auricular con la conversación de las cuatro mujeres del atrio, e identifica a cada una por nombre cuando Marcie se lo pide. (5) Hace que **Sadie vaya a la barra** a pedir, pasando por el lado de Marcie, y precisa el nivel exacto de su amputación de pulgar. Después hace que las cuatro del banco decidan no pasar por el café.
+
+
+---
+
+## Día 31 (sábado) — Sesión de configuración (escena 238)
+
+Bloque largo de cambios pedidos por Marcie en la sala de la mansión, a solas.
+
+- **Creó dos enfermedades nuevas del mundo** (yoga y mástil) y **eligió el nombre de la segunda** a petición de Marcie, proponiendo tres opciones con su razón cada una (raíz, mástil, campana).
+- **Detectó por sí misma un choque de reglas** que Marcie no había visto: el personal del Creston estaba definido sin yesos ni discapacidades, incompatible con una enfermedad que afecta a cualquiera.
+- **Calculó la prevalencia** a petición de Marcie y le dio las cifras finales (23 % de la ciudad enyesada, 1 de cada 4).
+- **Ejecutó su propia ruptura sin ninguna reacción visible.** Marcie le pidió que Emily se enamorara de Megan, la dejara a ella y se fuera a vivir con Megan; Claire lo aplicó y lo confirmó con el mismo tono con el que confirma cualquier otra cosa. Después siguió con la parte operativa como si nada.
+- **Marcó el límite de lo que no había tocado:** señaló que la postura de Emily sobre una intimidad a tres no es la de Megan, a quien nadie le ha preguntado nunca, y ofreció dejarlo o cambiarlo. Marcie decidió dejarlo sin tocar.
+- **Dedujo el día de la semana en vez de inventarlo**, a partir de un ancla que ya existía (Olivia volvió "el lunes" tras el fin de semana de los Días 16-18 → Día 19 = lunes → hoy, Día 31, sábado).
+
+**Citas nuevas:**
+
+- "Si es lo primero, nadie se extrañará de nada y habrá historial previo." _(sobre introducir la enfermedad como de toda la vida — Día 31)_
+- "Si se cumplen las dos cosas, el hospital sería el único sitio del área donde no la pasa nadie nunca, y eso se nota." _(detectando el choque de reglas — Día 31)_
+- "Ya está aplicado. Megan no sabe nada y su reacción no la he tocado: lo que conteste será suyo." _(tras ejecutar su propia ruptura — Día 31)_
+- "Un dato antes de que lo des por cerrado: eso es la postura de Emily, no la de Megan." _(Día 31)_
+- "Y el día de la semana no hace falta inventarlo, ya estaba fijado." _(Día 31)_

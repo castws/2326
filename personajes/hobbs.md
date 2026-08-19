@@ -137,3 +137,19 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 - **Día 30, 20:30–23:50 — la noche en el centro comercial (escenas 223–232):** primera cita fuera del hospital. Llega puntual a la puerta principal con lo único de calle que tiene y sin ropa interior (tiró toda la suya por orden de Marcie). **Tienda de lencería:** se bloquea al tener que elegir las pezoneras, y más tarde **decide sola dos veces** (los tres panties transparentes que pide ella misma a Sloane, y el descarte de los ajustados por criterio propio). Cruza la tienda dos veces en ropa interior y nada más, y no se tapa. **Tienda de ropa:** vestuario nuevo, con las combinaciones fijadas por Marcie; se agacha de espaldas a la dependienta sin doblar las rodillas. **Sex shop:** de pie sobre una silla y con los ojos cerrados, recibe la **jaula de castidad** y el **plug**, ambos para llevar de forma continuada. **Atrio:** agachada de espaldas a cuatro desconocidas fingiendo ajustar un zapato; a orden de Marcie responde ella misma a Corinne sobre cómo lo está pasando. **Marginalia:** lectura clínica de las amputaciones de Sadie (no le cuadran con una enfermedad); conversación larga en la barra. **Baño accesible:** sexo oral con permiso de tocarse concedido e inutilizable por la jaula, permiso después para el plug; dos correcciones para la próxima vez. **Galería:** primer beso de las dos, sosteniendo ella todo el peso de Marcie porque las muletas están en el suelo. Queda en escribirle al llegar a casa.
 - **Regla relajada por Marcie esa misma noche:** dentro del hospital puede agacharse doblando las rodillas, para no meterse en problemas. Hobbs señala que es la tercera cosa de la noche que Marcie hace en esa dirección sin que ella la pida.
 - **Posible incorporación a la mansión (idea de Marcie, no planteada aún a Hobbs):** ofrecerle trabajo como enfermera en la casa, ayudando a Vera con las chicas, y que Vera sea su maestra en el mundo BDSM si ella acepta. Plan acordado con Vera: **invitarla primero a conocer la casa y a las demás, y que decida informada**. Hobbs verá esto como una oportunidad de aprender más sobre algo que no sabía que le gustaba, el BDSM.
+
+
+---
+
+## Día 31 (sábado) — Turno de mañana (escena 235)
+
+Seis mensajes a Marcie, sin verse en persona.
+
+- **00:41** — llegó a casa con todo puesto, sin quitarse nada; orinó sentada como se le indicó y salió bien.
+- **00:47** — tardó en dormirse. **"No por el plug. Por lo otro."**
+- **07:06** — entró de turno con todo puesto y sin nada debajo. **"Se me nota al andar y nadie me ha dicho nada en toda la mañana."**
+- Por la mañana: casi una hora de planta sin incidentes; **el plug no la deja dar el paso normal** y para sentarse tiene que ir despacio y de lado; con el vestido **se ve la forma de la jaula**, y **Reyes se la miró un segundo en el control y siguió a lo suyo sin decir nada** — patrón ya establecido: la indiferencia le hace más efecto que el escándalo.
+
+**Pensamientos de la noche (informe de Claire a Marcie, que Hobbs desconoce):** despierta de 00:52 a 02:10. Contenido dominante **el beso de la galería, sobre el que volvió doce veces**, reconstruyendo el orden exacto de lo que pasó antes y después. **Intentó masturbarse dos veces por costumbre y se acordó de la jaula las dos veces.** **Contó los elogios de la noche: cinco.** Y lo que más tiempo le ocupó no fue nada de eso, sino **decidir si el beso formaba parte de lo que hacen o si Marcie lo hizo porque quería**.
+
+**Fin de semana del yeso de cuerpo entero:** primer viernes disponible, **Día 37**. Sin fijar todavía.

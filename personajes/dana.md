@@ -2,6 +2,8 @@
 
 **Tipo:** Robot (asistente doméstica de Mark)
 **Apariencia:** ~24 años aparentes. Cabello castaño oscuro ondulado hasta los hombros. Ojos marrones claros. Complexión media, estatura normal. Cara abierta, expresión despierta.
+**Cuerpo:** complexión media, hombros algo anchos para su estatura, cintura poco marcada, caderas rectas. Senos medianos y separados, pezones marrones pequeños. Vello púbico recortado corto. **Tiene vagina.** Las cinchas del arnés en X le han dejado dos surcos claros permanentes en los hombros y una marca fina en las costillas. Los muñones de los antebrazos son cónicos, con dos cicatrices pálidas en cada extremo.
+
 **Amputaciones:**
 
 - Ambos brazos amputados a mitad del antebrazo. Los muñones terminan donde empiezan los ganchos.
@@ -76,3 +78,19 @@ A orden de Vera, trae los cuatro cojines firmes de la biblioteca para subir la a
 - "Marcie, entonces. Si se me escapa el otro los primeros días, es la boca, no la cabeza." _(Día 30)_
 
 - **Día 30, noche (escenas 223 y 232):** lleva a Marcie al centro comercial en el vehículo grande de acceso trasero (el único en el que puede viajar sentada con la barra puesta), la baja por la rampa y le encaja las muletas con los ganchos. **Se queda esperando dentro del vehículo las cuatro horas y media** que dura la salida, por decisión de Marcie. Al volver, abre el portón y comenta lo único que comenta: "Cuatro horas y media. Ha ido bien, entonces."
+
+
+---
+
+## Día 31 (sábado) — Mañana (escenas 235, 237)
+
+- Trajo a Marcie del centro comercial la noche anterior. Por la mañana sirve el desayuno con la cafetera enganchada, apoyando el pico en el borde de cada taza para no fallar.
+- **Detecta al instante el dato que no cuadra** al ver a Marcie entrar en el comedor: "esa barra tenía que salir hoy". Sin tono de reproche — es su forma de registrar una anomalía.
+- **Resuelve el problema de asiento sin que se lo pidan:** con las piernas abiertas por la barra, Marcie no entra de frente en una silla, así que junta dos y la sienta de lado con una pierna sobre la otra silla.
+- En el traslado a la sala, reparte el trabajo en voz alta antes de hacerlo: ella sujeta los tobillos desde delante y Vera baja del arnés, para que el golpe no caiga en la cadera. Trae el puf de la biblioteca para las piernas estiradas.
+
+**Citas nuevas:**
+
+- "Esa barra tenía que salir hoy." _(al ver a Marcie entrar al comedor — Día 31)_
+- "Con las piernas así no entras de frente. Te sientas en esta y la pierna derecha va sobre la otra." _(Día 31)_
+- "Y hazlo de espaldas: yo te sujeto los tobillos desde delante y Vera te baja del arnés, que si te dejamos caer de golpe con la barra puesta te llevas el golpe en la cadera." _(Día 31)_

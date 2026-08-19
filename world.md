@@ -54,6 +54,82 @@
 
 ---
 
+## Enfermedades del mundo
+
+### Enfermedad de yoga
+
+Enfermedad **común y de toda la vida** en este mundo. Todo el mundo la conoce, la ha pasado o conoce a alguien que la ha pasado; el Creston tiene protocolo asentado y hay historial previo de casos. **Nunca genera extrañeza ni hay que explicarla a nadie**: forma parte de la normalidad médica de los personajes, igual que una fractura.
+
+**Frecuencia (fijada):** en todo momento hay un **10 % de la población** enyesada por esta enfermedad — unas **500 personas** de las 5.000 de la ciudad. Equivale a unos 3,65 episodios por persona y año con una duración media de yeso de diez días, es decir, un episodio cada tres meses largos por persona.
+
+**Qué es:** una o varias articulaciones del cuerpo se inflaman. La **única cura es la inmovilización completa** de la articulación afectada.
+
+**Tratamiento:**
+
+1. **Rayos X o tomografía** (esta última solo si hace falta) para localizar el punto exacto de la inflamación dentro de la articulación.
+2. Ese punto determina **la posición concreta en la que hay que enyesar**. Por eso las articulaciones acaban inmovilizadas la mayoría de las veces en **posiciones poco convencionales** — de ahí el nombre de la enfermedad.
+3. **Duración según la severidad de la inflamación:** desde unos pocos días hasta un par de semanas.
+
+**Si no se inmoviliza a tiempo:**
+
+- En una articulación de un miembro: la inflamación daña el tejido y obliga a **amputar a la altura de esa articulación**.
+- En la **columna**: no hay amputación posible; la persona queda **paralizada**.
+
+**Reglas de aparición:**
+
+- Puede afectar a **cualquiera**: habitantes de la ciudad, personal del Creston, residentes de la mansión, Claire y la propia Marcie. **Marcie decide cuándo le toca a ella.**
+- **No aparece nunca en articulaciones que ya estén inmovilizadas** (por yeso, ortesis o cualquier otra causa).
+- **Puede repetirse** en la misma persona, tanto en la misma articulación como en otras distintas.
+- Los casos de esta enfermedad **se suman aparte** del 10 % de yesos médicos ya establecido en la composición de la ciudad; no salen de esa cuota.
+
+**Personal del Creston:** también la pasa. Mientras dure el yeso están **de baja por incapacidad**, pero **alguna puede decidir ir a trabajar igualmente** si considera que el yeso concreto no le impide hacer su trabajo. Es decisión de cada una, no una obligación ni un favor que se pida. Esto no rompe la regla general de que el personal del Creston no tiene yesos ni discapacidades de base: la enfermedad de yoga es la excepción, y es temporal.
+
+### Enfermedad de mástil
+
+Segunda enfermedad de yeso del mundo, del mismo tipo que la de yoga y **independiente de ella**: se pueden tener las dos a la vez y **ambas se pueden repetir** cuantas veces sea. Afecta a la **base del pene**, que se inflama. Solo la pasa quien tiene pene (la mitad de la población de la ciudad). El nombre es popular, por la forma que le queda al yeso.
+
+**Si no se trata a tiempo:** **amputación del pene desde la base**. Los testículos se conservan.
+
+**Tratamiento — tres niveles según la gravedad:**
+
+1. **Leve.** Yeso alrededor de la cadera, el pene y los testículos. El yeso del pene llega hasta la coronilla y **deja la cabeza libre**, tomando la medida con el pene en estado flácido.
+2. **Medio.** Hay que inmovilizar también alrededor del pene, así que el yeso incluye **los muslos y una barra de abducción**. El pene va enyesado igual que en el caso leve (cabeza libre). Lleva **abertura posterior** para defecar.
+3. **Grave.** El mismo yeso del caso medio, pero **tapando el pene por completo** en estado flácido, con una **sonda saliendo por la punta** conectada a una **bolsa de recolección de orina**.
+
+**Erecciones dentro del yeso:** se producen igual. En los casos leve y medio se coloca **mucho algodón entre el pene y el yeso** precisamente para que, cuando ocurra una erección, no apriete demasiado. En el caso grave **no se pone esa capa extra**: el propósito del yeso es justamente que la erección no llegue a producirse.
+
+**Movilidad:** en los casos medio y grave normalmente se camina **con muletas**.
+
+**Cómo se viste la gente:**
+
+- **Caso leve:** capucha en la punta del pene, faldas de abertura en V, pantalones anchos con la cremallera abierta, o leggins con un hueco recortado para el yeso del pene — esta última opción deja el pene y los testículos enyesados a la vista.
+- **Casos medio y grave:** faldas o vestidos con abertura delantera.
+
+**Frecuencia (fijada):** en todo momento hay un **10 % de su grupo** enyesado por esta enfermedad, es decir un **5 % de la ciudad** — unas **250 personas** de las 2.500 que tienen pene. Misma tasa individual que la de yoga: pesa la mitad sobre el total solo porque solo puede tocarle a la mitad de la población.
+
+---
+
+### Cifras totales de yesos en la ciudad
+
+Prevalencia = episodios al año × duración media ÷ 365. Con la duración media en diez días, un 10 % de prevalencia equivale a 3,65 episodios por persona y año.
+
+| Causa | Grupo al que puede tocarle | % de su grupo | % de la ciudad | Personas |
+|---|---|---|---|---|
+| Fracturas y lesiones convencionales | Toda la ciudad (5.000) | 10 % | **10 %** | 500 |
+| Enfermedad de yoga | Toda la ciudad (5.000) | 10 % | **10 %** | 500 |
+| Enfermedad de mástil | Solo quien tiene pene (2.500) | 10 % | **5 %** | 250 |
+
+**Total:** las tres causas son independientes y se acumulan, así que una misma persona puede llevar más de un yeso a la vez. Sumadas en bruto dan un 25 %, pero descontando los solapamientos quedan **~23 % de la ciudad con al menos un yeso en cualquier momento — aproximadamente 1 de cada 4 personas**. Alrededor de un 2 % lleva dos o más yesos por causas distintas a la vez.
+
+**Desglose por grupo:**
+
+- Quien tiene pene puede pasar las tres cosas: **~27 % de probabilidad** de estar enyesada en un momento dado.
+- Quien no tiene pene solo puede pasar dos: **~19 %**.
+
+**Consecuencia para narrar la ciudad:** en cualquier escena de calle, comercio o transporte público, aproximadamente **una de cada cuatro personas del entorno lleva yeso**, repartidas entre fracturas convencionales, posiciones poco convencionales de la enfermedad de yoga y yesos de cadera/pene de la de mástil. Esto va **además** del 10 % de amputaciones y el 5 % de otras discapacidades ya establecidos.
+
+---
+
 ## El área de Mark
 
 - **Tamaño:** 1.000 km²
@@ -106,9 +182,10 @@
   - Solo mujeres de entre 19 y 30 años aparentes.
   - 50% con vagina, 50% con pene funcional.
   - 10% con amputaciones (distribuidas entre quienes usan prótesis y quienes no; incluye brazo y pierna en distintas combinaciones y niveles).
-  - 10% con yesos médicos en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
+  - 10% con yesos médicos por fracturas y lesiones convencionales, en distintas combinaciones (desde un miembro hasta cuerpo completo, pasando por diferentes combinaciones de yesos).
+  - **Aparte de ese 10%**, los yesos por enfermedad: 10% por enfermedad de yoga y 5% por enfermedad de mástil. **Total real de personas enyesadas en la ciudad: ~23%, aproximadamente 1 de cada 4.** Ver "Enfermedades del mundo".
   - 5% con otras discapacidades: paraplejia, cuadriplejia, hemiplejia, parálisis cerebral de distintos grados (incluyendo no verbal), polio con aparatos ortopédicos.
-- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares. **Personal del Creston:** sin yesos ni discapacidades (excepción futura: Megan, si decide incorporarse al hospital). **Uniforme del personal de enfermería (desde Día 28):** vestido blanco de enfermera, ceñido y corto, de botones frontales de arriba a abajo, con medias veladas blancas — norma para todas las enfermeras del Creston. **Club BDSM:** proyecto de Mark en planificación desde el Día 22; sin local asignado todavía. Mark prometió entrada completamente accesible (silla de ruedas, mobiliario adaptable). Desde el Día 23, Jude es la diseñadora del club: una empresa de diseño con experiencia en clubes ejecutará, pero sin conocimiento BDSM; Jude los instruye con ayuda de una asistente y su tabla de letras.
+- Infraestructura: hospital central **Creston Medical Center** (dos plantas, tecnología 2026 en apariencia, 2326 por dentro; **propiedad de Mark desde el Día 19**), clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques, bares. **Personal del Creston:** sin yesos ni discapacidades de base (excepción futura: Megan, si decide incorporarse al hospital). **Excepción permanente: la enfermedad de yoga** — el personal la pasa como cualquiera; ver "Enfermedades del mundo". **Uniforme del personal de enfermería (desde Día 28):** vestido blanco de enfermera, ceñido y corto, de botones frontales de arriba a abajo, con medias veladas blancas — norma para todas las enfermeras del Creston. **Club BDSM:** proyecto de Mark en planificación desde el Día 22; sin local asignado todavía. Mark prometió entrada completamente accesible (silla de ruedas, mobiliario adaptable). Desde el Día 23, Jude es la diseñadora del club: una empresa de diseño con experiencia en clubes ejecutará, pero sin conocimiento BDSM; Jude los instruye con ayuda de una asistente y su tabla de letras.
 - Todos los vehículos son autónomos.
 - App de citas activa (ver sección dedicada más abajo).
 - **Centro comercial — locales conocidos** (todos en la misma galería, en el mismo tramo): la **tienda de lencería buena** (fachada estrecha de madera oscura y cristal, sin rótulo luminoso, alfombra, prendas separadas en barras de latón, tres probadores con cortina de terciopelo y banqueta enfrente, rampa integrada en la entrada; atiende **Sloane**, ~26, pierna derecha amputada por encima de la rodilla sin prótesis, dos muletas de antebrazo, cinta métrica en la muñeca). Al lado, una **tienda de ropa** grande y luminosa de suelo de cemento y barras de acero, con probadores de puerta de listones. Cuatro locales más allá del Marginalia, la **sex shop**: estrecha y profunda, luz baja, género en ganchos por secciones, vitrinas iluminadas en el lateral derecho y dos probadores con espejo al fondo tras una cortina. Hay además otra tienda de lencería más barata, de escaparate con luz rosa, en la galería de la izquierda. Y un **quiosco de zumos** junto al atrio.

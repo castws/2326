@@ -83,3 +83,42 @@
 
 - Viaja delante en el vehículo y entra de lado por la puerta de la mansión. No puede ayudar en nada durante la llegada; Dana lo hace todo.
 - Presente en el anuncio de **Marcie**. Es la que más tarda en reaccionar de las cuatro, y cuando habla no mira a las demás: pregunta si la decisión es de hoy o venía de antes. La conversación con Vera sigue prevista para esa noche.
+
+
+---
+
+## Día 31 (sábado) — Mañana (escenas 233-234)
+
+**Habló con Vera ella sola la noche anterior, como había dicho.** Se lo cuenta a Marcie por la mañana, entrando en su habitación en cuanto se da cuenta de que está despierta.
+
+- **Cómo lo hizo:** esperó a que Vera acostara a Sophie y abrió diciéndole que la había estado mirando aquella noche. Vera no contestó — siguió recogiendo la ropa — y al terminar le preguntó **por qué le contaba eso y no lo que había venido a decir de verdad**. Rachel tuvo que decirlo sin rodeo: que quiere que la toque abajo y que no se llega sola.
+- **Vera dijo que sí sin pensárselo**, con una condición: **no lo hace como parte del trabajo**, porque si entra en el parte de cuidados deja de poder negarse. Rachel se lo tiene que pedir **cada vez, en voz alta**, y cualquier noche puede recibir un no.
+- **Lo que más le marcó:** que Vera **no la miraba a ella, miraba el yeso**, y que llevaba haciéndolo desde que entró en la habitación. Y que **mantuvo la mano plana sobre la escayola todo el rato**: Rachel solo notaba una de las dos manos.
+- **Lo que le gustó no fue lo que hizo, sino que lo decidiera ella entero** — cómo, cuánto rato y cuándo se acababa.
+- Vera declinó que Rachel le devolviera nada: **"Me dijo que hoy no, y apagó la luz."**
+
+**Descubrimiento sobre sí misma:** se da cuenta en voz alta, por primera vez, de que **no sabe si quiere que el yeso se acabe**. La dependencia va a más, no a menos.
+
+**Acuerdo cerrado con Marcie (para después del Día 61):**
+
+- **Descarta las cuerdas** — se deshacen en un minuto y eso significa que sigue decidiendo ella.
+- **Acepta yesos periódicos.** Términos puestos por ella: **que no le pregunten cada vez** y **que no le digan cuánto va a durar**. Decide Marcie.
+- Lo que quiere inmovilizado son **las manos**. Las piernas le dan igual.
+
+**Preocupación abierta:** cómo contárselo a Sophie — no por celos, sino porque **ella puede ir a buscar a Vera y Sophie no**.
+
+**Citas nuevas:**
+
+- "Me dijo que sí. Sin pensárselo. Como si le hubiera preguntado la hora." _(Día 31)_
+- "No dudaba. Eso lo tengo claro. Pero no me miraba a mí. Miraba el yeso." _(Día 31)_
+- "Yo notaba una sola de las dos manos. La otra sabía que estaba porque la veía moverse, no porque la sintiera." _(Día 31)_
+- "Fue que lo decidió ella entero: cómo, cuánto rato y cuándo se acababa. Yo solo tuve que pedirlo una vez y después ya no pintaba nada." _(Día 31)_
+- "Yo puedo ir a buscarla si quiero. Sophie no." _(Día 31)_
+- "Para cualquier cosa que quiera tengo que meter a otra persona dentro. No hay una sola que pueda hacerme yo sola, ni rascarme la nariz. Y eso cansa más que la vergüenza." _(Día 31)_
+- "Cuanto más tiempo llevo, menos ganas tengo de que se acabe." _(sobre el yeso — Día 31)_
+- "Una cuerda la deshaces en un minuto si cambio de idea, y entonces la que sigue decidiendo soy yo. El yeso no se quita porque una noche te apetezca." _(Día 31)_
+- "Pero entonces no me preguntes cada vez. Si tengo que decir que sí todas las veces vuelvo a ser yo la que decide, y ya no es lo mismo." _(Día 31)_
+- "Prefiero no saber cuánto va a ser. Si me dices una fecha me paso el mes contando los días, y contar días es otra manera de decidir." _(Día 31)_
+- "Te ves bien. Y ya lo sabes, porque si no, no lo preguntarías." _(en el desayuno — Día 31)_
+
+**Nota de movilidad (observada esta sesión):** para levantarse de una cama o silla tiene que **echar el cuerpo adelante desde las caderas y empujar solo con las piernas**; le cuesta dos intentos. Para sentarse, se deja caer los últimos centímetros porque no tiene con qué frenar. Entra y sale por las puertas **de lado**, empujando con la cadera.

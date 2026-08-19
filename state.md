@@ -6,28 +6,30 @@
 
 ### Día actual
 
-**Día 30, ~23:50.** **Marcie** en el aparcamiento del centro comercial, acabando de despedir a Hobbs. **Dana** la espera junto al vehículo con el portón abierto. Vuelta a la mansión a continuación.
+**Día 31 — sábado, mañana.** **Marcie** en la cama de la habitación principal de la mansión, recién despierta. **Rachel** entra a contarle cómo fue la conversación de anoche con Vera.
 
-**Vestuario de la noche (elegido con Vera a las 18:00):** falda negra de talle alto con abertura en V (cinturilla bajo el pecho, bajo un palmo por debajo de la ingle; por detrás cubre las nalgas justas y se abre al caminar), top de punto color hueso cortado bajo el pecho, senos al aire con pezoneras doradas y cadena, dos capuchas negras (pene y testículos), zapatos anchos de velcro sobre los estribos. **Maquillaje:** primera vez — delineado negro alargado en los dos ojos y labios en rosa amarronado, hecho por Vera. Las correas de velcro de la férula quedaron en un **punto intermedio** a petición de Marcie (sujetan sin apretar hasta que crezca).
+**Estado de Marcie:** durmió desnuda. **Vera le retiró anoche la ortesis completa y la barra de abducción** (solo hacen falta para caminar) y le dejó puesta **únicamente la férula peneana**. Sin el aparato montado no puede ponerse de pie: para levantarse necesita que alguien se lo coloque. Sin vendajes; **copa D confirmada** (85 de banda, 106 de contorno). El Día 32 la Dra. Mills se lo retira todo.
 
-**Estado de Marcie:** sin vendajes; **copa D confirmada** (85 de banda, 106 de contorno). Lleva **ortesis completa de cadera a pies + barra de abducción + férula peneana**, y **camina con muletas canadienses** con marcha rígida de balanceo. Todo el conjunto puede retirarse estando acostada (es soporte para caminar). Sin las muletas el hierro la mantiene recta pero no la sujeta de lado: necesita a alguien.
+**Noche del Día 30 (cierre):** Dana la trajo del centro comercial a la mansión. Vera la desmontó para dormir.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 30, noche (ya en marcha)**: **Rachel habla con Vera** cuando vaya a acostarlas a ella y a Sophie. Estrategia: abrir contando que le gustó verla tocar a Sophie y **preguntarle a Vera si a ella le gustaría tocarla**, en vez de pedírselo, para que Vera pueda decir que no sin coste. Marcie se comprometió a no intervenir.
-- **Día 30, noche**: **mensaje de Hobbs** al llegar a su casa.
+- **Día 31, mañana (en curso)**: **Rachel le cuenta a Marcie** cómo fue la conversación con Vera de la noche del Día 30. Marcie no intervino, como se comprometió.
+- **Día 31**: **mensaje de Hobbs** de anoche, pendiente de leer/responder.
 - **Día 31, 7:00**: Hobbs entra de turno en el Creston con la **jaula de castidad** y el **plug** puestos. Puede agacharse doblando las rodillas dentro del hospital (Marcie relajó la regla para protegerla). Sin ropa interior.
-- **Sin fecha (fin de semana a fijar)**: **Hobbs enyesada de cuerpo entero** en la mansión, del viernes al salir del turno hasta el lunes de madrugada. Lo que ella pidió: de debajo del pecho a los pies, las dos piernas dentro con barra entre las rodillas, **los brazos también en abducción**, solo la cara libre. Marcie tiene que elegir el fin de semana y avisarla.
+- **Día 31 (resuelto)**: Vera retiró la **barra de abducción** al montar la ortesis por la mañana, pero **Marcie le pidió volver a ponerla** porque le gusta llevarla. A partir de aquí la barra ya no cumple función médica: la lleva por decisión propia.
+- **Fin de semana a fijar (primer viernes disponible: Día 37)**: **Hobbs enyesada de cuerpo entero** en la mansión, del viernes al salir del turno hasta el lunes de madrugada. Lo que ella pidió: de debajo del pecho a los pies, las dos piernas dentro con barra entre las rodillas, **los brazos también en abducción**, solo la cara libre. Marcie tiene que elegir el fin de semana y avisarla.
 - **Sin fecha (vacaciones de Hobbs)**: repetición de dos semanas. **A más largo plazo**: buscar la forma de conseguirle seis semanas libres.
 - **Sin fecha**: avisar a **Corinne Dunlap** cuando abra el club BDSM (contacto ya en el dispositivo de Marcie). Ella se ofrece a llevar a Trish, Maddie y Bex.
-- **Día 31**: se retira la **barra de abducción** de la ortesis de Mark (dos tornillos de mariposa; puede hacerlo él o quien le ayude). Sigue con el resto.
-- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Mark camina sin ayuda ni dispositivos.
-- **Día 32**: Megan se quita los yesos en la mansión, con Vera ejecutando y Mark presente. Pendiente: decidir si Emily la acompaña.
-- **Lunes siguiente**: primera sesión de rehabilitación de Mark en el Creston (tres veces por semana; cita ya puesta en la carpeta del alta).
-- **Sin fecha (tras el alta)**: Mark invita a Cora y Jude a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club BDSM, dando tiempo libre a Cora. Primera vez que Jude sale de la ciudad.
-- **Sin fecha**: yeso que Vera ofreció aplicarle a Mark tras el alta.
+- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Marcie camina sin ayuda ni dispositivos.
+- **Día 31 (HOY)**: Megan se quita los yesos en la mansión, con Vera ejecutando y Marcie presente. **Adelantado desde el Día 32 por ajuste de Claire (memoria de Megan editada: para ella siempre fue hoy).** Hora pendiente de acordar por llamada.
+- **Día 31 (HOY) — ruptura de Emily y Claire (ajuste pedido el Día 31):** aprovechando el viaje a la mansión, **Emily cruza a la casa de Claire y rompe con ella en persona**; al volver **habla con Megan** y le dice que está enamorada de ella y que quiere irse a vivir con ella. Megan no sabe nada de esto todavía. **Fecha: HOY, Día 31**, pegada al viaje a la mansión para la retirada de yesos.
+- **Día 33 (lunes)**: primera sesión de rehabilitación de Marcie en el Creston (tres veces por semana; cita ya puesta en la carpeta del alta).
+- **Sin fecha (tras el alta)**: Marcie invita a Cora y Jude a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club BDSM, dando tiempo libre a Cora. Primera vez que Jude sale de la ciudad.
+- **Sin fecha**: **hip spica de Marcie** (a partir del Día 32). Decisión pendiente: **brazos dentro o fuera**, y en qué registro.
+- **Sin fecha**: **yeso de Vera a cuatro patas** (rodillas y codos a 90°, registro BDSM, dos o tres días).
 - **Día ~40**: Sophie termina su periodo de yesos completos.
 - **Día ~61**: Rachel se quita el doble shoulder spica (~6 semanas desde la fractura del Día 19).
 - **Día ~77**: Tori se quita el yeso shoulder spica + minerva y el alambre de mandíbula.
@@ -92,7 +94,8 @@
 ## Sophie
 
 - Localización: en su propia habitación.
-- Estado físico: todo el cuerpo enyesado excepto rostro, senos y genitales. Completamente inmóvil. Depende de Rachel para todo.
+- Estado físico: todo el cuerpo enyesado excepto **rostro**, senos y genitales. Completamente inmóvil. Depende de Rachel para todo.
+- **Cabeza incluida en el yeso:** solo el rostro queda libre. **No puede girar ni inclinar la cabeza**; su campo de visión es fijo y depende de cómo la hayan orientado. Para que vea otra cosa hay que mover la silla entera.
 - **Nueva movilidad:** desde la noche del Día 10 dispone de silla de ruedas de respaldo alto reclinable; puede ser llevada por cualquier estancia de la mansión.
 - Tiempo restante de yesos: aproximadamente un mes más (~Día 40).
 - Estado emocional: adaptada. Relación íntima en desarrollo con Rachel.
@@ -123,8 +126,8 @@
 - **Día 25 noche — romance con Emily establecido:** confesión mutua de sentimientos, primer beso, revelación de que los yesos son voluntarios (Emily lo asimiló y admitió su propia atracción por cuidarla), primera intimidad entre ambas. Emily se quedó a dormir y le preparó el desayuno con opciones al día siguiente.
 - **Día 26 mañana:** llamada telefónica con Mark (a solas, altavoz) relatando lo ocurrido. Emily todavía no sabe de la relación íntima entre Megan y Mark; Megan se lo contará con calma, idealmente con Mark presente. Plan acordado: se quita los yesos en la fecha ya prevista (~Día 29) sin usarlo como excusa relacionada con Emily; después, conversación a tres sobre cómo sigue todo y posibles yesos nuevos. La amputación del brazo se revelará a Emily recién cuando Megan tenga puesto el próximo yeso, no antes.
 - **Próximos yesos solicitados:** pierna hasta la cadera, brazo hasta el hombro (a coordinar en la conversación a tres, después del Día 29).
-- **Día 29 (tarde) — se lo contó a Emily:** le habló a solas de su relación con Mark. Emily **no se enfadó**: la escuchó entera y después reveló que **ella también tiene pareja y vive con ella** (años juntas, casa fuera de la ciudad, no le dio el nombre) y que **su pareja ya sabe lo de ellas y no le importa**. Megan lo pasó mal un rato ("venía preparada para pedir perdón y de repente era yo la que no sabía qué decir"); le dio más miedo que no le importara que si le hubiera dicho que se iba. Emily sigue en el apartamento con la rutina normal. Megan **no sabe** que la pareja de Emily es Claire; Mark le contó que Emily vive con su vecina (así la conoció para recomendársela) y que nunca le pareció que fueran pareja. Megan sospecha que puede ser "algo aparte" para Emily, y preferiría saber en qué está.
-- **Día 29 (llamada con Mark):** se levantó sin acordarse de que era el día previsto (ajuste vía Claire). Mantiene la decisión de quitárselos, pero se aplaza a **~Día 32**, en la mansión, ejecutado por **Vera**, con Mark presente (Mark quiere descansar tras el alta). Se entera aquí del accidente de Rachel. **Cambio de plan sobre Emily:** se lo contará a solas y **antes** de ir a la mansión, no con Mark delante; decidió hacerlo ese mismo día. Detecta que Emily no ha dicho una sola palabra sobre la retirada de los yesos desde que lo supo, y sospecha que no quiere que se los quite.
+- **Día 29 (tarde) — se lo contó a Emily:** le habló a solas de su relación con Mark. Emily **no se enfadó**: la escuchó entera y después reveló que **ella también tiene pareja y vive con ella** (años juntas, casa fuera de la ciudad, no le dio el nombre) y que **su pareja ya sabe lo de ellas y no le importa**. Megan lo pasó mal un rato ("venía preparada para pedir perdón y de repente era yo la que no sabía qué decir"); le dio más miedo que no le importara que si le hubiera dicho que se iba. Emily sigue en el apartamento con la rutina normal. **Megan ya sabe que la pareja de Emily es Claire** (se lo dijo la propia Emily) y sabe que Marcie conoce a Claire, porque Marcie se lo dijo. No hay nada oculto en ese punto. Megan sospecha que puede ser "algo aparte" para Emily, y preferiría saber en qué está.
+- **Día 29 (llamada con Mark):** se levantó sin acordarse de que era el día previsto (ajuste vía Claire). Mantiene la decisión de quitárselos, pero se aplaza a **~Día 32** (después adelantado al **Día 31** por nuevo ajuste), en la mansión, ejecutado por **Vera**, con Mark presente (Mark quiere descansar tras el alta). Se entera aquí del accidente de Rachel. **Cambio de plan sobre Emily:** se lo contará a solas y **antes** de ir a la mansión, no con Mark delante; decidió hacerlo ese mismo día. Detecta que Emily no ha dicho una sola palabra sobre la retirada de los yesos desde que lo supo, y sospecha que no quiere que se los quite.
 
 ---
 
@@ -132,6 +135,7 @@
 
 - En su casa adyacente a la mansión.
 - El ajuste emocional de Patricia ya cumplió su función.
+- **Día 32: Emily rompe con ella** y se va a vivir con Megan. Cambio pedido por Marcie el Día 31 y ejecutado por la propia Claire, sin ninguna reacción visible.
 
 ---
 
@@ -140,7 +144,9 @@
 - En el apartamento de Megan, en la ciudad. Rol de cuidadora 24/7.
 - **Romance con Megan establecido (Día 25 noche):** confesión mutua, primer beso, reveló su propia atracción por cuidar a alguien dependiente (con la culpa que cargaba por ello), aceptó que los yesos de Megan son voluntarios, primera intimidad entre ambas. Se quedó a dormir y le preparó el desayuno con opciones al día siguiente.
 - Sabe ahora que los yesos de Megan son voluntarios.
-- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily no se enfadó; escuchó y reveló a cambio que **tiene pareja y vive con ella** (años juntas, casa fuera de la ciudad; **no dio el nombre** — es Claire, dato que Megan no tiene) y que **su pareja ya sabe lo de Megan y no le importa**. Después siguió con la rutina normal de cuidados. No ha dicho **una sola palabra** sobre la retirada de los yesos desde que supo que son voluntarios; Megan interpreta que no quiere que se los quite.
+- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily no se enfadó; escuchó y reveló a cambio que **tiene pareja y vive con ella** (años juntas, casa fuera de la ciudad; **después le dio el nombre**: Claire, a quien Megan sabe que Marcie conoce) y que **su pareja ya sabe lo de Megan y no le importa**. Después siguió con la rutina normal de cuidados. No ha dicho **una sola palabra** sobre la retirada de los yesos desde que supo que son voluntarios; Megan interpreta que no quiere que se los quite.
+- **Enamorada de Megan (ajuste Día 31):** está muy enamorada y **ha decidido dejar a Claire e irse a vivir con Megan**. Lo ejecuta el **Día 32**: rompe con Claire en persona y después se lo cuenta a Megan. Megan no lo sabe todavía.
+- **Postura sobre Marcie (ajuste Día 31):** sin problema con que Megan tenga intimidad con Marcie, y sin problema con estar **las tres juntas** si surge. En esos momentos **se centra en Megan**, no en Marcie.
 
 ---
 
@@ -265,18 +271,18 @@
 
 ## Pendiente / Próximos pasos
 
-1. **Vuelta a la mansión (inmediato):** Dana la lleva. Al llegar, **Rachel ya habrá hablado o estará hablando con Vera** — la conversación es de Rachel y Marcie no interviene. Sin resolver: cómo reacciona Vera, y si esto se cruza con lo de Dana.
-2. **Mensaje de Hobbs** al llegar a su casa (quedó en escribirle).
-3. **Hobbs — arco activo:** entra de turno el Día 31 a las 7:00 con jaula y plug puestos, sin ropa interior. Pendiente **fijar el fin de semana** del yeso de cuerpo entero en la mansión, y **presentarla a Vera** — Vera puso como condición hablar con ella a solas antes de nada, y rechazó el encuadre de "usarla".
-4. **Decisiones pendientes de Marcie sobre su propio hip spica (Día 32+):** **brazos dentro o fuera**, y **en qué registro** se hace (enfermera o BDSM).
-5. **Sadie Ford:** visita 1 consumida (Día 30, solo de vista). La **visita 2** —el próximo día distinto en que Marcie entre al Marginalia— la encontrará con el pulgar izquierdo ya sano y sin venda y el **índice derecho amputado y vendado**. Marcie toma la iniciativa a partir de ahora.
-6. **Club BDSM:** sigue sin local. **Corinne Dunlap** espera aviso de la apertura y se ofrece a llevar a Trish, Maddie y Bex. Jude sigue siendo la diseñadora.
-7. **Dana y Vera:** Dana dijo el Día 29 que le gustaría que Vera la ayudara a masturbarse pero que no tiene excusa práctica al no ser paciente suya. Marcie le pidió que pensara en una. **Sigue pendiente.**
-8. **Dispositivos de Marcie:** barra de abducción fuera el Día 31; ortesis y férula las retira Mills en la mansión el **Día 32 a las 9:00**. Rehabilitación desde el lunes. Marcie quiere **conservar los aparatos** para usarlos de vez en cuando en casa y a veces en la calle; a Vera le gustaría.
-9. **Megan, Día 32:** se quita los yesos en la mansión, ejecutado por Vera y con Marcie presente. Pendiente decidir si Emily la acompaña. Megan quiere ver a Marcie "entera y con ropa puesta". Sigue pendiente la conversación a tres y los próximos yesos (pierna hasta la cadera, brazo hasta el hombro).
-10. **Emily:** Megan sabe que tiene pareja con la que vive y que esa pareja está al corriente, pero no sabe que es Claire.
-11. **Cora y Jude:** visita a la mansión para conocer a Vera y decidir si ayuda con el cuidado y con las reuniones del club. Sería la primera vez que Jude sale de la ciudad.
-12. **Sin cerrar:** visita pendiente a Emma; presentación conjunta con las dos mujeres del parque de la ribera; consecuencias de la primera intimidad Rachel-Dana del Día 28; arco con Mira sin próxima cita; Patricia y Hannah "intentándolo" sin nombre todavía.
+1. **Llamada a Megan (inmediato):** cuadrar la hora de la retirada de yesos, que es **hoy** (Día 31). Para Megan hoy fue siempre el día.
+2. **Hoy, Día 31 — Emily:** cruza a casa de Claire durante el viaje a la mansión, **rompe con ella en persona**, y a la vuelta le dice a Megan que está enamorada de ella y que quiere irse a vivir con ella. Megan no sabe nada. **Su reacción no está condicionada.**
+3. **Hoy, Día 31 — Megan:** se quita los yesos en la mansión, ejecutado por Vera y con Marcie presente. Pendiente decidir si Emily la acompaña. Sigue pendiente la conversación a tres y los próximos yesos (pierna hasta la cadera, brazo hasta el hombro).
+4. **Mañana, Día 32 (domingo) 9:00:** Mills retira la ortesis y la férula en la mansión. Decisiones pendientes de Marcie sobre su propio **hip spica**: **brazos dentro o fuera**, y **en qué registro** (enfermera o BDSM). Marcie quiere **conservar los aparatos** para usarlos de vez en cuando; a Vera le gustaría.
+5. **Rachel — acuerdo nuevo (Día 31):** tras el Día 61 se le vuelve a enyesar **de vez en cuando**, con **las manos dentro** (es lo que ella quiere inmovilizado). Términos puestos por ella: **no se le pregunta cada vez** y **no se le dice cuánto va a durar**. Decide Marcie. Descartó las cuerdas. Pendiente: cómo se lo cuenta a Sophie lo de Vera.
+6. **Rachel y Vera — hilo abierto:** Vera dijo que sí pero **fuera del parte de cuidados**; Rachel se lo tiene que pedir **cada vez, en voz alta**, y puede recibir un no. Vera declinó que Rachel le devolviera nada ("hoy no"). Sin resolver: si esto se cruza con lo de Dana, y qué sabe Sophie.
+7. **Hobbs — arco activo:** de turno hoy con jaula y plug, sin ropa interior. Pendiente **fijar el fin de semana** del yeso de cuerpo entero (**primer viernes disponible: Día 37**), y **presentarla a Vera** — Vera puso como condición hablar con ella a solas antes de nada, y rechazó el encuadre de "usarla".
+8. **Dana y Vera:** Dana dijo el Día 29 que le gustaría que Vera la ayudara pero que no tiene excusa práctica al no ser paciente suya. Marcie le pidió que pensara en una. **Sigue pendiente.**
+9. **Vera — yeso a cuatro patas** (rodillas y codos a 90°, registro BDSM, dos o tres días, acolchado extra). Sin fecha.
+10. **Sadie Ford:** visita 1 consumida (Día 30, solo de vista). La **visita 2** —el próximo día distinto en que Marcie entre al Marginalia— la encontrará con el pulgar izquierdo ya sano y sin venda y el **índice derecho amputado y vendado**. Marcie toma la iniciativa a partir de ahora.
+11. **Club BDSM:** sigue sin local. **Corinne Dunlap** espera aviso de la apertura y se ofrece a llevar a Trish, Maddie y Bex. Jude sigue siendo la diseñadora. Pendiente la visita de **Cora y Jude** a la mansión para conocer a Vera (primera vez que Jude sale de la ciudad).
+12. **Sin cerrar:** visita pendiente a Emma; presentación conjunta con las dos mujeres del parque de la ribera; consecuencias de la primera intimidad Rachel-Dana del Día 28; arco con Mira sin próxima cita; Patricia y Hannah "intentándolo" sin nombre todavía. **Día 33 (lunes): primera sesión de rehabilitación.**
 
 ## Ciudad — cambios de configuración
 

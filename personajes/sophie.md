@@ -4,7 +4,9 @@
 **Apariencia:** Cabello castaño muy corto. Ojos marrones. Cintura delgada. Senos medianos. Tiene pene funcional (visible en ropa ceñida).
 **Vestimenta habitual:** Vestido de mucama negro con delantal blanco, escote pronunciado, falda muy corta. Sin ropa interior.
 **Personalidad:** Inicialmente sumisa. Tras el ajuste de autonomía: tranquila, directa, algo reservada. Tiene límites propios que expresa con claridad pero sin hostilidad. Desarrolló una relación íntima con Rachel.
-**Estado actual:** Todo el cuerpo enyesado excepto rostro, senos y zona genital. Completamente inmóvil. Depende de Rachel para todo.
+**Estado actual:** Todo el cuerpo enyesado excepto **rostro**, senos y zona genital. Completamente inmóvil. Depende de Rachel para todo.
+
+**Cabeza (importante para narrar):** el yeso incluye la cabeza y el cuello; lo único libre es el **rostro**. **No puede girar la cabeza ni inclinarla.** Su campo de visión es fijo y lo determina hacia dónde la haya orientado quien la haya colocado: solo ve lo que quede delante de esa dirección. Para que mire a otra cosa hay que mover la silla entera. No mira "hacia" nada por decisión propia.
 **Rol:** Asistente doméstica de Mark. Actualmente inactiva por el yeso.
 
 **Conocimiento:**
@@ -60,3 +62,17 @@
 
 - "Te fuiste hombre y has vuelto con más hierro que yo." _(al ver a Marcie con la ortesis por primera vez — Día 30)_
 - "Marcie. Suena mejor que Mark." _(Día 30)_
+
+
+---
+
+## Día 31 (sábado) — Desayuno (escena 237)
+
+- Primer desayuno de toda la casa junta. Vera la lleva al comedor en la silla reclinable y **calcula el ángulo antes de frenar las ruedas**, dejándola orientada al centro de la mesa para que le entren Marcie y Rachel en el campo de visión. Vera le ofrece girarla si quiere mirar otra cosa.
+- Vera le da de comer alternando con Rachel; ninguna de las dos puede comer sola.
+- Vio el aparato de Marcie cuando cruzó el comedor con las muletas; desde su sitio en la mesa se lo tapa de cintura para abajo. Lo comenta con su registro habitual.
+- **No sabe todavía lo de Rachel y Vera.** Rachel tiene pendiente cómo contárselo.
+
+**Cita nueva:**
+
+- "Hierro nuevo. ¿Cuánto te queda con eso?" _(sobre la ortesis de Marcie, mismo registro que "Yeso nuevo" del Día 8 — Día 31)_

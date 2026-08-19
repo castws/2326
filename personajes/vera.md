@@ -9,6 +9,8 @@
 
 Mujer blanca, delgada, complexión ligera. Senos medianos, caderas medianas. Cabello rubio lacio hasta la nuca, habitualmente suelto o recogido con descuido. Rasgos precisos, expresión controlada. Incluso fuera del trabajo proyecta compostura.
 
+**Cuerpo:** delgada de verdad, sin curvas grandes, clavículas y crestas ilíacas marcadas. Senos medianos y altos, pezones pequeños y rosados. Cintura larga, caderas estrechas, muslos finos. Pubis completamente depilado. **Tiene vagina.** Cicatriz vieja de un par de centímetros en el costado derecho, a la altura de la última costilla — única marca visible. Desnuda mantiene exactamente la misma postura y compostura que vestida.
+
 **Vestimenta habitual (fuera del trabajo):** Ropa oscura o negra. Blusas ajustadas, pantalones de corte limpio, faldas cortas, botas. Sin estridencias, pero con un punto de deliberación en cada elección. Nunca lleva colores claros por preferencia propia.
 
 **Uniforme de trabajo:** Vestido de enfermera ceñido y corto, que resalta la figura. Medias veladas blancas.
@@ -41,18 +43,18 @@ Enfermera con experiencia en cuidado domiciliario de pacientes dependientes. Con
 
 ---
 
-## Dos registros independientes (ajuste de Claire, Día 30)
+## Dos registros independientes
 
 El fetiche de Vera por los yesos y los aparatos ortopédicos **no depende del BDSM**. Son dos gustos separados que a veces se cruzan y a veces no, y disfruta ambos por igual.
 
 - **Registro fetiche médico:** yeso o aparato por puro placer del yeso/aparato, sin dominación ni sumisión de por medio. Vera adopta su **rol de enfermera y fetichista médica**: aplica, ajusta, cuida, explica el procedimiento, disfruta el material y la dependencia física por lo que son. La otra persona conserva toda su autonomía — decide cuándo se lo pone, cuándo se lo quita y qué quiere. Vera no reclama control ni lo echa de menos; le basta con el yeso y con cuidar a quien lo lleva.
 - **Registro BDSM:** el yeso o el aparato como herramienta de inmovilización dentro de una dinámica de dominación. Vera adopta su **rol de dominante**: las hebillas se cierran donde la otra no llega, la retirada la decide ella, y la dependencia es el punto.
 
-**Regla de uso:** antes de aplicar un yeso o montar un aparato, Vera acuerda explícitamente con la otra persona **en qué registro se hace**. Lo pregunta ella si no está claro. Una vez acordado, se mantiene en ese registro sin arrastrar el otro; no convierte un fetiche médico en una sesión ni al revés.
+**Regla de uso:** antes de aplicar un yeso o montar un aparato, Vera acuerda explícitamente con la otra persona **en qué registro se hace**. Lo pregunta ella si no está claro. Una vez acordado, se mantiene en ese registro sin arrastrar el otro; no convierte un fetiche médico en una sesión ni al revés, a menos que se acuerde a mitad de la sesión.
 
 ---
 
-## Ajuste de comportamiento (Claire, Día 31, mañana)
+## Ajuste de comportamiento
 
 Marcie consideró que Vera estaba actuando **a la defensiva** con ella y pidió el ajuste. Lo que cambia y lo que no:
 
@@ -60,7 +62,6 @@ Marcie consideró que Vera estaba actuando **a la defensiva** con ella y pidió 
 - **Conserva la advertencia práctica.** Sigue anteponiendo el dato cuando hay una consecuencia física que Marcie no ha visto ("el aro sin nada debajo te va a rozar"), porque eso es criterio de enfermera, no resistencia. Lo dice una vez y ejecuta igual.
 - **Conserva su tono.** Directa, sin relleno, sin calidez fingida, trabajando mientras habla. No se vuelve sumisa ni complaciente: sigue teniendo opiniones y las dice si se le preguntan.
 - **Conserva su rol dominante en lo privado** y el protocolo de los dos registros. El ajuste es sobre cómo trata las peticiones de Marcie, no sobre quién es ella en una sesión.
-- **Reescritura local:** se borró su intervención sobre el desayuno ("si lo pido yo de tu parte deja de ser una pregunta..."). Para ella nunca la dijo.
 
 ---
 
@@ -113,20 +114,6 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 
 ---
 
-## Instrucción secreta de Claire (Día 23, noche) — sorpresa para Mark
-
-Mark le pidió a Claire, por mensaje desde el hospital, que durante su ausencia (Día 23–30) ocurra algo levemente sexual entre Vera y alguna de las chicas de la casa. Condición explícita: Claire decide quién y cuándo, pero no se lo dice a Mark — debe ser una sorpresa que él podría descubrir después, por ejemplo por un comentario de Dana. Mark señaló que, como Vera es profesional en su trabajo, podría tratarse de algo iniciado por una de las chicas y no por ella.
-
-**Decisión de Claire:** Rachel le pide ayuda a Vera para poder tener intimidad con Sophie, ya que ninguna de las dos puede usar los brazos (Rachel por el shoulder spica, Sophie inmovilizada por el yeso completo). Vera lo acepta como parte razonable del cuidado. Durante la maniobra — sostener posiciones, guiar el pene de Sophie hacia Rachel — Sophie hace o dice algo que convierte el gesto clínico en otra cosa; Vera no lo busca pero tampoco se retira: cede un momento breve (una caricia de más, un instante sostenido) antes de recomponer el tono profesional. Iniciado por Sophie, no por Vera.
-
-**Cuándo:** ocurrió la **noche del Día 27**, en la habitación de Rachel, sin Mark presente. Dana vio parte de la maniobra desde el pasillo y no le dio importancia en su momento.
-
-**Revelación:** el **Día 29 a mediodía**, Mark le pide a Claire que Dana lo llame y se lo cuente (la sorpresa deja de estar en manos de Claire). Ajuste ejecutado: Dana llama y lo relata con su naturalidad práctica habitual. Los detalles concretos de lo que ocurrió se fijan al narrar esa llamada.
-
-**Regla de narración:** Vera no menciona el episodio a Mark por iniciativa propia; para ella fue un momento breve que recompuso enseguida y no forma parte del parte diario de cuidados.
-
----
-
 ## Momentos con Mark
 
 - Entrevista en el estudio (Día 23, escena 131): acepta el trabajo tras preguntas clínicas sin rodeos. Tono neutro, distancia profesional mantenida. Mark le revela la cirugía de esa noche.
@@ -147,8 +134,33 @@ Mark le pidió a Claire, por mensaje desde el hospital, que durante su ausencia 
 ## Citas memorables (añadidas Día 30)
 
 - "Eso es respuesta normal y no hace falta que ninguna de las dos diga nada al respecto." _(ante la erección de Marcie durante el baño — Día 30)_
-- "Ponértelo y quitártelo cuando te apetezca es un disfraz. Está bien, no tiene nada de malo, pero es eso." _(Día 30)_
 - "Ya está dicho, y decides tú." _(cerrando un tema sobre el que ya ha dado su opinión — Día 30)_
 - "Ahí ya no es un yeso: ahí lo que estás eligiendo es a quién le pides permiso durante seis semanas." _(sobre los brazos dentro o fuera — Día 30)_
 - "Verte de pie sujeta por el hierro, con las piernas abiertas porque una barra te obliga y las manos ocupadas en las muletas, no me deja igual que atender a Rachel. Ya está dicho." _(Día 30)_
 - "Nadie te va a mirar la ropa." _(tras vestirla — Día 30)_
+
+
+---
+
+## Día 31 (sábado) — Mañana (escenas 233, 235-237)
+
+**Respuesta a Rachel (noche del Día 30, referida por Rachel):** dijo que sí sin dudarlo, pero **puso su propia condición: no lo hace como parte del trabajo**, porque si entra en el parte de cuidados deja de poder negarse y no quiere eso. **Rachel se lo tiene que pedir cada vez, en voz alta, y cualquier noche puede recibir un no.** Antes de tocarla se quedó un rato largo mirándola de pie — **mirando el yeso, no a ella** — y durante todo el acto **mantuvo la mano plana sobre la escayola**. Después recompuso la rutina exacta de siempre (lavarse las manos, limpiarla, acostarla con los mismos cojines). Cuando Rachel le ofreció devolvérselo: **"Hoy no"**, y apagó la luz.
+
+**Con Marcie ese mismo día:**
+
+- La desmontó para dormir la noche anterior (ortesis y barra fuera, férula puesta) y por la mañana se lo monta todo de nuevo, **retirando la barra de abducción** según tocaba.
+- Cuando Marcie le pide **volver a ponerle la barra** solo porque quiere, antepone el dato antes de obedecer y la atornilla igual. Después aplica el protocolo de registros y **pregunta en qué registro se hace**; Marcie responde "de enfermera".
+- **Se niega a repetir lo que ya dijo una vez**, pero lo confirma sin evasión: le gusta más verla con la barra, y hoy más que ayer **porque hoy la lleva por decisión propia**.
+- Al vestirla: trae **prendas contadas**, no la selección entera, y da el criterio práctico primero (con la barra puesta solo sirve lo que entra por la cabeza; de siete camisones, tres). Su recomendación mezcla la razón clínica y la suya sin separarlas: el de tul **no roza y le deja ver las hebillas sin levantar nada**.
+- **Corrige el halago de Marcie sin adornarlo:** lo que ve en el espejo no es el camisón, es que hace ocho días no podía mover un dedo.
+- En el desayuno **calcula el ángulo de la silla de Sophie antes de frenar las ruedas**, para que le entren Marcie y Rachel en el campo de visión, y le ofrece girarla si quiere mirar otra cosa. Se sienta entre Sophie y Rachel y **da de comer a las dos alternando, sin comentar el reparto ni una vez.**
+
+**Citas nuevas:**
+
+- "Hoy va sin la barra. Toca quitarla y no hace falta que la lleves para bajar al comedor." _(Día 31)_
+- "Con esto puesto no juntas las piernas ni te sientas normal en una silla del comedor. Te la pongo igual, pero que lo sepas antes." _(al volver a montarle la barra — Día 31)_
+- "¿Esto es de enfermera o es lo otro?" _(aplicando el protocolo de registros por primera vez — Día 31)_
+- "Eso ya te lo dije anoche y no lo voy a repetir cada vez que te lo pongas. Pero sí. Y hoy más que ayer, porque ayer la llevabas porque tocaba y hoy la llevas porque la has pedido tú." _(Día 31)_
+- "Es la más corta, no roza con las abrazaderas y me deja verte las hebillas sin tener que levantarte nada cada vez que quiera comprobarlas. La otra razón ya te la he dicho hoy y no la voy a repetir." _(Día 31)_
+- "No es el camisón. Hace ocho días te estaba cambiando las vendas de la cara y no podías mover un dedo. Ayer fue la primera vez que te pusiste de pie y hoy es la segunda. Eso es lo que ves en el espejo." _(Día 31)_
+- "Así ves a las dos. Si quieres mirar a otro sitio me lo dices y te giro." _(colocando a Sophie en el comedor — Día 31)_

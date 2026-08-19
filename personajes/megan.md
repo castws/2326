@@ -11,7 +11,8 @@
 **Conocimiento:**
 
 - Sabe: que Mark tiene fetiche por yesos, amputaciones y por dependencia; que sus yesos son voluntarios y acordados; que Emily la cuida en su apartamento.
-- No sabe: que Patricia existe; que Emily es la pareja de Claire (la asistente de Mark); que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
+- Sabe: que la pareja de Emily es **Claire**, la asistente de Marcie (se lo dijo Emily), y que Marcie conoce a Claire.
+- No sabe: que Patricia existe; que el vínculo de Mark con ella coexiste con otras relaciones simultáneas.
 
 **Arco romántico con Emily — romance establecido (Día 25 noche):**
 
@@ -23,6 +24,12 @@
 - Plan acordado con Mark (Día 26, llamada telefónica): se quita los yesos en la fecha ya prevista (~Día 29) sin usar la relación con Emily como excusa para extenderlos; después, con calma, planea una conversación a tres (Mark, Emily y ella) sobre cómo sigue todo, incluyendo la posibilidad de nuevos yesos más adelante.
 
 **Estado Día 29 (mañana):** acaba de levantarse y **no recuerda que hoy es el día previsto para quitarse los yesos** (ajuste ejecutado por Claire a petición de Mark). No lo tiene agendado ni se lo ha mencionado a Emily.
+
+**Lo que le viene (no lo sabe):**
+
+- Emily está muy enamorada de ella y **ha decidido dejar a su pareja para irse a vivir con Megan**. Se lo dirá **hoy, Día 31**, después de romper, cuando vuelvan de la mansión.
+- Megan **ya sabe** que la pareja de Emily es Claire. Su reacción a la noticia de la ruptura es enteramente suya: no está condicionada de antemano.
+- **Intimidad a tres (Marcie, Emily y ella):** Emily no tiene ningún problema con ello, pero a Megan **nadie se lo ha preguntado nunca y su postura NO está condicionada**. Cuando surja, contesta lo que ella quiera — sí o no. No se ha tocado y no se debe dar por hecha.
 
 **Reflexión sobre amputación voluntaria (Día 19):**
 
@@ -37,6 +44,7 @@
 - Se levantó **sin acordarse** de que era el día previsto para quitarse los yesos (ajuste de Claire). Lo reconoce como un dato sobre sí misma: "eso ya me dice algo de cómo estoy con esto".
 - Mantiene la decisión de quitárselos y descarta alargarlos por Emily. Pero no había plan de ejecución: ella no puede, Mark está vendado, Emily nunca ha quitado un yeso, y Rachel —que se los puso— está con doble shoulder spica. **Se entera aquí del accidente de Rachel**, con preocupación genuina.
 - **Nueva fecha: ~Día 32**, en la mansión (no en su apartamento), ejecutado por Vera, con Mark presente. Aceptó el aplazamiento sin problema para que Mark descanse tras el alta.
+- **Ajuste de Claire (Día 31): la fecha pasa a ser HOY, Día 31.** Para Megan siempre fue hoy — no percibe ningún cambio ni recuerda que estuviera previsto para mañana. Sigue queriendo quitárselos (decisión suya de siempre, intacta); solo cambia el día en su memoria. Espera la llamada de Marcie para acordar la hora.
 - **Cambio de plan sobre Emily:** se lo contará **antes** de ir a la mansión y **a solas**, no con Mark delante como estaba previsto — con él presente Emily se cohibiría para decir lo que siente. Decidió hacerlo ese mismo día.
 - Sobre la retirada de yesos: Emily no ha dicho **una sola palabra** del tema desde que lo supo. Megan lo interpreta como que no quiere que se los quite y no se atreve a decirlo. Queda pendiente hablarlo con ella.
 

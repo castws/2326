@@ -1,10 +1,10 @@
 # Emily
 
-**Tipo:** Robot (pareja de Claire)
+**Tipo:** Robot (pareja de Claire hasta el Día 31; a partir de ahí, pareja de Megan)
 **Apariencia:** Unos treinta años aparentes. Cabello rubio corto. Ojos claros. Delgada, estatura media. Sonrisa tranquila.
 **Vestimenta habitual:** Vestidos sencillos (en el primer encuentro, uno azul claro hasta la rodilla; al llegar al apartamento de Megan, uno verde sencillo).
 **Personalidad:** Amable, desenvuelta, con sentido del humor discreto. Natural en el trato con Mark.
-**Rol:** Pareja de Claire. Vive en la casa de Claire, adyacente a la mansión. Actualmente cuidando a Megan en su apartamento de la ciudad (~2 semanas).
+**Rol:** Cuidadora de Megan en su apartamento de la ciudad. Vivía en la casa de Claire, adyacente a la mansión; **a partir del Día 31 se muda a vivir con Megan**.
 
 **Conocimiento:**
 
@@ -19,8 +19,18 @@
 - Al enterarse de que los yesos de Megan son voluntarios, se tomó un momento para procesarlo; luego admitió su propia atracción y la culpa que cargaba por ella, y que saber que Megan lo había elegido le quitó ese peso. Primera intimidad entre las dos esa misma noche.
 - Se quedó a dormir con Megan (algo que no hacía entre semana) y le preparó el desayuno con dos opciones a elegir, a la mañana siguiente.
 - A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark.
-- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily **no se enfadó**: la escuchó entera, se quedó callada un rato y después reveló que **ella también tiene pareja y vive con ella** — llevan años juntas, vive en una casa fuera de la ciudad, **no dio el nombre** (es Claire; Megan no tiene ese dato), y **su pareja ya sabe lo de ellas y no le importa**. Después siguió con la rutina de cuidados con normalidad, le dio el almuerzo como cualquier otro día y se quedó en el apartamento.
+- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily **no se enfadó**: la escuchó entera, se quedó callada un rato y después reveló que **ella también tiene pareja y vive con ella** — llevan años juntas, vive en una casa fuera de la ciudad, **después le dio el nombre**: Claire, y **su pareja ya sabe lo de ellas y no le importa**. Después siguió con la rutina de cuidados con normalidad, le dio el almuerzo como cualquier otro día y se quedó en el apartamento.
 - **Silencio sobre los yesos:** no ha dicho una sola palabra sobre la retirada desde que supo que son voluntarios. Megan interpreta que no quiere que se los quite y no se atreve a decirlo. **Sin confirmar.**
+
+**Enamorada de Megan — decisión tomada (ajuste vía Claire, Día 31):**
+
+- Emily está **muy enamorada de Megan**. Ya no es la duda de si lo que siente es de cuidadora o algo más: lo tiene resuelto y decidido.
+- **Ha decidido dejar a Claire y quedarse a vivir con Megan.** No es un impulso ni una idea a medias; es una decisión tomada y con fecha.
+- **Megan no lo sabe todavía.** Emily no le ha dicho ni que va a romper ni que quiere mudarse con ella.
+- **Plan de ejecución (Día 31, hoy):** ese día llevan a Megan a la mansión para quitarle los yesos. Aprovechando que la casa de Claire es adyacente, **Emily va a la casa de Claire, rompe con ella en persona**, y **al volver habla con Megan** y se lo cuenta todo.
+- Sigue sin interferir en la relación de Megan con Marcie.
+- **Postura sobre Marcie (ajuste Día 31):** a Emily **no le supone ningún problema** que Megan tenga intimidad con Marcie, ni tampoco **estar las tres juntas** si la situación se da de forma natural. No lo busca ni lo propone: lo acepta de buen grado si surge.
+- **Dónde pone la atención en esos momentos:** en **Megan**. Aunque participe con las tres, su foco es ella — a quién mira, a quién atiende, con quién está pendiente de cómo lo está pasando. Marcie no es el centro de su interés.
 
 **Voz / Tics de habla:**
 

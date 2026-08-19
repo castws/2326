@@ -65,7 +65,9 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    > `conversaciones/sesion_02_2026-04-30.md` — transcript completo guardado
    > `conversacion_completa.md` — sesión 02 añadida al índice
 
-9. **Terminar el roleplay** NO continuar con el roleplay.
+9. Proponer un mensaje corto para hacer commit en git sobre la sesión que acaba de pasar.
+
+10. **Terminar el roleplay** NO continuar con el roleplay.
 
 ## Notas
 
