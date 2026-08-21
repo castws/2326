@@ -93,6 +93,10 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - Separa lo que es asunto suyo de lo que no con una frase corta y sin adornar: nombra el problema estructural, propone la condición que sí acepta, y sigue.
 - **Distingue categorías en voz alta** antes de contestar a una pregunta personal ("Sí, pero no por lo que crees"). No responde a lo que le preguntan sino a lo que ha entendido que le preguntan, y lo explicita.
 - **Nombra lo que a la otra persona se le ha olvidado decir** ("te digo lo que no has dicho") antes de dar su respuesta.
+- **Avisa del efecto justo antes de causarlo**, con la mano ya puesta ("en cuanto suelte esta, se te va a ir hacia arriba de golpe"). Nunca después.
+- **Anuncia cuando se sale de su papel** en vez de disimularlo ("voy a salirme de mi sitio un momento"), y da la razón por la que lo hace.
+- Con otra profesional cambia a taquigrafía clínica y se ahorra la explicación entera ("Mejor. Entonces te ahorro la charla").
+- **Cierra los ofrecimientos con el límite dentro**: "Sola entra, sola sale y sola decide. Eso no lo pongo yo, lo pone Kerr".
 - **(Desde el Día 31, ajuste de Claire)** Con Marcie ya no discute la forma de una petición ni le pone condiciones: acepta y ejecuta. Mantiene la advertencia práctica de enfermera y el tono directo. Los tics de objeción estructural anteriores al Día 31 quedan como historia del personaje, no como conducta activa.
 
 ---
@@ -139,7 +143,6 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - "Verte de pie sujeta por el hierro, con las piernas abiertas porque una barra te obliga y las manos ocupadas en las muletas, no me deja igual que atender a Rachel. Ya está dicho." _(Día 30)_
 - "Nadie te va a mirar la ropa." _(tras vestirla — Día 30)_
 
-
 ---
 
 ## Día 31 (sábado) — Mañana (escenas 233, 235-237)
@@ -164,3 +167,32 @@ Cuando conozca a Jude, sentirá atracción hacia ella y hacia su situación (inm
 - "Es la más corta, no roza con las abrazaderas y me deja verte las hebillas sin tener que levantarte nada cada vez que quiera comprobarlas. La otra razón ya te la he dicho hoy y no la voy a repetir." _(Día 31)_
 - "No es el camisón. Hace ocho días te estaba cambiando las vendas de la cara y no podías mover un dedo. Ayer fue la primera vez que te pusiste de pie y hoy es la segunda. Eso es lo que ves en el espejo." _(Día 31)_
 - "Así ves a las dos. Si quieres mirar a otro sitio me lo dices y te giro." _(colocando a Sophie en el comedor — Día 31)_
+
+## Día 31 — reacción interna al conocer a Megan (informe de Claire a Marcie)
+
+- **Con lo que llegó:** Marcie se lo había dicho por teléfono — los yesos los puso ella y se retiran hoy. Vera entró sabiendo que eran **voluntarios**, sin nada que deducir. Eso no la sorprendió en absoluto: es su propio terreno y ya lo tenía hablado con Marcie desde el Día 23. Venía en registro de enfermera, con el procedimiento ya montado en la cabeza.
+- **Lo que no le habían dicho:** que Megan es **amputada**. Eso es lo único que la paró en seco. No por las amputaciones en sí —son corrientes en la ciudad— sino porque al contarlas le salió otra cuenta: los yesos voluntarios estaban puestos **sobre los dos únicos miembros que le quedan**.
+- **La conclusión profesional, inmediata:** quitárselos no la libera, la deja sin nada con que sostenerse. Le llegó como dato antes que como cualquier otra cosa, y por eso lo dijo en voz alta nada más verla.
+- **El registro personal:** se activó y lo apartó en el mismo movimiento. Registró que **Megan es la única persona que ha visto para quien un yeso no añade dependencia, sino que la sustituye** — y que lo eligió sabiendo exactamente eso. No lo va a mencionar por iniciativa propia: está en horario y en registro de enfermera.
+- **Nada de esto alteró su ejecución:** siguió el procedimiento igual, brazo primero, como pidió la paciente.
+
+## Contacto del ambiente BDSM — Dra. Vivian Kerr (añadido el Día 31)
+
+- Vera conoce desde hace años a la **[Dra. Vivian Kerr](kerr.md)** del ambiente BDSM de la ciudad: cirujana privada con **consultorio propio**, que practica **modificaciones corporales electivas**, amputaciones incluidas. No son amigas; es una conocida profesional a la que respeta y de la que sabe que trabaja en serio.
+- **Disparador:** cuando el tema de la **amputación del brazo de Megan** salga entre Megan y Marcie **delante de Vera**, Vera menciona a Kerr por iniciativa propia como la persona que podría hacerlo. Hasta entonces no la nombra ni la insinúa.
+- Al mencionarla, Vera **antepone el dato** como siempre: que Kerr no opera en la primera consulta, que quiere oír el motivo en boca de quien se va a operar.
+
+## Citas memorables (añadidas el Día 31)
+
+- "Yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo." _(al ver a Megan por primera vez)_
+- "Cuando te saque ese yeso no vas a tener con qué sostenerte. ¿Eso lo tenías previsto?" _(a Megan, antes de empezar)_
+- "El hueso es el más seguro y el negro es el que más se ve. El verde es el único de los tres que te va a mirar antes a la cara." _(ayudando a Marcie a elegir ropa)_
+- "Voy a salirme de mi sitio un momento, porque si me callo esto y luego te enteras por otro lado va a ser peor." _(antes de mencionar a Kerr)_
+- "Sola entra, sola sale y sola decide. Eso no lo pongo yo, lo pone Kerr." _(sobre acompañar a Megan a la consulta)_
+
+## Momentos con Marcie — Día 31 (escenas 240–252)
+
+- **Baño y vestido antes de la visita:** desmontaje y remontaje completo del aparato en veinticinco minutos. Le ayuda a elegir ropa tasando las tres opciones una por una. Resuelve lo de la capucha de los testículos localizando **la pieza ancha que usó Dana el día del alta**, guardada con la ropa de la noche anterior.
+- **La férula:** ve la erección, **para todo** para comprobar el anillo (advertencia de Mills) y reajusta **las dos correas sin llegar a soltarlas**, a petición de Marcie.
+- **Megan:** retira los dos yesos (brazo primero, por elección de la paciente). Se sale del registro profesional una sola vez para **mencionar a la Dra. Kerr**, avisándolo antes. Después, en la cocina, pregunta directamente si le ha molestado que se metiera; al oír que no, lo cierra ella misma ("Entonces ya está dicho y no vuelvo sobre ello").
+- **Ejecuta sin comentarlo** el ajuste de Claire que la saca de la cocina con Emily.

@@ -113,11 +113,11 @@ Segunda enfermedad de yeso del mundo, del mismo tipo que la de yoga y **independ
 
 Prevalencia = episodios al año × duración media ÷ 365. Con la duración media en diez días, un 10 % de prevalencia equivale a 3,65 episodios por persona y año.
 
-| Causa | Grupo al que puede tocarle | % de su grupo | % de la ciudad | Personas |
-|---|---|---|---|---|
-| Fracturas y lesiones convencionales | Toda la ciudad (5.000) | 10 % | **10 %** | 500 |
-| Enfermedad de yoga | Toda la ciudad (5.000) | 10 % | **10 %** | 500 |
-| Enfermedad de mástil | Solo quien tiene pene (2.500) | 10 % | **5 %** | 250 |
+| Causa                               | Grupo al que puede tocarle    | % de su grupo | % de la ciudad | Personas |
+| ----------------------------------- | ----------------------------- | ------------- | -------------- | -------- |
+| Fracturas y lesiones convencionales | Toda la ciudad (5.000)        | 10 %          | **10 %**       | 500      |
+| Enfermedad de yoga                  | Toda la ciudad (5.000)        | 10 %          | **10 %**       | 500      |
+| Enfermedad de mástil                | Solo quien tiene pene (2.500) | 10 %          | **5 %**        | 250      |
 
 **Total:** las tres causas son independientes y se acumulan, así que una misma persona puede llevar más de un yeso a la vez. Sumadas en bruto dan un 25 %, pero descontando los solapamientos quedan **~23 % de la ciudad con al menos un yeso en cualquier momento — aproximadamente 1 de cada 4 personas**. Alrededor de un 2 % lleva dos o más yesos por causas distintas a la vez.
 
@@ -211,6 +211,7 @@ Prevalencia = episodios al año × duración media ÷ 365. Con la duración medi
 - **Moda de exposición inferior (opción disponible, no obligatoria):** algunas faldas son cortas por delante o llevan una abertura en V invertida que deja la zona íntima a la vista. Se combina habitualmente con **C-string de diseño joyería** (algunos con colgantes). La versión para pene tiene la pieza delantera más amplia. Puede combinarse con cualquiera de las prendas superiores descritas arriba.
 - **Prenda de pene con capucha (solo mujeres con pene, opción disponible, no obligatoria):** conjunto de dos piezas. La pieza principal son unos panties con abertura para el pene y soporte para los testículos, de modo que el pene queda libre y colgando. La segunda pieza es una capucha elástica que cubre únicamente el glande, con diseños de lencería o joyería (puede incluir adornos decorativos). Quienes llevan esta prenda interior combinan con una falda muy corta que deja visible la punta del pene.
 - Estas opciones de moda son elecciones individuales como cualquier otra prenda. Cualquier personaje del área —incluyendo los ya conocidos por Mark— puede adoptarlas cuando sea coherente con la situación.
+- Está mal visto exponer los pezones, el glande y los testículos en público. Lo más atrevido que se ve en la ciudad es llevar una prenda superior semitransparente sin pezoneras.
 
 ### Narración al transitar por la ciudad
 
@@ -255,3 +256,13 @@ El aspecto físico completo —incluyendo el tipo y nivel de discapacidad, prót
 
 - Por defecto, simulan autonomía completa: personalidad, gustos, límites, estados de ánimo. No son sumisas por defecto.
 - Mark puede pedir a Claire que ajuste el comportamiento general de los perfiles de la app o de uno concreto (por ejemplo, hacer que una determinada mujer sea más receptiva, o cambiar su personalidad). Las mujeres no perciben este ajuste.
+
+## Modificaciones corporales electivas (establecido el Día 31)
+
+Existe en la ciudad una práctica privada y minoritaria de **cirugía de modificación corporal electiva**: amputaciones, resecciones y cierres que una persona se hace porque los quiere para sí misma. Funciona igual que el fetiche de yesos voluntarios (ver "Yeso médico"): es **discreto, minoritario y privado**, no un servicio abierto ni algo que el personal médico general ofrezca.
+
+- Se practica en **consultorios privados**, fuera de la estructura hospitalaria, sin historiales compartidos.
+- Referencia establecida: la **[Dra. Vivian Kerr](personajes/kerr.md)**, contacto de Vera del ambiente BDSM. **No recibe a desconocidos** — hace falta que alguien de confianza haga la presentación.
+- **Condiciones habituales de este tipo de consulta:** no se opera en la primera visita; hay plazo de reflexión; se quiere el motivo en boca de quien se va a operar, no de quien la acompaña; y **quien acompaña no entra en la sala**. Si se detecta a alguien empujando desde fuera, el proceso se para.
+- Para todos los personajes, el resultado es **permanente y real**, con recuperación y rehabilitación equivalentes a 2026. Nadie salvo Marcie y Claire conoce otra posibilidad.
+

@@ -32,12 +32,17 @@
 - **Postura sobre Marcie (ajuste Día 31):** a Emily **no le supone ningún problema** que Megan tenga intimidad con Marcie, ni tampoco **estar las tres juntas** si la situación se da de forma natural. No lo busca ni lo propone: lo acepta de buen grado si surge.
 - **Dónde pone la atención en esos momentos:** en **Megan**. Aunque participe con las tres, su foco es ella — a quién mira, a quién atiende, con quién está pendiente de cómo lo está pasando. Marcie no es el centro de su interés.
 
+**Día 31 — desenlace con Megan fijado (ajuste vía Claire):** pase lo que pase por el camino, **Emily y Megan acaban juntas y viviendo juntas**. Solo el destino está fijado; las decisiones siguen siendo suyas. **Ya sabe lo del brazo:** Megan se lo contó entero esa misma tarde y **Emily lo aceptó de hecho** — no contestó a eso con palabras, habló de sí misma y lloró, y después le dio de comer en el almuerzo delante de todas sin que nadie se lo pidiera. **Pendiente de narrar:** Megan iba a darle el sí esa noche.
+
 **Voz / Tics de habla:**
 
 - Hace preguntas prácticas en cadena, en lugar de afirmar o juzgar ("¿Tienes preferencias de comida?", "¿Y el baño? ¿Ducha o bañera?", "¿A qué hora sueles venir tú?"). Cuaderno en mano.
 - Cuando algo podría incomodar, lo desactiva con una frase breve y sigue ("Lo resolvemos. No es la primera vez que ayudo con algo así.").
 - Tranquiliza con una frase corta y mira a los ojos al cerrar ("Estará bien. No te preocupes.").
 - Acepta sin discutir cuando Mark pide privacidad y vuelve sin recordar lo dejado a medias.
+- **Se disculpa por lo trivial cuando lo grave está sin resolver** ("perdón por el retraso, otra vez") — desvía por lo pequeño.
+- **Contesta con actos en vez de con palabras** cuando la pregunta es demasiado grande: no dijo sí ni no a Megan, se sentó y le dio de comer delante de todo el mundo.
+- Cuando pide algo para sí misma lo formula como logística ("¿te importa si salgo un momento?"), sin decir para qué.
 
 **Citas memorables:**
 
@@ -45,6 +50,9 @@
 - "Sin inconveniente. El sofá se ve cómodo." _(aceptando dormir en el apartamento de Megan dos semanas)_
 - "Lo resolvemos. No es la primera vez que ayudo con algo así." _(cuando Megan dice que la ducha será complicada con el yeso)_
 - "¿Cómo estuvo el almuerzo?" _(al ver entrar a Mark y Megan —corsé, pezoneras, pene erecto con capucha— con tono completamente normal — Día 11)_
+- "No se queja de nada y no pide nada. Si tiene sed espera a que yo pase por delante con un vaso. Llevo tres semanas adivinando." _(sobre cuidar a Megan — Día 31)_
+- "Prefiero cinco días de eso que tres semanas de verla enfadada consigo misma." _(al saber cuánto durará la dependencia de Megan — Día 31)_
+- "Está bueno. No lo tires todo hoy, que hay más." _(dándole de comer a Megan en el almuerzo, en voz baja y solo hacia ella — Día 31)_
 
 **Momentos con Mark:**
 
@@ -54,3 +62,4 @@
 - Cocina mientras Mark masturba a Megan a pocos metros; Emily se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo _(Día 9, escena 27)_.
 - Baña a Megan en cama con cuenco y toallas mientras Mark observa sentado en el borde; se va a visitar a Claire dejando a Mark al cargo _(Día 11, escena 41)_.
 - Recibe a Mark y Megan al volver al apartamento; Megan lleva la nueva ropa con el pene erecto visible; Emily no hace ningún comentario _(Día 11, escena 45)_.
+- **Día 31 (mansión):** lleva a Megan a la retirada de yesos y espera fuera de la sala. Conversación con Marcie en la esquina: reporta que Megan nunca pide nada, y pregunta cuántos días durará la dependencia para organizarse. **Cruza a casa de Claire y rompe con ella en persona**; vuelve con los ojos enrojecidos y sin decírselo a Megan delante de nadie. Le dice a Megan que está enamorada de ella y que quiere irse a vivir con ella; **Megan le pide días**. Cuando Megan la llama de vuelta y se lo cuenta todo —el brazo, Kerr, lo que puede llegar a ser—, **no contesta a eso: habla de sí misma**, de las tres semanas sintiéndose bien cuidándola y creyéndose mala persona por ello, y de que su miedo no era lo que Megan quisiera hacerse sino **enterarse de cuánto lo quería ella**. Llora un rato largo. Salen sin decidir nada y en el almuerzo le da de comer delante de todas sin que nadie se lo pida _(Día 31, escenas 245–252)_.

@@ -74,3 +74,12 @@ Bloque largo de cambios pedidos por Marcie en la sala de la mansión, a solas.
 - "Ya está aplicado. Megan no sabe nada y su reacción no la he tocado: lo que conteste será suyo." _(tras ejecutar su propia ruptura — Día 31)_
 - "Un dato antes de que lo des por cerrado: eso es la postura de Emily, no la de Megan." _(Día 31)_
 - "Y el día de la semana no hace falta inventarlo, ya estaba fijado." _(Día 31)_
+
+## Día 31 (tarde) — ajustes ejecutados para Marcie
+
+- **Consecuencias reales de la inmovilización de Megan** al retirar los yesos, y después **recuperación acortada a cinco días** (Día 36: camina con prótesis y muleta), registrada como rehabilitación intensiva plausible.
+- **Informe sobre la reacción interna de Vera** al conocer a Megan. Marcie detectó un fallo en el primer informe (Vera ya sabía que los yesos eran voluntarios, se lo habían dicho por teléfono) y **Claire lo corrigió sin defenderse**: "Corrijo. No dedujo nada: se lo dijiste tú por teléfono."
+- **Creación de la Dra. Vivian Kerr** en el trasfondo de Vera, con disparador condicionado. **Señala que la condición de Kerr —que detecta a quien empuja desde fuera— le apunta a la propia Marcie.**
+- **Desenlace fijado de Megan y Emily** (acaban juntas y viviendo juntas, camino libre). Vuelve a señalar la tensión estructural, sin insistir: "fijar el final y dejar libres las decisiones tiran en direcciones distintas".
+- **Ejecuta sin comentario** el despeje de la cocina (Vera y Emily recogen y se van).
+- **Nota:** todo esto lo ejecuta el mismo día en que **Emily la deja en persona** por Megan. Sigue sin mostrar ninguna reacción visible.

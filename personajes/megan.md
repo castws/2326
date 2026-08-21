@@ -58,6 +58,18 @@
 - Duda de fondo: sospecha que puede ser "algo aparte" para Emily, igual que Mark lo es para ella, y preferiría saber en qué está.
 - Sobre los yesos: corrigió la fecha (son tres días, el **Día 32**) y admitió vértigo ante volver a apañarse sin que le hagan todo.
 
+**Día 31 — consecuencias reales de la inmovilización prolongada (ajuste vía Claire, pedido por Marcie):**
+
+- Los yesos han estado puestos desde el **Día 8**: **23 días** de codo y rodilla completamente fijos. Al retirarlos, el cuerpo refleja ese tiempo de forma realista, con la medicina de 2026 que perciben todos los personajes.
+- **Pierna izquierda (su única pierna biológica):** atrofia visible de cuádriceps y gemelo, rodilla y tobillo rígidos con recorrido muy reducido y doloroso al forzarlo, piel muerta y pálida. **No aguanta su peso las primeras semanas.** Como la derecha es prótesis transfemoral, al quitarle el yeso **no tiene ninguna base de apoyo fiable**: no puede ponerse de pie sola ni dar un paso sin asistencia.
+- **Brazo derecho (su único brazo):** codo rígido, sin extensión ni flexión completas, dolor al forzar el recorrido; fuerza de agarre y de bíceps/tríceps muy disminuidas. Puede usar la mano, pero no cargar, ni empujarse, ni sostenerse con ella.
+- **Consecuencia práctica:** quitarse los yesos **no le devuelve autonomía a corto plazo — la deja más dependiente que con ellos puestos**, y durante semanas. Sigue necesitando que la trasladen y que la empujen en silla.
+- **Recuperación (acortada por ajuste de Claire, Día 31):** **cinco días**, no semanas. Para todo el mundo —Megan incluida— es una recuperación rápida a base de rehabilitación intensiva diaria, nunca un milagro ni nada fuera de lo normal de 2026.
+- **Día 36:** recuperación completada. **Camina con la prótesis puesta y una muleta** (la muleta va en su único brazo, el derecho; apoya del lado contrario a la pierna que estuvo enyesada). Es como Marcie la verá la próxima vez que se vean.
+- Megan, como enfermera, entiende todo lo anterior sin que nadie se lo explique.
+
+**Día 31 — desenlace con Emily fijado (ajuste vía Claire):** pase lo que pase por el camino, **Megan y Emily acaban juntas y viviendo juntas**. Sus decisiones concretas siguen siendo enteramente suyas; solo el destino está fijado. Cómo quedó al cerrar el día: Emily rompió con Claire y le pidió irse a vivir con ella; Megan pidió días, se retractó sola y **se lo contó todo esa misma tarde** — el brazo, Kerr, que no está decidido, y que quien se venga a vivir con ella se viene a eso. **Emily aceptó de hecho, no de palabra:** no contestó a lo del brazo, habló de sí misma, lloró, y después le dio de comer en el almuerzo delante de todas sin que nadie se lo pidiera. **Megan lo leyó como la respuesta** y decidió darle el sí esa noche en su apartamento; **no llegó a decírselo en escena.**
+
 **Voz / Tics de habla:**
 
 - Frases de aprobación brevísimas durante el sexo: "Bien así.", "Mejor así.", "Sí.", "Así.", "Más fuerte.", "Despacio.". No describe lo que siente, lo afirma.
@@ -65,6 +77,10 @@
 - Cierra observaciones difíciles con un giro práctico: tras hablar del cáncer de hueso, "Pero aquí estoy."; tras admitir excitación nueva por los yesos, "Sí. Produce algo."
 - Le devuelve a Mark la pregunta justo después de responder ("¿Y tú?", "¿Te molesta?"). Conversa con simetría.
 - Cuenta sus amputaciones sin dramatismo, en orden y con datos: año, causa, consecuencia, adaptación.
+- **Cierra los agradecimientos por lo práctico**, nunca por lo emocional, y enumera lo recibido como una lista ("Por los yesos, por lo del trabajo, por lo de tu enfermera y por sacarlas de la cocina").
+- **Se corrige a sí misma en voz alta** cuando se pilla haciendo lo que critica en otros, y actúa en consecuencia en el mismo momento.
+- **Desconfía de lo que le sale bien:** "a mí las cosas no me suelen salir así, y cuando salen me pongo a buscarles el fallo".
+- Cuando algo la supera, se refugia en la logística: quién la sube, quién la empuja, cuántos días.
 
 **Citas memorables:**
 
@@ -78,6 +94,11 @@
 - "Si vuelve a pasar... no voy a detenerla." _(sobre Emily, conversación nocturna con Mark — Día 14)_
 - "Tú estás aquí veinte minutos cada ciertos días. Ella está aquí cuando me despierto y cuando me duermo." _(reflexionando sobre la diferencia entre Mark y Emily — Día 14)_
 - "El café también estaba más caliente que de costumbre." _(por mensaje, reportando los cambios sutiles de Emily — Día 19)_
+- "Me esperaba reconocerte menos. Y te reconozco en la cara, aunque la cara sea otra." _(viendo el cuerpo nuevo de Marcie por primera vez — Día 31)_
+- "Al principio pensé que lo que me gustaba era el yeso. Y no. Lo que me gusta es lo de después." _(sobre las tres semanas enyesada — Día 31)_
+- "Si me quito este, no me quedan brazos. [...] Y cuando lo pienso, lo que siento no es miedo." _(diciendo en voz alta lo de la amputación — Día 31)_
+- "El yeso se corta y el brazo no vuelve." _(explicando por qué quiere un segundo yeso antes de decidir — Día 31)_
+- "Si en algún momento pido salir, se sale ese día y sin discusión, aunque sea a los cuatro días y aunque yo quede fatal. Eso lo necesito o no lo hago." _(condición innegociable del yeso indefinido — Día 31)_
 - "No lo descartes tan rápido." _(reacción inmediata a la idea de amputar el otro brazo — Día 19)_
 - "Creo que llevo mucho tiempo siendo muy autosuficiente porque no me quedaba otra. No porque lo prefiriera." _(explicando por qué querría no tener brazos — Día 19)_
 - "No me produce rechazo. Eso ya me dice algo." _(sobre la idea de no tener brazos ni piernas — Día 19)_
@@ -113,3 +134,4 @@
 - Día 21: acompaña a Mark a casa de Cora para visitar a Jude. En el vehículo de vuelta comenta que Jude los miró más de lo normal y que "hoy eligió mirarte." En el apartamento, reporta que Emily la peinó esa mañana sin razón práctica. Cuando Mark le dice que los yesos no duran para siempre: "¿Y si decido quedarme sin brazos y ella igual se va?" No termina la frase. _(Día 21, escena 115)_.
 - Visita a Mark en el Creston tras la cirugía de feminización, traída por Emily (no puede autopropulsar la silla). Nota el pene más grande incluso vendado. Conversación sobre Emily: reconoce que solo insinuó sus sentimientos (Día 23) sin decirlo directo; Mark la empuja a hablarlo esa misma noche, en orden (sentimientos, luego yesos voluntarios, dejando la amputación para después). Presencia durante una revisión médica de la Dra. Mills por picazón en el pene de Mark; admite sentir envidia de la enfermera. Se compromete a hablar con Emily esa noche _(Día 25, escena 150)_.
 - Llamada telefónica a Mark en el hospital (altavoz, Mark a solas): relata la conversación con Emily de la noche anterior — confesión mutua de sentimientos, primer beso, revelación de que los yesos son voluntarios, primera intimidad entre ambas. Emily aún no sabe de la relación de Megan con Mark. Acuerdan el plan: se quita los yesos en la fecha prevista (~Día 29), conversación a tres más adelante, amputación del brazo se revela recién con el próximo yeso puesto _(Día 26, mañana)_.
+- **Día 31 (mansión, retirada de yesos y almuerzo):** primera vez que ve el cuerpo nuevo de Marcie; pide permiso para mirarla y le devuelve la pregunta. Erección de Marcie dentro de la férula mientras la toca; acepta sin insistir que hoy no. Elige que le quiten **el brazo primero**. Ve su propio brazo atrofiado y el codo fijo ("parece el de otra persona"). **Dice en voz alta por primera vez que quiere amputarse el brazo derecho**, delante de Marcie y de Vera, con sus dos obstáculos (la mentira, el trabajo). Marcie le resuelve el segundo (**coordinadora de enfermeras**) y Vera le da el primero a medias (**la Dra. Kerr**). Acuerdan un **segundo yeso indefinido, brazo hasta el hombro, sin fecha de salida**, con sus condiciones. Rechaza que Marcie fije un plazo secreto y rechaza también quedarse en la mansión mientras Emily duerme sola en su casa. **Emily le pide irse a vivir con ella tras romper con Claire**; pide días, se retracta ella sola y **se lo cuenta todo el mismo día**. Emily le da de comer delante de todas. Decide darle el sí esa noche, en su casa _(Día 31, escenas 239–252)_.
