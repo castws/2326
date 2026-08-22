@@ -10,7 +10,8 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
 ## Pasos a seguir
 
 1. **Leer los archivos actuales** antes de modificar nada:
-   - `world.md` (convenciones del mundo, tecnología, ubicaciones, composición de la ciudad)
+   - `world.md` (convenciones del mundo, tecnología, moda, índice de escenarios y de reglas)
+   - Las fichas `escenarios/<nombre>.md` de los lugares donde transcurrió la sesión, y `reglas/<nombre>.md` si la sesión tocó la composición de la población, las enfermedades del mundo o la app de citas
    - `state.md`
    - `scene_log.md` (ventana activa de escenas)
    - `characters.md` (índice) y las fichas `personajes/<nombre>.md` de los personajes que intervinieron en la sesión
@@ -36,10 +37,12 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - Estado emocional o relacional si cambió significativamente
    - Sección "Pendiente / Próximos pasos" con los 2-4 hilos más inmediatos
 
-5. **Actualizar `world.md`** si durante la sesión se estableció algo nuevo y permanente sobre el mundo:
-   - Nueva ubicación descrita con detalle (edificio, zona, ruta dentro del área de Mark)
-   - Nueva convención social, tecnológica o de infraestructura no documentada previamente
-   - Decisión de Mark que cambia la configuración permanente del área o la ciudad (composición, reglas, espacios)
+5. **Actualizar el mundo** si durante la sesión se estableció algo nuevo y permanente. Cada tipo de cambio va a su archivo:
+   - **Lugar nuevo descrito con detalle** (edificio, local, zona, casa): crear su ficha `escenarios/<nombre-kebab>.md` con el formato habitual (campos de cabecera, secciones `##`, y una sección final **`## Reglas de continuidad`**) y añadir su línea al índice de escenarios de `world.md`.
+   - **Detalle nuevo de un lugar ya documentado** (una estancia, un horario, un cambio permanente del sitio): editar **su** ficha en `escenarios/`, y solo actualizar la línea del índice si cambia la descripción breve.
+   - **Nueva convención social, de moda, tecnológica o regla global** no documentada previamente: editar `world.md`.
+   - **Cambios en la composición de la población, en las enfermedades del mundo o en la app de citas:** editar `reglas/poblacion-y-enfermedades.md` o `reglas/app-citas.md`.
+   - Decisión de Mark que cambia la configuración permanente del área o la ciudad: registrarla en el archivo que corresponda según lo anterior.
 
 6. **Actualizar las fichas de personajes (`personajes/<nombre>.md`) y el índice (`characters.md`)**:
    - **Personaje nuevo:** crear `personajes/<nombre-kebab>.md` con la ficha completa (incluyendo **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**) y añadir su línea al índice, en el nivel que corresponda.
@@ -58,7 +61,7 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
 
 8. **Confirmar al usuario** con un resumen de una sola línea por archivo modificado, indicando qué cambió. Ejemplo:
 
-   > `world.md` — añadida descripción del bar central de la ciudad
+   > `escenarios/bar-central.md` — ficha nueva del bar central + línea añadida al índice de `world.md`
    > `scene_log.md` — añadidas escenas 17 y 18 (baño de Mark, yesos a Megan)
    > `state.md` — Megan ahora en el baño, yesos pendientes de aplicar
    > `characters.md` — sin cambios

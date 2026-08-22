@@ -15,7 +15,7 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
 
 ## Pasos a seguir
 
-1. **Revisar la conversación reciente** desde el último checkpoint o desde el inicio de la sesión. Consultar `world.md` si hay dudas sobre convenciones del mundo (tecnología, normas sociales, ubicaciones, composición de la ciudad) al escribir los registros. Actualizarlo si durante los intercambios revisados se estableció algún detalle nuevo y permanente del mundo no documentado allí (nueva ubicación, nueva convención, decisión de Mark que cambie la configuración del área).
+1. **Revisar la conversación reciente** desde el último checkpoint o desde el inicio de la sesión. Consultar `world.md` si hay dudas sobre convenciones del mundo (tecnología, normas sociales, moda), y la ficha `escenarios/<nombre>.md` del lugar si las dudas son sobre un sitio concreto. Si durante los intercambios revisados se estableció algo nuevo y permanente, registrarlo donde corresponda: **lugar nuevo** → crear `escenarios/<nombre-kebab>.md` y añadir su línea al índice de `world.md`; **detalle de un lugar ya documentado** → su ficha en `escenarios/`; **convención o regla global** → `world.md`; **población, enfermedades o app de citas** → `reglas/<nombre>.md`.
 
 2. **Añadir entradas nuevas a `scene_log.md`**:
    - Solo las escenas ocurridas desde el último guardado

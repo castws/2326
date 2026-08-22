@@ -24,7 +24,7 @@ A partir del texto identificar:
 
 ### 3. Leer los archivos de referencia
 
-Leer `characters.md` (índice) y, por cada personaje presente en la escena, su ficha `personajes/<nombre>.md` (aunque esté en pausa o archivado). Leer también `state.md` y `CLAUDE.md`. No es necesario leer `world.md` completo salvo para confirmar reglas del mundo que aparezcan en la escena.
+Leer `characters.md` (índice) y, por cada personaje presente en la escena, su ficha `personajes/<nombre>.md` (aunque esté en pausa o archivado). Leer también `state.md` y `CLAUDE.md`. De `world.md` basta con las reglas que aparezcan en la escena. Si la localización identificada en el paso 2 tiene ficha propia, leer `escenarios/<nombre>.md` (el índice de escenarios de `world.md` da el enlace); leer `reglas/<nombre>.md` solo si la escena depende de la composición de la población, de las enfermedades del mundo o de la app de citas.
 
 ### 4. Construir el prompt por capas
 
@@ -40,7 +40,7 @@ Generar texto nuevo para cada capa — no copiar secciones de los archivos. Cada
 
 **Restricciones del mundo**
 
-Incluir únicamente las reglas del mundo que el LLM receptor podría violar por defecto al narrar esta escena. Máximo 4-5 ítems. Derivarlas de `CLAUDE.md` y `world.md` según lo que aparezca en la escena. Ejemplos de reglas que suelen ser relevantes:
+Incluir únicamente las reglas del mundo que el LLM receptor podría violar por defecto al narrar esta escena. Máximo 4-5 ítems. Derivarlas de `CLAUDE.md`, `world.md` y la ficha del escenario según lo que aparezca en la escena (por ejemplo: la mansión y el Marginalia tienen una sola planta). Ejemplos de reglas que suelen ser relevantes:
 
 - Modificaciones corporales (cambios de sexo, amputaciones, regeneraciones) son procedimientos rutinarios.
 - Las mujeres con pene lo resaltan visiblemente en la ropa como norma social.

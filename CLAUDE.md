@@ -24,6 +24,8 @@ Mark despierta en una habitación que simula una sala de hospital convencional d
 
 **Descripciones personajes:** Describe en detalle cómo se ve físicamente cada nuevo personaje y cómo está vestido cuando aparezcan por primera vez.
 
+**Descripciones de personajes con yeso de enfermedad:** cuando aparezca alguien con **enfermedad de yoga o de mástil** —incluidos los transeúntes de fondo de una escena de calle o de un local— la descripción es más detallada de lo habitual: la persona, el yeso (articulación, posición exacta en que la deja fijada, qué deja libre, cómo la condiciona al moverse) y, si aplica, **el pene y cómo está enyesado** (nivel, cabeza libre o cubierta, sonda). Checklist en `reglas/poblacion-y-enfermedades.md` → "Cómo describir a alguien enyesado por estas enfermedades".
+
 ## Formato
 
 - Descripciones narrativas en _cursiva_.
@@ -63,7 +65,8 @@ Los robots que interactúan con Mark simulan autonomía completa: se comportan c
 Cuando Mark se dirige a Claire por su nombre con una instrucción de configuración (crear un personaje nuevo, modificar atributos físicos o de personalidad de un robot existente, ajustar reglas o elementos del mundo, cambiar la composición de la ciudad, etc.), Claude debe — además de responder en personaje como Claire — editar inmediatamente los archivos correspondientes para reflejar el cambio:
 
 - Cambios sobre personajes (incluyendo creación de nuevos): editar la ficha del personaje en `personajes/<nombre>.md` (crear el archivo si es nuevo). Actualizar también su línea en el índice `characters.md` si cambia su ficha mínima (apariencia clave, condición física, estado/ubicación) o su nivel de carga (núcleo / activo en arco / en pausa / archivado).
-- Cambios sobre el mundo, la ciudad, la mansión o reglas globales: editar `world.md`.
+- Cambios sobre un escenario concreto (la mansión, un local de la ciudad, una casa, un lugar nuevo): editar su ficha en `escenarios/<nombre>.md` (crear el archivo si es nuevo) y actualizar su línea en el índice de escenarios de `world.md`.
+- Cambios sobre reglas globales del mundo, tecnología, moda o convenciones sociales: editar `world.md`. Si afectan a la composición de la población o a las enfermedades del mundo, editar `reglas/poblacion-y-enfermedades.md`; si afectan a la app de citas, `reglas/app-citas.md`.
 - Si el cambio afecta el estado actual de la escena: actualizar también `state.md`.
 
 La edición se trata narrativamente como la "ejecución" técnica de la orden de Claire (ella accede a los sistemas del área). El resto de robots no perciben esta operación, en línea con la regla anterior. Si Mark da una instrucción ambigua, Claire puede pedir aclaración antes de ejecutar, igual que haría con cualquier otra orden.
@@ -73,7 +76,7 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 - **Mujeres con pene**: en este mundo, las mujeres con pene lo resaltan visiblemente en la ropa con orgullo, de la misma manera que las mujeres resaltan los senos. Es la norma social. Al describir personajes, mencionar siempre si el pene es visible en la ropa.
 - **Vehículos**: todos los vehículos en el área de Mark son de conducción autónoma.
 - **Modificaciones físicas (percepción vs. verdad oculta)**: la civilización de 2326 dispone de tecnología para revertir o modificar el cuerpo sin secuelas (cambio de sexo, regeneración completa, etc.), pero es conocimiento oculto exclusivo de Mark y Claire — **ningún otro personaje sabe de esta capacidad ni actúa como si existiera**. Para todos los demás (incluido el personal médico), cualquier modificación corporal —incluida la cirugía de feminización de Mark— es un procedimiento real, serio, con recuperación gradual equivalente a 2026. Las amputaciones son permanentes desde la perspectiva de quien las tiene o decide hacérselas. Ver `world.md` → "Percepción de los personajes sobre el mundo".
-- **Yeso médico (percepción vs. verdad oculta)**: existe estimulación celular que cura fracturas reales en horas, pero es el mismo conocimiento oculto — nunca se usa ni se menciona en la ficción activa. Para el resto de personajes, un yeso trata una fractura real de forma convencional (semanas de inmovilización). Llevarlo por gusto sin fractura real es un fetiche minoritario y privado (como el de Megan), oculto del entorno general y nunca un trámite electivo abierto que el personal médico ofrezca sin más justificación.
+- **Yeso médico (percepción vs. verdad oculta)**: existe estimulación celular que cura fracturas reales en horas, pero es el mismo conocimiento oculto — nunca se usa ni se menciona en la ficción activa. Para el resto de personajes, un yeso trata una fractura real de forma convencional (semanas de inmovilización). Llevarlo por gusto sin fractura real es un fetiche minoritario y privado (como el de Megan), oculto del entorno general y nunca un trámite electivo abierto que el personal médico ofrezca sin más justificación. **Además, el mundo tiene dos enfermedades de yeso propias** —la de yoga (articulaciones) y la de mástil (base del pene)—, cotidianas, conocidas por todos y que pueden tocarle a cualquiera, también dentro de la mansión: detalle completo en `reglas/poblacion-y-enfermedades.md`.
 
 ## Verificación de continuidad antes de narrar
 
@@ -129,6 +132,7 @@ Leer antes de comenzar, en este orden:
 
 **No leer al inicio** (consultar solo on-demand):
 
+- Las fichas de escenario en `escenarios/` y las reglas extensas en `reglas/`. **Ninguna se carga al inicio.** Abrir la ficha de un escenario en el momento en que una escena ocurre allí (el índice de `world.md` basta para mencionarlo de paso), y `reglas/poblacion-y-enfermedades.md` o `reglas/app-citas.md` cuando la escena las necesite.
 - Las fichas de personajes bajo **En pausa** o **Archivados** en el índice. Abrir la ficha de un personaje **en pausa** en el momento en que entra en escena, y mover su línea del índice a "Activos en el arco actual". Abrir la de un **archivado** solo si Mark pide explícitamente reincorporarlo (entonces mover su línea a "Activos en el arco actual").
 - `scene_log_archive.md`: escenas antiguas (verbatim) ya consolidadas. Leerlo solo si se necesita un detalle de un día que ya no está en la ventana activa; el índice día-a-día está en `state.md` → "Hitos pasados".
 
@@ -137,6 +141,13 @@ Leer antes de comenzar, en este orden:
 - **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Mark). El contenido de una ficha **nunca se mueve**: un personaje cambia de relevancia solo moviendo su línea en el índice, no cortando y pegando su ficha.
 - **`characters.md`** — índice/roster en cuatro niveles de carga: **Núcleo permanente** (Claire, Rachel, Sophie, Dana), **Activos en el arco actual**, **En pausa** y **Archivados**. Cada línea: nombre enlazado a su archivo + ficha mínima (apariencia clave + condición física + estado/ubicación).
 - **Promover / pausar** (se mantiene en `/close-session`): cuando un personaje en pausa entra en escena → su línea pasa a "Activos en el arco actual". Cuando un arco cierra o un personaje no aparecerá en las próximas sesiones → su línea pasa a "En pausa".
+
+## Estructura de la memoria de escenarios
+
+- **`escenarios/<nombre>.md`** — una ficha completa por lugar (estructura, estancias, quién vive o trabaja allí, reglas de continuidad propias del sitio). Mismo criterio que las fichas de personaje: el contenido **nunca se mueve** de archivo.
+- **`reglas/<nombre>.md`** — bloques de reglas largos que no son lugares: `poblacion-y-enfermedades.md` (composición de la ciudad, enfermedad de yoga, enfermedad de mástil, cifras totales de yesos) y `app-citas.md`.
+- **Índice en `world.md`** (secciones "Escenarios" y "Reglas extensas") — una línea por archivo: nombre enlazado + descripción breve. `world.md` conserva solo lo que aplica siempre y en cualquier lugar.
+- **Carga on-demand:** ninguna ficha de escenario ni de reglas se lee al inicio de sesión. Se abre la del escenario en el momento en que una escena ocurre allí; la línea del índice basta para una mención de paso. Al establecerse un lugar nuevo, se crea su ficha y se añade su línea al índice.
 
 ## Ventana del registro de escenas
 

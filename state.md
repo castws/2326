@@ -195,8 +195,7 @@
 
 ## Habitación de yesos
 
-- Estancia ya establecida en el ala posterior de la mansión.
-- Equipamiento completo: camilla con soportes articulados, cama hospitalaria para hip spica, estantería con materiales, cubo metálico con grifo.
+- Estancia ya establecida y equipada, sin cambios pendientes. Descripción completa en `escenarios/mansion.md`.
 
 ---
 
@@ -205,7 +204,7 @@
 - Completamente operativa. ~5000 habitantes según las especificaciones de Mark.
 - App de citas activa.
 - Vehículos: todos autónomos.
-- **Club Insomnia:** club de música electrónica en la ciudad. Ambiente sexual relajado: intimidad visible en pista y reservados, nueva moda presente. Reservados con cortinas translúcidas y sofás.
+- Descripción de la ciudad y sus locales en `escenarios/` (ciudad, Creston, centro comercial, Marginalia, Club Insomnia, club BDSM); composición de la población y enfermedades en `reglas/poblacion-y-enfermedades.md`.
 
 ---
 
@@ -298,6 +297,8 @@
 
 ## Ciudad — cambios de configuración
 
-- **Prótesis:** solo existen prótesis de gancho de accionamiento corporal. Cable + arnés en hombro contrario. No hay mioelétricas.
-- **Aparatos ortopédicos:** sin dispositivos temporales. Solo para condiciones permanentes (polio, etc.).
-- **App de citas:** perfiles muestran nombre, edad, descripción física breve (sin mencionar discapacidades) y descripción en primera persona. Sin profesión.
+Reglas ya consolidadas en sus archivos; aquí solo el puntero:
+
+- **Prótesis y aparatos ortopédicos:** `world.md` → "Prótesis y aparatos ortopédicos".
+- **App de citas:** `reglas/app-citas.md`.
+- **Composición de la población y enfermedades del mundo:** `reglas/poblacion-y-enfermedades.md`.
