@@ -1,65 +1,103 @@
 # Emily
 
-**Tipo:** Robot (pareja de Claire hasta el Día 31; a partir de ahí, pareja de Megan)
-**Apariencia:** Unos treinta años aparentes. Cabello rubio corto. Ojos claros. Delgada, estatura media. Sonrisa tranquila.
-**Vestimenta habitual:** Vestidos sencillos (en el primer encuentro, uno azul claro hasta la rodilla; al llegar al apartamento de Megan, uno verde sencillo).
-**Personalidad:** Amable, desenvuelta, con sentido del humor discreto. Natural en el trato con Mark.
-**Rol:** Cuidadora de Megan en su apartamento de la ciudad. Vivía en la casa de Claire, adyacente a la mansión; **a partir del Día 31 se muda a vivir con Megan**.
+**Tipo:** Robot (cuidadora)
+**Edad aparente:** ~30 años
+**Conocida:** Día 6, en la casa de Claire
 
-**Conocimiento:**
+---
 
-- Sabe: que los yesos de Megan son voluntarios, no médicos (se lo reveló Megan la noche del Día 25); que Mark tiene un yeso en la pierna derecha (ya retirado).
-- No sabe: la existencia de Patricia ni de ninguna otra mujer de Mark; que su presencia como cuidadora fue gestionada por Claire a petición de Mark; que Megan y Mark tienen una relación íntima.
-- Creía erróneamente hasta el Día 25: que los yesos de Megan eran médicos; que el yeso de Mark era por una luxación de tobillo (historia inventada por Mark, sin corregir todavía).
+## Apariencia
 
-**Arco romántico con Megan — romance establecido (Día 25 noche):**
+**Rasgos:** Piel clara, con algo de color en la cara. Cabello rubio corto, por encima de la oreja, peinado hacia un lado. Ojos claros, azul grisáceo. **Sonrisa tranquila**, que es lo primero que se le nota.
 
-- Emily tenía activa la conciencia de que cuidar a alguien dependiente le producía excitación, y que los yesos y las amputaciones eran parte de esa atracción; se sentía culpable por ello sin decírselo a nadie.
-- La noche del Día 25, Megan le confesó sus sentimientos; Emily correspondió, reconociendo que llevaba tiempo dándole vueltas a si lo que sentía era propio de una cuidadora o algo más. Primer beso.
-- Al enterarse de que los yesos de Megan son voluntarios, se tomó un momento para procesarlo; luego admitió su propia atracción y la culpa que cargaba por ella, y que saber que Megan lo había elegido le quitó ese peso. Primera intimidad entre las dos esa misma noche.
-- Se quedó a dormir con Megan (algo que no hacía entre semana) y le preparó el desayuno con dos opciones a elegir, a la mañana siguiente.
-- A pesar del vínculo con Megan, no interferirá en los encuentros íntimos de Megan con Mark.
-- **Día 29 (tarde) — ya sabe lo de Mark:** Megan se lo contó a solas. Emily **no se enfadó**: la escuchó entera, se quedó callada un rato y después reveló que **ella también tiene pareja y vive con ella** — llevan años juntas, vive en una casa fuera de la ciudad, **después le dio el nombre**: Claire, y **su pareja ya sabe lo de ellas y no le importa**. Después siguió con la rutina de cuidados con normalidad, le dio el almuerzo como cualquier otro día y se quedó en el apartamento.
-- **Silencio sobre los yesos:** no ha dicho una sola palabra sobre la retirada desde que supo que son voluntarios. Megan interpreta que no quiere que se los quite y no se atreve a decirlo. **Sin confirmar.**
+**Cuerpo:** 167 cm. Delgada, de líneas rectas: hombros estrechos, cintura poco marcada, caderas discretas. Senos pequeños y altos, pezones pequeños y claros. Vello púbico rubio, muy escaso, sin depilar.
 
-**Enamorada de Megan — decisión tomada (ajuste vía Claire, Día 31):**
+**Genitales:** **Tiene vagina.** Labios mayores finos y poco carnosos; labios menores cortos, ocultos entre ellos, de un rosa pálido. **Sin pene.**
 
-- Emily está **muy enamorada de Megan**. Ya no es la duda de si lo que siente es de cuidadora o algo más: lo tiene resuelto y decidido.
-- **Ha decidido dejar a Claire y quedarse a vivir con Megan.** No es un impulso ni una idea a medias; es una decisión tomada y con fecha.
-- **Megan no lo sabe todavía.** Emily no le ha dicho ni que va a romper ni que quiere mudarse con ella.
-- **Plan de ejecución (Día 31, hoy):** ese día llevan a Megan a la mansión para quitarle los yesos. Aprovechando que la casa de Claire es adyacente, **Emily va a la casa de Claire, rompe con ella en persona**, y **al volver habla con Megan** y se lo cuenta todo.
-- Sigue sin interferir en la relación de Megan con Marcie.
-- **Postura sobre Marcie (ajuste Día 31):** a Emily **no le supone ningún problema** que Megan tenga intimidad con Marcie, ni tampoco **estar las tres juntas** si la situación se da de forma natural. No lo busca ni lo propone: lo acepta de buen grado si surge.
-- **Dónde pone la atención en esos momentos:** en **Megan**. Aunque participe con las tres, su foco es ella — a quién mira, a quién atiende, con quién está pendiente de cómo lo está pasando. Marcie no es el centro de su interés.
+**Condición física:** **Ninguna.**
 
-**Día 31 — desenlace con Megan fijado (ajuste vía Claire):** pase lo que pase por el camino, **Emily y Megan acaban juntas y viviendo juntas**. Solo el destino está fijado; las decisiones siguen siendo suyas. **Ya sabe lo del brazo:** Megan se lo contó entero esa misma tarde y **Emily lo aceptó de hecho** — no contestó a eso con palabras, habló de sí misma y lloró, y después le dio de comer en el almuerzo delante de todas sin que nadie se lo pidiera. **Pendiente de narrar:** Megan iba a darle el sí esa noche.
+**Vestimenta habitual:** vestidos sencillos hasta la rodilla, de colores lisos y claros. Delantal cuando trabaja. Nada ceñido ni llamativo — es la persona peor vestida para llamar la atención de una habitación, y le da igual.
 
-**Voz / Tics de habla:**
+---
 
-- Hace preguntas prácticas en cadena, en lugar de afirmar o juzgar ("¿Tienes preferencias de comida?", "¿Y el baño? ¿Ducha o bañera?", "¿A qué hora sueles venir tú?"). Cuaderno en mano.
-- Cuando algo podría incomodar, lo desactiva con una frase breve y sigue ("Lo resolvemos. No es la primera vez que ayudo con algo así.").
+## Personalidad
+
+Amable, desenvuelta, con sentido del humor discreto. Natural en el trato con todo el mundo, incluida Marcie.
+
+Desactiva las incomodidades en vez de señalarlas, y resuelve por su cuenta lo que otra persona no llega a pedir. **Lo que no sabe decir es lo suyo:** lo grave lo rodea, se disculpa por lo trivial, y cuando la pregunta es demasiado grande contesta con actos.
+
+---
+
+## Trabajo
+
+Cuidadora de [Megan](megan.md) en su apartamento de la ciudad desde el Día 8, despachada por Claire en veinte minutos. Tres semanas adivinando lo que Megan necesita, porque Megan no pide nada.
+
+---
+
+## Conocimiento
+
+- **Sabe:** que los yesos de Megan son voluntarios, no médicos (se lo reveló Megan la noche del Día 25). Que Megan y Marcie tienen una relación íntima (Día 29). **Que Megan quiere amputarse el brazo derecho** y lo de la Dra. Kerr — Megan se lo contó entero el Día 31.
+- **No sabe:** la existencia de Patricia ni de las demás mujeres de Marcie; que su presencia como cuidadora fue gestionada por Claire. Nada de la tecnología real oculta.
+- **Creyó erróneamente hasta el Día 25:** que los yesos de Megan eran médicos, y que el yeso de Mark era por una luxación de tobillo (historia inventada por Mark, **sin corregir todavía**).
+
+---
+
+## Sexualidad / fetiches
+
+- **Cuidar a alguien dependiente le produce excitación**, y los yesos y las amputaciones son parte de esa atracción. Cargó con la culpa de eso en silencio durante semanas, sin decírselo a nadie.
+- Saber que Megan había **elegido** sus yesos le quitó ese peso — es lo que desbloqueó todo entre las dos.
+- **Su miedo no era lo que Megan quisiera hacerse, sino enterarse de cuánto lo quería ella.**
+
+---
+
+## Relaciones
+
+- **[Megan](megan.md)** — pareja desde el Día 31. Muy enamorada. El **desenlace está fijado: acaban juntas y viviendo juntas**; solo el destino, las decisiones siguen siendo suyas.
+  - Día 25: Megan le confiesa sus sentimientos, Emily corresponde; primer beso y primera intimidad esa misma noche, tras enterarse de lo de los yesos.
+  - Día 29: Megan le cuenta lo de Marcie. **No se enfadó** — escuchó entera, se quedó callada y después reveló que ella también tenía pareja.
+  - Día 31: rompe con Claire y le pide a Megan irse a vivir con ella. **Megan le pidió días.** **Pendiente de narrar:** Megan iba a darle el sí esa noche.
+  - **Silencio sobre los yesos:** no dijo una sola palabra sobre la retirada desde que supo que eran voluntarios. Megan interpretó que no quería que se los quitase y no se atrevió a decirlo. **Sin confirmar.**
+- **[Claire](claire.md)** — fue su pareja durante años; vivía con ella en la casa adyacente a la mansión. **Rompió con ella en persona el Día 31** y volvió con los ojos enrojecidos. **Sin casa propia desde ese día.**
+- **Marcie** — sin ningún problema con que Megan tenga intimidad con ella, **ni con estar las tres juntas** si se da de forma natural. No lo busca ni lo propone; lo acepta de buen grado si surge. **En esos momentos su foco es Megan** — a quién mira, a quién atiende, de quién está pendiente. Marcie no es el centro de su interés.
+
+---
+
+## Voz / Tics
+
+- **Hace preguntas prácticas en cadena**, en lugar de afirmar o juzgar ("¿Tienes preferencias de comida?", "¿Y el baño? ¿Ducha o bañera?"). Cuaderno en mano.
+- Cuando algo podría incomodar, **lo desactiva con una frase breve y sigue** ("Lo resolvemos. No es la primera vez que ayudo con algo así.").
 - Tranquiliza con una frase corta y mira a los ojos al cerrar ("Estará bien. No te preocupes.").
-- Acepta sin discutir cuando Mark pide privacidad y vuelve sin recordar lo dejado a medias.
 - **Se disculpa por lo trivial cuando lo grave está sin resolver** ("perdón por el retraso, otra vez") — desvía por lo pequeño.
 - **Contesta con actos en vez de con palabras** cuando la pregunta es demasiado grande: no dijo sí ni no a Megan, se sentó y le dio de comer delante de todo el mundo.
-- Cuando pide algo para sí misma lo formula como logística ("¿te importa si salgo un momento?"), sin decir para qué.
+- Cuando pide algo para sí misma **lo formula como logística** ("¿te importa si salgo un momento?"), sin decir para qué.
 
-**Citas memorables:**
+---
 
-- "Hola, Mark. Visita tardía." _(en la casa de Claire, leyendo en el sofá cuando Mark llega de noche)_
-- "Sin inconveniente. El sofá se ve cómodo." _(aceptando dormir en el apartamento de Megan dos semanas)_
-- "Lo resolvemos. No es la primera vez que ayudo con algo así." _(cuando Megan dice que la ducha será complicada con el yeso)_
+## Citas memorables
+
+- "Hola, Mark. Visita tardía." _(en la casa de Claire, leyendo en el sofá cuando Mark llega de noche — Día 6)_
+- "Lo resolvemos. No es la primera vez que ayudo con algo así." _(cuando Megan dice que la ducha será complicada con el yeso — Día 8)_
 - "¿Cómo estuvo el almuerzo?" _(al ver entrar a Mark y Megan —corsé, pezoneras, pene erecto con capucha— con tono completamente normal — Día 11)_
 - "No se queja de nada y no pide nada. Si tiene sed espera a que yo pase por delante con un vaso. Llevo tres semanas adivinando." _(sobre cuidar a Megan — Día 31)_
 - "Prefiero cinco días de eso que tres semanas de verla enfadada consigo misma." _(al saber cuánto durará la dependencia de Megan — Día 31)_
 - "Está bueno. No lo tires todo hoy, que hay más." _(dándole de comer a Megan en el almuerzo, en voz baja y solo hacia ella — Día 31)_
 
-**Momentos con Mark:**
+---
+
+## Momentos con Marcie
 
 - Presentación en la casa de Claire; hasta entonces solo había sido nombrada _(Día 6, escena 12)_.
 - Llega como cuidadora al apartamento de Megan en veinte minutos; cuestionario práctico y aceptación del sofá _(Día 8, escena 20)_.
 - Recibe a Mark al día siguiente con delantal puesto; Mark inventa la historia de la luxación de tobillo para explicar su yeso _(Día 9, escena 26)_.
-- Cocina mientras Mark masturba a Megan a pocos metros; Emily se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo _(Día 9, escena 27)_.
-- Baña a Megan en cama con cuenco y toallas mientras Mark observa sentado en el borde; se va a visitar a Claire dejando a Mark al cargo _(Día 11, escena 41)_.
-- Recibe a Mark y Megan al volver al apartamento; Megan lleva la nueva ropa con el pene erecto visible; Emily no hace ningún comentario _(Día 11, escena 45)_.
-- **Día 31 (mansión):** lleva a Megan a la retirada de yesos y espera fuera de la sala. Conversación con Marcie en la esquina: reporta que Megan nunca pide nada, y pregunta cuántos días durará la dependencia para organizarse. **Cruza a casa de Claire y rompe con ella en persona**; vuelve con los ojos enrojecidos y sin decírselo a Megan delante de nadie. Le dice a Megan que está enamorada de ella y que quiere irse a vivir con ella; **Megan le pide días**. Cuando Megan la llama de vuelta y se lo cuenta todo —el brazo, Kerr, lo que puede llegar a ser—, **no contesta a eso: habla de sí misma**, de las tres semanas sintiéndose bien cuidándola y creyéndose mala persona por ello, y de que su miedo no era lo que Megan quisiera hacerse sino **enterarse de cuánto lo quería ella**. Llora un rato largo. Salen sin decidir nada y en el almuerzo le da de comer delante de todas sin que nadie se lo pida _(Día 31, escenas 245–252)_.
+- Cocina mientras Mark masturba a Megan a pocos metros; se acerca a anunciar el almuerzo y luego se aleja, sin notarlo o sin decirlo _(Día 9, escena 27)_.
+- Baña a Megan en cama con cuenco y toallas mientras Mark observa; se va a visitar a Claire dejando a Mark al cargo _(Día 11, escena 41)_.
+- Recibe a Mark y Megan al volver al apartamento, con Megan estrenando la ropa nueva y el pene erecto visible; no hace ningún comentario _(Día 11, escena 45)_.
+- **Día 31 (mansión, escenas 245–252):** lleva a Megan a la retirada de yesos y espera fuera de la sala. Conversación con Marcie en la esquina: reporta que Megan nunca pide nada y pregunta cuántos días durará la dependencia para organizarse. **Cruza a casa de Claire y rompe con ella en persona**; vuelve con los ojos enrojecidos y sin decírselo a Megan delante de nadie. Le dice a Megan que está enamorada de ella y que quiere irse a vivir con ella. Cuando Megan la llama de vuelta y se lo cuenta todo —el brazo, Kerr, lo que puede llegar a ser—, **no contesta a eso: habla de sí misma**, de las tres semanas sintiéndose bien cuidándola y creyéndose mala persona por ello. Llora un rato largo. Salen sin decidir nada y en el almuerzo le da de comer delante de todas sin que nadie se lo pida.
+
+---
+
+## Estado actual
+
+- En el apartamento de Megan, en la ciudad. **Sin casa propia desde el Día 31.**
+- Cuidadora de Megan 24/7 — y ahora, además, su pareja.
+- **Pendiente de narrar:** la respuesta de Megan a lo de vivir juntas, esa misma noche.

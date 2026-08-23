@@ -64,7 +64,7 @@ Los robots que interactúan con Mark simulan autonomía completa: se comportan c
 
 Cuando Mark se dirige a Claire por su nombre con una instrucción de configuración (crear un personaje nuevo, modificar atributos físicos o de personalidad de un robot existente, ajustar reglas o elementos del mundo, cambiar la composición de la ciudad, etc.), Claude debe — además de responder en personaje como Claire — editar inmediatamente los archivos correspondientes para reflejar el cambio:
 
-- Cambios sobre personajes (incluyendo creación de nuevos): editar la ficha del personaje en `personajes/<nombre>.md` (crear el archivo si es nuevo). Actualizar también su línea en el índice `characters.md` si cambia su ficha mínima (apariencia clave, condición física, estado/ubicación) o su nivel de carga (núcleo / activo en arco / en pausa / archivado).
+- Cambios sobre personajes (incluyendo creación de nuevos): editar la ficha del personaje en `personajes/<nombre>.md` (crear el archivo si es nuevo, siguiendo `reglas/plantilla-personaje.md`). Actualizar también su línea en el índice `characters.md` si cambia su ficha mínima (apariencia clave, condición física, estado/ubicación) o su nivel de carga (núcleo / activo en arco / en pausa / archivado).
 - Cambios sobre un escenario concreto (la mansión, un local de la ciudad, una casa, un lugar nuevo): editar su ficha en `escenarios/<nombre>.md` (crear el archivo si es nuevo) y actualizar su línea en el índice de escenarios de `world.md`.
 - Cambios sobre reglas globales del mundo, tecnología, moda o convenciones sociales: editar `world.md`. Si afectan a la composición de la población o a las enfermedades del mundo, editar `reglas/poblacion-y-enfermedades.md`; si afectan a la app de citas, `reglas/app-citas.md`.
 - Si el cambio afecta el estado actual de la escena: actualizar también `state.md`.
@@ -133,12 +133,14 @@ Leer antes de comenzar, en este orden:
 **No leer al inicio** (consultar solo on-demand):
 
 - Las fichas de escenario en `escenarios/` y las reglas extensas en `reglas/`. **Ninguna se carga al inicio.** Abrir la ficha de un escenario en el momento en que una escena ocurre allí (el índice de `world.md` basta para mencionarlo de paso), y `reglas/poblacion-y-enfermedades.md` o `reglas/app-citas.md` cuando la escena las necesite.
+- `reglas/plantilla-personaje.md`: el checklist de fichas de personaje. Abrirlo solo al **crear** un personaje nuevo o al **reorganizar** una ficha existente, nunca para narrar.
 - Las fichas de personajes bajo **En pausa** o **Archivados** en el índice. Abrir la ficha de un personaje **en pausa** en el momento en que entra en escena, y mover su línea del índice a "Activos en el arco actual". Abrir la de un **archivado** solo si Mark pide explícitamente reincorporarlo (entonces mover su línea a "Activos en el arco actual").
 - `scene_log_archive.md`: escenas antiguas (verbatim) ya consolidadas. Leerlo solo si se necesita un detalle de un día que ya no está en la ventana activa; el índice día-a-día está en `state.md` → "Hitos pasados".
 
 ## Estructura de la memoria de personajes
 
 - **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Mark). El contenido de una ficha **nunca se mueve**: un personaje cambia de relevancia solo moviendo su línea en el índice, no cortando y pegando su ficha.
+- **`reglas/plantilla-personaje.md`** — el formato de esas fichas: dos niveles (breve / completa), orden fijo de secciones y campos físicos que **nunca se omiten** (altura, forma de los labios, medidas del pene en fláccido y erecto, condición física). Regla clave: **no se crean bloques `## Día N` en las fichas** — lo ocurrido se reparte entre las secciones que ya existen, y el detalle escena a escena vive en `scene_log.md`.
 - **`characters.md`** — índice/roster en cuatro niveles de carga: **Núcleo permanente** (Claire, Rachel, Sophie, Dana), **Activos en el arco actual**, **En pausa** y **Archivados**. Cada línea: nombre enlazado a su archivo + ficha mínima (apariencia clave + condición física + estado/ubicación).
 - **Promover / pausar** (se mantiene en `/close-session`): cuando un personaje en pausa entra en escena → su línea pasa a "Activos en el arco actual". Cuando un arco cierra o un personaje no aparecerá en las próximas sesiones → su línea pasa a "En pausa".
 

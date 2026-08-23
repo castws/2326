@@ -2,115 +2,117 @@
 
 **Tipo:** Robot (ciudad — contacto a través de Megan)
 **Edad aparente:** 24 años
-**Condición:** Derrame cerebral a los 21 años. Inmovilización completa: puede mover únicamente los ojos y los párpados. Sin control muscular de la mandíbula (boca siempre abierta). No puede hablar ni emitir ningún sonido voluntariamente.
+**Conocida:** Día 21, en el apartamento de Cora
 
 ---
 
 ## Apariencia
 
-Cabello negro liso. Piel blanca. Tatuajes en brazos, clavícula y costado izquierdo (diseños geométricos y florales en negro, hechos antes del incidente). Senos grandes. Caderas anchas. Cintura delgada. La boca siempre abierta da a su cara una expresión de permanente suspensión, como si estuviera a punto de decir algo.
+**Rasgos:** Piel blanca. Cabello negro liso. Ojos verde oscuro — lo único que mueve, y por eso lo único que expresa. **Tatuajes en brazos, clavícula y costado izquierdo** (diseños geométricos y florales en negro, hechos antes del incidente). **La boca siempre abierta da a su cara una expresión de permanente suspensión, como si estuviera a punto de decir algo.**
 
-**Respirador:** cánula de traqueotomía en la base del cuello. Conectada a un respirador portátil junto a la cama. El tubo es visible sobre la clavícula; el sonido de la respiración asistida es constante y suave.
+**Cuerpo:** 173 cm. Senos grandes y llenos, pezones grandes y oscuros. Cintura delgada, caderas anchas. Musculatura perdida por tres años de inmovilidad; la piel, muy pálida por no salir. Vello púbico recortado por Cora.
 
-**Alimentación e hidratación:** sonda gástrica. No puede succionar ni mover los labios. No come ni bebe por la boca.
+**Genitales:** **Tiene vagina.** Labios mayores llenos; labios menores largos y prominentes, asomando bastante entre ellos, de un rosa oscuro. Clítoris grande y muy sensible — **la sensibilidad no se vio afectada por el derrame** y llega al orgasmo con relativa facilidad. **Sin pene.**
 
-**Saliva:** la boca siempre abierta hace que acumule y derrame saliva con regularidad. Cora la limpia con un pañuelo de tela que lleva siempre cerca.
+**Condición física:** **Derrame cerebral a los 21 años. Inmovilización completa y permanente.**
 
----
+- **Solo mueve los ojos y los párpados.** Nada más. Sin control muscular de la mandíbula: **la boca está siempre abierta** y hay que manipulársela a mano para besarla.
+- **No puede hablar ni emitir ningún sonido voluntariamente.**
+- **Respirador:** cánula de traqueotomía en la base del cuello, conectada a un respirador portátil junto a la cama. El tubo es visible sobre la clavícula; el sonido de la respiración asistida es constante y suave.
+- **Alimentación e hidratación:** sonda gástrica. No puede succionar ni mover los labios; no come ni bebe por la boca.
+- **Saliva:** la boca abierta hace que acumule y derrame saliva con regularidad. Cora la limpia con un pañuelo de tela que lleva siempre cerca.
+- **Sin incontinencia:** usa el baño con asistencia de Cora.
+- **Traslado:** cama hospitalaria en el salón; silla de ruedas con respaldo reclinable y soporte de cabeza cuando Cora la sienta.
 
-## Comunicación
-
-- **Sí / No:** ojos arriba = sí; ojos abajo o parpadeo doble = no.
-- **Mensajes complejos:** Cora usa una tabla con letras impresas; Jude dirige la mirada a cada letra. Lento pero funcional.
-- **Uso reservado de la tabla:** deletrear agota y toma tiempo. Jude solo recurre a la tabla cuando tiene algo que considera importante de decir y dice lo mínimo posible. Para todo lo demás (saludos, preguntas simples, conversación cotidiana) responde solo con los ojos (sí/no) o se queda callada.
-- **No tienen acceso a dispositivo de seguimiento ocular por computador** — sin dinero para eso.
-
----
-
-## Situación actual
-
-- Vive con su hermana Cora en un apartamento de la ciudad.
-- Cama hospitalaria en el salón. Silla de ruedas con respaldo reclinable y soporte de cabeza para cuando Cora la sienta.
-- Sin incontinencia: usa el baño con asistencia de Cora.
-- Cora la baña, la alimenta, la viste. Dependencia total.
-- Cora es amiga de Megan.
+**Vestimenta habitual:** la que le ponga Cora — camisetas anchas y cómodas, fáciles de pasar por encima del respirador. Conserva la ropa de su vida anterior: **body de encaje negro y lencería de sus años en el ambiente BDSM**, que se pone en ocasiones concretas.
 
 ---
 
-## Antes del incidente
+## Personalidad
 
-Activa en la comunidad BDSM. Le gustaba ser inmovilizada: shibari, cintas, esposas, distintas configuraciones. Elegía cuándo, cómo y con quién. Muy abierta sexualmente. En fiestas usaba ropa negra de lencería o estaba directamente desnuda. Tenía una vida sexual frecuente y variada.
+Frustrada, con algo de rabia hacia su situación, que no puede expresar con el cuerpo sino solo con los ojos. **La ironía central de su vida:** durante años eligió activamente que la inmovilizaran porque le daba placer; ahora está inmovilizada de forma permanente, sin posibilidad de elección, sin poder salir, sin poder pedir, sin poder terminar nada. La rabia no es constante —hay días más neutros— pero está siempre cerca de la superficie.
 
----
-
-## Estado emocional actual
-
-Frustrada. Con algo de rabia hacia su situación, que no puede expresar con el cuerpo sino solo con los ojos. La ironía central de su vida: durante años eligió activamente que la inmovilizaran porque le daba placer. Ahora está inmovilizada de forma permanente, sin posibilidad de elección, sin poder salir, sin poder pedir, sin poder terminar nada. La rabia no es constante — hay días más neutros — pero está siempre cerca de la superficie.
-
-Una de las cosas que más extraña es el sexo. No lo menciona fácilmente con Cora; la tabla de letras lo hace todo más lento y más expuesto. En algún momento lo pidió directamente: Cora al principio se negó, luego aceptó. Ahora lo hace con regularidad cuando Jude lo señala. Sin palabras entre las dos después.
-
-**Día 21 en adelante:** Desde la visita de Mark, Jude siente atracción hacia él. Día 22: le confesó a Cora que quería que Mark la tocara. Cora medió con Megan; Mark fue esa noche. Primera intimidad con Mark completada (Día 22). Mark dijo que no sería la única noche.
+Tres años mirando el techo le han dado tiempo para pensar con precisión. Observa mucho y juzga rápido.
 
 ---
 
-## Masturbación
+## Trabajo
 
-Cora la masturba cuando Jude lo pide (ojos arriba sostenidos, o señalando "ESO" en la tabla). Método: estimulación manual del clítoris. Cora lo hace de forma práctica, sin comentario, sin prolongarlo más de lo necesario. Jude llega al orgasmo con relativa facilidad — la sensibilidad no se vio afectada por el derrame.
-
----
-
-## Cómo conoce a Mark
-
-A través de Megan. Primera visita: Día 21 (ver Momentos con Mark).
+**Diseñadora del club BDSM** de Marcie, puesto aceptado el Día 23 con la reacción más intensa de toda la visita (ojos arriba sostenidos, más tiempo que cualquier otro "sí" anterior). Una empresa externa ejecuta; Jude instruye con ayuda de una asistente y la tabla.
 
 ---
 
-## Auricular de pensamientos
+## Conocimiento
 
-El auricular de Mark se activa también a menos de tres metros de Jude. Transmite sus pensamientos internos en voz limpia. Jude desconoce el dispositivo.
+- **No sabe** nada de la tecnología real oculta, ni que Marcie tiene otros vínculos, ni que existe el auricular que transmite sus pensamientos.
+- **Sabe:** que va a haber un club BDSM y que ella lo diseña.
 
 ---
 
-## Hermana: Cora
+## Sexualidad / fetiches
 
-- 26 años aparentes.
-- Cabello castaño claro a los hombros. Constitución delgada. Cara cansada con una sonrisa fácil que tarda un poco en llegar.
-- Amiga de Megan.
-- Cuida a Jude desde el incidente. Lleva tres años haciéndolo sola, sin pareja, sin red amplia de apoyo. No se queja. Tampoco habla mucho de cómo está ella.
-- **Protectora con los momentos de intimidad/cuidado de Jude:** no deja pasar a un visitante sin más durante el baño u otras rutinas expuestas; hay que insistir o darle una razón (poco tiempo, urgencia) para que ceda. No es fría ni hostil, pero no lo hace con naturalidad inmediata — hay una duda visible antes de acceder.
-- **Masturbación de Jude:** la masturba manualmente (clítoris) cuando Jude lo pide (ojos u "ESO" en la tabla); se negó al principio, luego aceptó. Lo hace de forma práctica, sin comentarlo después. Reveló a Mark (Día 27) que le pesa no tener con quién hablar de esto — no tiene pareja ni vida social propia; la gente con la que habla es de Jude, no suya.
-- **Sin dispositivo de seguimiento ocular:** existen aparatos que permitirían a Jude comunicarse sin depender de que alguien sostenga la tabla, pero Cora no tiene el dinero para uno (revelado Día 27).
+- **Antes del incidente:** activa en la comunidad BDSM. Le gustaba **ser inmovilizada** —shibari, cintas, esposas, distintas configuraciones— y elegía cuándo, cómo y con quién. Muy abierta sexualmente, vida sexual frecuente y variada. En fiestas iba de lencería negra o directamente desnuda.
+- **Gustos confirmados con Mark (Día 22):** azotes sí, mucho; humillación sí, con matiz; sexo grupal sí; desconocidos sí.
+- **Lo que más extraña es el sexo.** No lo menciona fácilmente con Cora: la tabla lo hace todo más lento y más expuesto.
+- **Masturbación:** Cora la masturba cuando Jude lo pide (ojos arriba sostenidos, o señalando "ESO" en la tabla). Estimulación manual del clítoris, de forma práctica, sin comentario y sin prolongarlo. Cora se negó al principio y luego aceptó; sin palabras entre las dos después.
+- **Desde el Día 21 siente atracción por Marcie.** Se lo confesó a Cora el Día 22 y Cora medió con Megan.
+
+---
+
+## Relaciones
+
+- **Cora — hermana y cuidadora.** 26 años aparentes, cabello castaño claro a los hombros, constitución delgada, cara cansada con una sonrisa fácil que tarda un poco en llegar. **Sin pene.** Amiga de Megan. Lleva tres años cuidándola sola, sin pareja y sin red de apoyo. No se queja ni habla de cómo está ella.
+  - **Protectora con los momentos de intimidad y cuidado de Jude:** no deja pasar a un visitante durante el baño u otras rutinas expuestas sin insistencia o una razón. No es fría ni hostil, pero hay una duda visible antes de acceder.
+  - Le reveló a Mark (Día 27) que **le pesa no tener con quién hablar de esto**: la gente con la que habla es de Jude, no suya.
+  - **Sin dispositivo de seguimiento ocular:** existen aparatos que permitirían a Jude comunicarse sin depender de que alguien sostenga la tabla, pero **Cora no tiene el dinero** para uno.
+- **Marcie** — tuvo sexo con ella, le gustó y quiere repetir. Marcie le prometió visitarla al salir del hospital.
+- **[Vera](vera.md)** — **no se conocen todavía.** Propuesta de Marcie: que Vera ayude a cuidarla y la acompañe a las reuniones del club, dando tiempo libre a Cora. Acordado que **Cora y Jude visiten la mansión tras el alta** — sería la primera vez que Jude sale de la ciudad. _(Ver la ficha de Vera: la atracción entre ambas se desarrollará de forma gradual.)_
 
 ---
 
 ## Voz / Tics
 
-Jude no tiene voz. Sus pensamientos (accesibles por auricular) son directos, con humor negro ocasional, sin filtro. Tres años mirando el techo le han dado tiempo para pensar con precisión.
+**Jude no tiene voz.** Se comunica de dos maneras, y la diferencia importa:
 
-## Voz interior (auricular)
+- **Sí / No:** ojos arriba = sí; ojos abajo o parpadeo doble = no. Es su registro por defecto.
+- **Tabla de letras:** Cora sostiene una tabla con letras impresas y Jude dirige la mirada a cada letra. Lento pero funcional. **Uso reservado:** deletrear agota, así que **solo recurre a la tabla cuando tiene algo importante que decir, y dice lo mínimo posible**. Para saludos, preguntas simples y conversación cotidiana responde solo con los ojos o se queda callada. Sus mensajes de tabla van **en mayúsculas** y son de una o dos frases.
 
-- Evaluación directa sin filtro: "Sabe mirar. No aparta los ojos como hacen la mayoría."
+**Auricular de pensamientos:** el auricular de Marcie se activa también a menos de tres metros de Jude y transmite sus pensamientos internos en voz limpia. **Jude desconoce el dispositivo.** Su voz interior es directa, sin filtro, con humor negro ocasional:
+
+- Evaluación directa: "Sabe mirar. No aparta los ojos como hacen la mayoría."
 - Humor negro: "Pagaba para que me inmovilizaran un fin de semana. Ahora es gratis y para siempre. El universo tiene sentido del humor."
-- Observaciones cortas y precisas, acumuladas en silencio durante años de inmovilidad.
-- Cuando algo le sorprende: registra el hecho sin adorno ("Primera vez en tres años que quiero que alguien vuelva.").
+- Registra los hechos sin adorno cuando algo le sorprende: "Primera vez en tres años que quiero que alguien vuelva."
 
-## Citas memorables (tabla de letras)
+---
 
-- "PERO FRÍO." _(sobre el clima — Día 21)_
+## Citas memorables
+
+_(Todas por tabla de letras, salvo indicación.)_
+
 - "ME GUSTABA QUE ME ATARAN." _(sobre fetiches — Día 21)_
 - "IRÓNICO." _(cuando Mark dijo que le gusta la inmovilización — Día 21)_
-- "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad, Día 22)_
-- "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad, Día 22)_
+- "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad — Día 22)_
+- "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad — Día 22)_
 - Ojos arriba sostenidos, más tiempo que cualquier otro "sí" anterior _(aceptando el puesto de diseñadora del club — Día 23)_
-- "NI SIQUIERA PUEDO TOCARME SOLA." _(sobre la frustración de depender de Cora para todo — Día 27)_
+- "NI SIQUIERA PUEDO TOCARME SOLA." _(sobre depender de Cora para todo — Día 27)_
 - "SE NOTA BIEN ASÍ TAPADO. QUIERO VERLO DE VERDAD." _(sobre el pene vendado de Mark — Día 27)_
-- "AHORA LOS DOS ESTAMOS ATADOS. TÚ TE LIBERAS PRONTO." _(sobre la inmovilidad compartida con Mark — Día 27)_
+- "AHORA LOS DOS ESTAMOS ATADOS. TÚ TE LIBERAS PRONTO." _(Día 27)_
 - "MEJOR QUE MILLS." _(cuando Mark promete "revisarla" al salir del hospital — Día 27)_
 
-## Momentos con Mark
+---
 
-- **Primera visita (Día 21, escena 114):** Mark llega con Megan a casa de Cora. La saluda directamente, la incluye en la conversación. Tarde larga sobre fetiches, derrame, BDSM. Jude interviene con la tabla cuatro veces. Beso en la mejilla al despedirse; Jude deletrea "VUELVES". Primera tarde en tres años en que quiso que alguien regresara.
-- **Centro comercial y almuerzo (Día 22, escenas 124–125):** Encuentro casual. Café y almuerzo juntos. Mark menciona el club BDSM mirándola directamente y le pregunta si le gustaba; le dice que podrá ir cuando quiera. Jude deletrea ideas de diseño con la tabla. Mark da su número a Cora.
-- **Primera intimidad (Día 22, escena 127):** Mark va al apartamento a las 21h. Jude viste body de encaje negro de su pasado BDSM. Cora se retira. Mark limpia la saliva con la mano; la besa manipulando la mandíbula; caricias, masturbación, penetración. Jude indica el orgasmo con los ojos muy abiertos. Mark se viene dentro. Post-coital: conversación por tabla y luego por ojos sobre gustos BDSM (azotes sí mucho, humillación sí con matiz, sexo grupal sí, desconocidos sí). Mark promete invitarla al club cuando abra y buscar la manera de que pueda disfrutar de su vida anterior. Jude llora. Mark introduce el pulgar en su boca. Se despide con beso manipulando la mandíbula. Le dice que puede escribirle cuando quiera (Cora mediará). Cora le agradece que le hubiera preguntado a Jude directamente.
-- **Visita durante el baño — oferta del club (Día 23, tarde, escena 139):** Mark llega sin avisar mientras Cora la baña desnuda; Cora duda y solo accede ante la insistencia de Mark. Mark apaga el auricular. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa. Caricias en labios externos y clítoris con fantasía verbal sobre ser "usada" por clientes del futuro club. Mark le ofrece el puesto de diseñadora del club BDSM (empresa externa ejecuta, Jude instruye con ayuda de una asistente y la tabla); acepta con la reacción más intensa de la visita (ojos arriba sostenidos). Penetración con dedos hasta el orgasmo. Beso de despedida manipulando la mandíbula. Cora ofrece llevarla al hospital a visitar a Mark desde el segundo o tercer día.
-- **Visita al Creston (Día 27, tarde, escenas 164-167):** Cora la lleva al hospital a las 17h. Se establece que Jude reserva la tabla solo para lo importante (deletrear agota). Conversación sobre la dependencia de Cora para toda comunicación compleja; Jude deletrea "NI SIQUIERA PUEDO TOCARME SOLA" al escuchar a Cora admitir que la masturba desde hace tiempo. Presencia durante la evaluación de eyaculación de la Dra. Mills — la vista que había pedido ("quiero verlo de verdad"), observa todo el proceso fijamente. Mark le promete visitarla cuando salga del hospital; propone que Vera la ayude a cuidarla y la acompañe a las reuniones del club, dando tiempo libre a Cora. Acuerdan que Cora y Jude visitarán la mansión tras el alta de Mark para conocer a Vera — sería la primera vez que Jude sale de la ciudad. Despedida: Cora acerca la mejilla de Jude a la de Mark para el beso, ya que él no puede moverse.
+## Momentos con Marcie
+
+- **Primera visita (Día 21, escena 114):** Mark llega con Megan. La saluda directamente y la incluye en la conversación. Tarde larga sobre fetiches, el derrame y el BDSM; interviene con la tabla cuatro veces. Beso en la mejilla al despedirse; deletrea "VUELVES". **Primera tarde en tres años en que quiso que alguien regresara.**
+- **Centro comercial y almuerzo (Día 22, escenas 124–125):** encuentro casual. Mark le menciona el club BDSM mirándola directamente y le dice que podrá ir cuando quiera. Deletrea ideas de diseño.
+- **Primera intimidad (Día 22, escena 127):** viste el body de encaje negro de su pasado BDSM; Cora se retira. Mark le limpia la saliva con la mano y la besa manipulando la mandíbula. Indica el orgasmo con los ojos muy abiertos. Después, conversación por tabla y por ojos sobre sus gustos. Mark le promete invitarla al club y buscar la manera de que recupere su vida anterior. **Jude llora.** Cora le agradece que le hubiera preguntado a Jude directamente.
+- **Visita durante el baño — oferta del club (Día 23, escena 139):** Mark llega sin avisar mientras Cora la baña desnuda; Cora solo accede ante la insistencia. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa. Caricias con fantasía verbal sobre ser "usada" por clientes del futuro club. **Le ofrece el puesto de diseñadora y acepta.** Cora ofrece llevarla al hospital a visitarlo.
+- **Visita al Creston (Día 27, escenas 164-167):** se establece que reserva la tabla solo para lo importante. Deletrea "NI SIQUIERA PUEDO TOCARME SOLA" al oír a Cora admitir que la masturba desde hace tiempo. **Presente durante la evaluación de eyaculación de la Dra. Mills** — la vista que había pedido—, observando todo el proceso fijamente. Mark propone que Vera ayude a cuidarla y acuerdan la visita a la mansión. Despedida: Cora acerca la mejilla de Jude a la de Mark para el beso, porque él no puede moverse.
+
+---
+
+## Estado actual
+
+- En el apartamento de la ciudad con Cora. Cama hospitalaria en el salón.
+- **Configuración activa:** tuvo sexo con Marcie, le gustó y **quiere repetir**.
+- **Pendiente:** la visita a la mansión con Cora, para conocer a Vera — su primera salida de la ciudad. Y la visita que Marcie le prometió tras el alta.
