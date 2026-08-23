@@ -14,7 +14,7 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - Las fichas `escenarios/<nombre>.md` de los lugares donde transcurrió la sesión, y `reglas/<nombre>.md` si la sesión tocó la composición de la población, las enfermedades del mundo o la app de citas
    - `state.md`
    - `scene_log.md` (ventana activa de escenas)
-   - `characters.md` (índice) y las fichas `personajes/<nombre>.md` de los personajes que intervinieron en la sesión
+   - `characters.md` (índice) y las fichas `personajes/<nombre>.md` de los personajes que intervinieron en la sesión (ya estarán abiertas: intervenir exige haber abierto la ficha)
    - `conversacion_completa.md` (el índice)
 
 2. **Revisar la conversación completa** de la sesión actual e identificar:
@@ -37,10 +37,11 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
      - Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen de ≤ 130 caracteres; si falta, añadirla. No sacar de Nivel 1 escenas a las que aún apunte un evento de "Eventos programados", un hilo de "Hilos latentes" o una entrada de "Sin cerrar".
 
 4. **Actualizar `state.md`**:
-   - **"Día actual":** ubicación de Marcie (es lo que decide qué fichas se cargan en la próxima sesión), su estado y el próximo momento a narrar.
+   - **"Día actual":** ubicación de Marcie, su estado y el próximo momento a narrar.
+   - **"Fichas a abrir":** los nombres exactos de quien vaya a estar en el primer beat de la próxima sesión, cada uno con su motivo en un paréntesis corto (`**Vera** (la levanta a las 8:30)`). Normalmente 0-2 nombres; **`ninguna` es un valor válido y correcto**. Es el único campo que decide qué se carga al arrancar: la ubicación de Marcie ya no decide nada. Escribirlo pensando en quién estará delante, no en quién es importante.
    - Estado físico actualizado (yesos, amputaciones, prótesis, vendajes) y estado relacional si cambió.
    - **`state.md` NO lleva bloques de personaje.** Su contenido es exactamente: `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —única sin ficha propia— y `## Sin cerrar`. Nada más.
-   - **Todo estado de personaje va al `## Estado actual` de su ficha**, esté donde esté y se cargue o no. Si alguien cambió de estado en la sesión, se edita su ficha; **nunca se crea un bloque en `state.md`**, ni siquiera para los de la mansión o el arco activo: su ficha ya se abre por ubicación o por evento, así que el bloque solo duplicaría peor lo que ya está cargado.
+   - **Todo estado de personaje va al `## Estado actual` de su ficha**, esté donde esté y se cargue o no. Si alguien cambió de estado en la sesión, se edita su ficha; **nunca se crea un bloque en `state.md`**, ni siquiera para quien viva con Marcie: su ficha se abre en cuanto entra en escena, así que el bloque solo duplicaría peor lo que ya está cargado.
    - Lo único que puede tirar de un personaje hacia `state.md` es **una iniciativa suya** → va a "Hilos latentes" con su tarjeta de voz y mecánica, o **un plazo** → va a "Eventos programados".
    - **"Hitos pasados":** añadir la línea del día, **≤ 130 caracteres**.
    - **"Hilos latentes":** actualizar los disparos consumidos (poner el nuevo "Último: Día N" y recalcular el vencimiento) y añadir los hilos nuevos que hayan surgido.
@@ -62,11 +63,15 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
      - **Momentos con Marcie:** añadir el o los hitos compartidos en esta sesión, cada uno con referencia a la escena recién registrada (formato `(Día N, escena M)`).
      - **Desbordamiento a historial:** si al terminar la ficha supera **~8 KB**, mover las entradas más antiguas de `## Momentos con Marcie` y `## Citas memorables` a `personajes/<nombre>-historial.md` (creándolo si no existe), en orden cronológico y verbatim. En la ficha se quedan las que siguen siendo operativas para narrarla hoy —orientativo ≤ 1,5 KB por sección— más el puntero `> Entradas anteriores (N) en [nombre]-historial.md`. Estos archivos no se cargan nunca al inicio.
    - El criterio es destilar, no transcribir: pocas líneas, alta señal. Si nada nuevo justifica añadir, no añadir.
-   - **Mantener el índice (`characters.md`):** el roster está agrupado **por ubicación** (En la mansión / En la ciudad — arco activo / Bajo demanda / En la ciudad — latentes / Archivados), porque es la ubicación la que decide qué se carga. Actualizar la ficha mínima —**≤ 200 caracteres**, sin actualizaciones de estado en negrita— de quien haya cambiado de sitio o de condición, y mover de grupo a quien corresponda. Mover de grupo es solo mover la línea; la ficha no se corta ni se pega.
-   - **Pregunta obligatoria al pasar a alguien al grupo "latentes":** antes de moverlo hay que contestar por escrito **¿queda algo que este personaje haga por iniciativa propia?**
+   - **Mantener el índice (`characters.md`):** el roster tiene **dos grupos, `## Activos` y `## Archivados`**, y ninguno decide qué se carga. Lo que hay que mantener es:
+     - La **ficha mínima** de quien haya cambiado de condición —**≤ 200 caracteres**, sin actualizaciones de estado en negrita.
+     - El **`Dónde`** (sub-bullet `_Dónde:_`, **≤ 80 caracteres**) de quien haya cambiado de sitio o de rutina: ubicación habitual + horario solo si no es trivial. Es un dato de estado y se desincroniza si no se toca. `characters.md` es **canónico** para la ubicación; si la ficha del personaje dice otra cosa, corregir la ficha, no el índice.
+     - Lo único que se mueve de grupo es **archivar** (deja de volver a escena) o **desarchivar** (Marcie lo reincorpora). Mover es solo mover la línea; la ficha no se corta ni se pega.
+   - **Pregunta obligatoria, por cada personaje activo que haya intervenido en la sesión:** contestar por escrito **¿queda algo que este personaje haga por iniciativa propia?**
      - **Sí** → entrada en `state.md` → "Hilos latentes", con disparador explícito (cadencia + último disparo, condición, o fecha) y **tarjeta de voz y mecánica** suficiente para ejecutarlo sin abrir la ficha.
      - **No** → añadir su nombre a la línea agrupada `- **Sin iniciativa pendiente:** ...` al final de "Hilos latentes". Basta el nombre; solo se añade texto si hay una **restricción negativa** que evite un error al narrar (por ejemplo, que no tenga vía de comunicación).
-     - **No se puede pausar a nadie sin contestar esta pregunta.** Registrar una iniciativa como si fuera estado ("X y Z lo están intentando") es exactamente el fallo que deja mudo a un personaje durante semanas.
+     - **Invariante a comprobar antes de cerrar:** todo nombre de `## Activos` aparece o en una entrada de "Hilos latentes" o en la línea `Sin iniciativa pendiente`. Quien no esté en ninguna de las dos se queda mudo por omisión — nadie contestó por él.
+     - Registrar una iniciativa como si fuera estado ("X y Z lo están intentando") es exactamente el fallo que deja mudo a un personaje durante semanas.
 
 7. **Guardar el transcript de la sesión**:
    - Identificar el archivo de la sesión actual: el que corresponde al día de hoy (`sesion_NN_YYYY-MM-DD.md` con la fecha actual). Si hay varios del mismo día, usar el de mayor `NN`.
@@ -81,7 +86,7 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    wc -c personajes/*.md | grep -v historial | sort -n | tail -5
    ```
 
-   Topes: `state.md` 30 KB · `scene_log.md` 55 KB · `characters.md` 6,5 KB · ficha individual 8 KB (salvo arco muy activo) · **carga total de inicio 175 KB**. Si algo se pasa, decir cuánto y por qué; no dejarlo pasar en silencio.
+   Topes: `state.md` 20 KB · `scene_log.md` 55 KB · `characters.md` 8 KB · ficha individual 8 KB (salvo arco muy activo) · **carga total de inicio 175 KB**. El bloque fijo (`world` + `characters` + `state` + `scene_log` + `CLAUDE`) son ~119 KB; encima solo suman las fichas de "Fichas a abrir". Si algo se pasa, decir cuánto y por qué; no dejarlo pasar en silencio.
 
 9. **Confirmar al usuario** con un resumen de una sola línea por archivo modificado, indicando qué cambió. Ejemplo:
 

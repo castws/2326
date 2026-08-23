@@ -10,13 +10,13 @@
 
 **Estado de Marcie:** duerme sin nada puesto. Sin el aparato montado no puede ponerse de pie: para levantarse necesita que alguien se lo coloque. **Copa D confirmada** (85 de banda, 106 de contorno). **Mañana, Día 32 a las 9:00, la Dra. Mills se lo retira todo definitivamente**; Vera la levanta a las 8:30.
 
-**Ubicación para la carga de fichas:** mansión. **Próximo momento a narrar:** mañana del Día 32, antes o durante la visita de Mills.
+**Fichas a abrir:** **Vera** (la levanta a las 7:30) y **Mills** (llega a las 9:00). Nadie más. **Próximo momento a narrar:** mañana del Día 32, antes o durante la visita de Mills.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Marcie camina sin ayuda ni dispositivos.
+- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Marcie camina sin ayuda ni dispositivos. Al final de la evaluación, recomienda usar la férula peneana otros dos días y las muletas al menos tres días más, hasta que sienta que puede caminar sin ellas.
 - **Día 31 (sin resolver, arrastra al Día 32)**: **mensaje de Hobbs** de anoche — sigue sin leerse ni responderse.
 - **Día 32 y siguientes**: Hobbs sigue con la **jaula de castidad** y el **plug** de forma continuada, turnos incluidos, sin ropa interior. Puede agacharse doblando las rodillas dentro del hospital.
 - **Día 33 (lunes)**: primera sesión de **rehabilitación** de Marcie en el Creston (tres veces por semana; cita ya puesta en la carpeta del alta).
@@ -66,7 +66,8 @@
 - **Dra. Vivian Kerr** — **disparador por condición:** cuando el tema de la amputación del brazo de Megan salga entre Megan y Marcie **delante de Vera**, Vera la menciona por iniciativa propia. Kerr no opera en la primera consulta, exige oír el motivo en boca de quien se opera y detecta a quien empuja desde fuera. Si Megan llega a ir, **la presentación la hace Vera y nadie entra en la sala**.
   - → es escena y su ficha no tiene voz registrada: **abrir ficha antes de narrarla**.
 
-- **Sin iniciativa pendiente:** Emma Campbell _(archivada)_, Sloane, June, Diane, Cora, y **Tori** — que además **no tiene ninguna vía de comunicación acordada** hasta ~Día 77 (ni protocolo ni parpadeos: solo reacciona a visitas, ver `tori.md`). Diane sí puede reportar por su cuenta sobre la rutina de Tori.
+- **Sin iniciativa pendiente:** Rachel, Sophie, Dana, Vera, Claire, Megan, Emily, Mills, Jude, Hannah, Sloane, June, Diane, Cora y Emma Campbell _(archivada)_. Ninguno escribe ni aparece por su cuenta; entran en escena por presencia (están donde está Marcie) o porque Marcie los busca.
+  - **Tori** — tampoco tiene iniciativa, y además **no tiene ninguna vía de comunicación acordada** hasta ~Día 77 (ni protocolo ni parpadeos: solo reacciona a visitas, ver `tori.md`). Diane sí puede reportar por su cuenta sobre la rutina de Tori.
 
 ### Hitos pasados (referencia)
 

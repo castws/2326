@@ -72,6 +72,7 @@ Cirujana del Creston Medical Center. Llevó la **feminización corporal completa
 ---
 
 ## Citas memorables
+
 - "Y de la primera te tengo que hablar antes de tocarte, porque no es como las de los otros días y no te la voy a colar como si lo fuera." _(Día 30)_
 - "'Lo correcto' no existe aquí, y si lo dejamos en que es lo correcto, mañana no sabrás si lo hiciste porque querías o porque te lo puse como si fuera parte del alta." _(Día 30)_
 - "Eso me lo tiene que decir ella." _(cuando Mark contesta por Hobbs — Día 30)_
@@ -83,8 +84,9 @@ Cirujana del Creston Medical Center. Llevó la **feminización corporal completa
 > Entradas anteriores (5) en [mills-historial.md](mills-historial.md).
 
 ## Momentos con Marcie
+
 - **Evaluación de eyaculación con estímulo visual** (Día 29, escenas 181-182): encuadra la petición de Mark como dato clínico legítimo y se desviste por completo, mandando salir a la enfermera. Reconoce que se excita con él, dejando claro que no cambia el procedimiento. Hace pasar a Hobbs como "segundo estímulo" y la dirige con el mismo tono con el que dicta medidas. Clímax a los 13:04. Después termina ella con los dedos de Hobbs, se viste y se va a su siguiente paciente.
-- **Evaluación final planteada de frente** (Día 30, escenas 196-198): avisa antes de tocarlo de que esta no es como las anteriores. Deja claro que lo que propone no es procedimiento, no va en la carpeta y no condiciona el alta. Corrige de plano lo de "lo correcto", corta a Mark cuando contesta por Hobbs y sostiene el límite de Hobbs por ella. **Pierde por primera vez en siete días la capacidad de dictar constantes en voz alta.**
+- **Evaluación final planteada de frente** (Día 30, escenas 196-198): avisa antes de tocarlo de que esta no es como las anteriores. Deja claro que lo que propone no es procedimiento, no va en la carpeta y no condiciona el alta. Corrige de plano lo de "lo correcto", corta a Mark cuando contesta por Hobbs y sostiene el límite de Hobbs por ella. **Pierde por primera vez en siete días la capacidad de dictar constantes en voz alta.** Disfrutó la evaluación de penetración y le gustaría volver a hacerlo y no tiene problema en proponerlo durante la próxima revisión, se siente orgullosa de su trabajo.
 - **Retirada de vendajes** (Día 30, escena 199), con Hobbs asistiendo. Mide y confirma la talla de senos: **85 de banda, 106 de contorno, copa D**, simetría correcta, sin induración.
 - **Dispositivos y alta** (Día 30, escenas 201-204): monta ella misma la ortesis completa, la barra de abducción y la férula peneana, dictando cada paso; vuelve a por dos correas de velcro "que se le quedaban". Dirige la primera puesta en pie y los primeros pasos con muletas, avisando de la hipotensión ortostática y frenando el alarde. Firma el alta a las 11:00 y deja su contacto directo, no el del hospital.
 

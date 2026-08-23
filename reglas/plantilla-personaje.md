@@ -10,8 +10,13 @@ Dos niveles. El nivel se elige por la relevancia del personaje, no por el detall
 descrito en una escena suelta:
 
 - **Nivel A — ficha breve:** figurantes, contactos de una escena, personajes de fondo con nombre.
-- **Nivel B — ficha completa:** núcleo permanente y activos en el arco actual. Un personaje de
-  nivel A se asciende a nivel B en el momento en que empieza a tener arco propio.
+- **Nivel B — ficha completa:** quien tenga arco propio, presente o en marcha. Un personaje de
+  nivel A se asciende a nivel B en el momento en que empieza a tenerlo.
+
+El nivel de la ficha no tiene nada que ver con los grupos de `characters.md` (`Activos` /
+`Archivados`), que solo dicen si el personaje puede volver a escena. Al crear una ficha, añadir
+además su línea al índice: ficha mínima ≤ 200 caracteres + sub-bullet `_Dónde:_` ≤ 80 con su
+ubicación habitual (y el horario si no es trivial).
 
 ---
 

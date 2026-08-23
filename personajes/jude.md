@@ -61,7 +61,7 @@ Tres años mirando el techo le han dado tiempo para pensar con precisión. Obser
 
 ## Relaciones
 
-- **Cora — hermana y cuidadora.** 26 años aparentes, cabello castaño claro a los hombros, constitución delgada, cara cansada con una sonrisa fácil que tarda un poco en llegar. **Sin pene.** Amiga de Megan. Lleva tres años cuidándola sola, sin pareja y sin red de apoyo. No se queja ni habla de cómo está ella.
+- **[Cora](cora.md) — hermana y cuidadora.** 26 años aparentes, cabello castaño claro a los hombros, constitución delgada, cara cansada con una sonrisa fácil que tarda un poco en llegar. **Sin pene.** Amiga de Megan. Lleva tres años cuidándola sola, sin pareja y sin red de apoyo. No se queja ni habla de cómo está ella.
   - **Protectora con los momentos de intimidad y cuidado de Jude:** no deja pasar a un visitante durante el baño u otras rutinas expuestas sin insistencia o una razón. No es fría ni hostil, pero hay una duda visible antes de acceder.
   - Le reveló a Mark (Día 27) que **le pesa no tener con quién hablar de esto**: la gente con la que habla es de Jude, no suya.
   - **Sin dispositivo de seguimiento ocular:** existen aparatos que permitirían a Jude comunicarse sin depender de que alguien sostenga la tabla, pero **Cora no tiene el dinero** para uno.

@@ -24,7 +24,8 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - **Solo añadir.** Nunca consolidar, condensar ni archivar escenas en un checkpoint — un checkpoint jamás toca `scene_log_archive.md` ni resume un día ya escrito (eso es exclusivo de `/close-session`).
 
 3. **Actualizar solo las secciones de `state.md` que hayan cambiado**:
-   - **"Día actual":** ubicación de Marcie y su estado, que es lo que decide qué fichas se cargan
+   - **"Día actual":** ubicación de Marcie y su estado
+   - **"Fichas a abrir":** dejarlo apuntando a quien esté delante de Marcie **ahora mismo**, con el motivo entre paréntesis. Es lo que se cargará si la sesión se corta aquí; `ninguna` es válido
    - "Eventos programados" y "Hilos latentes" si surgió o se consumió alguno
    - **El estado físico de cualquier otro personaje NO va aquí:** va al `## Estado actual` de su ficha `personajes/<nombre>.md`. `state.md` no lleva bloques de personaje
    - No reescribir lo que no cambió
@@ -36,10 +37,10 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - No duplicar contenido ya guardado.
 
 5. **Fichas de personajes — toque ligero**:
-   - Si apareció un personaje nuevo: crear `personajes/<nombre-kebab>.md` con la ficha completa (incluyendo **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**) y añadir su línea al índice `characters.md`.
+   - Si apareció un personaje nuevo: crear `personajes/<nombre-kebab>.md` con la ficha completa (incluyendo **Voz / Tics de habla**, **Citas memorables** y **Momentos con Mark**) y añadir su línea a `## Activos` en `characters.md`, con su sub-bullet `_Dónde:_`.
    - Si hubo un cambio permanente en un personaje existente: actualizar los campos descriptivos en **su** archivo `personajes/<nombre>.md` (y su ficha mínima en el índice si cambió).
    - Si en lo recién ocurrido apareció una **cita memorable** clara o un **tic de habla** nuevo y evidente, añadirlo (1 línea cada uno) en el archivo del personaje. Si no es evidente, dejarlo para `/close-session`.
-   - **No** añadir entradas a "Momentos con Marcie", **no consolidar la ventana de escenas, no desbordar nada a `-historial.md` y no mover personajes de grupo** en checkpoints — eso queda para el cierre.
+   - **No** añadir entradas a "Momentos con Marcie", **no consolidar la ventana de escenas, no desbordar nada a `-historial.md`, no revisar el `Dónde` de nadie y no archivar a nadie** en checkpoints — eso queda para el cierre.
 
 6. **Confirmar al usuario** con un mensaje breve de una línea:
 
