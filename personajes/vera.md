@@ -84,6 +84,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **[Dra. Vivian Kerr](kerr.md)** — la conoce desde hace años del ambiente BDSM de la ciudad: cirujana privada con consultorio propio, que practica **modificaciones corporales electivas**, amputaciones incluidas. No son amigas; es una conocida profesional a la que respeta y de la que sabe que trabaja en serio.
 - **[Dana](dana.md)** — a Dana le gustaría que Vera la ayudara a masturbarse, pero no tiene excusa práctica porque no es paciente suya. **Vera no lo sabe.**
 - **[Jude](jude.md)** — **no se conocen todavía.** Cuando la conozca, sentirá atracción hacia ella y hacia su situación (inmovilización total permanente, pasado BDSM activo). El sentimiento será mutuo en cuanto Jude sepa que a Vera le gusta el BDSM y la inmovilización. **Se desarrollará de forma gradual.**
+- **[Hobbs](hobbs.md)** — **no se conocen todavía.** Marcie quiere presentárselas. **Condición de Vera: hablar con Hobbs a solas antes de nada** — quiere que decida informada, no que se la entreguen. Idea de fondo: que Hobbs trabaje de enfermera en la mansión ayudándola, y que Vera sea su maestra en el BDSM.
 
 ---
 
@@ -107,6 +108,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 ---
 
 ## Citas memorables
+
 - "¿Esto es de enfermera o es lo otro?" _(aplicando el protocolo de registros por primera vez — Día 31)_
 - "Eso ya te lo dije anoche y no lo voy a repetir cada vez que te lo pongas. Pero sí. Y hoy más que ayer, porque ayer la llevabas porque tocaba y hoy la llevas porque la has pedido tú." _(Día 31)_
 - "No es el camisón. Hace ocho días te estaba cambiando las vendas de la cara y no podías mover un dedo. Ayer fue la primera vez que te pusiste de pie y hoy es la segunda. Eso es lo que ves en el espejo." _(Día 31)_
@@ -119,6 +121,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 > Entradas anteriores (6) en [vera-historial.md](vera-historial.md).
 
 ## Momentos con Marcie
+
 - **Conversación sobre conservar los aparatos** (Día 30): le gustaría. Distingue que el hierro en sí le da igual porque sostiene, deja caminar y se lo puede quitar Marcie; **lo que le interesa es lo que no devuelve nada a cambio**. Tras el ajuste de los dos registros, le basta con verla por la casa llevándolo porque le apetece.
 - **El yeso a cuatro patas** (propuesta de Marcie, registro BDSM): piernas con las **rodillas a 90°** y brazos con los **codos a 90°**, para tener que moverse por la casa a cuatro patas. Le interesa y lo dice sin rodeos. Duración por ahora: **dos o tres días**. Condiciones suyas: días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas de apoyo** — a las dos horas apoyada en cuatro puntos, rodillas y codos se destrozan por dentro del yeso.
 - **Día 31, mañana (escenas 235-237):** la desmontó para dormir y por la mañana se lo monta todo de nuevo, retirando la barra de abducción según tocaba. Cuando Marcie le pide **volver a ponerle la barra solo porque quiere**, antepone el dato y la atornilla igual; después **aplica el protocolo de registros y pregunta en cuál se hace**. Al vestirla trae prendas contadas y da el criterio práctico primero. **Corrige el halago de Marcie sin adornarlo.** En el desayuno **calcula el ángulo de la silla de Sophie antes de frenar las ruedas** y da de comer a ella y a Rachel alternando, **sin comentar el reparto ni una vez**.

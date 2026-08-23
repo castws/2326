@@ -34,16 +34,17 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
      2. **Solo después** se condensa a Nivel 2 la copia que se queda en `scene_log.md`.
      3. Todo día que salga de Nivel 2 se **borra** de `scene_log.md` — no se archiva nada, su verbatim ya está en el archivo desde el paso 1.
      - **Comprobación previa e innegociable:** nunca condensar un día que no esté ya copiado en el archivo. Verificarlo contando escenas antes de tocar nada; el archivo solo crece y **jamás recibe una versión resumida**.
-     - Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen de ≤ 130 caracteres; si falta, añadirla. No sacar de Nivel 1 escenas a las que aún apunte un evento de "Eventos programados" o "Próximos pasos".
+     - Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen de ≤ 130 caracteres; si falta, añadirla. No sacar de Nivel 1 escenas a las que aún apunte un evento de "Eventos programados", un hilo de "Hilos latentes" o una entrada de "Sin cerrar".
 
 4. **Actualizar `state.md`**:
    - **"Día actual":** ubicación de Marcie (es lo que decide qué fichas se cargan en la próxima sesión), su estado y el próximo momento a narrar.
    - Estado físico actualizado (yesos, amputaciones, prótesis, vendajes) y estado relacional si cambió.
-   - **Solo tienen bloque los personajes que se cargan** (los de la mansión y los del arco activo). Al mover a alguien al grupo "latentes" en el índice, **borrar su bloque de `state.md`** volcando su contenido vivo en el `## Estado actual` de su ficha. Un personaje cuya ficha no se carga no puede ocupar espacio aquí.
-   - Cada bloque, **telegráfico y de ≤ 8 líneas**: ubicación, estado físico activo, hilos abiertos con condición, decisiones pendientes. Fuera: historia de escenas, matices de carácter y ajustes ya consumidos — eso vive en la ficha.
+   - **`state.md` NO lleva bloques de personaje.** Su contenido es exactamente: `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —única sin ficha propia— y `## Sin cerrar`. Nada más.
+   - **Todo estado de personaje va al `## Estado actual` de su ficha**, esté donde esté y se cargue o no. Si alguien cambió de estado en la sesión, se edita su ficha; **nunca se crea un bloque en `state.md`**, ni siquiera para los de la mansión o el arco activo: su ficha ya se abre por ubicación o por evento, así que el bloque solo duplicaría peor lo que ya está cargado.
+   - Lo único que puede tirar de un personaje hacia `state.md` es **una iniciativa suya** → va a "Hilos latentes" con su tarjeta de voz y mecánica, o **un plazo** → va a "Eventos programados".
    - **"Hitos pasados":** añadir la línea del día, **≤ 130 caracteres**.
    - **"Hilos latentes":** actualizar los disparos consumidos (poner el nuevo "Último: Día N" y recalcular el vencimiento) y añadir los hilos nuevos que hayan surgido.
-   - Sección "Pendiente / Próximos pasos" con los hilos más inmediatos; retirar los ya consumidos.
+   - **"Sin cerrar":** hilos abiertos que no son iniciativa de nadie y que solo mueve Marcie. Retirar los ya consumidos. No repetir aquí nada que ya esté en "Eventos programados" o "Hilos latentes".
 
 5. **Actualizar el mundo** si durante la sesión se estableció algo nuevo y permanente. Cada tipo de cambio va a su archivo:
    - **Lugar nuevo descrito con detalle** (edificio, local, zona, casa): crear su ficha `escenarios/<nombre-kebab>.md` con el formato habitual (campos de cabecera, secciones `##`, y una sección final **`## Reglas de continuidad`**) y añadir su línea al índice de escenarios de `world.md`.
@@ -64,7 +65,7 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - **Mantener el índice (`characters.md`):** el roster está agrupado **por ubicación** (En la mansión / En la ciudad — arco activo / Bajo demanda / En la ciudad — latentes / Archivados), porque es la ubicación la que decide qué se carga. Actualizar la ficha mínima —**≤ 200 caracteres**, sin actualizaciones de estado en negrita— de quien haya cambiado de sitio o de condición, y mover de grupo a quien corresponda. Mover de grupo es solo mover la línea; la ficha no se corta ni se pega.
    - **Pregunta obligatoria al pasar a alguien al grupo "latentes":** antes de moverlo hay que contestar por escrito **¿queda algo que este personaje haga por iniciativa propia?**
      - **Sí** → entrada en `state.md` → "Hilos latentes", con disparador explícito (cadencia + último disparo, condición, o fecha) y **tarjeta de voz y mecánica** suficiente para ejecutarlo sin abrir la ficha.
-     - **No** → escribirlo tal cual: `sin iniciativa pendiente`.
+     - **No** → añadir su nombre a la línea agrupada `- **Sin iniciativa pendiente:** ...` al final de "Hilos latentes". Basta el nombre; solo se añade texto si hay una **restricción negativa** que evite un error al narrar (por ejemplo, que no tenga vía de comunicación).
      - **No se puede pausar a nadie sin contestar esta pregunta.** Registrar una iniciativa como si fuera estado ("X y Z lo están intentando") es exactamente el fallo que deja mudo a un personaje durante semanas.
 
 7. **Guardar el transcript de la sesión**:

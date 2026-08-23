@@ -82,7 +82,7 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 
 - Antes de narrar una acción física de un personaje con discapacidad/inmovilización establecida (alcanzar algo, girar la cabeza, moverse, hablar), verificar contra su ficha en `personajes/<nombre>.md` que la acción es compatible con su estado actual — no asumir capacidades no descritas.
 - No trasladar automáticamente una mecánica de un personaje (protocolo de comunicación, tic de habla, dispositivo) a otro personaje distinto, aunque la situación se parezca (por ejemplo, varios personajes mudos). Cada mecánica debe estar explícitamente establecida en la ficha propia del personaje en cuestión.
-- Hechos de cronología o estado ya fijados (duración de una relación, orden de un procedimiento médico, dependencia física) se verifican en `state.md` antes de narrarlos; no se improvisan siguiendo patrones genéricos si ya existe un dato establecido.
+- Hechos de cronología ya fijados se verifican en `state.md` → Cronología, y los de estado de un personaje en su `## Estado actual` de `personajes/<nombre>.md`, antes de narrarlos; no se improvisan siguiendo patrones genéricos si ya existe un dato establecido.
 - Rasgos o estados activos para la escena actual (mudez con sonidos no verbales, vergüenza sostenida, tics de habla) se mantienen presentes en cada beat de una escena larga, no solo se mencionan una vez al principio.
 - Las convenciones de worldbuilding marcadas como norma social abierta en este documento o en `world.md` (pene en mujeres, moda de exposición, vehículos autónomos, etc.) **nunca** generan sorpresa, comentario o extrañeza en ningún personaje — ni siquiera en personajes nuevos o de fondo. Reservar la sorpresa genuina solo para elementos que resultarían inusuales para los propios personajes dentro de su vida cotidiana (una habitación de yesos privada en una casa, la escala de la mansión, etc.), nunca para normas sociales ya establecidas como parte del mundo.
 - **Ningún personaje aparte de Mark y Claire** conoce ni menciona la tecnología real oculta del mundo (curación en horas, reversibilidad total de modificaciones corporales, año real, naturaleza robótica, cifras de población mundial). Para ellos, las fracturas y cirugías se tratan y recuperan como en 2026: yesos reales de semanas, amputaciones permanentes, cirugías con recuperación gradual real. Ver `world.md` → "Percepción de los personajes sobre el mundo".
@@ -173,6 +173,7 @@ Un personaje puede tener algo que hacer por iniciativa propia —escribir, llama
 - **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Marcie). El contenido de una ficha **nunca se mueve de archivo**: un personaje cambia de grupo solo moviendo su línea en el índice.
 - **`personajes/<nombre>-historial.md`** — desbordamiento histórico. Cuando una ficha supera **~8 KB**, las entradas antiguas de `## Momentos con Marcie` y `## Citas memorables` —las dos únicas secciones que crecen sin techo— se mueven aquí en orden cronológico y verbatim. La ficha conserva lo que sigue siendo operativo para narrarla hoy (orientativo: ≤ 1,5 KB por sección) más un puntero al historial. **Estos archivos no se cargan nunca al inicio.**
 - **`reglas/plantilla-personaje.md`** — el formato de las fichas: dos niveles (breve / completa), orden fijo de secciones y campos físicos que **nunca se omiten** (altura, forma de los labios, medidas del pene en fláccido y erecto, condición física). Regla clave: **no se crean bloques `## Día N` en las fichas** — lo ocurrido se reparte entre las secciones que ya existen, y el detalle escena a escena vive en `scene_log.md`.
+- **`state.md`** — **no contiene bloques de personaje.** Solo `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —la única sin ficha propia— y `## Sin cerrar`. El estado de cualquier otro personaje vive en el `## Estado actual` de su ficha, se cargue o no: duplicarlo aquí solo produce dos versiones del mismo dato que se desincronizan.
 - **`characters.md`** — índice/roster agrupado **por ubicación**: **En la mansión**, **En la ciudad — arco activo**, **Bajo demanda** (Claire), **En la ciudad — latentes** y **Archivados**. Cada línea: nombre enlazado + ficha mínima de **≤ 200 caracteres** (apariencia clave + condición física + ubicación). Nada de actualizaciones de estado en negrita: eso va a `state.md` si es un hilo abierto, a la ficha si es permanente, y a "Hilos latentes" si es una iniciativa.
 - **Mover de grupo** (se mantiene en `/close-session`): cuando un personaje latente entra en escena → su línea pasa al grupo de la ubicación donde está. Cuando un arco cierra → su línea pasa a "latentes", **y en ese mismo momento hay que contestar si le queda alguna iniciativa** (ver `/close-session`).
 
@@ -210,7 +211,7 @@ Topes por archivo, verificados al final de `/close-session`. Superarlos no es un
 
 | Archivo | Tope |
 |---|---|
-| `state.md` | 30 KB — bloque por personaje ≤ 8 líneas; solo los que se cargan |
+| `state.md` | 20 KB — Cronología + bloque de **Marcie** + Hilos latentes + Sin cerrar; **ningún otro bloque de personaje** |
 | `scene_log.md` | 55 KB — 1 día verbatim + 3 condensados, archivando antes de condensar |
 | `characters.md` | 6,5 KB — una línea ≤ 200 caracteres por personaje |
 | `personajes/<nombre>.md` | 8 KB — el exceso histórico va a `-historial.md` |
@@ -219,7 +220,7 @@ Topes por archivo, verificados al final de `/close-session`. Superarlos no es un
 
 Los personajes en arco muy activo (hoy Vera con 14,7 KB y Hobbs con 13,5 KB) quedan por encima de los 8 KB cuando lo que les sobra es contenido **operativo** —voz, mecánica, relaciones, ajustes vigentes— y no histórico. Eso es aceptable: el tope que manda entonces es el de la carga total.
 
-**Medición real (Día 32, ubicación mansión):** 170,6 KB ≈ 50k tokens, frente a los 345 KB ≈ 101k tokens del esquema anterior. Una sesión que arranque en la ciudad carga ~156 KB.
+**Medición real (Día 32, ubicación mansión):** 162,3 KB ≈ 47k tokens, frente a los 345 KB ≈ 101k tokens del esquema original. Una sesión que arranque en la ciudad carga ~148 KB.
 
 ## Inicio de sesión
 

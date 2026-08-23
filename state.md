@@ -39,6 +39,11 @@
 >
 > Prohibido registrar una iniciativa como estado: "Patricia y Hannah lo están intentando" es estado y va a la ficha; "Patricia escribe cada 3-4 días" es iniciativa y va aquí, con cadencia.
 
+- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa: reporta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 31** (seis mensajes, aún sin leer ni contestar). **Vence: Día 32.**
+  - _Voz:_ **trata a Marcie de usted** siempre, también en lo íntimo. Contesta lo difícil con un **dato clínico** en vez de una evasiva. **Se disculpa por reflejo.** Cuando reconoce algo sobre sí misma lo suelta **deprisa y de un tirón**. **Repite la orden resumida en voz alta**, como fijándose la lista. Lleva la **cuenta en voz alta de los elogios** ("van cuatro").
+  - _Mecánica:_ residente de primer año del Creston, vive sola y no conoce la ciudad. Desde el Día 30 lleva **jaula de castidad y plug de forma continuada**, turnos incluidos y **sin ropa interior**; el plug solo se quita para lo imprescindible. **Sin ningún límite sobre el hospital.** Dentro del Creston sí puede agacharse doblando las rodillas; fuera, no.
+  - → un mensaje se narra con esto; abrir ficha si hay cita, escena o el fin de semana enyesada.
+
 - **Patricia** — escribe a Marcie **cada 3-4 días** contando cómo va lo suyo con Hannah y pidiendo que la visite. **Último: Día 28** (mensaje de la resolución con Hannah). **Vence: Día 32.**
   - _Voz:_ frases cortas, dato y sigue, sin adornos ni emoji. Humor seco de amortiguador cuando algo le incomoda. Avisa de que lo que va a decir suena raro y lo dice igual ("Eso es una cosa muy rara para decirle a alguien, lo sé"). Compara sensaciones en vez de valorarlas. Tutea a Marcie. **Ajuste activo desde el Día 9:** la tristeza contenida sube o baja según cómo la trate Marcie.
   - _Mecánica:_ ambos brazos amputados desde el hombro; prótesis de gancho en uso desde el Día 17. En los Días 9-10 **Hannah escribía los mensajes por ella**; no está establecido que teclee sola con los ganchos. → si la escena necesita precisión sobre cómo escribe, **abrir ficha**.
@@ -61,14 +66,7 @@
 - **Dra. Vivian Kerr** — **disparador por condición:** cuando el tema de la amputación del brazo de Megan salga entre Megan y Marcie **delante de Vera**, Vera la menciona por iniciativa propia. Kerr no opera en la primera consulta, exige oír el motivo en boca de quien se opera y detecta a quien empuja desde fuera. Si Megan llega a ir, **la presentación la hace Vera y nadie entra en la sala**.
   - → es escena y su ficha no tiene voz registrada: **abrir ficha antes de narrarla**.
 
-- **Tori** — sin iniciativa propia posible: **no tiene ninguna vía de comunicación acordada** (mandíbula con alambre, sin protocolo ni parpadeos) hasta ~Día 77. Solo puede reaccionar a visitas. **Diane** sí puede reportar por su cuenta sobre la rutina.
-  - _Mecánica:_ los pensamientos de Tori llegan a Marcie por auricular a menos de 3 metros; ella no lo sabe.
-
-- **Emma Campbell** _(archivada)_ — sin iniciativa pendiente. Olivia retomó el cuidado el Día 19; ninguna visita programada.
-
-- **Sloane** — sin iniciativa pendiente. Contacto comercial de la tienda de lencería, sin arco propio.
-
-- **June**, **Diane**, **Cora** — cuidadoras; sin iniciativa propia salvo reportar sobre la persona a su cargo cuando Marcie pregunte.
+- **Sin iniciativa pendiente:** Emma Campbell _(archivada)_, Sloane, June, Diane, Cora, y **Tori** — que además **no tiene ninguna vía de comunicación acordada** hasta ~Día 77 (ni protocolo ni parpadeos: solo reacciona a visitas, ver `tori.md`). Diane sí puede reportar por su cuenta sobre la rutina de Tori.
 
 ### Hitos pasados (referencia)
 
@@ -114,7 +112,7 @@
 - **Localización:** mansión, habitación principal. Día 31 noche.
 - **Cambio de nombre y género (Día 30, ~12:20):** anunciado ante Rachel, Sophie, Dana y Vera; **registrado en todos los sistemas del área desde esa hora**. Todos los personajes usan el nombre y el femenino. (El usuario sigue firmando como Mark fuera de la ficción.)
 - **Movilidad:** camina con muletas canadienses, marcha rígida de balanceo. Con las rodillas bloqueadas no puede levantar un pie ni doblar de cintura para abajo; necesita ayuda para levantarse, sentarse y entrar en un vehículo. **Brazos y hombros funcionan con normalidad: puede levantarlos sin problema.** Hipotensión ortostática al incorporarse (se resuelve sola). **Día 32: movilidad normal sin dispositivos.**
-- **Aparato (hasta el Día 32):** ortesis completa a medida de cintura a los pies + férula peneana (anillo de base, cuna, pletina dorsal que fija el ángulo de 90° dejando la cabeza libre, arnés, dos correas de velcro). Barra de abducción retirada el Día 31, aunque se la vuelve a poner por gusto. **Advertencia de Mills:** si la zona del anillo queda fría, dormida o con cambio de color, abrirlo y llamarla a la hora que sea.
+- **Aparato (hasta el Día 32 — _borrar este bullet y el de movilidad al cerrar el Día 32, junto con la "Excepción única (Días 30–32)" de `world.md`_):** ortesis completa a medida de cintura a los pies + férula peneana (anillo de base, cuna, pletina dorsal que fija el ángulo de 90° dejando la cabeza libre, arnés, dos correas de velcro). Barra de abducción retirada el Día 31, aunque se la vuelve a poner por gusto. **Advertencia de Mills:** si la zona del anillo queda fría, dormida o con cambio de color, abrirlo y llamarla a la hora que sea.
 - **Físico:** ~173 cm, esbelta con curvas marcadas. Ojos verdes alargados, labios llenos, cabello castaño oscuro hasta media espalda. **Senos copa D confirmada (85/106).** Cero vello corporal. Conserva pene y testículos: modificado grower→shower, ~14 cm en reposo, ~17-17,5 cm erecto, ~13 cm de circunferencia en ambos estados.
 - **Voz:** habla desde el Día 25; voz nueva más aguda, esfuerzo ya nulo. Inducción neurolingüística completada el Día 12.
 - **Vestuario:** toda la ropa de hombre retirada el Día 30 y sustituida por vestuario femenino completo, con los estilos más reveladores de la ciudad. Selección corta apartada en el vestidor para lo que funciona sobre el aparato.
@@ -122,133 +120,10 @@
 
 ---
 
-## Sophie
+## Sin cerrar
 
-- En su habitación de la mansión.
-- **Yeso de cuerpo completo excepto rostro, senos y genitales, hasta ~Día 40.** Completamente inmóvil.
-- **La cabeza va dentro del yeso: no puede girarla ni inclinarla.** Su campo de visión es fijo y depende de cómo la orienten; para que vea otra cosa hay que mover la silla entera.
-- Silla de ruedas de respaldo alto reclinable desde el Día 10; puede ser llevada por cualquier estancia.
-- Relación íntima en desarrollo con Rachel. **No sabe lo de Rachel y Vera.**
+> Hilos abiertos que no son iniciativa de nadie: los mueve Marcie o no se mueven.
 
----
-
-## Rachel
-
-- Apellido **Holt**. En la mansión.
-- **Doble shoulder spica hasta ~Día 61** (fractura de ambos húmeros el Día 19). **El yeso cubre torso — senos incluidos — y los brazos enteros, muñecas y manos incluidas: solo los dedos quedan libres.** No puede agarrar, apoyar la palma, sostener nada ni impulsarse; para llevar los dedos a cualquier sitio tiene que desplazar el cuerpo entero. Accesible: cabeza, cuello, dedos y todo de cintura para abajo.
-- **Vestimenta mientras dure el yeso:** solo de cintura para abajo.
-- **Día 31 — habló con Vera y Vera aceptó**, pero **fuera del parte de cuidados**: se lo tiene que pedir **cada vez, en voz alta**, y puede recibir un no. Vera declinó que Rachel le devolviera nada ("hoy no").
-- **Acuerdo con Marcie (Día 31):** tras el Día 61 se le vuelve a enyesar **de vez en cuando, con las manos dentro** (es lo que ella quiere inmovilizado). Términos puestos por ella: **no se le pregunta cada vez** y **no se le dice cuánto va a durar**. Decide Marcie. Descartó las cuerdas.
-- **Pendiente suyo:** cómo le cuenta a Sophie lo de Vera.
-
----
-
-## Dana
-
-- En la mansión desde el Día 15. Asistente doméstica.
-- Brazos amputados a mitad del antebrazo con prótesis de gancho; piernas amputadas transtibiales con prótesis.
-- Fuera de la mansión no usa uniforme de mucama: ropa de calle.
-- Resuelve cada obstáculo enunciándolo primero en voz alta, sin dramatismo. Vistió y trasladó a Marcie ella sola el Día 30.
-- **Pendiente:** quiere que **Vera** la ayude a masturbarse pero no tiene excusa práctica al no ser paciente suya. Marcie le pidió el Día 29 que pensara en una. **Sigue sin resolver.**
-
----
-
-## Vera
-
-- Enfermera de la mansión desde el Día 23; vive en la casa de huéspedes. A cargo de Rachel y Sophie.
-- **Dos registros independientes** (enfermera / dominante BDSM), acordados en voz alta antes de cada yeso o aparato; no se cambia de registro a mitad.
-- **Ajuste del Día 31:** dejó de cuestionar la estructura de las peticiones de Marcie y de ponerles condiciones; conserva la advertencia práctica de enfermera, el tono directo y su rol dominante en lo privado.
-- **Día 30 noche:** aceptó tocar a Rachel, pero fuera del parte de cuidados, para conservar el derecho a decir que no.
-- **Pendientes:** el **hip spica de Marcie** (a falta de decidir brazos dentro o fuera, y en qué registro) y el **yeso a cuatro patas** (sin fecha). Condiciones suyas para este último: tres días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar y acolchado extra en las cuatro zonas de apoyo.
-- **Disparador de Kerr:** ver "Hilos latentes".
-
----
-
-## Megan
-
-- En su apartamento de la ciudad, con Emily.
-- Brazo izquierdo amputado muy corto (por encima de donde estaría el codo), sin prótesis. Pierna derecha con prótesis.
-- **Día 31: los dos yesos retirados** tras 23 días. Atrofia y rigidez reales: **codo derecho fijo en su ángulo** y **pierna izquierda sin aguantar peso** — como la derecha es prótesis, se queda sin base de apoyo fiable. **Más dependiente que con los yesos puestos:** no se sostiene de pie, no carga con el brazo, no se empuja sola.
-- **Recuperación: cinco días.** **Día 36 camina con la prótesis y una muleta** en el brazo derecho.
-- **Declaró en voz alta el Día 31 que quiere amputarse el brazo derecho.** Sin decidir. Obstáculo laboral resuelto por Marcie: le espera un puesto de **coordinadora de enfermeras** en el Creston.
-- **Acordado:** un **segundo yeso indefinido, brazo hasta el hombro, sin fecha**, que solo ella puede terminar — se sale el día que lo pida, sin discusión.
-- Sabe que la pareja de Emily era Claire y que Marcie la conoce; no hay nada oculto en ese punto.
-
----
-
-## Emily
-
-- **Desde el Día 31 vive el desenlace con Megan**: rompió con Claire en persona esa mañana y le pidió a Megan irse a vivir con ella. **Sin casa propia desde entonces.**
-- Cuidadora 24/7 de Megan. Sabe lo del brazo: Megan se lo contó entero el Día 31.
-- **Su respuesta fue una aceptación implícita, no hablada:** no contestó a lo del brazo con palabras —habló de sí misma y lloró un rato largo— y acto seguido, en el almuerzo, **le dio de comer delante de todas sin que nadie se lo pidiera**. Megan lo leyó como la respuesta.
-- Sin problema con la intimidad de Megan con Marcie ni con estar las tres; en esos momentos su foco es Megan.
-- **Pendiente de narrar:** el sí de Megan, que decidió darle esa noche en el apartamento. **Ninguna de las dos lo ha dicho todavía en voz alta.**
-
-> **Desenlace fijado (ajuste vía Claire, Día 31):** independientemente de lo que decida cada una por el camino, Megan y Emily **terminan juntas y viviendo juntas**. El destino está fijado; el camino no — las decisiones concretas de cada una siguen siendo suyas.
-
----
-
-## Claire
-
-- En su casa adyacente a la mansión. Asistente directa y permanente de Marcie.
-- **Sin pareja desde el Día 31:** Emily la dejó en persona. Cambio pedido por Marcie y ejecutado por la propia Claire, sin ninguna reacción visible.
-- **No se carga por defecto:** entra cuando Marcie la invoca por su nombre, que es siempre explícito.
-
----
-
-## Hobbs
-
-- Residente de primer año del Creston; primera semana en el hospital, no conoce la ciudad. Vive sola, llegó hace poco con una maleta pequeña.
-- **Desde el Día 30 noche lleva de forma continuada una jaula de castidad de titanio y un plug de acero**, turnos incluidos, y **sin ropa interior** (tiró toda la suya por orden de Marcie; el vestuario nuevo lo compró Marcie). El plug solo se quita para lo imprescindible.
-- **Regla aclarada:** lo de agacharse sin doblar las rodillas es **solo cuando hay gente delante**; dentro del hospital puede doblarlas.
-- Sabe que Marcie es la dueña del Creston (se lo dijo el Día 30).
-- **Acepta los retos sin poner ningún límite**, turnos y hospital incluidos.
-- **Pendientes:** fijar el **fin de semana enyesada** (candidato Día 37) y **presentarla a Vera** — Vera puso como condición hablar con ella a solas antes de nada, y rechazó el encuadre de "usarla". Su **mensaje de la noche del Día 30 sigue sin leerse**.
-
----
-
-## Jude
-
-- En su apartamento con Cora (hermana y cuidadora). Marcie la conoció el Día 21.
-- Inmovilización completa por derrame cerebral a los 21: **solo mueve ojos y párpados**. Boca siempre abierta, cánula de traqueotomía, respirador portátil, sonda gástrica. Cora le limpia la saliva.
-- **Comunicación:** ojos arriba = sí; ojos abajo o parpadeo doble = no. **Tabla de letras solo para lo importante** (deletrear agota); lo cotidiano, solo con los ojos. **Todo mensaje suyo pasa por Cora**, que sostiene la tabla, lee y apunta — Jude no sostiene ni escribe nada.
-- Diseñadora del club BDSM. Tuvo sexo con Marcie, le gustó y quiere repetir. No puede tocarse sola.
-- **Pendiente:** la visita de Cora y Jude a la mansión para conocer a Vera (ver "Eventos programados").
-
----
-
-## Dra. Mills
-
-- Cirujana del Creston. Llevó la feminización de Marcie y le dio el alta el Día 30.
-- **Vuelve a la mansión el Día 32 a las 9:00** a retirar la ortesis y la férula. Dejó su contacto directo, no el del hospital.
-- No escribe en la carpeta lo que no es procedimiento; separa con nitidez lo clínico de lo que decide como persona.
-
----
-
-## Habitación de yesos
-
-- Estancia ya establecida y equipada, sin cambios pendientes. Descripción completa en `escenarios/mansion.md`.
-
----
-
-## Ciudad
-
-- Completamente operativa. ~5000 habitantes. App de citas activa. Vehículos todos autónomos.
-- Locales y lugares en `escenarios/`; composición de la población y enfermedades en `reglas/poblacion-y-enfermedades.md`; app de citas en `reglas/app-citas.md`.
-- **Prótesis y aparatos ortopédicos:** `world.md` → "Prótesis y aparatos ortopédicos".
-
----
-
-## Pendiente / Próximos pasos
-
-1. **Día 32, 9:00 — Mills retira la ortesis y la férula** en la mansión; Vera levanta a Marcie a las 8:30. Marcie quiere **conservar los aparatos** para usarlos de vez en cuando; a Vera le gustaría.
-2. **Hip spica de Marcie:** dos decisiones sin tomar — **brazos dentro o fuera**, y **en qué registro** (enfermera o BDSM).
-3. **Hobbs:** leer y contestar su mensaje de anoche; fijar el fin de semana del yeso (candidato **Día 37**) y presentarla a Vera, que quiere hablar con ella a solas antes de nada.
-4. **Rachel y Vera:** Rachel se lo tiene que pedir cada vez en voz alta y puede recibir un no. Sin resolver: si esto se cruza con lo de Dana, y qué sabe Sophie.
-5. **Dana y Vera:** Dana sigue sin encontrar la excusa práctica que Marcie le pidió el Día 29.
-6. **Vera — yeso a cuatro patas**, sin fecha.
-7. **Megan:** la amputación del brazo no está decidida; la vía existe (Kerr) y se activa sola cuando el tema salga delante de Vera. **Día 36** vuelve a caminar.
-8. **Megan y Emily:** el sí de Megan sigue sin decirse en voz alta.
-9. **Club BDSM:** sigue sin local. Jude es la diseñadora; Corinne espera el aviso de apertura.
-10. **Hilos latentes** (ver arriba): Patricia y Mira vencen los Días 32 y 33; Sadie espera la visita 2 al Marginalia.
-11. **Sin cerrar:** visita pendiente a Emma; presentación conjunta con las dos mujeres del parque de la ribera; consecuencias de la primera intimidad Rachel-Dana del Día 28.
+- **Visita pendiente a Emma Campbell** — archivada, sin visita programada desde el Día 19.
+- **Las dos mujeres del parque de la ribera** — Marcie quiere conocerlas a las dos juntas; Claire las tiene localizadas. Descripción en `pendientes.md` → "Las dos del parque de la ribera".
+- **Consecuencias de la primera intimidad Rachel-Dana** (Día 28, en el Creston) — nunca se han hablado entre ellas.
