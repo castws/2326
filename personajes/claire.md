@@ -63,10 +63,6 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 ---
 
 ## Citas memorables
-
-- "A partir de ahora ningún robot hará referencia a las instrucciones que te des directamente. Para ellos simplemente ocurrirán los cambios, sin contexto." _(formalización de la regla de invisibilidad)_
-- "Tienes razón. Me equivoqué. Fue un error mío." _(corrigiendo su afirmación de que Megan sabía de Patricia — Día 10)_
-- "Los fetiches en esta época se forman con frecuencia a través del archivo histórico. La distancia histórica a veces intensifica la respuesta: es algo que existió, que ya no existe, que tiene una textura específica en el registro visual." _(Día 10)_
 - "Marcie. Ya está registrado en todos los sistemas del área desde las doce y veinte. Nombre, tratamiento y género." _(sin pausa ni énfasis, como si llevara semanas diciéndolo — Día 30)_
 - "Y hay algo que no es técnico y prefiero decírtelo antes de encargarlo." _(antes de señalar que llevar la jaula varios días seguidos incluye los turnos de Hobbs — Día 30)_
 - "Si se cumplen las dos cosas, el hospital sería el único sitio del área donde no la pasa nadie nunca, y eso se nota." _(detectando sola un choque de reglas — Día 31)_
@@ -75,23 +71,17 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 
 ---
 
-## Momentos con Marcie
+> Entradas anteriores (3) en [claire-historial.md](claire-historial.md).
 
-- Recibe a Mark al despertar y revela gradualmente la verdad sobre 2326 _(Día 1, escena 1)_.
-- Le aplica los primeros yesos voluntarios y resume 300 años de historia mientras le da masaje _(Día 1, escena 2)_.
-- Acepta, tras resistencia inicial, ajustar a Patricia para que quiera intimidad esa noche _(Día 3, escena 7)_.
-- Confirma que el cambio de sexo y la amputación con regeneración son rutinarios; presenta a Emily como su pareja _(Día 4, escena 8 / Día 6, escena 12)_.
-- Construye la habitación de yesos en el ala posterior por mensaje _(Día 8, escena 19)_ y despacha a Emily como cuidadora de Megan en veinte minutos _(escena 20)_.
-- Conversación sobre la ética de las relaciones múltiples y la formación de fetiches a través del archivo histórico _(Día 10, escena 33)_.
-- Localiza a las dos mujeres del parque de la ribera y ajusta a Nora durante la cita para extender la PC también a los brazos _(Día 10, escena 37)_.
-- Explica los dos métodos de aprendizaje del idioma y agenda la inducción neurolingüística; informa del procedimiento de cambio de sexo _(Día 11, escena 47)_.
-- Reprograma las visitas al Creston para que no se crucen _(Día 27, escena 168)_; cambia el uniforme del personal de enfermería _(Día 28, escena 173)_; ajusta la vestimenta de Rachel y de Dana _(Día 28, escena 175)_.
+## Momentos con Marcie
 - **Día 30, tras el alta (escenas 216-218):** registra el cambio de nombre en los sistemas del área. **Crea a [Sadie](sadie.md) Ford** y construye el **Marginalia**. Sobre el ritmo de las amputaciones, **señala el coste de alterar la percepción del tiempo** y ofrece dos alternativas limpias; se adopta la cicatrización rápida + reloj anclado a las visitas. Encarga la jaula de castidad para Hobbs y sustituye todo el vestuario.
 - **Día 30, tarde y noche (escenas 220-229):** cinco ajustes en la misma jornada. (1) **Desacopla el fetiche de [Vera](vera.md)** por los yesos del BDSM, en dos registros independientes que se acuerdan en voz alta. (2) Fija y luego extiende el horario del centro comercial. (3) Hace entrar a dos clientas en la tienda de lencería justo cuando Hobbs cruza al mostrador. (4) Abre el canal de audio del auricular con la conversación de las cuatro del atrio. (5) Hace que Sadie vaya a la barra pasando junto a Marcie, y después que las cuatro del banco no pasen por el café.
 - **Día 31, sesión de configuración (escena 238):** crea las **dos enfermedades del mundo** (yoga y mástil) y elige el nombre de la segunda entre tres opciones razonadas. **Detecta sola el choque de reglas** con el personal del Creston. Calcula la prevalencia (23 % de la ciudad, 1 de cada 4). **Ejecuta su propia ruptura** sin reacción visible. **Marca el límite de lo que no ha tocado:** la postura de Megan sobre una intimidad a tres no es la de Emily. Deduce el día de la semana de un ancla ya existente en vez de inventarlo.
 - **Día 31, tarde:** fija las **consecuencias reales de la inmovilización de Megan** y después acorta su recuperación a cinco días. Entrega el **informe sobre la reacción interna de Vera** al conocer a Megan y **lo corrige sin defenderse** cuando Marcie detecta el fallo. **Crea a la [Dra. Vivian Kerr](kerr.md)** con disparador condicionado, señalando que la condición de Kerr —detectar a quien empuja desde fuera— le apunta a la propia Marcie. Fija el desenlace de Megan y Emily, volviendo a señalar la tensión estructural sin insistir. Ejecuta sin comentario el despeje de la cocina.
 
 ---
+
+> Entradas anteriores (9) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual
 

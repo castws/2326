@@ -163,3 +163,14 @@ Si algo no encaja en ninguna sección, es señal de que pertenece a `scene_log.m
 3. `Genitales`, `Cuerpo` y `Condición física` están rellenos, incluidos los negativos.
 4. `Estado actual` es la última sección y está al día.
 5. La ropa descrita en `Vestimenta habitual` es un estilo, no el conjunto de un día concreto.
+
+---
+
+## Tope de tamaño y desbordamiento a historial
+
+Una ficha vive para **narrar al personaje hoy**, no para acumular su historia. Las dos únicas secciones que crecen sin techo son `## Momentos con Marcie` y `## Citas memorables`.
+
+- **Tope orientativo de la ficha: ~8 KB.** Al superarlo, mover las entradas **más antiguas** de esas dos secciones a `personajes/<nombre>-historial.md`, en orden cronológico y verbatim.
+- En la ficha se quedan las que siguen siendo operativas (orientativo: **≤ 1,5 KB por sección**), más el puntero final `> Entradas anteriores (N) en [nombre]-historial.md`.
+- **`-historial.md` no se carga nunca al inicio de sesión.** Se abre solo si hace falta un detalle antiguo concreto.
+- Un personaje en arco muy activo puede quedar por encima de los 8 KB si lo que le sobra es contenido **operativo** (voz, mecánica, relaciones, ajustes vigentes) y no histórico. El tope que manda en ese caso es el de la carga total de inicio (`CLAUDE.md` → "Presupuesto de contexto").

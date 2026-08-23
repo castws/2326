@@ -1,63 +1,58 @@
 # Índice de Personajes
 
-Roster de personajes. La ficha completa de cada uno vive en `personajes/<nombre>.md`. Aquí
-solo está el índice con una **ficha mínima** (apariencia clave + condición física +
-estado/ubicación) y el enlace a su archivo.
+Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí solo el enlace y una **ficha mínima de una línea** (apariencia clave + condición física + ubicación).
 
-**Niveles de carga:**
+**Cómo se decide qué se carga:** por **ubicación**, no por importancia. Al inicio de sesión se abren las fichas de quien esté en la ubicación actual de Marcie (`state.md` → "Día actual"), más quien tenga evento programado para hoy. Nada más.
 
-- **Núcleo permanente** y **Activos en el arco actual** → se leen al inicio de cada sesión
-  (este índice + sus archivos).
-- **En pausa** → NO se cargan al inicio. Abrir el archivo del personaje **en el momento en que
-  entra en escena** y mover su línea a "Activos en el arco actual".
-- **Archivados** → NO se cargan salvo que Mark pida explícitamente reincorporar al personaje.
+- La línea de este índice **no basta para narrar**: identifica, no da voz. Quien tenga que actuar por iniciativa propia lleva además su paquete ejecutable en `state.md` → **"Hilos latentes"**.
+- Un **mensaje, llamada corta o mención** se narra con la línea del índice + su hilo latente. Una **entrada en escena de verdad** (diálogo sostenido, presencia física, intimidad) exige abrir la ficha.
+- Si al disparar un hilo el paquete no basta, **se abre la ficha y punto**. Nunca se improvisa una mecánica física.
 
-Mover a un personaje entre niveles es **solo mover su línea de este índice**: su archivo de
-ficha no se toca nunca.
+Mover a alguien de grupo es **solo mover su línea**: su ficha no se toca nunca.
+
+> **Nota:** desde el Día 30 (~12:20) la protagonista es **Marcie** (antes Mark). Registrado en todos los sistemas del área; todos los personajes usan el nombre y el femenino.
 
 ---
 
-## Núcleo permanente _(se carga al inicio)_
+## En la mansión _(se cargan si la escena transcurre allí)_
 
-> **Nota:** desde el Día 30 (~12:20) el protagonista es **Marcie** (antes Mark). Cambio registrado en todos los sistemas del área; todos los personajes usan el nombre y el femenino.
+- **[Rachel](personajes/rachel.md)** — robot, mucama (Holt). Rubia de pelo largo. Doble shoulder spica hasta ~Día 61: torso, brazos y manos dentro, solo los dedos libres. Relación con Sophie.
+- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo hasta ~Día 40, cabeza incluida: no puede girarla. Silla reclinable. Relación con Rachel.
+- **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (ganchos) y piernas transtibiales (prótesis). Desde el Día 15.
+- **[Vera](personajes/vera.md)** — robot, enfermera. 29, rubia, delgada. Sin discapacidad. Dominante BDSM en privado, fetiche por yesos. A cargo de Rachel y Sophie. Casa de huéspedes.
 
-- **[Claire](personajes/claire.md)** — robot, asistente principal de Marcie. ~35 años, castaña, serena. Escucha siempre, ejecuta las órdenes de Marcie y ajusta a los demás robots. Vive en casa adyacente. **Sin pareja desde el Día 31: Emily la dejó por Megan, en persona; cambio pedido por Marcie y ejecutado por la propia Claire sin reacción visible.**
-- **[Rachel](personajes/rachel.md)** — robot, mucama (apellido: Holt). Rubia pelo largo. **Doble shoulder spica hasta ~Día 61: el yeso cubre torso (senos incluidos), brazos, muñecas y manos — solo los dedos libres.** Accesible: cabeza, dedos y de cintura para abajo. En la mansión. Relación con Sophie. **Día 31: habló con Vera y Vera aceptó, fuera del parte de cuidados — se lo tiene que pedir cada vez en voz alta. Acuerdo con Marcie: yesos periódicos tras el Día 61, con las manos dentro, sin avisar ni dar fechas.**
-- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo hasta ~Día 40; **el yeso incluye cabeza y cuello — solo el rostro, los senos y los genitales quedan libres. No puede girar la cabeza: su campo de visión es fijo y depende de cómo la orienten.** Silla de ruedas reclinable. En la mansión. Relación con Rachel. No sabe lo de Rachel y Vera.
-- **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (antebrazo, ganchos) y piernas (transtibial, prótesis). Se incorporó el Día 15. En la mansión; vistió y trasladó a Marcie ella sola el Día 30. **Pendiente: su excusa para pedirle ayuda a Vera.**
+## En la ciudad — arco activo _(se cargan si la escena los incluye)_
 
-## Activos en el arco actual _(se carga al inicio)_
+- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene funcional; brazo izq. amputado muy corto, pierna der. con prótesis. Sin apoyo fiable hasta el Día 36. Su apartamento, con Emily.
+- **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan. Sin casa propia desde el Día 31. Sin discapacidad.
+- **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
+- **[Jude](personajes/jude.md)** — robot. Cabello negro, tatuajes, 24. Derrame a los 21: inmovilización total, solo ojos. Traqueotomía, respirador, sonda. Apartamento con Cora.
+- **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Marcie. Va a la mansión el Día 32 a las 9:00.
 
-- **[Vera](personajes/vera.md)** — robot, enfermera de la mansión. 29 años, rubia, delgada. Dominante BDSM en su vida privada; fetiche por yesos e inmovilización. A cargo de Rachel y Sophie desde Día 23 tarde. Vive en la casa de huéspedes. **Dos registros independientes (enfermera / dominante) que se acuerdan en voz alta antes de cada yeso. Día 30 noche: aceptó tocar a Rachel, pero fuera del parte de cuidados, para conservar el derecho a decir que no. Día 31: retiró los yesos de Megan y le mencionó a la Dra. Kerr; si Megan llega a ir, la presentación la hace Vera y nadie entra en la sala. Hip spica de Marcie pendiente de dos decisiones: brazos dentro o fuera, y en qué registro. Yeso a cuatro patas pendiente de fecha.**
-- **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Mark y le dio el alta el Día 30. **Vuelve a la mansión el Día 32 (domingo) a las 9:00** a retirarle la ortesis y la férula.
-- **[Megan](personajes/megan.md)** — robot ciudad. Pelirroja, pene funcional; amput. brazo izq (muy corto) + pierna der (prótesis). **Día 31: yesos retirados.** Atrofia y rigidez reales: codo derecho fijo en su ángulo, pierna izq sin aguantar peso — **más dependiente que con los yesos; no se sostiene, no se empuja sola. Recuperación: 5 días (Día 36 camina con prótesis y muleta).** En su apartamento con Emily. **Declaró en voz alta que quiere amputarse el brazo derecho; sin decidir.** Acordado un **segundo yeso indefinido, brazo hasta el hombro, sin fecha**, que solo ella puede terminar. Le espera un puesto de **coordinadora de enfermeras** en el Creston.
-- **[Emily](personajes/emily.md)** — robot, ~30 años, rubia corta. Cuidadora 24/7 de Megan. **Día 31: rompió con Claire en persona y le pidió a Megan irse a vivir con ella.** Sabe lo del brazo: Megan se lo contó entero ese mismo día. No contestó con palabras — le dio de comer delante de todas. **Sin casa propia desde hoy.** Sin problema con la intimidad de Megan con Marcie ni con estar las tres; en esos momentos su foco es Megan.
+## Bajo demanda _(nunca por defecto)_
 
-- **[Jude](personajes/jude.md)** — robot ciudad. Cabello negro, piel blanca, tatuajes. 24 años. Derrame a los 21; inmovilización total, solo ojos. Traqueotomía, respirador, sonda gástrica. Apartamento con Cora (hermana/cuidadora). Mark la conoció el Día 21. Configuración activa: tuvo sexo con Mark, le gustó y quiere repetir.
+- **[Claire](personajes/claire.md)** — robot, asistente principal. ~35, castaña, serena. Ejecuta las órdenes de Marcie. **Se abre solo cuando Marcie la invoca por su nombre.** Casa adyacente.
 
-- **[Hobbs](personajes/hobbs.md)** — robot, residente de primer año del Creston. 23-24, baja y menuda, rubio oscuro a la mandíbula, pecas, ojos azules; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Novena semana... primera semana en el hospital, no conoce la ciudad. Sumisa; arco BDSM activo. **Día 30 noche: lleva puestas de forma continuada una jaula de castidad de titanio y un plug de acero, turnos incluidos; sin ropa interior. Vestuario nuevo comprado por Marcie. Acordado un fin de semana enyesada de cuerpo entero en la mansión, fecha sin fijar.**
+## En la ciudad — latentes _(NO se cargan; su iniciativa vive en `state.md` → "Hilos latentes")_
 
-## En pausa _(NO se carga; abrir el archivo al reaparecer)_
+- **[Patricia](personajes/patricia.md)** — robot, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho. "Novia" de Marcie. Casa de Hannah, con quien lo está intentando.
+- **[Hannah](personajes/hannah.md)** — robot, cuidadora de Patricia. Morena, pene funcional, liberal sin tapujos. Su casa, en la ciudad.
+- **[Sadie](personajes/sadie.md)** — robot, escritora superventas. 22, castaña clara, estilo alternativo ceñido. Amputaciones autoinfligidas ocultas tras una "enfermedad". Escribe en el Marginalia.
+- **[Corinne](personajes/corinne.md)** — robot, 24-25, castaña muy rizada, piercing en el labio; pene con capucha rosa visible. Sin discapacidad. Espera el aviso de apertura del club BDSM.
+- **[Mira](personajes/mira.md)** — robot, 25, ojos azules. Epidermólisis bullosa: vendada entera, sin cabello ni orejas. Brazo der. amputado al codo, mano izq. sin dedos, pene a la mitad. Con June.
+- **[Tori](personajes/tori.md)** — robot. Morena, gafas gruesas; múltiples amputaciones, jaula. Spica + minerva, mandíbula con alambre y pañal hasta ~Día 77. Apartamento 204, con Diane.
+- **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. No sabe que el accidente de Tori fue simulado.
+- **[June](personajes/june.md)** — robot, hermana y cuidadora de Mira. 27, castaña oscura, reservada. Vive con Mira.
+- **[Sloane](personajes/sloane.md)** — robot, ~26, castaño rojizo en moño alto; pierna der. amputada sobre la rodilla, sin prótesis, dos muletas. Sin pene. Tienda de lencería del centro comercial.
+- **[Dra. Vivian Kerr](personajes/kerr.md)** — robot, 34, cirujana privada de modificaciones corporales electivas. Pelo negro muy corto, ojos grises, muy pálida. Creada el Día 31; aún no ha aparecido.
 
-- **[Sadie](personajes/sadie.md)** — robot ciudad, escritora (bestseller de fantasía erótica + película). 22 años, castaña clara, ojos grises. Amputaciones autoinfligidas ocultas tras una "enfermedad": los diez dedos de los pies; mano der. con pulgar/índice/meñique; mano izq. con meñique/anular y el pulgar recién amputado, vendado. Escribe a diario en el **Marginalia** (centro comercial, una sola planta), en la mesa del fondo junto a la pared de libros, de cara a la puerta. **Visita 1 consumida (Día 30 noche): cruce solo de vista en el Marginalia, sin hablarse. La visita 2 la encontrará con el índice derecho amputado.**
-- **[Corinne](personajes/corinne.md)** — robot ciudad, 24-25, castaña muy rizada, piercing en el labio; pene con capucha rosa visible bajo falda corta. Sin discapacidad. Conocida el Día 30 en el atrio del centro comercial con sus tres amigas (**Trish**, dos yesos de pierna entera; **Maddie**, brazo der. amputado bajo el codo; **Bex**, polio con dos aparatos largos y pene). Contacto tomado: espera aviso de la apertura del club BDSM.
-- **[Dra. Vivian Kerr](personajes/kerr.md)** — robot ciudad, 34, cirujana privada con consultorio propio; pelo negro muy corto, ojos grises, muy pálida. Hace **modificaciones corporales electivas** (amputaciones incluidas). Conocida de Vera del ambiente BDSM. **Creada el Día 31; aún no ha aparecido.** Entra cuando Vera la mencione (ver ficha de Vera).
-- **[Patricia](personajes/patricia.md)** — robot ciudad, ~19, castaña clara. Ambos brazos amputados desde el hombro, prótesis de gancho en uso. "Novia" de Mark. Casa de Hannah. Se besaron mutuamente con Hannah la noche del Día 26; hablaron abiertamente el Día 27 — van a intentarlo, sin nombre todavía a lo suyo. _(en pausa desde la sesión 33: sin evento programado)_
-- **[Mira](personajes/mira.md)** — robot ciudad, app de citas. 25 años, ojos azules. Epidermólisis bullosa: cuerpo completamente vendado (ojos y boca visibles), sin cabello ni orejas. Brazo der amputado al codo, opera silla eléctrica con el muñón; mano izq sin ningún dedo; pene amputado a la mitad. No puede ser penetrada (piel frágil). En su apartamento con June. Visitó a Mark en el Creston Día 28. _(en pausa desde la sesión 33: sin próxima cita)_
-- **[Sloane](personajes/sloane.md)** — robot ciudad, ~26, castaño rojizo en moño alto; pierna derecha amputada sobre la rodilla, sin prótesis, dos muletas de antebrazo. Sin pene. Dependienta del turno de noche de la tienda de lencería buena del centro comercial. Contacto comercial, sin arco propio.
+## Archivados _(NO se cargan salvo que Marcie los reincorpore)_
 
-- **[Tori](personajes/tori.md)** — robot ciudad. Morena, gafas muy gruesas (miopía severa); múltiples amputaciones/aparatos, jaula de castidad, habla con sustitución fonética. Shoulder spica + minerva, mandíbula con alambre, pañal hasta ~Día 77. Apartamento 204; Diane la cuida; pensamientos audibles para Mark por auricular.
-- **[Diane](personajes/diane.md)** — robot, enfermera cuidadora de Tori 24h. Rubia, moño. Comunicación por parpadeos. No sabe que el accidente de Tori fue simulado.
-- **[Hannah](personajes/hannah.md)** — robot ciudad, cuidadora de Patricia. Morena, pene funcional, liberal sin tapujos. Su casa. Configurada para excitarse al ayudar a Patricia; se besaron y hablaron el Día 27 — van a intentarlo, sin nombre todavía.
-- **[June](personajes/june.md)** — robot, hermana y cuidadora de Mira. 27 años, castaña oscura, reservada. Vive con Mira. Vida detenida en torno al cuidado. Mark la conoció brevemente el Día 20.
-
-## Archivados _(NO se carga salvo invocación explícita de Mark)_
-
-- **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia, tratamiento de inmovilización). Cobriza, pálida. Full body cast (cabeza/cuello libres), apertura perineal. Cama hospitalaria en su salón. Olivia retomó el cuidado (Día 19); sin visita programada desde entonces.
-- **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética. Retomó el cuidado el Día 19 tras el fin de semana de Mark.
-- **[Ivy](personajes/ivy.md)** — robot ciudad, contacto de una noche. Pelirroja, yeso en brazo izq. Conocida por Hannah en el Club Insomnia.
-- **[Lena](personajes/lena.md)** — robot, técnica de inducción lingüística. Morena. Hizo la inducción neurolingüística de Mark (Día 12). No pertenece a nadie en particular.
-- **[Ashley](personajes/ashley.md)** — robot, primera escena (hospital). Pierna der + brazo izq enyesados, accidente de bici. No ha vuelto a aparecer.
-- **[Nora](personajes/nora.md)** — robot ciudad. PC (diplejía espástica), muletas canadienses. Cita Día 10 sin química. Inactiva.
-- **[Becca](personajes/becca.md)** — robot ciudad, carpintera. Pierna der amputada bajo la rodilla. Cita Día 10 sin química. Retirada.
-- **[Reyes](personajes/reyes.md)** — robot, enfermera del turno de mañana del Creston. 27, piel morena clara, trenza negra, atlética; pene. Directa y práctica. Turnos con Mark los Días 29 y 30; lo despidió en la puerta del hospital.
+- **[Emma Campbell](personajes/emma-campbell.md)** — robot, paciente del área (claustrofobia). Cobriza, pálida. Full body cast con cabeza y cuello libres. Olivia retomó el cuidado el Día 19.
+- **[Olivia Han](personajes/olivia-han.md)** — robot, cuidadora habitual de Emma. Morena corta, atlética.
+- **[Reyes](personajes/reyes.md)** — robot, enfermera del turno de mañana del Creston. 27, piel morena clara, trenza negra, atlética; pene. Turnos con Marcie los Días 29 y 30.
+- **[Ivy](personajes/ivy.md)** — robot, contacto de una noche. Pelirroja, yeso en brazo izq. Conocida por Hannah en el Club Insomnia.
+- **[Lena](personajes/lena.md)** — robot, técnica de inducción lingüística. Morena. Hizo la inducción de Marcie el Día 12.
+- **[Ashley](personajes/ashley.md)** — robot, primera escena (hospital). Pierna der. y brazo izq. enyesados. No ha vuelto a aparecer.
+- **[Nora](personajes/nora.md)** — robot. PC (diplejía espástica), muletas canadienses. Cita del Día 10 sin química.
+- **[Becca](personajes/becca.md)** — robot, carpintera. Pierna der. amputada bajo la rodilla. Cita del Día 10 sin química.

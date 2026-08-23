@@ -86,25 +86,22 @@ Alegre, romántica, divertida. Habla de su condición sin rodeos ni drama, como 
 ---
 
 ## Citas memorables
-
-- "Llevas un rato diciendo que las cosas son diferentes. Es la primera vez que eso no suena como una disculpa." _(tras la primera intimidad — Día 19)_
-- "Creo que acabo de entender de qué habla la gente." _(tras su primer orgasmo — Día 19)_
 - "Hola, momia. Te ves bien envuelto. Casi a mi altura ya." _(saludo en el Creston, viendo el vendaje de Mark por primera vez — Día 28)_
 - "Hoy te toca solo recibir. Tú no puedes mover ni un dedo, así que esta vez no hay manos tuyas sobre mí." _(mientras lo masturba — Día 28)_
 - "Eso no es por ti. Aunque pudieras moverte, no penetro, ni recibo. Mi piel se abre con la fricción." _(aclarando lo de la penetración — Día 28)_
 
 ---
 
-## Momentos con Marcie
+> Entradas anteriores (2) en [mira-historial.md](mira-historial.md).
 
-- **Primera cita (Día 19, noche):** café del centro. Conversación larga y fluida: dibujos de ciudades, la epidermólisis bullosa explicada sin drama, y la situación sentimental de Mark aclarada desde el principio — Mira lo acepta sin rechazo ("no es un sí todavía, pero tampoco es un no"). Mark la ayuda con la tarta. Confesión recíproca sobre el baño íntimo. Acepta ir a su casa tras avisar a June.
-- **Mansión — primera intimidad (Día 19, escena 100):** Mark le retira el catéter foley y la lleva en brazos a la habitación. **Primer beso de su vida** (que no fuera June en la frente). Caricias sobre los senos y el pene vendados; oral mínimo; vibrador sobre el pene propio a intensidad mínima. **Primer orgasmo.** Duerme de lado en la cama de Mark con una almohada entre las rodillas.
-- **Desayuno en la terraza (Día 20, escenas 101-103):** Mark la ayuda a orinar con botella. Conversación sobre June — la primera vez que le pidió que la masturbara, lo del vibrador con la amiga de June, y las tres veces que June se masturbó con ella en el mismo cuarto. Segunda masturbación en las tumbonas de la piscina. Observa el baño de Mark con Dana.
+## Momentos con Marcie
 - **Mensajes post-visita (Día 20, escena 105):** Mark le dice que debería contarle a June lo que pasó. Responde que lo sabe y que necesita **un poco más de tiempo para saber qué quiere que sea real**, pero que se lo va a contar.
 - **Almuerzo y hotel (Día 23, escena 137):** segunda cita. Revela que el vestido de la primera cita fue una excepción y que normalmente no usa ropa. Mark le cuenta la cirugía de feminización; **lo acepta sin condiciones**. Intimidad en el hotel: masturbación manual mutua. Revela que **no tiene pezones** pero conserva sensibilidad en el pecho, y promete pedirle a June estar presente en una cura para que Mark la vea sin vendas.
 - **Visita al Creston (Día 28, escenas 171-172):** llega sola en su silla eléctrica, desnuda y con la sonda puesta como de costumbre. **Ve el pene de Mark por primera vez tras la cirugía** y lo toca con la palma sin dedos; Mark llega al clímax antes de lo esperado, justo cuando entra la Dra. Mills. Salida juntos a la cafetería y batido compartido. **Aclara que la imposibilidad de penetración es por su piel frágil, no por la inmovilidad de Mark.** Despedida con un beso a través de las aberturas de la boca de ambos vendajes.
 
 ---
+
+> Entradas anteriores (3) en [mira-historial.md](mira-historial.md).
 
 ## Estado actual
 

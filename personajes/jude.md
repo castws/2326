@@ -86,13 +86,8 @@ Tres años mirando el techo le han dado tiempo para pensar con precisión. Obser
 ---
 
 ## Citas memorables
-
 _(Todas por tabla de letras, salvo indicación.)_
 
-- "ME GUSTABA QUE ME ATARAN." _(sobre fetiches — Día 21)_
-- "IRÓNICO." _(cuando Mark dijo que le gusta la inmovilización — Día 21)_
-- "HACE MUCHO TIEMPO QUE NADIE ME LLAMABA HERMOSA." _(post-intimidad — Día 22)_
-- "TE CONOZCO DESDE AYER Y YA SÉ QUÉ ERES." _(post-intimidad — Día 22)_
 - Ojos arriba sostenidos, más tiempo que cualquier otro "sí" anterior _(aceptando el puesto de diseñadora del club — Día 23)_
 - "NI SIQUIERA PUEDO TOCARME SOLA." _(sobre depender de Cora para todo — Día 27)_
 - "SE NOTA BIEN ASÍ TAPADO. QUIERO VERLO DE VERDAD." _(sobre el pene vendado de Mark — Día 27)_
@@ -101,15 +96,16 @@ _(Todas por tabla de letras, salvo indicación.)_
 
 ---
 
-## Momentos con Marcie
+> Entradas anteriores (4) en [jude-historial.md](jude-historial.md).
 
-- **Primera visita (Día 21, escena 114):** Mark llega con Megan. La saluda directamente y la incluye en la conversación. Tarde larga sobre fetiches, el derrame y el BDSM; interviene con la tabla cuatro veces. Beso en la mejilla al despedirse; deletrea "VUELVES". **Primera tarde en tres años en que quiso que alguien regresara.**
-- **Centro comercial y almuerzo (Día 22, escenas 124–125):** encuentro casual. Mark le menciona el club BDSM mirándola directamente y le dice que podrá ir cuando quiera. Deletrea ideas de diseño.
+## Momentos con Marcie
 - **Primera intimidad (Día 22, escena 127):** viste el body de encaje negro de su pasado BDSM; Cora se retira. Mark le limpia la saliva con la mano y la besa manipulando la mandíbula. Indica el orgasmo con los ojos muy abiertos. Después, conversación por tabla y por ojos sobre sus gustos. Mark le promete invitarla al club y buscar la manera de que recupere su vida anterior. **Jude llora.** Cora le agradece que le hubiera preguntado a Jude directamente.
 - **Visita durante el baño — oferta del club (Día 23, escena 139):** Mark llega sin avisar mientras Cora la baña desnuda; Cora solo accede ante la insistencia. Le cuenta la cirugía de feminización; Jude confirma con los ojos que no le importa. Caricias con fantasía verbal sobre ser "usada" por clientes del futuro club. **Le ofrece el puesto de diseñadora y acepta.** Cora ofrece llevarla al hospital a visitarlo.
 - **Visita al Creston (Día 27, escenas 164-167):** se establece que reserva la tabla solo para lo importante. Deletrea "NI SIQUIERA PUEDO TOCARME SOLA" al oír a Cora admitir que la masturba desde hace tiempo. **Presente durante la evaluación de eyaculación de la Dra. Mills** — la vista que había pedido—, observando todo el proceso fijamente. Mark propone que Vera ayude a cuidarla y acuerdan la visita a la mansión. Despedida: Cora acerca la mejilla de Jude a la de Mark para el beso, porque él no puede moverse.
 
 ---
+
+> Entradas anteriores (2) en [jude-historial.md](jude-historial.md).
 
 ## Estado actual
 

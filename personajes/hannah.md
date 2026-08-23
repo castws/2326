@@ -42,3 +42,12 @@
 - Desayuno del día 10; comenta que Mark se fue con buena cara por escrito (escribiendo por Patricia) _(Día 10, escena 31)_.
 - Club Insomnia: encuentra a Ivy (cabello rojo, yeso en brazo izquierdo) en la barra; intimidad simultánea con ella en el reservado mientras Mark y Patricia están en el mismo sofá. Pasan la noche juntas en casa de Hannah _(Día 14, escena 67)_.
 - **Día 17:** masturbó a Patricia por primera vez a petición de Mark. Fue bien. Patricia pidió repetirlo. Hannah reconoce que no es solo algo práctico. Configurada por Claire para excitarse al ayudar a Patricia.
+
+---
+
+## Estado actual
+
+- En su casa, en la ciudad. Cuida de [Patricia](patricia.md) durante su recuperación.
+- **Con Patricia:** se besaron el Día 25 (impulso suyo, no hablado) y el Día 26 (ella correspondió, más largo); el Día 27 hablaron abiertamente — Patricia le dijo que también siente algo por Marcie y Hannah respondió que no hace falta que las dos cosas encajen de forma perfecta. **Van a intentarlo, sin nombre todavía.**
+- Reconoce que lo que siente al ayudar a Patricia no es solo disposición práctica. Configurada por Claire para excitarse al ayudarla (activo desde el Día 17).
+- Sin evento programado _(latente)_.

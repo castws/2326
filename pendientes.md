@@ -4,8 +4,6 @@
 
 - Pedirle a Claire que cree a la amiga de Megan y al personaje que es adicta a las amputaciones
 - Pedirle a Claire que modifique el transfondo de Hobbs, ella viene de una ciudad donde no se usan pesoneras, ni capuchas para el pene, ni faldas cortas. La ropa es muy clásica.
-- Pedirle a Claire que cree la jaula de castidad para Hobbs
-- Visita al centro comercial. Comprarle a Hobbs ropa interior, ropa sexy y jaula de castidad. Ella estará con la jaula hasta que yo se la quite
 - Abrir hueco en el pecho del yeso de Rachel
 - Pedirle a Vera que me haga un DSS y salir con Rachel
 

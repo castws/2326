@@ -82,12 +82,6 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 ---
 
 ## Citas memorables
-
-- "Mi erección siempre pide algo más. La pregunta es qué quieres hacer al respecto." _(en la tumbona junto a la piscina — Día 8)_
-- "No me reconozco. En el buen sentido." _(viéndose en el espejo con la nueva ropa — Día 11)_
-- "Tú estás aquí veinte minutos cada ciertos días. Ella está aquí cuando me despierto y cuando me duermo." _(sobre la diferencia entre Mark y Emily — Día 14)_
-- "Creo que llevo mucho tiempo siendo muy autosuficiente porque no me quedaba otra. No porque lo prefiriera." _(explicando por qué querría no tener brazos — Día 19)_
-- "Joder. Es verdad. Se me había ido completamente. Eso ya me dice algo de cómo estoy con esto, ¿no?" _(al recordar que era el día de quitarse los yesos — Día 29)_
 - "Me dio más miedo que no le importara que si me hubiera dicho que se iba." _(sobre la reacción de Emily — Día 29)_
 - "Me esperaba reconocerte menos. Y te reconozco en la cara, aunque la cara sea otra." _(viendo el cuerpo nuevo de Marcie por primera vez — Día 31)_
 - "Al principio pensé que lo que me gustaba era el yeso. Y no. Lo que me gusta es lo de después." _(Día 31)_
@@ -97,18 +91,9 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 
 ---
 
-## Momentos con Marcie
+> Entradas anteriores (5) en [megan-historial.md](megan-historial.md).
 
-- Primera cita (versión solo brazo, sin química); Mark pide a Claire reset con amputaciones diferentes _(Día 7, escena 14)_.
-- Segunda cita: cena, encuentro con Rachel y Sophie en el sofá, copas en la biblioteca, intimidad en la habitación principal _(Día 8, escena 15)_.
-- Mañana en la piscina, masturbación mutua bajo el agua y **revelación del fetiche por los yesos** _(Día 8, escena 16)_.
-- Baño con Rachel y aplicación de los yesos en la cocina _(Día 8, escenas 17 y 18)_.
-- Tarde enyesada en la ciudad; después, en su apartamento: penetración contra la pared del pasillo y decisión de **quedarse dos semanas enyesada** con Emily como cuidadora _(Día 8, escenas 19 y 20)_.
-- Mark la masturba en silencio mientras Emily cocina a pocos metros _(Día 9, escena 27)_; sexo desde atrás con Mark sujetando ambos muñones _(Día 10, escena 35)_.
-- Emily la baña en cama con Mark presente; erección completa durante el aseo, ninguna lo comenta _(Día 11, escena 41)_. Después, intimidad con Mark, que le masajea el muñón del brazo izquierdo durante el clímax _(escena 42)_.
-- Mark la viste con la nueva moda y salen al centro comercial, con erecciones en público _(Día 11, escenas 43-44)_.
-- Narra a detalle lo ocurrido con Emily durante el aseo y dice que **no la detendrá si vuelve a pasar** _(Día 14, escena 66)_.
-- **Conversación sobre amputación voluntaria** (Día 19, escenas 93-94): admite que querría no tener brazos incluso sin Emily como razón, y no descarta llegar a no tener brazos ni piernas. Marcie ofrece comprar el hospital. Extiende los yesos a ~Día 29 y pide los próximos más largos.
+## Momentos con Marcie
 - Acompaña a Mark a visitar a Jude. En el vehículo de vuelta: "hoy eligió mirarte". Después: "¿Y si decido quedarme sin brazos y ella igual se va?" — no termina la frase _(Día 21, escena 115)_.
 - **Visita a Mark en el Creston** tras la cirugía, traída por Emily. Reconoce que solo insinuó sus sentimientos y se compromete a hablarlo esa noche, en orden: sentimientos, luego yesos voluntarios, y la amputación para después _(Día 25, escena 150)_.
 - **Llamada del Día 26:** relata la conversación con Emily. Acuerdan el plan de retirada de yesos y la conversación a tres.
@@ -116,6 +101,8 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 - **Día 31 (mansión, escenas 239–252):** primera vez que ve el cuerpo nuevo de Marcie; pide permiso para mirarla y le devuelve la pregunta. Erección de Marcie dentro de la férula mientras la toca; acepta sin insistir que hoy no. **Elige que le quiten el brazo primero.** Ve su propio brazo atrofiado y el codo fijo ("parece el de otra persona"). **Dice en voz alta por primera vez que quiere amputarse el brazo derecho**, con sus dos obstáculos; Marcie le resuelve el del trabajo y Vera le da el otro a medias. Acuerdan el **segundo yeso indefinido**. Rechaza que Marcie fije un plazo secreto y rechaza quedarse en la mansión mientras Emily duerme sola. Cierra el día contándole todo a Emily y decidiendo darle el sí.
 
 ---
+
+> Entradas anteriores (10) en [megan-historial.md](megan-historial.md).
 
 ## Estado actual
 

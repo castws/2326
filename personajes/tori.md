@@ -108,12 +108,6 @@ Es una situación **frustrante y profundamente aislante** para ella: no tiene fo
 ---
 
 ## Citas memorables
-
-- "Mo foy um momfpguo." _(frase de apertura al entrar al restaurante — Día 13)_
-- "Me gufa cómo fuema cuamdo camimo." _(explicando el pegleg — Día 13)_
-- "Madie me habíam befado ampef." _(tras el primer beso — Día 13)_
-- "Ef doyog y ef opga cofa. Yof dof jampof." _(sobre la jaula — Día 13)_
-- "Mo me habíam dicho efo ampef. Que ye gufpaba, quiego decig." _(cuando Mark dice que le excita mirarla — Día 14)_
 - "Mmm... mmracias." _(al despedirse Mark del hospital, casi ininteligible — Día 14)_
 - _[pensamiento vía auricular]_ "Nadie me había tocado así. Sin intentar ponerme algo encima. Solo tocarlo." _(cuando Mark le acaricia el muñón del tobillo — Día 15)_
 - _[pensamiento vía auricular]_ "No me importa nada ahora mismo. El pañal, el yeso, la jaula. Nada. Solo esto." _(después del clímax compartido — Día 15)_
@@ -122,20 +116,17 @@ Es una situación **frustrante y profundamente aislante** para ella: no tiene fo
 
 ---
 
-## Momentos con Marcie
+> Entradas anteriores (5) en [tori-historial.md](tori-historial.md).
 
-- **Primera cita en el restaurante:** conversación sobre sus condiciones sin lástima. Tori ríe varias veces _(Día 13, escena 57)_.
-- Llegada a la mansión, conoce a Sophie. **Primer beso** _(Día 13, escena 58)_.
-- **Primera intimidad:** desvestida, penetración, clímax con dolor de la jaula. **Primera vez en todo** _(Día 13, escena 59)_.
-- Duermen juntos; Mark le quita el gancho _(Día 14, escena 60)_. Por la mañana masturba a Sophie con el gancho y desayunan en la terraza _(escena 61)_.
-- **Intimidad en la piscina:** Mark la carga y la sostiene flotando; clímax de los dos _(Día 14, escena 62)_.
-- **Accidente simulado:** cae al volver de la cocina y las paramédicas la llevan al hospital _(Día 14, escena 63)_.
+## Momentos con Marcie
 - Primera visita al hospital: yesos extensos, pañal descubierto, dos mujeres entran por error, película en la cama, Mark le cambia el pañal _(Día 14, escenas 64-65)_.
 - **Día 15 en su apartamento (escenas 74-78):** Mark le lee *Claustrofobia*; masaje en el pie paralizado y el muñón del tobillo (**primera vez que la tocan sin propósito funcional**); intimidad anal completa con los pensamientos escuchados vía auricular; clímax simultáneo. Después: defeca involuntariamente en el pañal y Mark lo cambia con gestos de asco; **paseo al parque sin ropa, solo con el pañal**, con vecinas presentes y vergüenza extrema. De vuelta, Mark le regala el vibrador; Diane lo inserta y Tori activa por error el nivel 4 sin poder apagarlo.
 - **Visita del Día 23 (escena 138):** Mark activa el auricular al llegar. Le muestra el cuerpo sin aparatos ni prótesis y la acaricia; **vergüenza marcada por la presencia de Diane**. Le cuenta la cirugía de feminización. Vibrador anal más masturbación a través de la jaula; eyaculación retenida. Mark le seca las lágrimas y la invita a visitarlo en el hospital.
 - **Visita al Creston, Día 27 (escenas 158-161):** Diane la lleva con el vibrador sin que ella lo supiera. Jaula al descubierto delante de Diane; vibrador escalado por niveles con caricias directas. **Eyacula al entrar el equipo de enfermeras, por la impresión de ser vista** — primera semilla cumplida del fetiche por la exposición. Presente durante la cura diaria de Mark y su primera evaluación de erección. Despedida afectuosa, con sus pensamientos llegando por el auricular hasta que la distancia corta la señal.
 
 ---
+
+> Entradas anteriores (6) en [tori-historial.md](tori-historial.md).
 
 ## Estado actual
 

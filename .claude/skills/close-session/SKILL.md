@@ -29,13 +29,21 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - Si se inició un nuevo día narrativo, añadir una sección nueva
    - Cada escena debe tener un título breve y un párrafo de resumen con los hechos principales
    - Al final del archivo, actualizar o añadir la línea de estado final: **"La conversación termina aquí, [descripción precisa del momento]"** y **"Próximo paso pendiente: [lo que estaba a punto de ocurrir o quedó acordado]"**
-   - **Consolidar la ventana:** tras añadir las escenas nuevas, mover a `scene_log_archive.md` (verbatim, en orden cronológico) las escenas que queden fuera de la ventana activa (día actual + ~7 días previos). Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen; si falta, añadirla. No archivar escenas a las que aún apunte un evento de "Eventos programados" o "Próximos pasos".
+   - **Consolidar la ventana (orden obligatorio, nunca invertir):** `scene_log.md` tiene dos niveles — **Nivel 1 verbatim** (el día narrativo actual, escena por escena) y **Nivel 2 condensado** (~3 días anteriores, un párrafo por medio día, sin diálogo ni detalle sensorial). Al consolidar:
+     1. Todo día que salga de Nivel 1 se **copia verbatim e íntegro a `scene_log_archive.md`** en ese momento, en orden cronológico.
+     2. **Solo después** se condensa a Nivel 2 la copia que se queda en `scene_log.md`.
+     3. Todo día que salga de Nivel 2 se **borra** de `scene_log.md` — no se archiva nada, su verbatim ya está en el archivo desde el paso 1.
+     - **Comprobación previa e innegociable:** nunca condensar un día que no esté ya copiado en el archivo. Verificarlo contando escenas antes de tocar nada; el archivo solo crece y **jamás recibe una versión resumida**.
+     - Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen de ≤ 130 caracteres; si falta, añadirla. No sacar de Nivel 1 escenas a las que aún apunte un evento de "Eventos programados" o "Próximos pasos".
 
 4. **Actualizar `state.md`**:
-   - Ubicación actual de cada personaje relevante
-   - Estado físico actualizado (yesos, amputaciones, prótesis, vendajes)
-   - Estado emocional o relacional si cambió significativamente
-   - Sección "Pendiente / Próximos pasos" con los 2-4 hilos más inmediatos
+   - **"Día actual":** ubicación de Marcie (es lo que decide qué fichas se cargan en la próxima sesión), su estado y el próximo momento a narrar.
+   - Estado físico actualizado (yesos, amputaciones, prótesis, vendajes) y estado relacional si cambió.
+   - **Solo tienen bloque los personajes que se cargan** (los de la mansión y los del arco activo). Al mover a alguien al grupo "latentes" en el índice, **borrar su bloque de `state.md`** volcando su contenido vivo en el `## Estado actual` de su ficha. Un personaje cuya ficha no se carga no puede ocupar espacio aquí.
+   - Cada bloque, **telegráfico y de ≤ 8 líneas**: ubicación, estado físico activo, hilos abiertos con condición, decisiones pendientes. Fuera: historia de escenas, matices de carácter y ajustes ya consumidos — eso vive en la ficha.
+   - **"Hitos pasados":** añadir la línea del día, **≤ 130 caracteres**.
+   - **"Hilos latentes":** actualizar los disparos consumidos (poner el nuevo "Último: Día N" y recalcular el vencimiento) y añadir los hilos nuevos que hayan surgido.
+   - Sección "Pendiente / Próximos pasos" con los hilos más inmediatos; retirar los ya consumidos.
 
 5. **Actualizar el mundo** si durante la sesión se estableció algo nuevo y permanente. Cada tipo de cambio va a su archivo:
    - **Lugar nuevo descrito con detalle** (edificio, local, zona, casa): crear su ficha `escenarios/<nombre-kebab>.md` con el formato habitual (campos de cabecera, secciones `##`, y una sección final **`## Reglas de continuidad`**) y añadir su línea al índice de escenarios de `world.md`.
@@ -50,9 +58,14 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - **Personaje existente que intervino:** editar **su** archivo en `personajes/`. Si cambió algo permanente (física, relación con Mark, etc.), actualizar los campos descriptivos en `## Apariencia` o `## Relaciones`. Enriquecer las tres secciones existentes:
      - **Voz / Tics de habla:** añadir muletillas, fórmulas o tonos nuevos detectados en esta sesión que no estuvieran ya capturados.
      - **Citas memorables:** añadir 1-3 líneas verbatim de la sesión que capturen la voz del personaje, con etiqueta corta de contexto entre paréntesis. Si la sección llega a 6-7 citas, sustituir las menos representativas en lugar de acumular indefinidamente.
-     - **Momentos con Mark:** añadir el o los hitos compartidos en esta sesión, cada uno con referencia a la escena recién registrada (formato `(Día N, escena M)`).
+     - **Momentos con Marcie:** añadir el o los hitos compartidos en esta sesión, cada uno con referencia a la escena recién registrada (formato `(Día N, escena M)`).
+     - **Desbordamiento a historial:** si al terminar la ficha supera **~8 KB**, mover las entradas más antiguas de `## Momentos con Marcie` y `## Citas memorables` a `personajes/<nombre>-historial.md` (creándolo si no existe), en orden cronológico y verbatim. En la ficha se quedan las que siguen siendo operativas para narrarla hoy —orientativo ≤ 1,5 KB por sección— más el puntero `> Entradas anteriores (N) en [nombre]-historial.md`. Estos archivos no se cargan nunca al inicio.
    - El criterio es destilar, no transcribir: pocas líneas, alta señal. Si nada nuevo justifica añadir, no añadir.
-   - **Mantener el índice (`characters.md`):** actualizar la ficha mínima de quien haya cambiado de estado/ubicación, y **mover de nivel** a quien corresponda — promover a "Activos en el arco actual" a quien entró en escena estando en pausa; pasar a "En pausa" a quien cerró su arco o no aparecerá en las próximas sesiones. Mover de nivel es solo mover la línea del índice; la ficha en `personajes/` no se corta ni se pega.
+   - **Mantener el índice (`characters.md`):** el roster está agrupado **por ubicación** (En la mansión / En la ciudad — arco activo / Bajo demanda / En la ciudad — latentes / Archivados), porque es la ubicación la que decide qué se carga. Actualizar la ficha mínima —**≤ 200 caracteres**, sin actualizaciones de estado en negrita— de quien haya cambiado de sitio o de condición, y mover de grupo a quien corresponda. Mover de grupo es solo mover la línea; la ficha no se corta ni se pega.
+   - **Pregunta obligatoria al pasar a alguien al grupo "latentes":** antes de moverlo hay que contestar por escrito **¿queda algo que este personaje haga por iniciativa propia?**
+     - **Sí** → entrada en `state.md` → "Hilos latentes", con disparador explícito (cadencia + último disparo, condición, o fecha) y **tarjeta de voz y mecánica** suficiente para ejecutarlo sin abrir la ficha.
+     - **No** → escribirlo tal cual: `sin iniciativa pendiente`.
+     - **No se puede pausar a nadie sin contestar esta pregunta.** Registrar una iniciativa como si fuera estado ("X y Z lo están intentando") es exactamente el fallo que deja mudo a un personaje durante semanas.
 
 7. **Guardar el transcript de la sesión**:
    - Identificar el archivo de la sesión actual: el que corresponde al día de hoy (`sesion_NN_YYYY-MM-DD.md` con la fecha actual). Si hay varios del mismo día, usar el de mayor `NN`.
@@ -60,7 +73,16 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    - Añadir al final del archivo de sesión todos los intercambios de la sesión que no estén ya guardados (un checkpoint previo puede haber escrito parte), respetando el formato existente (separadores `---`, negrita para diálogos, cursiva para descripciones).
    - Actualizar el índice `conversacion_completa.md`: añadir o actualizar la fila de la sesión en la tabla con la fecha y un resumen de una línea.
 
-8. **Confirmar al usuario** con un resumen de una sola línea por archivo modificado, indicando qué cambió. Ejemplo:
+8. **Verificar el presupuesto de contexto** antes de cerrar. Medir los archivos que se cargan al inicio y avisar de cualquier tope superado (ver `CLAUDE.md` → "Presupuesto de contexto"):
+
+   ```bash
+   wc -c world.md characters.md state.md scene_log.md CLAUDE.md
+   wc -c personajes/*.md | grep -v historial | sort -n | tail -5
+   ```
+
+   Topes: `state.md` 30 KB · `scene_log.md` 55 KB · `characters.md` 6,5 KB · ficha individual 8 KB (salvo arco muy activo) · **carga total de inicio 175 KB**. Si algo se pasa, decir cuánto y por qué; no dejarlo pasar en silencio.
+
+9. **Confirmar al usuario** con un resumen de una sola línea por archivo modificado, indicando qué cambió. Ejemplo:
 
    > `escenarios/bar-central.md` — ficha nueva del bar central + línea añadida al índice de `world.md`
    > `scene_log.md` — añadidas escenas 17 y 18 (baño de Mark, yesos a Megan)
@@ -69,9 +91,9 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
    > `conversaciones/sesion_02_2026-04-30.md` — transcript completo guardado
    > `conversacion_completa.md` — sesión 02 añadida al índice
 
-9. Proponer un mensaje corto para hacer commit en git sobre la sesión que acaba de pasar.
+10. Proponer un mensaje corto para hacer commit en git sobre la sesión que acaba de pasar.
 
-10. **Terminar el roleplay** NO continuar con el roleplay.
+11. **Terminar el roleplay** NO continuar con el roleplay.
 
 ## Notas
 

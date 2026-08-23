@@ -126,23 +126,55 @@ Leer antes de comenzar, en este orden:
 
 1. `world.md`
 2. `characters.md` (el índice de personajes)
-3. Las fichas `personajes/<nombre>.md` de los personajes listados bajo **Núcleo permanente** y **Activos en el arco actual** en el índice.
-4. `state.md`
-5. `scene_log.md` (la ventana activa de escenas)
+3. `state.md`
+4. `scene_log.md` (la ventana activa de escenas)
+5. **Solo entonces**, las fichas `personajes/<nombre>.md` que la ubicación actual exija (ver abajo).
+
+### Qué fichas de personaje se cargan: por ubicación, no por importancia
+
+Lo que predice si alguien va a aparecer no es lo relevante que sea, sino **dónde transcurre la escena**. Al inicio de sesión se abren únicamente las fichas de:
+
+1. Quien esté **en la ubicación actual de Marcie** — `state.md` → "Día actual" la indica explícitamente.
+2. Quien tenga **evento programado para hoy** en `state.md` → "Eventos programados".
+3. Quien tenga un **hilo latente que venza hoy** y vaya a entrar en escena de verdad.
+
+Nada más. Si la sesión transcurre entera en el centro comercial, las fichas de la mansión no se abren; si transcurre en la mansión, no se abren las de la ciudad.
+
+**Claire nunca se carga por defecto.** Marcie siempre la invoca por su nombre antes de que actúe, así que el aviso previo está garantizado por la propia mecánica del mundo: su ficha se abre en ese momento.
 
 **No leer al inicio** (consultar solo on-demand):
 
+- Las fichas de personaje que la ubicación no exija. Abrir la de un personaje **latente** en el momento en que entra en escena de verdad, y mover su línea del índice al grupo que corresponda. Abrir la de un **archivado** solo si Marcie pide explícitamente reincorporarlo.
+- `personajes/<nombre>-historial.md`: momentos y citas antiguos ya desbordados de la ficha. Abrirlo solo si se necesita un detalle antiguo concreto de ese personaje.
 - Las fichas de escenario en `escenarios/` y las reglas extensas en `reglas/`. **Ninguna se carga al inicio.** Abrir la ficha de un escenario en el momento en que una escena ocurre allí (el índice de `world.md` basta para mencionarlo de paso), y `reglas/poblacion-y-enfermedades.md` o `reglas/app-citas.md` cuando la escena las necesite.
-- `reglas/plantilla-personaje.md`: el checklist de fichas de personaje. Abrirlo solo al **crear** un personaje nuevo o al **reorganizar** una ficha existente, nunca para narrar.
-- Las fichas de personajes bajo **En pausa** o **Archivados** en el índice. Abrir la ficha de un personaje **en pausa** en el momento en que entra en escena, y mover su línea del índice a "Activos en el arco actual". Abrir la de un **archivado** solo si Mark pide explícitamente reincorporarlo (entonces mover su línea a "Activos en el arco actual").
-- `scene_log_archive.md`: escenas antiguas (verbatim) ya consolidadas. Leerlo solo si se necesita un detalle de un día que ya no está en la ventana activa; el índice día-a-día está en `state.md` → "Hitos pasados".
+- `reglas/plantilla-personaje.md`: el checklist de fichas. Abrirlo solo al **crear** un personaje nuevo o al **reorganizar** una ficha existente, nunca para narrar.
+- `scene_log_archive.md`: escenas antiguas verbatim. Leerlo solo si se necesita un detalle de un día que ya no está en la ventana activa; el índice día-a-día está en `state.md` → "Hitos pasados".
+
+### Detalle proporcional a la aparición
+
+Una línea de `characters.md` identifica a alguien, pero **no basta para narrarlo**: no lleva voz ni mecánica. Por eso:
+
+- **Mensaje, llamada corta o mención** → línea del índice + el paquete del personaje en `state.md` → "Hilos latentes". **No se abre la ficha.**
+- **Entrada en escena de verdad** (diálogo sostenido, presencia física, intimidad) → **se abre la ficha, siempre**.
+- **Válvula de seguridad, sin excepciones:** si al disparar un hilo el paquete no basta —falta una mecánica, un dato físico, algo que el personaje sabría—, **se abre la ficha y punto**, y después se enriquece la entrada del hilo. **Nunca se improvisa una mecánica física.** El ahorro de contexto es best-effort; la continuidad no se negocia.
+
+## Hilos latentes (iniciativa de los personajes)
+
+Un personaje puede tener algo que hacer por iniciativa propia —escribir, llamar, proponer una cita, aparecer— **aunque su ficha no se cargue**. Ese encargo vive en `state.md` → **"Hilos latentes"**, que se carga siempre.
+
+- **No cargar la ficha de alguien nunca le quita la iniciativa.** El disparador vive en `state.md`; la ficha se abre solo si hace falta.
+- **Revisar "Hilos latentes" al inicio de cada sesión** y disparar los vencidos, exactamente igual que con "Eventos programados".
+- **Tres tipos de disparador, y los tres explícitos:** por **cadencia** ("cada 3-4 días" + último disparo, para poder calcular el vencimiento), por **condición** ("cuando Marcie entre al Marginalia") o por **fecha** (esos van en "Eventos programados" y no se duplican).
+- **Prohibido registrar una iniciativa como estado.** "Patricia y Hannah lo están intentando" es estado y va a la ficha. "Patricia escribe cada 3-4 días" es iniciativa y va aquí, con cadencia y último disparo.
+- **Cada entrada tiene que poder ejecutarse sin abrir la ficha**, así que lleva una tarjeta compacta de **voz** (muletillas, registro, tics) y **mecánica** (cómo escribe, cómo se mueve, qué no puede hacer). Si no se puede ejecutar con lo que hay, la entrada está incompleta.
 
 ## Estructura de la memoria de personajes
 
-- **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Mark). El contenido de una ficha **nunca se mueve**: un personaje cambia de relevancia solo moviendo su línea en el índice, no cortando y pegando su ficha.
-- **`reglas/plantilla-personaje.md`** — el formato de esas fichas: dos niveles (breve / completa), orden fijo de secciones y campos físicos que **nunca se omiten** (altura, forma de los labios, medidas del pene en fláccido y erecto, condición física). Regla clave: **no se crean bloques `## Día N` en las fichas** — lo ocurrido se reparte entre las secciones que ya existen, y el detalle escena a escena vive en `scene_log.md`.
-- **`characters.md`** — índice/roster en cuatro niveles de carga: **Núcleo permanente** (Claire, Rachel, Sophie, Dana), **Activos en el arco actual**, **En pausa** y **Archivados**. Cada línea: nombre enlazado a su archivo + ficha mínima (apariencia clave + condición física + estado/ubicación).
-- **Promover / pausar** (se mantiene en `/close-session`): cuando un personaje en pausa entra en escena → su línea pasa a "Activos en el arco actual". Cuando un arco cierra o un personaje no aparecerá en las próximas sesiones → su línea pasa a "En pausa".
+- **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Marcie). El contenido de una ficha **nunca se mueve de archivo**: un personaje cambia de grupo solo moviendo su línea en el índice.
+- **`personajes/<nombre>-historial.md`** — desbordamiento histórico. Cuando una ficha supera **~8 KB**, las entradas antiguas de `## Momentos con Marcie` y `## Citas memorables` —las dos únicas secciones que crecen sin techo— se mueven aquí en orden cronológico y verbatim. La ficha conserva lo que sigue siendo operativo para narrarla hoy (orientativo: ≤ 1,5 KB por sección) más un puntero al historial. **Estos archivos no se cargan nunca al inicio.**
+- **`reglas/plantilla-personaje.md`** — el formato de las fichas: dos niveles (breve / completa), orden fijo de secciones y campos físicos que **nunca se omiten** (altura, forma de los labios, medidas del pene en fláccido y erecto, condición física). Regla clave: **no se crean bloques `## Día N` en las fichas** — lo ocurrido se reparte entre las secciones que ya existen, y el detalle escena a escena vive en `scene_log.md`.
+- **`characters.md`** — índice/roster agrupado **por ubicación**: **En la mansión**, **En la ciudad — arco activo**, **Bajo demanda** (Claire), **En la ciudad — latentes** y **Archivados**. Cada línea: nombre enlazado + ficha mínima de **≤ 200 caracteres** (apariencia clave + condición física + ubicación). Nada de actualizaciones de estado en negrita: eso va a `state.md` si es un hilo abierto, a la ficha si es permanente, y a "Hilos latentes" si es una iniciativa.
+- **Mover de grupo** (se mantiene en `/close-session`): cuando un personaje latente entra en escena → su línea pasa al grupo de la ubicación donde está. Cuando un arco cierra → su línea pasa a "latentes", **y en ese mismo momento hay que contestar si le queda alguna iniciativa** (ver `/close-session`).
 
 ## Estructura de la memoria de escenarios
 
@@ -153,18 +185,51 @@ Leer antes de comenzar, en este orden:
 
 ## Ventana del registro de escenas
 
-- **`scene_log.md`** contiene en detalle las escenas de la **ventana activa**: día actual + ~7 días previos (≈ las últimas ~25 escenas).
-- **`scene_log_archive.md`** guarda verbatim las escenas más antiguas, ya consolidadas; no se carga al inicio.
-- El **índice día-a-día** vive en `state.md` → "Hitos pasados": una línea por día, siempre cargada, que apunta al archivo. Por eso archivar escenas viejas es seguro: toda consecuencia durable ya está volcada en `state.md`.
-- **Consolidación** (se ejecuta en `/close-session`): tras registrar las escenas nuevas, las que queden fuera de la ventana se mueven a `scene_log_archive.md`, comprobando que "Hitos pasados" cubre cada día archivado. El tamaño de la ventana (~7 días) es ajustable: ensancharlo si un arco reciente se está archivando demasiado pronto.
+`scene_log.md` tiene **dos niveles**:
+
+- **Nivel 1 — verbatim:** el **día narrativo actual**, escena por escena.
+- **Nivel 2 — condensado:** los **~3 días anteriores**, un párrafo por medio día con hechos y consecuencias, sin diálogo ni detalle sensorial.
+
+Los días recientes rondan las 20 escenas y 30 KB cada uno, así que la ventana verbatim es de **un solo día**: con dos, `scene_log.md` crecería en vez de estabilizarse.
+
+**Orden obligatorio, nunca invertir:**
+
+1. Cuando un día sale de Nivel 1 → **se copia verbatim e íntegro a `scene_log_archive.md` en ese mismo momento**.
+2. **Solo entonces** se condensa a Nivel 2 la copia que se queda en `scene_log.md`.
+3. Cuando sale de Nivel 2 → **se borra** de `scene_log.md`. No se archiva nada: el verbatim lleva ahí desde el paso 1.
+
+La condensación solo toca la copia de trabajo; **el archivo recibe siempre la versión completa y solo crece**. Invertir el orden destruiría detalle de forma irreversible.
+
+**Tres capas de respaldo**, de más literal a más comprimida: `conversaciones/sesion_NN.md` (transcript literal) → `scene_log_archive.md` (escenas verbatim) → `scene_log.md` Nivel 2 → Nivel 1. Las dos primeras no se cargan nunca.
+
+El **índice día-a-día** vive en `state.md` → "Hitos pasados": **una línea por día de ≤ 130 caracteres**, siempre cargada, que apunta al archivo.
+
+## Presupuesto de contexto
+
+Topes por archivo, verificados al final de `/close-session`. Superarlos no es un error de formato: es contexto que se come la sesión.
+
+| Archivo | Tope |
+|---|---|
+| `state.md` | 30 KB — bloque por personaje ≤ 8 líneas; solo los que se cargan |
+| `scene_log.md` | 55 KB — 1 día verbatim + 3 condensados, archivando antes de condensar |
+| `characters.md` | 6,5 KB — una línea ≤ 200 caracteres por personaje |
+| `personajes/<nombre>.md` | 8 KB — el exceso histórico va a `-historial.md` |
+| Hitos pasados | una línea ≤ 130 caracteres por día |
+| **Carga total de inicio** | **175 KB** |
+
+Los personajes en arco muy activo (hoy Vera con 14,7 KB y Hobbs con 13,5 KB) quedan por encima de los 8 KB cuando lo que les sobra es contenido **operativo** —voz, mecánica, relaciones, ajustes vigentes— y no histórico. Eso es aceptable: el tope que manda entonces es el de la carga total.
+
+**Medición real (Día 32, ubicación mansión):** 170,6 KB ≈ 50k tokens, frente a los 345 KB ≈ 101k tokens del esquema anterior. Una sesión que arranque en la ciudad carga ~156 KB.
 
 ## Inicio de sesión
 
 Cuando el usuario indique que comienza una nueva sesión (con frases como "nueva sesión", "continuemos", "seguimos" o similares):
 
-1. Leer los archivos de referencia en el orden indicado arriba (solo las fichas de los personajes de **Núcleo permanente** y **Activos en el arco actual**; no las de personajes en pausa o archivados).
-2. Responder con un resumen de orientación breve antes de continuar la historia:
-   - Dónde está Mark y qué estaba a punto de ocurrir
+1. Leer `world.md`, `characters.md`, `state.md` y `scene_log.md`.
+2. Mirar `state.md` → "Día actual" para saber **dónde está Marcie**, y abrir solo las fichas que esa ubicación exija (más las de eventos de hoy).
+3. **Revisar "Hilos latentes" y "Eventos programados"** y disparar lo que venza hoy.
+4. Responder con un resumen de orientación breve antes de continuar la historia:
+   - Dónde está Marcie y qué estaba a punto de ocurrir
    - Estado físico relevante de los personajes presentes
    - El próximo paso pendiente según `state.md`
-3. Esperar la primera acción de Mark antes de narrar nada.
+5. Esperar la primera acción de Mark antes de narrar nada.

@@ -53,3 +53,12 @@
 **Relación con Mark:**
 
 - Fin de semana completo (Días 17-18) de sustitución de Olivia. Vínculo profundizado con rapidez. Múltiples intimidades. Emma pidió implícitamente que Mark repita. Olivia retomó el cuidado el Día 19.
+
+---
+
+## Estado actual
+
+- En cama hospitalaria en el salón de su casa. **Olivia retomó el cuidado el Día 19** por la mañana.
+- **Full body cast** desde los dedos hasta los hombros, cabeza y cuello libres, apertura perineal, posición semi-reclinada con las rodillas a 45°, zona perineal depilada.
+- Vínculo con Marcie consolidado durante el fin de semana de los Días 16-18; más abierta, menos armadura. Pidió implícitamente que vuelva. Olivia detectó el cambio sin comentarlo.
+- Sin visita programada desde el Día 19 _(archivada)_.
