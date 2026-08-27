@@ -27,9 +27,9 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
 - **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan. Sin casa propia desde el Día 31. Sin discapacidad.
   - _Dónde:_ apartamento de Megan, día y noche.
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
-  - _Dónde:_ Creston en turno (planta, desde las 10:30); su apartamento el resto.
+  - _Dónde:_ Creston en turno de mañana, sale a las 15:00; su apartamento el resto.
 - **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Marcie.
-  - _Dónde:_ Creston (consulta y quirófano). Fuera de ahí, solo por cita concertada.
+  - _Dónde:_ Creston. Fuera de ahí, solo si Marcie la llama a su contacto personal.
 - **[Jude](personajes/jude.md)** — robot. Cabello negro, tatuajes, 24. Derrame a los 21: inmovilización total, solo ojos. Traqueotomía, respirador, sonda.
   - _Dónde:_ apartamento de la ciudad con Cora; cama hospitalaria en el salón.
 - **[Cora](personajes/cora.md)** — robot, 26, hermana y cuidadora de Jude. Castaña clara a los hombros, delgada, cara cansada y sonrisa lenta. Sin discapacidad. Amiga de Megan.

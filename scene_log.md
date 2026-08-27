@@ -11,31 +11,9 @@ Ventana activa de **dos niveles**:
 
 ---
 
-# NIVEL 2 — Condensado (Días 29–30)
+# NIVEL 2 — Condensado (Días 30–31)
 
-_Versión resumida. El detalle escena a escena de estos días está íntegro en `scene_log_archive.md` (escenas 177–232)._
-
-## Día 29 — Mañana y mediodía _(escenas 177–183)_
-
-**Reyes** entra como enfermera del turno de mañana (sustituye a Grace): ~27 años, piel morena clara, trenza negra, atlética, con pene. Mark reporta picazón, pide que lo masturbe y ella acepta con condiciones propias ("no está en el plan de cuidados, pero tampoco está prohibido"), echa el pestillo y fija media hora de límite; terminan los dos y rehace el vendaje sin dejar rastro.
-
-Llamada con **Megan**, previa instrucción a Claire para que Megan no recuerde que ese día tocaban los yesos y para que Mills no sepa lo de Reyes. Megan mantiene el plan de quitárselos y descarta alargarlos por Emily. Rachel queda descartada para hacerlo (doble shoulder spica tras caerse de una escalera — noticia para Megan, que se preocupa de verdad), así que se acuerda que lo haga **Vera, en la mansión**, aplazado un par de días. Megan ya tiene pedidos los **siguientes yesos: pierna hasta la cadera y brazo hasta el hombro**. Segunda parte: Emily aún no sabe lo de Megan y Mark; se acuerda que Megan se lo cuente **hoy y a solas**, cambiando el plan previo de contarlo con Mark delante.
-
-Revisión de movilidad con **Mills**: rango corto y con retraso pero **respuesta presente en todas las articulaciones**, mejor de lo esperado para el sexto día; anota el tercer episodio de picazón y pauta crema dos veces al día en la corona hasta el alta. En la evaluación de eyaculación la respuesta se estanca en meseta; a petición de Mark, Mills lo encuadra como dato clínico y se desviste por partes — **queda establecido que Mills tiene vagina** — y reconoce sin rodeos que se excita con él, aclarando que eso no cambia lo que anota.
-
-Sigue sin haber descarga, así que Mills hace pasar a **Hobbs**, residente de primer año en su primera semana en el Creston: 23-24 años, menuda, rubio oscuro a la mandíbula, cara redonda con pecas, **pene grueso** (~15 cm de largo y casi otro tanto de circunferencia). Mills la dirige con tono de dictar medidas; Hobbs eyacula sobre el vendaje del pecho y Mark a continuación (13:04). A solas después, Hobbs pide quedarse, le toca los senos a Mark —primera vez desde la cirugía con intención sexual— y en una conversación larga cuenta que le gusta que le digan qué hacer y que se bloquea si le preguntan qué quiere, con una experiencia pasada (una hora desnuda de pie mientras su expareja leía) que nunca había contado. Mark le nombra lo que es —**BDSM, sumisión**— y ella lo acepta sin haberlo asociado nunca. **Primera orden:** terminar el turno sin ropa interior, intentando no tener erección, e informar.
-
-## Día 29 — Mediodía y tarde _(escenas 184–191)_
-
-Mensajes desde la cama: Dana (casa tranquila), Diane (rutina de Tori), Cora (Jude le dicta ideas para el club con la tabla) y Vera (traslado de Sophie, pregunta la hora del alta). **Corrección de continuidad fijada aquí: Jude no sostiene ni escribe nada — todo mensaje suyo pasa por Cora.**
-
-Instrucción a Claire y llamada de **Dana**, que revela el episodio de la **noche del Día 27**: Rachel le pidió a Vera que las ayudara a ella y a Sophie a estar juntas; Vera aceptó, pero fue a consultárselo a Sophie a solas antes de mover nada, y durante la maniobra **Sophie le pidió que le tocara los senos y Vera se quedó más rato del necesario** antes de recomponer el tono profesional de golpe. Dana admite que le excitó verlo y que después se masturbó con el muñón; dice que le gustaría que Vera la ayudara **pero que no tiene excusa práctica al no ser paciente suya** ("¿Me lo estás preguntando o me lo estás pidiendo?"), y Mark le pide que piense en una. Encargo aparte: tres atuendos para el cuerpo nuevo, con Rachel eligiendo y Dana cargando; Dana propone pedirle las medidas a Mills en vez de comprar a ojo.
-
-Hobbs vuelve a mediodía e informa de la primera orden: cuatro erecciones, una de ellas cambiando un apósito con la paciente delante (**Kelsey Barr**, 22 años, amputación bajo la rodilla izquierda, cura del muñón cada día a las once). A orden de Mark se mide en reposo: **8,5 cm de largo y 11,5 cm de contorno**. La escena escala hasta el sexo oral completo; Mark le prohíbe tocarse y luego la autoriza en el baño. **Segunda orden:** puede recoger la ropa interior pero no ponérsela, y sigue el turno corriendo más riesgos.
-
-Llamada con Megan: **Emily no se enfadó**. La escuchó entera y le contó que **ella también tiene pareja, que vive con ella y que su pareja ya lo sabe y no le importa** — sin dar el nombre. (Es Claire; Megan no lo sabe.) Megan lo pasa mal por el motivo inverso al previsto: "me dio más miedo que no le importara que si me hubiera dicho que se iba". Corrige la fecha de los yesos al **Día 32** y admite vértigo. Pide que Mark la avise cuando esté en casa y vestida.
-
-Al final del turno, Hobbs informa de hora y media larga: veinte minutos de pie en el relevo con el uniforme manchado, una cura de veinticinco minutos inclinada sobre la cama de la **209** (**Nadine Foss**, 27 años, operada de columna, ambas piernas sin respuesta), el ascensor y la cola de farmacia, donde estuvo a punto de terminar sin tocarse. La supervisora le pidió uniforme limpio para el día siguiente y le preguntó si le pasaba algo. **Tarea nocturna:** irse sin cambiarse, ir andando al centro comercial, llegar al clímax en público sin tocarse y no volver a casa hasta que ocurra ni limpiarse después. **Encargo:** comprar la lencería más provocativa que encuentre, dejándose asesorar tal como va.
+_Versión resumida. El detalle escena a escena de estos días está íntegro en `scene_log_archive.md` (escenas 192–252)._
 
 ## Día 30 — Mañana. El alta _(escenas 192–209)_
 
@@ -85,209 +63,112 @@ En el baño accesible, sexo oral limitado al tramo que la férula deja libre. Ma
 
 ---
 
-# NIVEL 1 — Verbatim (Día 31)
+## Día 31 (sábado) — Mañana _(escenas 233–241)_
 
-## Día 31 (sábado) — Mañana (sesión 34)
+**Rachel** entra en cuanto Marcie despierta y le cuenta su conversación de la noche anterior con **Vera**: abrió diciéndole que la había estado mirando, Vera le preguntó por qué no decía lo que había venido a decir de verdad, y al pedirlo **Vera dijo que sí sin dudarlo pero fuera del parte de cuidados** — si entra en el trabajo deja de poder negarse, así que Rachel se lo tiene que pedir cada vez en voz alta y cualquier noche puede recibir un no. Lo que más le marcó: que Vera **miraba el yeso, no a ella**, y que mantuvo la mano plana sobre la escayola todo el rato. Rachel descubre en voz alta que **no sabe si quiere que el yeso se acabe**, descarta las cuerdas ("se deshacen en un minuto y entonces sigo decidiendo yo") y **acepta yesos periódicos tras el Día 61 con términos puestos por ella**: que no le pregunten cada vez, que no le digan cuánto va a durar, y que lo que quiere inmovilizado son **las manos**.
 
-### Escena 233: Rachel cuenta lo de Vera (Día 31, ~8:00)
+Mensajes de **Hobbs** desde el turno (el plug se le nota al andar, la forma de la jaula bajo el vestido, Reyes se la mira un segundo y sigue) e informe de Claire sobre sus pensamientos de la noche: doce vueltas al beso, dos intentos frustrados por la jaula, cinco elogios contados. Vera retira la **barra de abducción** según tocaba y **Marcie le pide que se la vuelva a poner solo porque quiere**; primer uso del **protocolo de registros** ("¿esto es de enfermera o es lo otro?"). Camisón de tul, espejo por los cuatro lados y **primer desayuno de las cinco** en el comedor, con Vera dando de comer a Rachel y a Sophie alternando sin comentar el reparto.
 
-Marcie despierta en el dormitorio principal. Dana la trajo del centro comercial la noche anterior y **Vera la desmontó para dormir**: retiró la ortesis completa y la barra (solo hacen falta para caminar) y le dejó puesta únicamente la férula peneana. Durmió desnuda. El aparato entero queda sobre la butaca.
+**Sesión larga de configuración con Claire (escena 238):** creación de las **dos enfermedades de yeso del mundo** —**de yoga** (articulaciones inmovilizadas en posiciones forzadas) y **de mástil** (base del pene, tres niveles, nombre elegido por Claire entre tres opciones razonadas)— con las cifras fijadas en **10 % y 5 %, total ~23 % de la ciudad enyesada, 1 de cada 4**; Claire detecta sola el choque de reglas con el personal del Creston. **Emily se enamora de Megan, deja a Claire y se muda con ella ese mismo día** (Claire ejecuta su propia ruptura sin reacción visible), con **la postura de Megan deliberadamente sin condicionar**. Retirada de yesos de Megan adelantada a hoy. Y **calendario semanal deducido de un ancla ya existente** (Día 19 = lunes → Día 31 = sábado). Después, llamada a Megan (llega en una hora, con Emily, y almuerzan juntas), llamada a Vera, baño en cama con desmontaje y remontaje completo del aparato en veinticinco minutos, y elección de ropa: conjunto negro de falda de tiro alto con abertura en V y pezoneras de joyería, capucha de cabeza y de testículos, barra montada y quince minutos de maquillaje. **Corrección de continuidad:** la falda de tiro alto no entra por las piernas, entra por la cabeza.
 
-**Rachel entra en cuanto se da cuenta de que está despierta**, empujando la puerta con la cadera, vestida solo de cintura para abajo (falda cruzada de punto gris que se abrocha al costado — Vera se las compró así porque son las únicas que puede ponerle sin pasarle nada por la cabeza ni por los brazos). Se sienta en el borde de la cama dejándose caer los últimos centímetros, sin nada con que frenar.
+## Día 31 (sábado) — Mediodía, tarde y noche _(escenas 242–252)_
 
-Relata la conversación de la noche anterior con Vera, por partes y a petición de Marcie:
+Llegan **Megan y Emily**. Primera vez que Megan ve el cuerpo nuevo de Marcie; pide permiso para mirarla antes de empezar con lo suyo y resume: **"Me esperaba reconocerte menos. Y te reconozco en la cara, aunque la cara sea otra."** No alcanza a tocarla: el codo fijo solo le deja el arco desde el hombro. **Vera se para en seco al verla**: sabía que los yesos eran voluntarios, pero no que Megan es amputada, y rehace la cuenta en voz alta — "yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo". Marcie tiene una **erección dentro de la férula** cuando Megan le toca la cadera; Vera para todo para comprobar color y temperatura y reajusta las dos correas de velcro dos dedos más atrás sin llegar a soltarlas.
 
-- Esperó a que Vera acostara a Sophie primero. Abrió diciéndole que **la había estado mirando** aquella noche.
-- Vera no contestó: siguió recogiendo la ropa de Sophie. Al terminar le preguntó **por qué le contaba eso y no lo que había venido a decir de verdad**.
-- Rachel tuvo que decirlo: que quiere que la toque abajo y que no se llega sola desde que le pusieron el yeso.
-- **Vera dijo que sí, sin pensárselo** — "como si le hubiera preguntado la hora".
-- **Condición de Vera:** no lo va a hacer como parte del trabajo. Si entra en el parte de cuidados deja de poder negarse, y no quiere eso. **Rachel se lo tiene que pedir cada vez, en voz alta, y cualquier noche puede recibir un no.**
-- Rachel se lo pidió ahí mismo ("si lo dejaba para otro día no lo hacía"). Vera cerró la puerta y la mandó sentarse en la cama.
+En la **sala de yesos**, Megan elige el brazo primero ("si me quitas la pierna primero me dejas sentada aquí sin poder ni empujarme"). Debajo: piel muerta a escamas, bíceps prácticamente desaparecido y el **codo clavado en el ángulo exacto** en que se lo cerraron. **Instrucciones a Claire:** que se apliquen las **consecuencias reales de 23 días de inmovilización** (sin base de apoyo fiable: una sola pierna biológica atrofiada y un solo brazo con el codo rígido — quitarse los yesos la deja **más dependiente que con ellos puestos**) y que la recuperación se **acorte a cinco días** de rehabilitación intensiva (**Día 36: camina con prótesis y una muleta**). En paralelo, Emily le cuenta a Marcie que Megan "no se queja de nada y no pide nada", se ofrece a llevar sola los cinco días de dependencia y sale un momento a resolver algo.
 
-El relato de lo que pasó: le quitó la falda como cada noche, pero no la acostó — se quedó de pie delante mirándola un rato largo antes de tocarla. Rachel precisa que **no dudaba, pero no la miraba a ella: miraba el yeso**, y que llevaba haciéndolo desde que entró en la habitación. La tumbó (sentada no aguanta sin brazos), se sentó al lado y la tocó sin preguntar cómo. Mano abierta primero, después dos dedos en círculo sin cambiar de ritmo, después dentro. **La otra mano se quedó plana sobre el yeso todo el rato**: Rachel solo notaba una de las dos, la otra sabía que estaba porque la veía. Lo único que se le movía eran las piernas. Terminó rápido (la última vez había sido Dana en el hospital) sin poder agarrarse a nada.
+Retirados los dos yesos, **Megan lo dice en voz alta en tres tiempos**: que las primeras noches fueron malas y después dejó de costar ("llega un punto en que pedir es más fácil que hacer"); que **le gustó, mucho más de lo que esperaba**, y que lo que le gusta no es el yeso sino lo de después; y, delante de Vera, que lleva un mes dándole vueltas a **amputarse el brazo derecho**, con dos obstáculos — la mentira necesaria y que con un muñón no la contrata nadie de enfermera. **Instrucción a Claire:** se crea la **[Dra. Vivian Kerr](personajes/kerr.md)**, cirujana privada de modificaciones electivas del ambiente BDSM de Vera, con disparador condicionado; **el disparador se cumple en la misma escena** y Vera la menciona avisando antes de que se sale de su sitio, y precisa después en la cocina que **la presentación tiene que hacerla ella y que dentro no entra nadie**. Marcie le resuelve a Megan el obstáculo laboral (**coordinadora de enfermeras** — "para dar órdenes no necesitas los brazos") y acuerdan un **segundo yeso, brazo entero hasta el hombro, indefinido y sin fecha de salida**, que **solo Megan puede terminar** y ese mismo día si lo pide.
 
-Después Vera se lavó las manos, la limpió y la acostó igual que todas las noches, con los mismos cojines bajo los codos. Rachel le preguntó si quería algo ella: **"Me dijo que hoy no, y apagó la luz."**
-
-### Escena 234: La dependencia y el acuerdo de yesos futuros (Día 31, ~8:20)
-
-Rachel admite que le gustó, y precisa que **no fue por lo que hizo sino porque lo decidió ella entero** — cómo, cuánto rato y cuándo se acababa. "Yo solo tuve que pedirlo una vez y después ya no pintaba nada."
-
-Hilo de Sophie: Rachel no sabe cómo contárselo, no porque a Sophie le vaya a molestar sino porque **ella puede ir a buscar a Vera y Sophie no** — "tiene que esperar a que a alguien se le ocurra entrar en su habitación". Marcie le dice que Sophie puede pedirlo cuando quiera; Rachel responde que puede, pero no lo hace, y que ella tampoco lo hacía: doce días callada, y lo de Dana en el hospital lo pidió Marcie, no ella. Cuando Marcie insiste en que nadie las va a juzgar, Rachel lo reformula: **"Para cualquier cosa que quiera tengo que meter a otra persona dentro. No hay una sola que pueda hacerme yo sola, ni rascarme la nariz. Y eso cansa más que la vergüenza."**
-
-Marcie le recuerda que el yeso es temporal. Rachel se da cuenta en voz alta, por primera vez, de que **no sabe si quiere que se acabe**: "el día que me lo quiten se acaba también lo de anoche, porque ya no voy a necesitar que nadie me haga nada". Confirma que la dependencia le gusta y que va a más, no a menos: "cuanto más tiempo llevo, menos ganas tengo de que se acabe".
-
-**Acuerdo alcanzado** (propuesta de Marcie: amarrarla unos días, atarla a la cama por las noches, o **volver a enyesarla de vez en cuando** tras el Día 61):
-
-- Rachel **descarta las cuerdas**: "una cuerda la deshaces en un minuto si cambio de idea, y entonces la que sigue decidiendo soy yo. El yeso no se quita porque una noche te apetezca."
-- **Acepta los yesos periódicos.** Sus términos, puestos por ella: **que no le pregunten cada vez** ("si tengo que decir que sí todas las veces vuelvo a ser yo la que decide"), y **que no le digan cuánto va a durar** ("si me dices una fecha me paso el mes contando los días, y contar días es otra manera de decidir").
-- **Marcie decide cuándo y por cuánto tiempo.**
-- Lo que Rachel quiere inmovilizado son **las manos**: "lo de las piernas me da igual, ando bien; lo que me cambió la vida fue quedarme sin poder agarrar nada".
-
-Rachel se levanta echando el cuerpo adelante y empujando solo con las piernas (dos intentos) y sale a avisar a Vera y a pedirle a Dana que desayunen todas juntas en el comedor.
-
-### Escena 235: Mensajes de Hobbs y montaje del aparato (Día 31, ~8:30)
-
-Seis mensajes de Hobbs en el dispositivo:
-
-- **00:41** — "Ya estoy en casa. Lo llevo todo puesto, no me he quitado nada. Lo del baño lo he hecho sentada como me dijo y ha salido bien."
-- **00:47** — "He tardado en dormirme. No por el plug. Por lo otro."
-- **07:06** — "He entrado a turno. Todo puesto y sin nada debajo. Se me nota al andar y nadie me ha dicho nada en toda la mañana."
-- Tras la respuesta de Marcie: informe de que lleva casi una hora de planta sin incidentes; que **lo que se le nota es cómo anda** (el plug no la deja dar el paso normal y para sentarse tiene que ir despacio y de lado); y que con el vestido **se ve la forma de la jaula** — **Reyes se la miró un segundo en el control y siguió a lo suyo sin decir nada** (la indiferencia le hace más efecto que el escándalo, patrón ya establecido).
-
-**Vera entra sin llamar** y monta el aparato: pieza pélvica bajo las caderas, hebillas, y anuncia que **hoy sale la barra de abducción** (dos tornillos de mariposa). La retira.
-
-**Petición de Marcie a Claire (invisible para Vera):** resumen de los pensamientos de Hobbs de la noche anterior. Claire informa: despierta de **00:52 a 02:10**; contenido dominante **el beso de la galería, sobre el que volvió doce veces** reconstruyendo el orden exacto; **intentó masturbarse dos veces por costumbre y se acordó de la jaula las dos veces**; **contó los elogios de la noche: cinco**; y lo que más tiempo le ocupó no fue nada de eso sino **decidir si el beso formaba parte de lo que hacen o si Marcie lo hizo porque quería**.
-
-**Marcie pide que le vuelvan a poner la barra** para llevarla más tiempo. Vera antepone el dato antes de obedecer ("con esto puesto no juntas las piernas ni te sientas normal en una silla; vas a tener que ir de lado y ocupar dos sitios") y la atornilla otra vez. Después aplica el protocolo acordado el Día 30 y **pregunta en qué registro se hace**: Marcie responde **"de enfermera"**. Ante el comentario de Marcie de que le gusta más verla con la barra puesta, Vera se niega a repetirse ("eso ya te lo dije anoche") pero lo confirma: **"Y hoy más que ayer, porque ayer la llevabas porque tocaba y hoy la llevas porque la has pedido tú."**
-
-### Escena 236: El camisón de tul y el espejo (Día 31, ~8:45)
-
-Marcie pide ropa cómoda de casa y poco cubierta. Vera trae **dos prendas contadas** (no la selección entera) y advierte del criterio práctico: con la barra puesta, **todo lo que entre por los pies hay que subirlo en volandas**; solo sirve lo que entra por la cabeza. A petición de Marcie busca entre los camisones: de siete, **tres sirven** — las largas se enganchan en las abrazaderas y los estribos. Recomienda **el de tul color hueso**, el más corto, por dos razones: no roza con nada y **le deja ver las hebillas sin tener que levantar nada para comprobarlas**; la segunda razón "ya te la he dicho hoy y no la voy a repetir".
-
-Descripción del resultado (con el espejo de pie, por los cuatro lados): una sola capa de tul transparente con banda de encaje bajo el pecho como única parte opaca; el borde termina en el pliegue de la ingle, **exactamente donde empieza el hierro**. El arnés pélvico, las dos abrazaderas de muslo, la barra manteniendo las piernas abiertas un palmo y medio y las varillas hasta los estribos quedan a la vista. **Corrección de continuidad pedida por el usuario:** la caída del tul sobre la férula — el borde baja recto desde la cadera y **se queda apoyado encima de la férula en horizontal en vez de caer por delante**, marcando la forma por arriba y dejándola descubierta por debajo y por los lados.
-
-Darse la vuelta resulta ser una maniobra de cuatro apoyos con las muletas (con las rodillas bloqueadas no puede pivotar). De perfil, Vera le gira el espejo para ahorrárselo. Marcie comenta que se siente muy sexy así; **Vera lo corrige sin adornarlo: "No es el camisón. Hace ocho días te estaba cambiando las vendas de la cara y no podías mover un dedo. Ayer fue la primera vez que te pusiste de pie y hoy es la segunda. Eso es lo que ves en el espejo."**
-
-### Escena 237: Desayuno de las cinco en el comedor (Día 31, ~9:15)
-
-Primer desayuno de toda la casa junta, en el comedor que da al patio. Marcie lo cruza con la marcha de balanceo; **Dana detecta al instante el dato que no cuadra** ("esa barra tenía que salir hoy") sin tono de reproche, y resuelve el problema de asiento juntando dos sillas (con las piernas abiertas no entra de frente).
-
-**Corrección de continuidad importante (usuario):** el yeso de Sophie **incluye la cabeza y el cuello**; lo único libre es el **rostro**. **No puede girar ni inclinar la cabeza**: su campo de visión es fijo y depende de hacia dónde la hayan orientado. Anotado en `personajes/sophie.md` y `state.md`. Vera calcula el ángulo antes de frenar las ruedas y la deja orientada al centro de la mesa para que le entren Marcie y Rachel en el campo de visión, ofreciéndole girarla si quiere mirar otra cosa.
-
-Reparto práctico de la mesa: **dos de las cinco no pueden comer solas** (Rachel por el shoulder spica, Sophie por el yeso completo). Vera se sienta entre las dos y alterna sin comentar el reparto; Dana sirve con los ganchos. A la pregunta de Marcie sobre cómo se ve: Dana valora el criterio práctico de la prenda; **Rachel: "Te ves bien. Y ya lo sabes, porque si no, no lo preguntarías."**; Vera se remite a lo que ya dijo arriba. Sophie, que vio el hierro cuando Marcie cruzó el comedor (desde su sitio la mesa se lo tapa), comenta con su registro de siempre: **"Hierro nuevo."**
-
-Al terminar, Vera y Dana la trasladan a la sala principal entre las dos: Vera tira del arnés y Dana le sujeta los tobillos, con el puf de la biblioteca bajo las piernas estiradas porque las rodillas no doblan.
-
-### Escena 238: Sesión de configuración con Claire (Día 31, ~10:00)
-
-Marcie se queda a solas con Claire en la sala. Bloque largo de cambios:
-
-**1. Enfermedad de yoga (nueva, inventada por Marcie).** Una o varias articulaciones se inflaman; la única cura es la inmovilización completa. Se hacen rayos X o tomografía para localizar el punto exacto, y ese punto determina **la posición concreta en que hay que enyesar** — de ahí las posiciones poco convencionales y el nombre. Duración: de unos días a un par de semanas según la severidad. **Sin tratar: amputación a la altura de esa articulación; en la columna, parálisis.** Existe de toda la vida, con protocolo asentado en el Creston; no genera extrañeza en nadie. **No aparece en articulaciones ya inmovilizadas.** Puede repetirse. Afecta a cualquiera, incluidas las residentes de la mansión, Claire y la propia Marcie (que decide cuándo le toca a ella). Se suma aparte del 10 % de yesos por fractura ya establecido. **Claire detecta un choque de reglas** (el personal del Creston estaba definido sin yesos ni discapacidades) y Marcie resuelve: el personal también enferma, queda de baja mientras dure el yeso, y **alguna puede decidir ir a trabajar igual** si considera que el suyo no le impide hacer su trabajo.
-
-**2. Enfermedad de mástil (nueva; nombre elegido por Claire entre tres propuestas —raíz, mástil, campana— a petición de Marcie).** Inflamación de la **base del pene**; solo la pasa quien tiene pene. **Sin tratar: amputación del pene desde la base, conservando los testículos.** Tres niveles: **leve** (yeso de cadera, pene y testículos, con el yeso del pene hasta la coronilla y la cabeza libre, medido en flácido); **medio** (añade muslos y barra de abducción, con abertura posterior para defecar); **grave** (igual que el medio pero tapando el pene por completo, con sonda por la punta a bolsa de recolección). **Erecciones:** se producen igual; en leve y medio se pone **mucho algodón** para que no apriete, y en grave **no se pone**, porque el propósito es que la erección no llegue a producirse. Movilidad con muletas en los casos medio y grave. Ropa: capucha, falda de abertura en V, pantalón ancho con cremallera abierta o leggins con hueco recortado (leve); faldas o vestidos de abertura delantera (medio y grave). Independiente de la de yoga: se pueden tener las dos a la vez y ambas repetirse.
-
-**3. Cifras de yesos fijadas.** A petición de Marcie, Claire calcula la prevalencia (episodios/año × duración ÷ 365) y se elimina la referencia a la gripe. **Yoga: 10 % de la ciudad (500 personas). Mástil: 10 % de su grupo = 5 % de la ciudad (250 personas).** Ambas a ~3,65 episodios por persona y año con diez días de duración media. Sumado al 10 % de fracturas y descontando solapamientos: **~23 % de la ciudad con al menos un yeso en todo momento — 1 de cada 4**. Por grupo: 27 % quien tiene pene, 19 % quien no.
-
-**4. Emily.** Cambio pedido por Marcie y **ejecutado por la propia Claire sin ninguna reacción visible**: Emily está muy enamorada de Megan y **ha decidido dejar a Claire e irse a vivir con ella**. Plan: cruza a la casa de Claire durante el viaje a la mansión, **rompe con ella en persona**, y al volver se lo cuenta todo a Megan. Megan no sabe nada todavía. Se añade que a Emily **no le supone problema** que Megan tenga intimidad con Marcie ni **estar las tres juntas** si surge (no lo busca ni lo propone), y que en esos momentos **su atención está en Megan**, no en Marcie. **Claire señala que eso es la postura de Emily, no la de Megan**, a quien nadie le ha preguntado nunca; **Marcie decide dejarlo sin tocar para que Megan conteste lo que quiera cuando surja.**
-
-**5. Corrección de continuidad (usuario).** Megan **ya sabe** que la pareja de Emily es Claire (se lo dijo Emily) y sabe que Marcie conoce a Claire. Los archivos registraban lo contrario en tres sitios; corregido en `state.md`, `personajes/megan.md` y `personajes/emily.md`.
-
-**6. Retirada de yesos de Megan adelantada a hoy.** Marcie no encuentra motivo para que fuera mañana y pide editar la memoria de Megan: **para Megan hoy fue siempre el día**. La decisión de quitárselos sigue siendo la suya de siempre, intacta; solo cambia el día. Espera la llamada de Marcie para cuadrar la hora. **La ruptura de Emily se adelanta también a hoy**, pegada al viaje a la mansión.
-
-**7. Día de la semana incorporado al estado.** No hubo que inventarlo: el **Día 19 fue lunes** (Olivia volvió a casa de Emma tras el fin de semana que cubrió Mark, Días 16-18). De ahí, **hoy Día 31 es sábado**; mañana Día 32, domingo (Mills a las 9:00); **el lunes es el Día 33** (primera sesión de rehabilitación); **el próximo viernes es el Día 37**, primer candidato para el fin de semana de Hobbs. Añadida a `state.md` la tabla completa y la regla de cálculo (día ≡ 19 mod 7 → lunes).
-
-
-### Escena 239: Llamada a Megan — se cuadra la hora (Día 31, ~10:30)
-
-Marcie llama desde el sillón de la sala. Megan contesta por altavoz (no puede sostener el aparato). Se acuerda: **llegan en una hora (~11:30)**, Emily la trae, y **almuerzan juntas en la mansión** después. Megan avisa de que irá en silla y de que "la sierra va a encontrar mucho yeso" — tres semanas. Marcie le dice quiénes están en la casa (Vera, Rachel, Sophie, ya conocidas desde el Día 8).
-
-**Instrucción a Claire (1):** que las **consecuencias reales de la inmovilización prolongada** se apliquen al retirar los yesos. Claire las enuncia: 23 días con codo y rodilla fijos; **pierna izquierda** (única biológica) con atrofia de cuádriceps y gemelo, rodilla y tobillo rígidos, **sin aguantar peso**, y como la derecha es prótesis, **sin ninguna base de apoyo fiable**; **brazo derecho** (único brazo) con codo rígido y fuerza muy disminuida. Conclusión: **quitarse los yesos la deja más dependiente que con ellos puestos.**
-
-**Instrucción a Claire (2):** recuperación **acortada a cinco días**, registrada como rehabilitación intensiva diaria (plausible, nada milagroso). **Día 36: Megan caminará con la prótesis y una muleta** (muleta en el brazo derecho, su único brazo).
-
-### Escena 240: Llamada a Vera y baño (Día 31, ~10:40)
-
-Marcie llama a Vera: le anuncia a la amiga, los dos yesos (largo de pierna y largo de brazo, puestos por Marcie hace tres semanas — **Vera sabe desde este momento que son voluntarios**) y le pide además **un baño y ayuda para vestirse**. Vera calcula en voz alta que con desmontar y montar el aparato son cuarenta minutos y sube de inmediato. La lleva en brazos del sillón a la habitación principal.
-
-Desmontaje por orden: **barra de abducción primero** (Marcie decide **volver a ponérsela después**, ya sin función médica), montantes, cinturón pélvico, férula. Baño en cama por partes con jabón neutro, pomada de la pauta de Mills, y remontaje completo en orden inverso. **Veinticinco minutos.**
-
-### Escena 241: Elegir la ropa (Día 31, ~11:10)
-
-Marcie le pide ayuda para elegir: es la primera vez que Megan la ve con el cuerpo nuevo. Vera saca tres opciones y las tasa una por una: **vestido de punto color hueso** (el más seguro), **conjunto negro de falda de tiro alto con abertura en V + pezoneras de joyería** (el que más se ve), y **vestido verde oscuro** ("el único de los tres que te va a mirar antes a la cara"). Marcie elige **el negro**.
-
-**Corrección de continuidad (usuario):** la falda de tiro alto **no entra por las piernas** (ni salvando estribos ni la barra) — entra **por la cabeza**. Rehecho.
-
-**Capuchas:** Marcie pide capucha de cabeza **y también en los testículos**. La segunda capucha de cabeza entra pero aprieta y marca; Vera lo advierte. Marcie recuerda **la pieza que le puso Dana el día del alta** — más ancha, banda elástica el doble de alta, guardada con la ropa de anoche y no con las capuchas. Esa entra sin apretar. Después: barra montada, zapatos de velcro sobre los estribos, pezoneras y **quince minutos de maquillaje**.
-
-### Escena 242: Llegan Megan y Emily (Día 31, ~11:30)
-
-Marcie las espera de pie junto al ventanal. **Emily** empuja la silla (vaqueros, camisa de lino gris, mirando al suelo). **Megan**: falda cruzada verde oliva que deja el yeso de la pierna entero al aire, blusa sin mangas con el yeso del brazo asomando, muñón del hombro izquierdo descubierto, pelo suelto.
-
-**Primera vez que Megan ve el cuerpo nuevo de Marcie.** Pide permiso para mirarla antes de empezar con lo suyo. Su valoración: **"Me esperaba reconocerte menos. Y te reconozco en la cara, aunque la cara sea otra."** Le devuelve la pregunta ("¿A ti te gusta? Porque eso importa más que lo que opine yo") y cierra con **"Entonces ya está. Lo demás es opinión."** No alcanza a tocarla: el codo fijo solo le deja el arco desde el hombro.
-
-### Escena 243: Vera conoce a Megan — la cuenta que no cuadra (Día 31, ~11:40)
-
-Vera entra y **se para en seco**. Sabía que los yesos eran voluntarios (se lo dijo Marcie por teléfono); lo que no le habían dicho es que **Megan es amputada**. Al ver el muñón del hombro y el encaje de la prótesis rehace la cuenta y lo dice en voz alta: **"Yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo."** Marcie aclara que Megan también es enfermera y que se va en silla; Vera se ahorra la charla y pasa a taquigrafía profesional.
-
-**Informe posterior de Claire sobre su reacción interna** (con corrección del usuario: Vera no dedujo nada, se lo habían dicho): registró que **Megan es la única persona que ha visto para quien un yeso no añade dependencia, sino que la sustituye** — y que lo eligió sabiendo eso. Lo apartó en el mismo gesto: está en horario y en registro de enfermera.
-
-### Escena 244: La férula y las dos correas (Día 31, ~11:45)
-
-Megan le toca la cadera con los dedos (lo único suelto) por encima de la falda hasta dar con el canto del cinturón pélvico. **Marcie tiene una erección dentro de la férula:** la cuna y la pletina no la dejan moverse, el anillo aprieta al ensancharse la base. **Vera lo ve y para todo** para comprobar color y temperatura (advertencia de Mills). Marcie pide aflojar los velcros: Vera suelta el primero entero, después los reajusta **los dos, sin quitarlos**, dos dedos más atrás. Resultado: sujeción a medias, sube unos grados y se queda en diagonal en la abertura de la falda.
-
-Megan pregunta si es del hospital. Marcie le dice que sí y que **hoy no va a poder disfrutarlo**. Megan lo acepta sin insistir: **"Esperar se me da bien últimamente. Y de todas formas, dentro de media hora yo no voy a estar en condiciones de disfrutar de nada."**
-
-### Escena 245: Sala de yesos — retirada del brazo (Día 31, ~12:00)
-
-Descripción de la sala (camilla con soportes articulados, cama alta de hip spica, estantería por anchuras, cubo metálico, sierra oscilante, olor a escayola). Megan elige **el brazo primero**: "si me quitas la pierna primero me dejas sentada aquí sin poder ni empujarme".
-
-Corte largo, tijeras de Bruns, apertura en dos valvas. **Lo que queda debajo:** blanco húmedo, piel muerta a escamas, bíceps prácticamente desaparecido, y el **codo clavado en el ángulo exacto en que se lo cerraron**. Megan: **"Es mi único brazo y parece el de otra persona."**
-
-En paralelo, **Marcie y Emily conversan en la esquina**: Emily reporta que Megan "no se queja de nada y no pide nada" y que lleva tres semanas adivinando. Pregunta cuántos días de dependencia vienen (para organizarse), y al oír **cinco** dice que los lleva sola: "Prefiero cinco días de eso que tres semanas de verla enfadada consigo misma." **Pide salir un momento a resolver algo "aquí al lado"** y se va sin decirle nada a Megan.
-
-### Escena 246: Megan lo dice en voz alta (Día 31, ~12:30)
-
-Retirados los dos yesos y limpios el brazo y la pierna, Marcie le pregunta qué tal fue la experiencia. Megan responde en tres tiempos:
-
-1. **Cómo se sintió:** "Las primeras noches, mal... Y después dejó de costar. Ese es el problema. Llega un punto en que pedir es más fácil que hacer."
-2. **Si le gustó:** **"Sí. Mucho más de lo que esperaba."** Distingue: no le gusta el yeso, le gusta **lo de después** — "que venga alguien, que te levante, que te lo haga". Sus tres años de autosuficiencia fueron apaño, no preferencia. **"No tengo ninguna gana de volver a como estaba antes. Y eso lo estoy diciendo en voz alta por primera vez."**
-3. **Delante de Vera, se lo cuenta entero:** que lleva un mes dándole vueltas a **amputarse el brazo derecho**. Sus dos obstáculos: la mentira necesaria, y que es enfermera y con un muñón no la contrata nadie.
-
-### Escena 247: Kerr — creación y disparador cumplido (Día 31, ~12:40)
-
-**Instrucción a Claire (3):** añadir al trasfondo de Vera una **cirujana privada del ambiente BDSM que hace modificaciones corporales**, con consultorio propio, para que Vera la mencione cuando el tema salga delante de ella. Creada la **[Dra. Vivian Kerr](../personajes/kerr.md)** (34, alta, pelo negro muy corto, ojos grises, muy pálida, sin pene). **Cómo trabaja:** no opera en primera consulta, plazo de reflexión propio, quiere el motivo en boca de quien se opera y **detecta y para en seco a quien empuja desde fuera**. Claire señala que esa condición **le apunta a Marcie**.
-
-**Disparador cumplido en la misma escena.** Vera se sale de su registro: "Voy a salirme de mi sitio un momento, porque si me callo esto y luego te enteras por otro lado va a ser peor." Menciona a Kerr. Después, en la cocina, añade el dato práctico: **Kerr no recibe a desconocidos — la presentación tiene que hacerla Vera**, y **dentro no entra nadie**: "Sola entra, sola sale y sola decide."
-
-### Escena 248: El trabajo y el segundo yeso (Día 31, ~12:50)
-
-Marcie le resuelve el obstáculo laboral: no un puesto ejecutivo de firmar papeles (Megan lo rechaza: "yo soy enfermera de manos") sino **coordinadora de enfermeras** — "para dar órdenes no necesitas los brazos". Megan lo acepta: "Media planta funciona porque alguien dice quién entra dónde y en qué orden, y eso lo hago con la boca."
-
-**Acuerdo sobre el segundo yeso**, propuesto por Marcie sin prisa: recuperarse, volver unos días al turno, planearlo con calma. Términos, todos puestos por **Megan**:
-- **Brazo entero, hasta el hombro.**
-- **Sin fecha de salida** e **indefinido** (descarta que Marcie fije un plazo secreto: "si tú pones un número, aunque no me lo digas, existe, y yo voy a pasarme el tiempo intentando adivinarlo").
-- **Ella dice cuándo se acaba.** "Si en algún momento pido salir, se sale ese día y sin discusión, aunque sea a los cuatro días y aunque yo quede fatal. Eso lo necesito o no lo hago."
-
-Sobre si el deseo es suyo: Megan recuerda que **sabe lo que le atrae a Marcie desde la primera cita**, que ya se hizo esa pregunta (también con Emily), y que la respuesta le sale de sus tres años, anteriores a Marcie. Nombra lo que implica: **si se quita este, no le quedan brazos** — "no me visto, no como sola, no me lavo, no abro una puerta. Nunca más. Y cuando lo pienso, lo que siento no es miedo." Por eso quiere el segundo yeso primero: **"el yeso se corta y el brazo no vuelve."**
-
-Marcie declara su preferencia con franqueza (que algún día, con el segundo yeso puesto, Megan le pida ir a Kerr) dejando la decisión enteramente en ella.
-
-### Escena 249: Emily vuelve — la conversación de la sala (Día 31, ~13:15)
-
-Emily aparece con los ojos enrojecidos. Marcie las deja solas y se va a la cocina con Vera (descripción: isla de piedra, ventana al lateral del jardín, cuatro platos montados). **Lo que Emily le contó a Megan:** que ha **roto con Claire esta mañana**, en persona, mientras estaban con la sierra, y que **está enamorada de ella y quiere irse a vivir con ella**.
-
-**Megan no le dijo que sí:** pidió unos días, porque no puede aceptar sin contarle antes lo del brazo. Después **se retracta ella sola** al darse cuenta de que está haciendo justo lo que le reprochaba a Emily ("no soporto que la gente se guarde lo que tiene que decir... y lo primero que hago cuando me toca a mí es pedir unos días"). Rechaza también el ofrecimiento de Marcie de quedarse en la mansión con Vera mientras Emily duerme en su casa: "si hoy la mando a mi casa sola y yo me quedo en la tuya, eso es una respuesta, y es la peor de las tres."
-
-**Decide contárselo todo hoy** y pide que las dejen solas otra vez.
-
-### Escena 250: El desenlace fijado y el almuerzo (Día 31, ~13:45)
-
-**Instrucción a Claire (4):** independientemente de las decisiones que tome cada una, **la relación de Megan y Emily termina bien, con las dos viviendo juntas**. El camino queda libre. Claire lo ejecuta y señala la tensión: fijar el final y dejar libres las decisiones tiran en direcciones distintas.
-
-**Lo que pasó en la sala** (contado después por Megan): se lo dijo todo — el brazo, Kerr, que no está decidido, y que quien se venga a vivir con ella se viene a eso. **Emily no contestó a eso: se puso a hablar de ella misma** — que llevaba tres semanas sintiéndose bien cuidándola y creyéndose mala persona por sentirse bien, y que **lo que le daba miedo no era lo que Megan quisiera hacerse, sino enterarse de cuánto lo quería ella**. Lloró un rato largo; Megan no podía ni ponerle una mano encima.
-
-**Salieron sin decidir nada** — y en el almuerzo **Emily arrimó su silla, se puso el plato de Megan en el regazo y le dio de comer delante de todas sin que nadie se lo pidiera**. Vera lo miró una vez y volvió a su plato. Después, Marcie rompe la tensión con historias intrascendentes; acaban las cuatro riéndose (Emily cuenta lo del baño inundado con las bolsas; Megan la corrige: "fueron cuatro bolsas y el que se empapó fue el sofá").
-
-### Escena 251: A solas con Megan — la decisión (Día 31, ~14:30)
-
-**Instrucción a Claire (5):** que Vera y Emily recojan y las dejen a solas. Ejecutado sin que ninguna de las dos dé explicaciones.
-
-Megan relata la conversación y pregunta si el gesto de la comida cuenta como respuesta. Marcie le dice que sí, que se le nota enamorada. Megan lo acepta con dificultad ("a mí las cosas no me suelen salir así, y cuando salen me pongo a buscarles el fallo") y **decide darle el sí hoy mismo**, no en unos días. Pide que las lleven a su casa para hacerlo allí y no en la cocina de la mansión.
-
-### Escena 252: Vuelta a casa y cierre del Día 31 (Día 31, tarde-noche)
-
-Marcie las acompaña **sin bajar del vehículo** (le cuesta entrar y salir con el aparato). Emily sube y baja a Megan sola, con la práctica de tres semanas. Despedida: Megan levanta la mano libre unos centímetros desde la ventanilla, que es todo lo que puede levantarla.
-
-Vuelta de noche. Vera atiende primero a **Rachel y Sophie** (rutina completa) y después desmonta a Marcie en el orden de siempre, comprueba el color de la base, aplica la pomada y deja las piezas ordenadas en la banqueta del vestidor. **"Mills viene a las nueve. Yo te levanto a las ocho y media."**
+**Emily vuelve con los ojos enrojecidos:** ha **roto con Claire esa mañana**, está enamorada de Megan y quiere irse a vivir con ella. Megan pide unos días para contarle antes lo del brazo y **se retracta ella sola** al ver que hace justo lo que le reprocha a Emily; se lo cuenta todo el mismo día. Emily no contesta a eso — habla de sí misma, de las tres semanas sintiéndose bien cuidándola y creyéndose mala persona por ello. **Instrucción a Claire:** la relación **termina bien, con las dos viviendo juntas**, dejando libres las decisiones de cada una; Claire señala la tensión estructural. Salen sin decidir nada y en el almuerzo **Emily se pone el plato de Megan en el regazo y le da de comer delante de todas sin que nadie se lo pida**; Megan lo lee como respuesta y **decide darle el sí ese mismo día**, en su casa y no en la cocina de la mansión. Marcie las acompaña sin bajar del vehículo. De noche, Vera atiende a Rachel y Sophie y **desmonta a Marcie entera** para dormir: "Mills viene a las nueve. Yo te levanto a las ocho y media."
 
 ---
 
-**La conversación termina aquí: Día 31 (sábado), noche, habitación principal de la mansión.** Marcie desmontada del todo para dormir (sin ortesis, sin barra, sin férula); sin el aparato montado no puede ponerse de pie sola. Megan y Emily en el apartamento de Megan, con el sí de Megan pendiente de decirse esa noche.
+# NIVEL 1 — Verbatim (Día 32)
 
-**Próximo paso pendiente:** **Día 32 (domingo), 9:00 — la Dra. Mills va a la mansión** a retirar la ortesis completa y la férula peneana; Vera la levanta a las 8:30. Sin decidir: **brazos dentro o fuera** en el hip spica de Marcie y **en qué registro**. Pendientes de fondo: el **mensaje de Hobbs** sigue sin leer; fijar el fin de semana de Hobbs (candidato **Día 37**, viernes) y presentarla a Vera; el **yeso a cuatro patas** de Vera; la excusa de Dana; la visita de Cora y Jude; avisar a Corinne; la **visita 2 al Marginalia**; los **yesos periódicos de Rachel** desde el Día 61; **Día 33 (lunes): primera rehabilitación**; **Día 36: Megan caminando con prótesis y muleta**; y el **segundo yeso indefinido de Megan**, sin fecha.
+## Día 32 (domingo) — Mañana (sesión 36)
+
+### Escena 253: Vera la despierta y la baña (Día 32, 7:30)
+
+Vera entra a las **7:30**, una hora antes de lo que había dicho anoche: rehízo la cuenta (baño quince minutos, aparato doce, vestir y peinar veinte, Mills a las nueve) y a las ocho y media no llegaban. Trae palangana, toallas y la pomada de la pauta de Mills; las piezas del aparato siguen ordenadas en la banqueta del vestidor por orden de montaje, con la barra de abducción apoyada aparte.
+
+**Baño en cama**, a petición de Marcie, rápido para dar tiempo a desayunar: cara, brazos, torso, vientre y después de cintura para abajo. Al llegar a las piernas Vera encuentra **dos líneas rojas paralelas en cada muslo** de los montantes, más marcadas por dentro de la rodilla izquierda, y anuncia que se lo enseñará a Mills. Termina con la zona genital y la pomada bajo la corona; el pene responde en su mano y ella no cambia el ritmo: "Hoy no hay anillo puesto, así que no hay nada que comprobar."
+
+### Escena 254: Montaje del aparato sin barra y ropa de casa (Día 32, ~7:45)
+
+Marcie pide el aparato **sin la barra de abducción**; Vera ni la trae ("ayer ya no tocaba y hoy, con Mills viniendo a quitártelo todo, menos"). El anillo no entra con la erección todavía presente y Vera lo dice sin forzarlo; **Marcie le cuenta algo gracioso, se ríen las dos** —risa corta, cara girada a la ventana— y con eso se ganan los cinco minutos.
+
+Montaje completo en el orden de siempre: anillo con pasador, cuna, arnés, **pletina dorsal** (aviso antes del efecto: "en cuanto la cierre te sube a noventa de golpe"), las dos correas de velcro al punto de ayer, comprobación de color y temperatura junto al anillo, cinturón pélvico, topes de cadera, montantes, cinchas de arriba abajo y estribos. **Doce minutos.** Ropa elegida de tres opciones contadas: **camisa larga de lino color arena**, abrochada hasta la cintura y abierta a partir de la férula, con la punta a la vista en el hueco. **Marcie decide no ponerse capucha** porque Mills se lo va a quitar todo igual. Zapatos planos de velcro sobre los estribos.
+
+### Escena 255: Desayuno en la cocina (Día 32, ~7:55–8:30)
+
+Marcie baja a la cocina en vez de desayunar en la habitación, avisando de que le pidió a Dana algo ligero. **Descripción de la marcha con la ortesis**, a petición del usuario: rodillas bloqueadas, ningún pie se levanta del suelo, las dos muletas se clavan un paso por delante, todo el peso a los antebrazos y el cuerpo entero balanceado como un bloque; los dos estribos aterrizan juntos con un doble chasquido seco, la cadera oscila a cada ciclo, unos ochenta centímetros por paso, mirando el suelo porque no hay tobillo que corrija. Vuelta a la habitación después del desayuno: Vera la sienta, la gira noventa grados en bloque, le quita los zapatos y le deja las piernas rectas. Marcie decide **esperar a Mills en la habitación** y que se la traigan directamente allí.
+
+### Escena 256: Llega Mills y retira el aparato (Día 32, 9:00)
+
+Mills llega **a las nueve en punto**, sin bata (domingo, viene de la calle): pantalón ancho de lino gris oscuro, camiseta blanca de tirantes, chaqueta fina abierta, zapatillas planas, moño bajo, maletín rígido y carpeta. Marcie reporta **dolor leve un par de veces en la base**; Mills no lo deja pasar, palpa el contorno del anillo y lo encuadra: sin dolor a la palpación, sin edema, relleno normal — la base se ensancha con la erección y el aro no acompaña, "molesto, pero no isquémico". **Vera aporta el dato de ayer** (comprobó color y temperatura y reajustó los dos velcros dos dedos más atrás) y Mills lo valida.
+
+Retirada de abajo arriba: estribos, desbloqueo de rodillas, cinchas, montantes, cinturón pélvico y topes. Vera le señala **la marca de la rodilla izquierda**; Mills la lee como **presión, no rozadura** ("mañana no queda nada; si hubiera tenido que llevarlo una semana más, ahí sí habría cambiado el acolchado"). Evaluación de rangos dictada en voz alta: **flexión de rodilla completa las dos**, sin dolor ni crepitación, caderas bien, tobillos algo rígidos —sobre todo el izquierdo—, y **tono de cuádriceps mejor de lo esperado**.
+
+### Escena 257: De pie sin nada, y la rodilla que cede (Día 32, ~9:20)
+
+Primera vez de pie **sin ningún dispositivo**: los cuádriceps aguantan pero tiemblan, las rodillas hacen un vaivén hasta encontrar el punto, los pies notan el suelo entero sin la chapa del estribo. Pulso bien, sin mareo, sin caída de pelvis. **Diez segundos sola**, sin apoyo y sin buscar la pared.
+
+Mills se retira cuatro metros y le pide que camine, avisando de que si se le va una rodilla pare donde esté. Al **cuarto paso, con el peso en la izquierda, la rodilla cede hacia dentro** y **Vera la coge antes de que llegue al suelo**. Marcie describe lo que notó: **pérdida de fuerza, no dolor**. Diagnóstico de Mills: **no ha fallado la rodilla, ha fallado el músculo** — fatiga del cuádriceps, que avisa así, quitándose de en medio sin dolor previo.
+
+### Escena 258: Retirada de la férula (Día 32, ~9:35)
+
+Al revés de como se puso: las dos correas, la pletina —el pene baja solo por primera vez en nueve días—, la cuna, el arnés y por último el anillo. Debajo queda un **surco circular pálido en toda la base** con la piel de alrededor algo más rosada, y el pene tira todavía un poco hacia arriba, "como si le costara acordarse". Lectura de Mills: **surco de presión sin lesión** (se borra en horas), glande normal, **sensibilidad alta hoy y mañana**. Primera vez sin nada encima del cuerpo desde el quirófano.
+
+### Escena 259: La evaluación de erección y eyaculación (Día 32, ~9:40–10:15)
+
+Marcie tiene una erección espontánea a los dos minutos de retirar la férula y lo comenta; Mills la toma como el dato que le faltaba —**"la mejor noticia de toda la mañana"**— y avisa antes de tocar, como siempre, de qué parte es clínica y qué parte pone ella porque quiere. Pregunta si quiere a **Vera** dentro o fuera; **Marcie se lo pregunta a Vera directamente** y ella, tras distinguir en voz alta las dos cosas que puede significar quedarse, **decide participar** con una condición propia: "aquí dirige usted".
+
+La evaluación se alarga **media hora larga**, con Mills frenando a propósito. Medidas dictadas en voz alta: **17,5 cm de longitud en erección y 13 de circunferencia**, "exactamente lo que pusimos en el plan quirúrgico, al milímetro". Vera reporta las respuestas como un parte (respiración, pezones) hasta que deja de poder hacerlo. Momento de la escena: **Marcie le pregunta a Vera por la ropa interior** y Vera contesta que **desde el Día 23 no lleva nada debajo del uniforme** —bañándola, montándole el aparato, dándole de comer— y que hoy sabía perfectamente en qué consiste la última parte de una revisión de erección y ha venido igual. **Acuerdo para el Día 33: Marcie se lo comprobará ella misma al levantarla.**
+
+Marcie las dirige a las dos —**Vera y Mills se besan encima de ella**— y a la pregunta de a cuál le gustaría montarla contestan las dos que sí, Mills primero y sin fingir que se lo piensa. Se resuelve con **Vera sobre la boca de Marcie** (desnuda salvo las medias veladas blancas) y **Mills sobre las caderas**. Vera llega primero y pierde por completo la compostura; después Mills toma el control del ritmo y **terminan las dos casi a la vez**. Detalle de continuidad: el **cuádriceps izquierdo vuelve a temblar** al empujar desde abajo y Mills lo nombra en mitad de la escena ("eso que te está temblando es fatiga muscular y mañana lo vas a pagar").
+
+### Escena 260: Indicaciones de alta y las dos ediciones de Claire (Día 32, ~10:20)
+
+Mills se viste y recupera el tono en un minuto. Deja claro que **médicamente no queda ninguna revisión con ella**: está de alta, la rehabilitación la lleva otra persona, no hay próxima cita ni motivo clínico para ponerla — y que si Marcie quiere una siguiente vez, **la llama al contacto personal que le dejó**, no al del hospital. Después, las **dos indicaciones**: **muletas tres días mínimo** (y a partir de ahí las deja el día que ella note que no las necesita; **el lunes, a rehabilitación, con ellas sí o sí**), y **férula peneana dos días más, solo para dormir**.
+
+**Dos ediciones vía Claire, seguidas:** primero que la indicación pase a ser **día y noche**, y después que se extienda **también al martes, hasta el final del día**. Claire ejecuta las dos y antepone el dato no técnico: llevarla de día es llevarla a la vista, porque el ángulo no lo tapa ninguna falda del vestidor, y **el lunes se la verá la fisioterapeuta**. Mills lo repite como suyo, tachando y reescribiendo en la carpeta: **domingo, lunes y martes completos; el martes por la noche se la quita Vera y no vuelve**. Se la **vuelve a montar ella misma** antes de irse.
+
+### Escena 261: Marcie se queda con la ortesis (Día 32, ~10:30)
+
+Mills va a llevarse el hierro y **Marcie le pide quedárselo**. Mills accede sin problema práctico (está hecho a medida y no le sirve a nadie) y pregunta para qué; **Marcie le dice la verdad: que le excita llevarlo puesto.** Reacción de Mills, sin cara de nada y sin fingir que lo ha oído antes: **"No me suena raro, me suena nuevo. En diez años no me lo había dicho nadie, y eso no significa que no le pase a nadie: significa que a mí no me lo cuentan."** Lo deja **con dos condiciones de médica**: ratos y no días (cuatro o cinco horas, y esta semana ni eso), y que **alguien le revise la piel cada vez que se lo quite**, sobre todo la rodilla izquierda. **Vera acepta el encargo delante de ella**: "Yo se lo pongo y yo se lo quito." Vera ya conocía el fetiche —el del yeso desde el Día 23 y el del aparato desde que Marcie le pidió volver a ponerle la barra sin necesidad—; lo nuevo es que **ahora lo sabe Mills y que el encargo se lo han dado a ella por escrito**. Mills, desde la puerta: prefiere enterarse así, porque si se lo hubieran colado como un recuerdo no habría sabido que hacía falta avisar de lo de las cuatro horas y la rodilla. Se despide: el lunes en el Creston es la cirujana que la operó y nada más; **"lo otro, cuando llames"**. Vera apila el hierro en un rincón del vestidor en vez de sacarlo.
+
+### Escena 262: Mensajes de Hobbs — se confirman el lunes y el fin de semana (Día 32, ~10:30–11:08)
+
+**Siete mensajes sin leer**, seis de anoche y uno de las 07:12. Reporte del turno del sábado (jaula y plug las doce horas, sin ropa interior; se agachó doblando las rodillas y la supervisora le preguntó si le dolía la espalda), estado del plug, una disculpa por escribir tanto, el recordatorio de que **sigue queriendo el fin de semana entero** y el "sigue sin leerme" de las 23:47.
+
+Marcie contesta y pregunta por la excitación. Datos de Hobbs: **once intentos de erección ayer, cuatro en lo que va de mañana**, la jaula no la deja crecer, aprieta y duele un poco en la base. Lo que no sabía contar lo suelta de un tirón: **está así todo el rato**, lleva tres días sin poder terminar y no sabe si va a mejorar o a peor. Confiesa además dos intentos de tocarse anoche por costumbre y, sobre todo, que **mueve el plug a propósito echándose hacia atrás en la silla del control**, tres o cuatro veces esta mañana, en mitad del pasillo y con la supervisora a dos metros: **lo que la excita es que no se vea**. Vuelve a nombrar su miedo — lo rápido que ha pasado de no hacerlo a hacerlo sin que se lo mandaran. Cuenta el elogio de Marcie: **"Seis."**
+
+**Fin de semana confirmado:** viernes (Día 37) sale a las 15:00, libre sábado y domingo, entra el lunes (Día 40) a las 07:00 — **sesenta y cuatro horas**, y lo tenía mirado desde el jueves pasado. **El yeso se lo hace Marcie en la mansión.** Horario de la semana: lunes y martes sale a las 15:00, miércoles guardia de 24 h, **jueves (Día 36) libre entero desde las 9:00**. Quedan el **lunes (Día 33) a las 15:00 a la salida del hospital**, y Hobbs **mueve la cita de rehabilitación de Marcie de las 11:15 a las 14:00** con Delaney, moviendo de sitio a otro paciente. Cierre suyo: "Voy a estar tres días pensando en el lunes y luego cuatro más pensando en el viernes, y todavía es domingo por la mañana."
+
+### Escena 263: Mensajes con Mills — en qué consiste la rehabilitación (Día 32, ~11:20)
+
+Marcie le pregunta por escrito en qué consiste la sesión y si involucra el pene. Mills describe los **cincuenta minutos**: diez de evaluación y rangos, quince de movilidad de rodilla y tobillo, quince de fuerza de cuádriceps y glúteo, diez de marcha (paralelas primero, muletas después). Y sí, hay una parte que lo involucra, **pero no el lunes**: al retirar la férula el martes por la noche empieza un **protocolo de movilización progresiva** —tracción suave y trabajo manual en varias direcciones, **diez minutos al día durante dos semanas**— para evitar rigidez de base y curvatura. Lo hace **Delaney**, en la misma sala y con la puerta cerrada, como procedimiento; Mills ofrece la alternativa de enseñárselo a Marcie y a Vera, o de hacerlo ella misma. **Marcie elige dejarlo en manos de Delaney.** Mills lo deja por escrito en el parte y añade los dos datos prácticos: es diario, incluidos los días sin rehabilitación de piernas (**del miércoles en adelante, al Creston todos los días**), y **duele el primer día, no a partir del tercero**.
+
+### Escena 264: Mensajes de Patricia — comida en el Elm (Día 32, ~11:19–11:43)
+
+**Hilo latente disparado.** Patricia escribe tras cuatro días: con **Hannah** va bien, duermen juntas desde el martes y no lo han llamado de ninguna manera. Lo compara sin valorarlo — "antes ella me acostaba y se iba; ahora me acuesta y se queda... como cuando pasé del gancho al muñón: no es que uno esté bien y el otro mal, es que no se parecen en nada". Vio el **nombre nuevo por el sistema** y no preguntó cómo estaba porque la última vez la vio vendada entera.
+
+Marcie la invita a comer **hoy**. Se acuerda el **Café Elm a la una**, **las dos solas**: Hannah la deja y se va (Patricia lo predice — "la última vez se pasó la comida pendiente de si yo necesitaba algo y acabó sin comerse lo suyo" — y acierta). Aviso práctico de Patricia: **en la mesa le tiene que dar de comer Marcie**, con ganchos o sin ellos, porque no piensa pelearse con el tenedor delante de gente. Sobre la postura de Hannah: lo sabe desde el primer día y nunca le ha importado — cuando se lo contó todo, lo único que preguntó fue si ella iba a estar bien después. La **continuación en casa de Hannah queda sin dar por hecha**, a decidir al final de la comida.
+
+### Escena 265: Vestirse para la cita (Día 32, ~11:45)
+
+Marcie llama a Vera para elegir ropa. Vera señala que hoy es más fácil que ayer: **con las piernas libres la ropa entra por donde tiene que entrar**. Tres opciones contadas con el criterio práctico primero — vestido camisero azul medianoche (el que menos da la lata), **conjunto negro de falda de tiro alto con abertura en V + jersey corto de punto** (el único pensado para llevar la férula puesta) y vestido cruzado verde oscuro (se abre solo con las muletas) —. **Marcie elige el negro.** La **capucha no es opcional para salir a la calle**: Vera pone la pieza ancha, la que usó Dana el día del alta, ajustada por detrás de la corona, negra con ribete de plata. Pezoneras adhesivas con cadena. Maquillaje: **veinte minutos, no quince** ("ayer fuiste corriendo"), ojos marcados y labio menos.
+
+Vera pregunta para quién es la cita y **no conoce a Patricia**. Al saber que le faltan ambos brazos desde el hombro, el pincel se para medio segundo y sigue: **"Ya sabes lo que me pasa a mí con eso, así que no voy a fingir... Pero es tu cita y no es asunto mío. Ya está dicho."** Lo que sí reclama como asunto suyo es lo práctico: **"tú vas con dos muletas y ella no tiene manos"** — que el vehículo las deje en la misma puerta y que elijan mesa con el camarero de por medio, nada de terraza al fondo.
 
 ---
 
-> **Consolidación (reorganización de contexto):** los **Días 24–30 (escenas 144–232) se copiaron verbatim e íntegros a `scene_log_archive.md`** antes de tocar nada aquí. Después: Días 24–28 borrados de este archivo; Días 29–30 condensados a Nivel 2; Día 31 intacto en Nivel 1. El archivo pasó de 232 escenas verbatim contiguas (1–232) y **creció** de 134.876 a 231.689 bytes — nunca recibió una versión resumida.
+**La conversación termina aquí: Día 32 (domingo), ~11:50, habitación principal de la mansión.** Marcie sentada en la banqueta del vestidor, vestida con el conjunto negro (falda de tiro alto con abertura en V, jersey corto, pezoneras con cadena, capucha ancha) y con Vera terminándole el maquillaje. Lleva **la férula peneana puesta** (día y noche hasta el final del Día 34) y **camina con muletas canadienses**, sin ortesis. La ortesis completa y la barra de abducción quedan apiladas en un rincón del vestidor, ya como objeto personal suyo.
+
+**Próximo paso pendiente:** salir hacia la ciudad para la **comida con Patricia en el Café Elm, a la una**, las dos solas, con Marcie dándole de comer en la mesa. Sin decidir: si después van a casa de Hannah. Pendientes de fondo: **Día 33 (lunes) 14:00 rehabilitación con Delaney** (ficha por crear) y **15:00 Hobbs a la salida del hospital**; comprobarle a Vera lo del uniforme al levantarla el lunes; **Días 35-48 protocolo diario de movilización**; **Día 36 Megan caminando con prótesis y muleta**; **Día 37-40 fin de semana de Hobbs enyesada** en la mansión, hecho por Marcie; el **hip spica de Marcie** (brazos dentro o fuera, y en qué registro) y el **yeso a cuatro patas** de Vera; presentar a Hobbs y Vera; la excusa de Dana; la visita de Cora y Jude; avisar a Corinne; la **visita 2 al Marginalia**; y el **segundo yeso indefinido de Megan**.
+
+---
+
+> **Consolidación (Día 32):** el **Día 31 (escenas 233–252) se copió verbatim e íntegro a `scene_log_archive.md`** antes de tocar nada aquí; el archivo pasó de 232 a **252 escenas** y de 231.689 a **262.198 bytes**. Solo después se condensó a Nivel 2 la copia que se queda aquí. El **Día 29 se borró** de este archivo (su verbatim está archivado desde la consolidación anterior). Nivel 2 queda con los Días 30 y 31; Nivel 1, con el Día 32.
 >
-> **Próxima consolidación:** cuando llegue el Día 32, el Día 31 se copia verbatim al archivo y baja a Nivel 2, y el Día 29 se borra de aquí (su verbatim ya está archivado). Nivel 2 mantiene ~3 días.
+> **Próxima consolidación:** cuando llegue el Día 33, el Día 32 se copia verbatim al archivo y baja a Nivel 2, y el Día 30 se borra de aquí.

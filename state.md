@@ -6,22 +6,28 @@
 
 ### Día actual
 
-**Día 31 — sábado, noche (día cerrado).** **Marcie** en la cama de la habitación principal de la mansión. Vera la ha desmontado entera para dormir (ortesis, barra de abducción y férula, capuchas incluidas) y ha dejado las piezas ordenadas en la banqueta del vestidor para mañana.
+**Día 32 — domingo, ~11:50 de la mañana.** **Marcie** en la habitación principal de la mansión, sentada en la banqueta del vestidor, ya vestida para salir y con **Vera** terminándole el maquillaje. Sale hacia la ciudad para comer con **Patricia** en el Café Elm a la una.
 
-**Estado de Marcie:** duerme sin nada puesto. Sin el aparato montado no puede ponerse de pie: para levantarse necesita que alguien se lo coloque. **Copa D confirmada** (85 de banda, 106 de contorno). **Mañana, Día 32 a las 9:00, la Dra. Mills se lo retira todo definitivamente**; Vera la levanta a las 8:30.
+**Estado de Marcie:** **sin ortesis desde las 9:20** — Mills se la retiró y la evaluó. Camina **con muletas canadienses**, marcha propia y rodillas que doblan, pero **el cuádriceps izquierdo se fatiga y falla sin avisar** (una rodilla le cedió al cuarto paso esta mañana). Lleva la **férula peneana puesta día y noche** hasta el final del Día 34. Vestida con el conjunto negro (falda de tiro alto con abertura en V, jersey corto de punto, pezoneras adhesivas con cadena) y **capucha ancha**, obligatoria para salir a la calle.
 
-**Fichas a abrir:** **Vera** (la levanta a las 7:30) y **Mills** (llega a las 9:00). Nadie más. **Próximo momento a narrar:** mañana del Día 32, antes o durante la visita de Mills.
+**Fichas a abrir:** **ninguna**. Vera se está despidiendo y Patricia entra en escena en la comida, no antes. **Próximo momento a narrar:** el trayecto y la llegada al **Café Elm** a la una.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 32, 9:00**: la **Dra. Mills va a la mansión** a retirar personalmente la ortesis completa y la férula peneana. A partir de ahí Marcie camina sin ayuda ni dispositivos. Al final de la evaluación, recomienda usar la férula peneana otros dos días y las muletas al menos tres días más, hasta que sienta que puede caminar sin ellas.
-- **Día 31 (sin resolver, arrastra al Día 32)**: **mensaje de Hobbs** de anoche — sigue sin leerse ni responderse.
+- **Día 32, 13:00 — HOY**: **comida con Patricia en el Café Elm** (calle Elm, ciudad). Las dos solas: Hannah la deja y se va. En la mesa **Marcie le da de comer** (Patricia no maneja el tenedor con los ganchos). Posible continuación en casa de Hannah después; **se decide al final de la comida**, no antes.
+- **Días 32, 33 y 34 (domingo, lunes y martes)**: **férula peneana puesta día y noche**, los tres días completos; se retira al final del Día 34 y el miércoles (Día 35) ya no se vuelve a poner. Indicación de Mills reescrita **dos veces** por Claire el Día 32 a petición de Marcie (original: "dos días más y solo para dormir"). Vera la monta cada mañana como parte de la rutina.
+- **Hasta el Día 35 como mínimo**: **muletas canadienses**. Indicación de Mills: tres días mínimo, y a partir de ahí las deja el día que ella misma note que no las necesita. **El lunes (Día 33), a la rehabilitación, las lleva sí o sí.**
 - **Día 32 y siguientes**: Hobbs sigue con la **jaula de castidad** y el **plug** de forma continuada, turnos incluidos, sin ropa interior. Puede agacharse doblando las rodillas dentro del hospital.
-- **Día 33 (lunes)**: primera sesión de **rehabilitación** de Marcie en el Creston (tres veces por semana; cita ya puesta en la carpeta del alta).
+- **Día 33 (lunes), 14:00**: primera sesión de **rehabilitación** de Marcie en el Creston, con **Delaney**, sala de rehabilitación de la planta baja, ~50 minutos. Tres veces por semana. Cita movida de las 11:15 a las 14:00 por la propia Hobbs. **Lleva las muletas sí o sí.**
+- **Día 33 (lunes), 15:00 — CONFIRMADO**: **Marcie queda con Hobbs a la salida del hospital**, cuando esta termine el turno.
+- **Días 35–48 (desde el miércoles, a diario)**: **protocolo de movilización peneana** tras retirar la férula — tracción suave y trabajo manual en varias direcciones, **10 minutos al día durante dos semanas**, para evitar rigidez de base y curvatura. Lo hace **Delaney** (fisioterapeuta del Creston, planta baja), en sala cerrada y como procedimiento; Marcie eligió esa opción sobre aprenderlo ella y Vera. **Duele el primer día, no a partir del tercero.** Implica ir al Creston todos los días aunque no toque pierna.
+  - _Delaney: fisioterapeuta, sin ficha todavía. Crear `personajes/delaney.md` cuando aparezca en escena el Día 33._
+- **Día 33 (lunes), al levantarla**: Marcie le anuncia a Vera que va a **comprobarle por debajo del uniforme** que de verdad no lleva ropa interior. Dicho por Marcie el Día 32; Vera avisada.
 - **Día 36**: **Megan camina con la prótesis y una muleta** — fin de los cinco días de recuperación tras la retirada de los yesos. Así la verá Marcie la próxima vez.
-- **Día 37 (primer viernes disponible)**: candidato para el **fin de semana de Hobbs enyesada de cuerpo entero** en la mansión, del viernes al salir del turno hasta el lunes de madrugada. Lo que ella pidió: de debajo del pecho a los pies, las dos piernas dentro con barra entre las rodillas, **los brazos también en abducción**, solo la cara libre. Marcie tiene que elegir el fin de semana y avisarla.
+- **Día 37 (viernes) 15:00 → Día 40 (lunes) 07:00 — CONFIRMADO**: **fin de semana de Hobbs enyesada de cuerpo entero**, en la mansión y **hecho por Marcie**. Sesenta y cuatro horas. Lo que pidió ella: de debajo del pecho a los pies, las dos piernas dentro con barra entre las rodillas, **los brazos también en abducción**, solo la cara libre.
+- **Horario de Hobbs esta semana** (dato suyo, Día 32): lunes y martes turno de mañana, sale a las 15:00; miércoles guardia de 24 h, sale el jueves a las 9:00; **jueves (Día 36) libre entero desde las 9:00**; viernes turno de mañana, sale a las 15:00.
 - **Día ~40**: Sophie termina su periodo de yesos completos.
 - **Día ~61**: Rachel se quita el doble shoulder spica (~6 semanas desde la fractura del Día 19).
 - **Día ~77**: Tori se quita el shoulder spica + minerva y el alambre de mandíbula.
@@ -39,12 +45,12 @@
 >
 > Prohibido registrar una iniciativa como estado: "Patricia y Hannah lo están intentando" es estado y va a la ficha; "Patricia escribe cada 3-4 días" es iniciativa y va aquí, con cadencia.
 
-- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa: reporta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 31** (seis mensajes, aún sin leer ni contestar). **Vence: Día 32.**
+- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa: reporta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 32** (los siete de anoche y esta mañana, leídos y contestados; hilo largo sobre la excitación). **Vence: Día 33** — pero el lunes se ven en persona a las 15:00, así que el mensaje del día se lo ahorra si la escena ocurre.
   - _Voz:_ **trata a Marcie de usted** siempre, también en lo íntimo. Contesta lo difícil con un **dato clínico** en vez de una evasiva. **Se disculpa por reflejo.** Cuando reconoce algo sobre sí misma lo suelta **deprisa y de un tirón**. **Repite la orden resumida en voz alta**, como fijándose la lista. Lleva la **cuenta en voz alta de los elogios** ("van cuatro").
   - _Mecánica:_ residente de primer año del Creston, vive sola y no conoce la ciudad. Desde el Día 30 lleva **jaula de castidad y plug de forma continuada**, turnos incluidos y **sin ropa interior**; el plug solo se quita para lo imprescindible. **Sin ningún límite sobre el hospital.** Dentro del Creston sí puede agacharse doblando las rodillas; fuera, no.
   - → un mensaje se narra con esto; abrir ficha si hay cita, escena o el fin de semana enyesada.
 
-- **Patricia** — escribe a Marcie **cada 3-4 días** contando cómo va lo suyo con Hannah y pidiendo que la visite. **Último: Día 28** (mensaje de la resolución con Hannah). **Vence: Día 32.**
+- **Patricia** — escribe a Marcie **cada 3-4 días** contando cómo va lo suyo con Hannah y pidiendo que la visite. **Último: Día 32** (disparado: cuenta que duermen juntas desde el martes y pide verla; se cierra con la comida de hoy). **Vence: Día 35-36.**
   - _Voz:_ frases cortas, dato y sigue, sin adornos ni emoji. Humor seco de amortiguador cuando algo le incomoda. Avisa de que lo que va a decir suena raro y lo dice igual ("Eso es una cosa muy rara para decirle a alguien, lo sé"). Compara sensaciones en vez de valorarlas. Tutea a Marcie. **Ajuste activo desde el Día 9:** la tristeza contenida sube o baja según cómo la trate Marcie.
   - _Mecánica:_ ambos brazos amputados desde el hombro; prótesis de gancho en uso desde el Día 17. En los Días 9-10 **Hannah escribía los mensajes por ella**; no está establecido que teclee sola con los ganchos. → si la escena necesita precisión sobre cómo escribe, **abrir ficha**.
   - → un mensaje se narra con esto; abrir ficha si hay visita o conversación larga.
@@ -66,7 +72,8 @@
 - **Dra. Vivian Kerr** — **disparador por condición:** cuando el tema de la amputación del brazo de Megan salga entre Megan y Marcie **delante de Vera**, Vera la menciona por iniciativa propia. Kerr no opera en la primera consulta, exige oír el motivo en boca de quien se opera y detecta a quien empuja desde fuera. Si Megan llega a ir, **la presentación la hace Vera y nadie entra en la sala**.
   - → es escena y su ficha no tiene voz registrada: **abrir ficha antes de narrarla**.
 
-- **Sin iniciativa pendiente:** Rachel, Sophie, Dana, Vera, Claire, Megan, Emily, Mills, Jude, Hannah, Sloane, June, Diane, Cora y Emma Campbell _(archivada)_. Ninguno escribe ni aparece por su cuenta; entran en escena por presencia (están donde está Marcie) o porque Marcie los busca.
+- **Sin iniciativa pendiente:** Rachel, Sophie, Dana, Vera, Claire, Megan, Emily, Jude, Hannah, Sloane, June, Diane, Cora y Emma Campbell _(archivada)_. Ninguno escribe ni aparece por su cuenta; entran en escena por presencia (están donde está Marcie) o porque Marcie los busca.
+  - **Mills** — tampoco tiene iniciativa, y es deliberado: dejó dicho el Día 32 que **no hay ninguna revisión pendiente ni la va a agendar**, y que si hay una siguiente vez **la llama Marcie** al contacto personal. No escribe, no propone y no se presenta. En el Creston, a partir del Día 33, es "la cirujana que la operó y nada más".
   - **Tori** — tampoco tiene iniciativa, y además **no tiene ninguna vía de comunicación acordada** hasta ~Día 77 (ni protocolo ni parpadeos: solo reacciona a visitas, ver `tori.md`). Diane sí puede reportar por su cuenta sobre la rutina de Tori.
 
 ### Hitos pasados (referencia)
@@ -104,19 +111,20 @@
 - **Día 30 (mañana)**: Alta. Evaluación final; **copa D confirmada**; ortesis y férula; Hobbs sabe que es la dueña del Creston.
 - **Día 30 (mediodía)**: Llegada a la mansión. **Mark pasa a ser Marcie**, registrado en todos los sistemas del área.
 - **Día 30 (tarde)**: Los dos registros de Vera. Centro comercial con Hobbs: jaula y plug; visita 1 de Sadie; primer beso.
-- **Día 31**: Retirada de los yesos de Megan; Megan declara que quiere amputarse el brazo; Emily deja a Claire y se muda con Megan.
+- **Día 31**: Yesos de Megan retirados; declara que quiere amputarse el brazo. Emily deja a Claire y se muda con Megan.
 
 ---
 
 ## Marcie
 
-- **Localización:** mansión, habitación principal. Día 31 noche.
+- **Localización:** mansión, habitación principal. Día 32, mediodía, saliendo hacia la ciudad.
 - **Cambio de nombre y género (Día 30, ~12:20):** anunciado ante Rachel, Sophie, Dana y Vera; **registrado en todos los sistemas del área desde esa hora**. Todos los personajes usan el nombre y el femenino. (El usuario sigue firmando como Mark fuera de la ficción.)
-- **Movilidad:** camina con muletas canadienses, marcha rígida de balanceo. Con las rodillas bloqueadas no puede levantar un pie ni doblar de cintura para abajo; necesita ayuda para levantarse, sentarse y entrar en un vehículo. **Brazos y hombros funcionan con normalidad: puede levantarlos sin problema.** Hipotensión ortostática al incorporarse (se resuelve sola). **Día 32: movilidad normal sin dispositivos.**
-- **Aparato (hasta el Día 32 — _borrar este bullet y el de movilidad al cerrar el Día 32, junto con la "Excepción única (Días 30–32)" de `world.md`_):** ortesis completa a medida de cintura a los pies + férula peneana (anillo de base, cuna, pletina dorsal que fija el ángulo de 90° dejando la cabeza libre, arnés, dos correas de velcro). Barra de abducción retirada el Día 31, aunque se la vuelve a poner por gusto. **Advertencia de Mills:** si la zona del anillo queda fría, dormida o con cambio de color, abrirlo y llamarla a la hora que sea.
+- **Movilidad (desde el Día 32, 9:20 — sin ortesis):** camina **con muletas canadienses**, con las rodillas libres y el cuerpo doblando con normalidad; se levanta y se sienta sola. **Límite real: el cuádriceps izquierdo se fatiga rápido y falla sin dolor previo** — la rodilla cede hacia dentro y no hay aviso (pasó al cuarto paso el Día 32). Diez segundos de pie sin apoyo, sí; una caminata larga sin muletas, todavía no. **Brazos y hombros, normales.** Mills: muletas tres días mínimo (hasta el Día 35) y a partir de ahí las deja el día que ella note que no las necesita.
+- **Férula peneana (hasta el final del Día 34):** anillo de base con bisagra y pasador, cuna, pletina dorsal que fija el ángulo de 90° dejando la cabeza libre, arnés a la cintura y dos correas de velcro. **Puesta día y noche** los Días 32, 33 y 34; **se la monta y se la quita Vera**. Con ella puesta, la punta queda a la vista en la abertura de la falda, así que **para salir a la calle la capucha es obligatoria** (la pieza ancha, la que trajo Dana el día del alta). Con el arnés puesto no puede orinar de pie: se sienta. **Advertencia de Mills, vigente:** si la zona del anillo queda fría, dormida o con cambio de color, abrirlo y llamarla a la hora que sea.
+- **La ortesis completa es suya (Día 32):** Mills se la dejó en vez de tirarla, sabiendo por qué —**Marcie le dijo la verdad: que le excita llevarla puesta**—, con **dos condiciones de médica**: ratos y no días (cuatro o cinco horas, y nada esta semana, que tiene que recuperar el cuádriceps) y que **alguien le revise la piel cada vez que se la quite**, sobre todo la cara interna de la rodilla izquierda. **El encargo lo tiene Vera**, aceptado delante de Mills: "yo se lo pongo y yo se lo quito". Las piezas —montantes, estribos, cinturón pélvico y **barra de abducción**— están apiladas en un rincón del vestidor.
 - **Físico:** ~173 cm, esbelta con curvas marcadas. Ojos verdes alargados, labios llenos, cabello castaño oscuro hasta media espalda. **Senos copa D confirmada (85/106).** Cero vello corporal. Conserva pene y testículos: modificado grower→shower, ~14 cm en reposo, ~17-17,5 cm erecto, ~13 cm de circunferencia en ambos estados.
 - **Voz:** habla desde el Día 25; voz nueva más aguda, esfuerzo ya nulo. Inducción neurolingüística completada el Día 12.
-- **Vestuario:** toda la ropa de hombre retirada el Día 30 y sustituida por vestuario femenino completo, con los estilos más reveladores de la ciudad. Selección corta apartada en el vestidor para lo que funciona sobre el aparato.
+- **Vestuario:** toda la ropa de hombre retirada el Día 30 y sustituida por vestuario femenino completo, con los estilos más reveladores de la ciudad. Selección corta apartada en el vestidor para lo que funciona con la férula puesta: **falda de tiro alto con abertura en V** (la prenda pensada para eso), vestido camisero de botones y vestido cruzado. Con las piernas libres, la ropa ya entra por los pies con normalidad.
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude.
 
 ---
@@ -128,3 +136,5 @@
 - **Visita pendiente a Emma Campbell** — archivada, sin visita programada desde el Día 19.
 - **Las dos mujeres del parque de la ribera** — Marcie quiere conocerlas a las dos juntas; Claire las tiene localizadas. Descripción en `pendientes.md` → "Las dos del parque de la ribera".
 - **Consecuencias de la primera intimidad Rachel-Dana** (Día 28, en el Creston) — nunca se han hablado entre ellas.
+- **La siguiente vez con Mills** — dejó dicho que no agenda nada desde el hospital y que **la llama Marcie** al contacto personal. Ella ya dijo que quiere que la haya; el movimiento es de Marcie.
+- **Presentar a Hobbs y a Vera** — Marcie quiere hacerlo; condición de Vera desde el Día 30: **hablar con Hobbs a solas antes de nada**. Se vuelve urgente antes del **Día 37**, porque Vera vive en la casa donde Hobbs va a pasar el fin de semana enyesada.

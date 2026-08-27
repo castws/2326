@@ -71,31 +71,32 @@ Dice lo que siente con torpeza reconocida en voz alta, y lo hace igual. Cuando a
 ---
 
 ## Citas memorables
-- "Hannah huele bien. Eso es una cosa muy rara para decirle a alguien, lo sé." _(reconociendo algo sobre Hannah sin nombrarlo — Día 19)_
-- "En el coño, Mark. Quiero que me lamas el coño." _(primera petición sexual directa y explícita, biblioteca — Día 21)_
 - "Los ganchos están bien. Pero esto también." _(comparando la intimidad con y sin prótesis — Día 21)_
 - "Porque tú también me gustas. Eso no cambió por lo de anoche. Y no entiendo cómo pueden ser las dos cosas verdad al mismo tiempo." _(confundida entre Mark y Hannah — Día 26)_
 - "Besé a Hannah anoche al llegar. No dije nada antes, solo lo hice... No sé qué somos ahora pero no me arrepiento." _(mensaje a Mark — Día 27)_
 - "Tienes razón. Es más fácil decirlo con la boca cerrada que con palabras, pero sí. Hoy le voy a decir algo, aunque sea torpe." _(Día 27)_
+- "Antes ella me acostaba y se iba. Ahora me acuesta y se queda... Como cuando pasé del gancho al muñón: no es que uno esté bien y el otro mal, es que no se parecen en nada." _(sobre Hannah — Día 32)_
+- "En la mesa me tienes que dar de comer tú, con los ganchos o sin ellos. Se me da fatal el tenedor y no pienso pelearme con él delante de gente." _(Día 32)_
+- "Prefiero no darlo por hecho ahora y que lo decidamos al final de la comida, porque hace seis días que no te veo y todavía no sé cómo vas a llegar tú." _(Día 32)_
 
 ---
 
-> Entradas anteriores (4) en [patricia-historial.md](patricia-historial.md).
+> Entradas anteriores (6) en [patricia-historial.md](patricia-historial.md).
 
 ## Momentos con Marcie
-- **Primera vez que escribe sola con el gancho** y conversación íntima por texto sobre sus masturbaciones con Hannah: lo describe con honestidad y reconoce que no le incomoda _(Día 19, escena 92)_.
-- **Noche en la mansión (Día 21, escenas 117, 120, 121):** **primera intimidad con las prótesis puestas** — desabrocha el pantalón con los ganchos, lo masturba con el derecho y lo cabalga dictando el ritmo ("Quieto tú. Yo me muevo"). Primera masturbación propia con el gancho. Después, segunda intimidad **sin** prótesis, con los muñones libres.
-- Conoce a Dana; conversación sobre adaptación a prótesis de gancho _(Día 22, escena 122)_.
 - **Visita al Creston (Día 26, escena 154):** sorpresa genuina ante el vendaje total y el cabello nuevo. **Le cuenta el beso de Hannah**, confundida entre las dos relaciones. Mark le habla de su propia no exclusividad y le sugiere que bese ella a Hannah, sin necesidad de palabras; decide hacerlo esa misma noche.
+- **Mensajes del Día 32 (escena 264):** escribe tras cuatro días, con la fórmula de siempre ("esto es una cosa muy rara para decirle a alguien, lo sé") para contar cómo ha cambiado el rato de después con Hannah, **comparando en vez de valorar**. No preguntó cómo estaba Marcie porque la última vez la vio vendada entera y no quería que esa fuera la primera pregunta. Acepta la comida de hoy, avisa de lo del tenedor, **predice y acierta que Hannah dirá que no** a acompañarlas, y se niega a dar por hecha la continuación en su casa.
 - **Mensaje del Día 27 (escena 157):** cuenta que besó a Hannah al llegar y que fue correspondida. Acepta el consejo de hablarlo abiertamente y decide intentarlo ese mismo día.
 
 ---
 
-> Entradas anteriores (8) en [patricia-historial.md](patricia-historial.md).
+> Entradas anteriores (9) en [patricia-historial.md](patricia-historial.md).
 
 ## Estado actual
 
 - En casa de [Hannah](hannah.md), recuperada de la amputación del brazo derecho.
-- Prótesis de gancho en uso; alterna con ir sin ellas.
-- **Con Hannah:** hablado abiertamente el Día 27, van a intentarlo, **sin nombre todavía**.
-- Sin evento programado _(en pausa desde la sesión 33)_.
+- Prótesis de gancho en uso; alterna con ir sin ellas. **En una mesa, con público delante, no usa cubiertos**: prefiere que le den de comer antes que pelearse con el tenedor.
+- **Con Hannah:** duermen juntas desde el Día 30 (martes). Siguen **sin ponerle nombre** y las dos hacen como que eso no importa — "así que supongo que importa un poco".
+- **Hannah y Marcie:** Hannah lo sabe desde el primer día y nunca le ha importado; cuando Patricia se lo contó todo, lo único que preguntó fue si ella iba a estar bien después. Fórmula suya: "no me cuentes si no quieres, pero si me cuentas no me molesta".
+- **Día 32, 13:00:** comida con Marcie en el **Café Elm**, las dos solas — Hannah la deja y se va. La continuación en casa de Hannah **queda sin dar por hecha**, a decidir al final de la comida.
+- **No ha visto a Marcie desde el Día 26**, cuando estaba vendada entera en el Creston. Conoce el nombre nuevo por el sistema, no por ella.

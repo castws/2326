@@ -68,33 +68,43 @@ Cirujana del Creston Medical Center. Llevó la **feminización corporal completa
 - **Avisa cuando algo no es procedimiento antes de tocarlo**, y se niega a presentarlo como si lo fuera ("no te la voy a colar como si lo fuera").
 - **No acepta que nadie conteste por otra persona:** "Eso me lo tiene que decir ella".
 - Separa lo que siente de lo que anota, en la misma respuesta y sin transición.
+- **Dicta mientras palpa**, un hallazgo por punto explorado, y encadena el hallazgo con su interpretación en la misma frase ("es presión, no rozadura: no hay piel levantada").
+- **Corta la ambigüedad agradable en seco** cuando cree que va a confundir a la otra persona: "Ahí te tengo que parar, porque si no mañana no sabrás qué es qué".
+- **Cuando algo la sorprende no finge que no**, y encima explica por qué le sorprende: "No me suena raro, me suena nuevo. En diez años no me lo había dicho nadie".
+- **Da las indicaciones numeradas y con el criterio de quién decide dentro**: "tres días mínimo, y a partir de ahí las dejas el día que tú notes que no las necesitas, no el día que yo diga".
+- **Reconoce el mérito de su trabajo sin falsa modestia** cuando se lo señalan, con el mismo tono con el que dicta una medida.
 
 ---
 
 ## Citas memorables
 
 - "Y de la primera te tengo que hablar antes de tocarte, porque no es como las de los otros días y no te la voy a colar como si lo fuera." _(Día 30)_
-- "'Lo correcto' no existe aquí, y si lo dejamos en que es lo correcto, mañana no sabrás si lo hiciste porque querías o porque te lo puse como si fuera parte del alta." _(Día 30)_
-- "Eso me lo tiene que decir ella." _(cuando Mark contesta por Hobbs — Día 30)_
 - "Yo he puesto un límite y era el mío; el tuyo lo pusiste tú y lo puedes mover tú." _(a Hobbs — Día 30)_
 - "Siete días exactos, sin una sola complicación, y eso no me pasa casi nunca." _(tras retirar todo el vendaje — Día 30)_
+- "No ha fallado la rodilla, ha fallado el músculo. Es fatiga, y la fatiga avisa así, quitándose de en medio sin dolor previo." _(Día 32)_
+- "Esto ya no lo estoy haciendo por la carpeta. Solo para que quede dicho." _(Día 32)_
+- "No me suena raro, me suena nuevo. En diez años no me lo había dicho nadie, y eso no significa que no le pase a nadie: significa que a mí no me lo cuentan." _(cuando Marcie le confiesa el fetiche por la ortesis — Día 32)_
+- "En la carpeta no hay una próxima cita ni la va a haber, porque no hay motivo clínico para ponerla. Lo cual no significa que no vaya a haber una siguiente." _(Día 32)_
 
 ---
 
-> Entradas anteriores (5) en [mills-historial.md](mills-historial.md).
+> Entradas anteriores (7) en [mills-historial.md](mills-historial.md).
 
 ## Momentos con Marcie
 
-- **Evaluación de eyaculación con estímulo visual** (Día 29, escenas 181-182): encuadra la petición de Mark como dato clínico legítimo y se desviste por completo, mandando salir a la enfermera. Reconoce que se excita con él, dejando claro que no cambia el procedimiento. Hace pasar a Hobbs como "segundo estímulo" y la dirige con el mismo tono con el que dicta medidas. Clímax a los 13:04. Después termina ella con los dedos de Hobbs, se viste y se va a su siguiente paciente.
-- **Evaluación final planteada de frente** (Día 30, escenas 196-198): avisa antes de tocarlo de que esta no es como las anteriores. Deja claro que lo que propone no es procedimiento, no va en la carpeta y no condiciona el alta. Corrige de plano lo de "lo correcto", corta a Mark cuando contesta por Hobbs y sostiene el límite de Hobbs por ella. **Pierde por primera vez en siete días la capacidad de dictar constantes en voz alta.** Disfrutó la evaluación de penetración y le gustaría volver a hacerlo y no tiene problema en proponerlo durante la próxima revisión, se siente orgullosa de su trabajo.
-- **Retirada de vendajes** (Día 30, escena 199), con Hobbs asistiendo. Mide y confirma la talla de senos: **85 de banda, 106 de contorno, copa D**, simetría correcta, sin induración.
+- **Retirada del aparato y evaluación funcional** (Día 32, escenas 256-258): va a la mansión un domingo, de calle y sin bata. Palpa la base tras el reporte de dolor leve y lo encuadra sin dramatizarlo; valida el reajuste de velcros de Vera. Retira ortesis y férula por orden inverso, dicta los rangos, dirige la primera puesta en pie **sin ningún dispositivo** y **diagnostica la claudicación de la rodilla como fatiga de cuádriceps** al oír "perdí la fuerza". Lee el surco del anillo como presión sin lesión.
+- **La evaluación de erección y eyaculación** (Día 32, escena 259): toma la erección espontánea como el dato que le faltaba y **avisa, como siempre, de qué parte es clínica y qué parte pone ella porque quiere**. Pregunta si Vera se queda y **se niega a decidir por ella**. Dicta las medidas (17,5 × 13) y las compara con el plan quirúrgico. Frena a propósito durante media hora. **Deja de dictar por completo** cuando Marcie le coge la mano y le entrelaza los dedos; se besa con Vera encima de ella; termina montándola y llegando las dos casi a la vez. Después se viste y recupera el tono en un minuto.
+- **Cierre del caso y la ortesis** (Día 32, escenas 260-261): separa por escrito lo médico de lo demás — **no queda ninguna revisión, no agenda nada, y la siguiente vez la llama Marcie** al contacto personal. Da las dos indicaciones (muletas tres días mínimo; férula día y noche, ampliada a tres días completos tras la edición de Claire, que ella asume como error propio). **Le deja la ortesis a Marcie** al oír para qué la quiere, sin cara de escándalo y con dos condiciones de médica, y le encarga a Vera la revisión de la piel. Agradece que se lo hayan dicho de verdad: "la gente se calla esas cosas conmigo y luego yo me entero cuando llegan con una úlcera por presión".
 - **Dispositivos y alta** (Día 30, escenas 201-204): monta ella misma la ortesis completa, la barra de abducción y la férula peneana, dictando cada paso; vuelve a por dos correas de velcro "que se le quedaban". Dirige la primera puesta en pie y los primeros pasos con muletas, avisando de la hipotensión ortostática y frenando el alarde. Firma el alta a las 11:00 y deja su contacto directo, no el del hospital.
 
 ---
 
-> Entradas anteriores (8) en [mills-historial.md](mills-historial.md).
+> Entradas anteriores (11) en [mills-historial.md](mills-historial.md).
 
 ## Estado actual
 
 - En el Creston. Contacto directo (personal, no el del hospital) en manos de Marcie.
-- **Programado: Día 32 (domingo) a las 9:00, va a la mansión** a retirar la ortesis, la barra de abducción y la férula peneana.
+- **Caso cerrado el Día 32:** retiró la ortesis y dejó dicho que **no hay ninguna revisión pendiente ni la va a agendar**. En el hospital, a partir del Día 33, es "la cirujana que la operó y nada más"; la rehabilitación la lleva **Delaney**.
+- **La siguiente vez la tiene que provocar Marcie.** Ella quiere que la haya y lo dijo sin rodeos, pero **no escribe, no propone y no se presenta**: espera la llamada al contacto personal.
+- **Sabe, desde el Día 32, que a Marcie le excita llevar la ortesis puesta.** No lo juzga y no lo ha comentado con nadie; lo trató como un dato que cambia las instrucciones que hay que dar (cuatro o cinco horas, revisión de piel).
+- **Relación con Vera:** intimidad iniciada el Día 32, sin nada acordado después. Le dejó a ella el encargo clínico de vigilar la piel bajo la ortesis.

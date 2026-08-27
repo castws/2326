@@ -108,6 +108,9 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 - "Lo que me atrae de usted es que está pendiente. Nadie ha estado nunca pendiente de mí así." _(Día 30)_
 - "En tres días sigo siendo yo esperando a que se acabe. En seis semanas se me olvida cómo era pedir un vaso de agua sin pedirlo." _(Día 30)_
 - "Lo que me incomoda es que se me está haciendo normal muy rápido." _(Día 30)_
+- "No es que me pase cuatro veces, es que las cuatro veces son las que llegan a apretar. El resto del tiempo también, solo que más bajo." _(Día 32)_
+- "Eso es lo que me pone, más que el plug: que no se vea." _(sobre mover el plug en el control, delante de todos — Día 32)_
+- "Voy a estar tres días pensando en el lunes y luego cuatro más pensando en el viernes, y todavía es domingo por la mañana." _(Día 32)_
 
 ---
 
@@ -115,18 +118,22 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 
 ## Momentos con Marcie
 
-- **Día 30, evaluación final (escenas 196–198):** presente a petición propia. Cuando Mills le pregunta si se queda, **contesta en primera persona y pone su límite** —se queda a mirar, no participa, no toca a nadie— y lo dice "ahora y no cuando ya estemos". Lo mantiene toda la escena. Se quita el uniforme **por motivo propio**. Cuando Mark retira toda petición de contacto y le da permiso, se acerca por decisión suya.
-- **Día 30, revelación (escena 203):** Mark le dice que su plaza nunca corrió peligro y que el hospital es suyo. Lo deduce a mitad de frase y se queda pálida. **Rechaza la premisa** de que saberlo antes le habría estropeado el juego.
 - **Día 30, 20:30–23:50 — la noche en el centro comercial (escenas 223–232):** primera cita fuera del hospital, sin ropa interior. **Lencería:** se bloquea al elegir las pezoneras y luego **decide sola dos veces**; cruza la tienda dos veces en ropa interior y no se tapa. **Ropa:** vestuario nuevo; se agacha de espaldas a la dependienta sin doblar las rodillas. **Sex shop:** de pie sobre una silla y con los ojos cerrados, recibe la **jaula** y el **plug**. **Atrio:** agachada de espaldas a cuatro desconocidas fingiendo ajustar un zapato; responde ella misma a Corinne. **Marginalia:** lectura clínica de las amputaciones de Sadie (no le cuadran con una enfermedad). **Baño accesible:** sexo oral, con permiso de tocarse concedido e inutilizable por la jaula. **Galería: primer beso de las dos.**
 - **Día 31, turno de mañana (escena 235):** seis mensajes, sin verse. Llegó a casa con todo puesto y orinó sentada como se le indicó. Tardó en dormirse — **"No por el plug. Por lo otro."** Entró de turno con todo puesto y sin nada debajo: "Se me nota al andar y nadie me ha dicho nada en toda la mañana." **Reyes se le miró la jaula un segundo en el control y siguió a lo suyo sin decir nada.**
   - **Pensamientos de esa noche (informe de Claire, que Hobbs desconoce):** despierta de 00:52 a 02:10. Volvió **doce veces** al beso de la galería. **Intentó masturbarse dos veces por costumbre y se acordó de la jaula las dos veces.** Contó los elogios: cinco.
+- **Día 32, hilo de mensajes de la mañana (escena 262):** siete mensajes sin leer (seis de la noche del Día 31 y uno de las 07:12), incluida una disculpa por escribir tanto, el recordatorio de que sigue queriendo el fin de semana entero, y un "sigue sin leerme" a las 23:47. Cuando Marcie contesta y le pregunta por la excitación, da primero el **dato clínico** —once intentos de erección el sábado, cuatro en media mañana del domingo, la jaula no deja crecer, aprieta y duele en la base— y después **lo suelta de un tirón**: está así todo el rato, lleva tres días sin poder terminar y no sabe si va a mejorar o a peor. Confiesa dos intentos de tocarse por costumbre y, sobre todo, que **mueve el plug a propósito echándose hacia atrás en la silla del control**, tres o cuatro veces esa mañana, con la supervisora a dos metros: **lo que la excita es que no se vea**. Vuelve a nombrar su miedo — lo rápido que ha pasado de no hacerlo a hacerlo sin que se lo manden. **Cuenta el elogio: "Seis."**
+- **Día 32, lo que se cierra por mensaje (escena 262):** **fin de semana confirmado** — sesenta y cuatro horas exactas, viernes 15:00 a lunes 07:00, que **tenía calculadas desde el jueves anterior por si se lo preguntaban**; se lo hace **Marcie, en la mansión**, y ella lo repite resumido en voz alta como siempre. Da su horario entero de la semana sin que se lo pidan y luego se disculpa por dar cuatro datos cuando le pedían uno. **Mueve ella misma la cita de rehabilitación de Marcie** de las 11:15 a las 14:00, desplazando a otro paciente, y quedan **el lunes a las 15:00 a la salida del hospital**.
 
 ---
 
-> Entradas anteriores (6) en [hobbs-historial.md](hobbs-historial.md).
+> Entradas anteriores (8) en [hobbs-historial.md](hobbs-historial.md).
 
 ## Estado actual
 
 - En el Creston, en turno. Jaula y plug puestos de forma continuada; la llave la tiene Marcie.
-- **Programado sin fecha fija:** el **fin de semana enyesada de cuerpo entero** en la mansión. Primer viernes disponible: **Día 37**.
-- **Pendiente:** la invitación a conocer la mansión y a las demás, con la oferta de trabajo detrás.
+- **Tercer día sin poder terminar** (desde el Día 30). Excitación de fondo continua; la jaula convierte cada respuesta en presión y dolor leve en la base, que se pasa en un par de minutos.
+- **Costumbre nueva desde el Día 32:** mover el plug a propósito en la silla del control, sin que se le note por fuera. Nadie se lo ha mandado y eso es exactamente lo que la inquieta.
+- **Confirmado: fin de semana enyesada de cuerpo entero**, **Día 37 (viernes) 15:00 → Día 40 (lunes) 07:00**, en la mansión y **se lo hace Marcie**. Sesenta y cuatro horas.
+- **Confirmado: Día 33 (lunes), 15:00**, quedan a la salida del hospital cuando termine su turno.
+- **Horario de la semana:** lunes y martes sale a las 15:00; miércoles guardia de 24 h; **jueves (Día 36) libre entero desde las 9:00**; viernes sale a las 15:00.
+- **Pendiente:** la invitación a conocer la mansión y a las demás, con la oferta de trabajo detrás. **Todavía no conoce a Vera**, que vive en la casa donde va a pasar el fin de semana enyesada; condición de Vera: hablar con ella a solas antes de nada.

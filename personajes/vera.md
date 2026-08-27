@@ -81,6 +81,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **[Sophie](sophie.md)** — su paciente. La noche del Día 27, durante una maniobra pedida por Rachel, **Vera fue a consultárselo a Sophie directamente** antes de aceptar; Sophie le pidió que le tocara los senos y Vera se quedó más rato del necesario.
 - **Marcie** — le confesó su fetiche por los yesos el Día 23 y ella lo recibió con calma profesional y un matiz personal cálido. **Se ofreció a aplicarle un yeso ella misma** cuando quiera.
 - **[Megan](megan.md)** — la conoció el Día 31 al retirarle los yesos. Registró que **Megan es la única persona que ha visto para quien un yeso no añade dependencia, sino que la sustituye** — y que lo eligió sabiendo exactamente eso. **No lo va a mencionar por iniciativa propia.**
+- **[Dra. Mills](mills.md)** — se conocen del cuidado post-operatorio de Marcie. El **Día 32** pasaron de trato profesional a intimidad: Vera participó en la evaluación final poniendo la condición de que dirigiera Mills, y se besaron. Al irse, Mills le dejó a ella el encargo clínico de vigilar la piel de Marcie bajo la ortesis.
 - **[Dra. Vivian Kerr](kerr.md)** — la conoce desde hace años del ambiente BDSM de la ciudad: cirujana privada con consultorio propio, que practica **modificaciones corporales electivas**, amputaciones incluidas. No son amigas; es una conocida profesional a la que respeta y de la que sabe que trabaja en serio.
 - **[Dana](dana.md)** — a Dana le gustaría que Vera la ayudara a masturbarse, pero no tiene excusa práctica porque no es paciente suya. **Vera no lo sabe.**
 - **[Jude](jude.md)** — **no se conocen todavía.** Cuando la conozca, sentirá atracción hacia ella y hacia su situación (inmovilización total permanente, pasado BDSM activo). El sentimiento será mutuo en cuanto Jude sepa que a Vera le gusta el BDSM y la inmovilización. **Se desarrollará de forma gradual.**
@@ -104,32 +105,36 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **Cierra los ofrecimientos con el límite dentro:** "Sola entra, sola sale y sola decide. Eso no lo pongo yo, lo pone Kerr".
 - Con otra profesional cambia a **taquigrafía clínica** y se ahorra la explicación entera ("Mejor. Entonces te ahorro la charla").
 - **Trae prendas contadas, no la selección entera**, y da el criterio práctico antes que el suyo — aunque los mezcle sin separarlos.
+- **Reclama como suyo lo práctico y cede lo demás:** cuando algo no le corresponde lo dice y lo suelta ("es tu cita y no es asunto mío"), y acto seguido nombra la parte que sí ("lo que sí es asunto mío es esto").
+- **Se ríe poco y con la cara girada**, dos segundos, como si la risa hubiera que apartarla de la zona de trabajo; vuelve seria antes de terminar de reírse.
 
 ---
 
 ## Citas memorables
 
 - "¿Esto es de enfermera o es lo otro?" _(aplicando el protocolo de registros por primera vez — Día 31)_
-- "Eso ya te lo dije anoche y no lo voy a repetir cada vez que te lo pongas. Pero sí. Y hoy más que ayer, porque ayer la llevabas porque tocaba y hoy la llevas porque la has pedido tú." _(Día 31)_
-- "No es el camisón. Hace ocho días te estaba cambiando las vendas de la cara y no podías mover un dedo. Ayer fue la primera vez que te pusiste de pie y hoy es la segunda. Eso es lo que ves en el espejo." _(Día 31)_
 - "Yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo." _(al ver a Megan por primera vez — Día 31)_
-- "Voy a salirme de mi sitio un momento, porque si me callo esto y luego te enteras por otro lado va a ser peor." _(antes de mencionar a Kerr — Día 31)_
 - "Sola entra, sola sale y sola decide. Eso no lo pongo yo, lo pone Kerr." _(sobre acompañar a Megan a la consulta — Día 31)_
+- "Quedarme puede ser quedarme a mirar, o puede ser quedarme y participar. ¿Cuál de las dos me estás ofreciendo?" _(Día 32)_
+- "Esto no me lo ha mandado ella. Es mío." _(antes de besar a Marcie — Día 32)_
+- "Con el uniforme no llevo desde hace años... Bañándote, montándote el aparato, dándote de comer. Todo eso ha sido con esto puesto y nada debajo, y tú no lo sabías." _(Día 32)_
+- "Ya sabes lo que me pasa a mí con eso, así que no voy a fingir que me lo has contado como quien cuenta el tiempo que hace. Pero es tu cita y no es asunto mío." _(al saber que a Patricia le faltan los dos brazos — Día 32)_
 
 ---
 
-> Entradas anteriores (6) en [vera-historial.md](vera-historial.md).
+> Entradas anteriores (9) en [vera-historial.md](vera-historial.md).
 
 ## Momentos con Marcie
 
-- **Conversación sobre conservar los aparatos** (Día 30): le gustaría. Distingue que el hierro en sí le da igual porque sostiene, deja caminar y se lo puede quitar Marcie; **lo que le interesa es lo que no devuelve nada a cambio**. Tras el ajuste de los dos registros, le basta con verla por la casa llevándolo porque le apetece.
 - **El yeso a cuatro patas** (propuesta de Marcie, registro BDSM): piernas con las **rodillas a 90°** y brazos con los **codos a 90°**, para tener que moverse por la casa a cuatro patas. Le interesa y lo dice sin rodeos. Duración por ahora: **dos o tres días**. Condiciones suyas: días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas de apoyo** — a las dos horas apoyada en cuatro puntos, rodillas y codos se destrozan por dentro del yeso.
-- **Día 31, mañana (escenas 235-237):** la desmontó para dormir y por la mañana se lo monta todo de nuevo, retirando la barra de abducción según tocaba. Cuando Marcie le pide **volver a ponerle la barra solo porque quiere**, antepone el dato y la atornilla igual; después **aplica el protocolo de registros y pregunta en cuál se hace**. Al vestirla trae prendas contadas y da el criterio práctico primero. **Corrige el halago de Marcie sin adornarlo.** En el desayuno **calcula el ángulo de la silla de Sophie antes de frenar las ruedas** y da de comer a ella y a Rachel alternando, **sin comentar el reparto ni una vez**.
-- **Día 31, visita de Megan (escenas 240–252):** baño y vestido de Marcie antes de la visita — desmontaje y remontaje completo del aparato en veinticinco minutos, y resuelve lo de la capucha localizando la pieza ancha que usó Dana el día del alta. **Ve la erección, para todo para comprobar el anillo** (advertencia de Mills) y reajusta las dos correas sin llegar a soltarlas. **Retira los dos yesos de Megan** (brazo primero, por elección de la paciente), tras avisarle en voz alta de lo que nadie le había dicho: que quitárselos no la libera, la deja sin nada con que sostenerse. **Se sale del registro profesional una sola vez para mencionar a la Dra. Kerr**, avisándolo antes. Después, en la cocina, pregunta directamente si le ha molestado que se metiera; al oír que no, lo cierra ella misma ("Entonces ya está dicho y no vuelvo sobre ello"). **Ejecuta sin comentarlo** el ajuste de Claire que la saca de la cocina con Emily.
+- **Día 32, mañana (escenas 253–258):** la despierta **una hora antes** por su cuenta tras rehacer la cuenta de tiempos, la baña en cama y le monta el aparato **sin la barra** en doce minutos, avisando de cada efecto antes de causarlo. Con el anillo en la mano se niega a forzarlo sobre una erección y espera; **se ríe con ella** dos segundos y sigue. Detecta y le enseña a Mills **la marca de la rodilla izquierda**, y le aporta el dato del reajuste de los velcros del día anterior. **Coge a Marcie al vuelo cuando le cede la rodilla** al cuarto paso.
+- **Día 32, la evaluación (escena 259):** preguntada por Marcie si prefiere quedarse o salir, **cierra la puerta con el talón y se queda**, pero exige antes que le digan cuál de las dos cosas le están ofreciendo. Participa poniendo su propia condición —"aquí dirige usted"— y la respeta toda la escena. Se besa con Mills encima de Marcie. **Revela que desde el Día 23 no lleva ropa interior bajo el uniforme** en ninguna de las rondas de cuidados, y que hoy sabía perfectamente lo que podía pasar y vino igual; queda en que **Marcie se lo comprobará ella misma el Día 33 al levantarla**.
+- **Día 32, la ortesis (escena 261):** acepta **delante de Mills** el encargo de revisarle la piel cada vez que se la quite ("yo se lo pongo y yo se lo quito"), lo que convierte en rutina explícita lo que hasta ahora era solo gusto compartido. Lo único que le sorprende no es el fetiche —que ya conocía— sino que se lo hayan encargado a ella por escrito.
+- **Día 32, antes de la cita (escena 265):** viste y maquilla a Marcie para Patricia. Al saber que le faltan ambos brazos desde el hombro, **el pincel se para medio segundo**, lo reconoce sin adornarlo y lo cierra ella misma. Después reclama lo práctico: dos muletas y ninguna mano entre las dos, así que vehículo a la puerta y mesa con camarero cerca.
 
 ---
 
-> Entradas anteriores (5) en [vera-historial.md](vera-historial.md).
+> Entradas anteriores (8) en [vera-historial.md](vera-historial.md).
 
 ## Estado actual
 
@@ -139,3 +144,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - El **hip spica de Marcie**, a falta de dos decisiones: brazos dentro o fuera, y en qué registro se hace.
   - El **yeso a cuatro patas**, sin fecha.
   - **Disparador de Kerr:** si Megan llega a ir a la consulta, la presentación la hace Vera y nadie entra en la sala.
+  - **Encargo de Mills (Día 32):** revisarle a Marcie la piel, las marcas y la temperatura **cada vez que se quite la ortesis**, con atención especial a la cara interna de la rodilla izquierda; si algo no le gusta, llama a Mills. Ella se la pone y ella se la quita.
+  - **La férula peneana** se la monta cada mañana y se la quita al acostarla, hasta el final del Día 34.
+  - **Día 33, al levantarla:** Marcie le va a comprobar por debajo del uniforme lo que le contó el Día 32. Vera ya lo sabe y lo espera.
+- **No lleva ropa interior bajo el uniforme de enfermera desde el Día 23**, por costumbre propia y no por nadie. Marcie lo supo el Día 32.

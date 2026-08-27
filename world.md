@@ -80,7 +80,7 @@ Normas sociales abiertas del mundo entero: aplican en la ciudad y también dentr
 Aplican a cualquier personaje del área, esté donde esté.
 
 - **Prótesis:** para las prótesis de manos y brazos, solo existen prótesis de gancho de accionamiento corporal. Cable conectado a arnés en el hombro contrario; el movimiento del hombro abre o cierra el gancho metálico. No hay prótesis mioeléctricas en el área.
-- **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio. **Excepción única (Días 30–32):** la ortesis completa de Marcie (de la cadera a los pies) y su férula peneana son piezas post-quirúrgicas fabricadas a medida para su caso concreto, no artículos que existan en el área. Nadie más lleva ni puede conseguir algo así; la regla general sigue intacta.
+- **Aparatos ortopédicos:** no existen dispositivos ortopédicos temporales (botas, férulas de inmovilización, etc.). Los aparatos ortopédicos solo corresponden a condiciones permanentes como polio. **Excepción única, y sigue siendo única:** la **ortesis completa de Marcie** (de la cadera a los pies) y su **férula peneana** son piezas post-quirúrgicas fabricadas a medida para su caso concreto, no artículos que existan en el área. **Desde el Día 32 la ortesis ya no es una prescripción:** Mills se la retiró, se la dejó a Marcie como objeto personal suyo y no hay ninguna indicación médica para volver a ponérsela — cuando se la ponga es por gusto, en ratos de cuatro o cinco horas y con revisión de la piel al quitársela. **Nadie más en el área lleva ni puede conseguir algo así**, ni existe forma de encargar uno: la regla general sigue intacta.
 
 ---
 
@@ -117,6 +117,7 @@ Existe en la ciudad una práctica privada y minoritaria de **cirugía de modific
 - **[Creston Medical Center](escenarios/creston.md)** — hospital central de dos plantas, propiedad de Marcie desde el Día 19. Uniforme blanco de enfermería desde el Día 28.
 - **[Centro comercial](escenarios/centro-comercial.md)** — galería con tienda de lencería buena (atiende Sloane), tienda de ropa, sex shop, lencería barata y quiosco de zumos. Cierra a las 22:00.
 - **[Marginalia](escenarios/marginalia.md)** — café-biblioteca del centro comercial, una sola planta, pared de libros de papel. Abierto hasta medianoche. Sadie escribe allí a diario.
+- **[Café Elm](escenarios/cafe-elm.md)** — restaurante-café de barrio en la calle Elm, ladrillo rojo y dos ventanales. Pasillos anchos entre mesas.
 - **[Club Insomnia](escenarios/club-insomnia.md)** — club de música electrónica, ambiente sexual relajado, reservados con cortinas translúcidas.
 - **[Club BDSM](escenarios/club-bdsm.md)** — proyecto de Marcie en planificación desde el Día 22, **sin local todavía**. Jude es la diseñadora.
 

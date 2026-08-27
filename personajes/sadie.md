@@ -59,9 +59,9 @@ Sabe perfectamente que **cada dedo que pierde es una limitación real para escri
 
 **Versión pública:** cuando alguien le pregunta de forma casual, dice que **tiene una enfermedad que obliga a amputarle los dedos**. Lo dice sin dramatismo, como quien da la hora, y la gente no insiste.
 
-**Verdad: se las está haciendo ella misma, por decisión propia. No se lo ha contado a nadie.**
+**Verdad: se las está haciendo ella misma, por decisión propia. No se lo ha contado a nadie. Las amputaciones propias y en los demás la excitan.**
 
-**Con Marcie:** se lo contará **cuando la conozca un poco más**, no en los primeros encuentros.
+**Con Marcie:** se lo contará **cuando la conozca un poco más**, no en el primer encuentro.
 
 ### Mecánica del impulso
 
@@ -101,7 +101,7 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 
 ## Relaciones
 
-- **Marcie** — **solo se conocen de vista.** Sadie se fijó en ella, se quedó mirándola más de lo normal y sintió interés, pero no se acercó ni dijo nada. **Marcie tomará la iniciativa después.**
+- **Marcie** — **solo se conocen de vista.** Sadie se fijó en ella, se quedó mirándola más de lo normal y sintió interés, pero no se acercó ni dijo nada. **Sadie tomará la iniciativa de hablarle a Marcie la próxima vez que ella vaya al Marginalia.**
   - **Lo que la engancha primero es el aparato**, no la cara ni el cuerpo: la ortesis de metal subiendo por las dos piernas, las abrazaderas, la marcha rígida. Y sobre todo **la férula peneana** saliendo por la abertura de la falda, sosteniendo el pene en horizontal a la vista de todo el mundo. Eso le produce **excitación directa**, no curiosidad clínica, y la incomoda un poco porque no se lo esperaba.
   - **Después viene el interés por la persona.** Le da curiosidad quién es alguien que entra así, sin taparse nada y sin dar explicaciones. Cuando lleguen a hablar, lo que más la va a enganchar son **las historias que Marcie cuente**: le pide detalles, se queda callada escuchando, y por primera vez en mucho tiempo le interesa más lo que le están contando que lo que ella está escribiendo. **Este interés evoluciona a desear tener intimidad con Marcie.**
 

@@ -22,3 +22,14 @@ Entradas antiguas de `personajes/mills.md`, movidas aquí para aligerar la ficha
 - **Evaluación de eyaculación frente a Jude y Cora** (Día 27, escena 166): misma técnica clínica de siempre, sin que la presencia de las visitas cambie nada. Clímax a los 3:41.
 - Primeros movimientos de dedos de manos y pies con Rachel y Dana presentes; pospone sin darle importancia la evaluación que coincidió con la visita de Mira ("esto también es un dato") _(Día 28)_.
 - **Movilidad de brazos y piernas** (Día 29, escena 180): prueba codos, hombros, caderas y rodillas sosteniendo ella el peso de cada articulación. Dicta los hallazgos en voz alta. Detecta que el vendaje genital es reciente, acepta la explicación sin insistir.
+
+## Citas (movidas el Día 32)
+
+- "'Lo correcto' no existe aquí, y si lo dejamos en que es lo correcto, mañana no sabrás si lo hiciste porque querías o porque te lo puse como si fuera parte del alta." _(Día 30)_
+- "Eso me lo tiene que decir ella." _(cuando Mark contesta por Hobbs — Día 30)_
+
+## Momentos con Marcie (movidos el Día 32)
+
+- **Evaluación de eyaculación con estímulo visual** (Día 29, escenas 181-182): encuadra la petición de Mark como dato clínico legítimo y se desviste por completo, mandando salir a la enfermera. Reconoce que se excita con él, dejando claro que no cambia el procedimiento. Hace pasar a Hobbs como "segundo estímulo" y la dirige con el mismo tono con el que dicta medidas. Clímax a los 13:04. Después termina ella con los dedos de Hobbs, se viste y se va a su siguiente paciente.
+- **Evaluación final planteada de frente** (Día 30, escenas 196-198): avisa antes de tocarlo de que esta no es como las anteriores. Deja claro que lo que propone no es procedimiento, no va en la carpeta y no condiciona el alta. Corrige de plano lo de "lo correcto", corta a Mark cuando contesta por Hobbs y sostiene el límite de Hobbs por ella. **Pierde por primera vez en siete días la capacidad de dictar constantes en voz alta.** Disfrutó la evaluación de penetración y le gustaría volver a hacerlo y no tiene problema en proponerlo durante la próxima revisión, se siente orgullosa de su trabajo.
+- **Retirada de vendajes** (Día 30, escena 199), con Hobbs asistiendo. Mide y confirma la talla de senos: **85 de banda, 106 de contorno, copa D**, simetría correcta, sin induración.
