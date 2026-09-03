@@ -115,6 +115,7 @@ Existe en la ciudad una práctica privada y minoritaria de **cirugía de modific
 
 - **[La ciudad](escenarios/ciudad.md)** — ~5.000 habitantes, estilo de ciudad pequeña estadounidense de 2026, vehículos autónomos. Contiene la regla de **narración al transitar** por las calles.
 - **[Creston Medical Center](escenarios/creston.md)** — hospital central de dos plantas, propiedad de Marcie desde el Día 19. Uniforme blanco de enfermería desde el Día 28.
+- **[Casa de Hannah](escenarios/casa-hannah.md)** — vivienda de dos plantas en calle tranquila. Viven Hannah y Patricia.
 - **[Centro comercial](escenarios/centro-comercial.md)** — galería con tienda de lencería buena (atiende Sloane), tienda de ropa, sex shop, lencería barata y quiosco de zumos. Cierra a las 22:00.
 - **[Marginalia](escenarios/marginalia.md)** — café-biblioteca del centro comercial, una sola planta, pared de libros de papel. Abierto hasta medianoche. Sadie escribe allí a diario.
 - **[Café Elm](escenarios/cafe-elm.md)** — restaurante-café de barrio en la calle Elm, ladrillo rojo y dos ventanales. Pasillos anchos entre mesas.

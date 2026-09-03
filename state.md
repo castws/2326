@@ -6,17 +6,16 @@
 
 ### Día actual
 
-**Día 32 — domingo, ~11:50 de la mañana.** **Marcie** en la habitación principal de la mansión, sentada en la banqueta del vestidor, ya vestida para salir y con **Vera** terminándole el maquillaje. Sale hacia la ciudad para comer con **Patricia** en el Café Elm a la una.
+**Día 32 — domingo, ~18:10 de la tarde.** **Marcie** vuelve sola de casa de Hannah en el vehículo autónomo, a diez minutos de la mansión. Ha pasado la tarde con **Patricia** y **Hannah** (primera vez con las dos a la vez).
 
-**Estado de Marcie:** **sin ortesis desde las 9:20** — Mills se la retiró y la evaluó. Camina **con muletas canadienses**, marcha propia y rodillas que doblan, pero **el cuádriceps izquierdo se fatiga y falla sin avisar** (una rodilla le cedió al cuarto paso esta mañana). Lleva la **férula peneana puesta día y noche** hasta el final del Día 34. Vestida con el conjunto negro (falda de tiro alto con abertura en V, jersey corto de punto, pezoneras adhesivas con cadena) y **capucha ancha**, obligatoria para salir a la calle.
+**Estado de Marcie:** **sin ortesis**, con **muletas canadienses**; el cuádriceps izquierdo se le soltó del todo al final de la escena de la cama y lleva desde entonces la pierna cansada. **Se ha corrido dos veces hoy** (Café Elm y casa de Hannah) — dijo ella misma que tres es demasiado. Lleva la **férula peneana montada por ella misma** en el coche, la primera vez sin Vera: asienta **torcida hacia la izquierda** y con las dos correas fuera de las marcas, así que hay que rehacerlo. Capucha puesta. Vestida con el conjunto negro del día. Dos mensajes de **Hobbs** de esta tarde sin contestar.
 
-**Fichas a abrir:** **ninguna**. Vera se está despidiendo y Patricia entra en escena en la comida, no antes. **Próximo momento a narrar:** el trayecto y la llegada al **Café Elm** a la una.
+**Fichas a abrir:** **[Vera](personajes/vera.md)** (la recibe al llegar a la mansión: rehace el montaje de la férula y revisa la piel — el encargo es suyo). **Próximo momento a narrar:** la llegada a la mansión.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 32, 13:00 — HOY**: **comida con Patricia en el Café Elm** (calle Elm, ciudad). Las dos solas: Hannah la deja y se va. En la mesa **Marcie le da de comer** (Patricia no maneja el tenedor con los ganchos). Posible continuación en casa de Hannah después; **se decide al final de la comida**, no antes.
 - **Días 32, 33 y 34 (domingo, lunes y martes)**: **férula peneana puesta día y noche**, los tres días completos; se retira al final del Día 34 y el miércoles (Día 35) ya no se vuelve a poner. Indicación de Mills reescrita **dos veces** por Claire el Día 32 a petición de Marcie (original: "dos días más y solo para dormir"). Vera la monta cada mañana como parte de la rutina.
 - **Hasta el Día 35 como mínimo**: **muletas canadienses**. Indicación de Mills: tres días mínimo, y a partir de ahí las deja el día que ella misma note que no las necesita. **El lunes (Día 33), a la rehabilitación, las lleva sí o sí.**
 - **Día 32 y siguientes**: Hobbs sigue con la **jaula de castidad** y el **plug** de forma continuada, turnos incluidos, sin ropa interior. Puede agacharse doblando las rodillas dentro del hospital.
@@ -45,12 +44,12 @@
 >
 > Prohibido registrar una iniciativa como estado: "Patricia y Hannah lo están intentando" es estado y va a la ficha; "Patricia escribe cada 3-4 días" es iniciativa y va aquí, con cadencia.
 
-- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa: reporta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 32** (los siete de anoche y esta mañana, leídos y contestados; hilo largo sobre la excitación). **Vence: Día 33** — pero el lunes se ven en persona a las 15:00, así que el mensaje del día se lo ahorra si la escena ocurre.
+- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa: reporta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 32** — los de la mañana, contestados, y **dos de la tarde (16:20 y 17:40) que siguen sin contestar**: reporte de catorce horas con jaula y plug, y el aviso de que mañana entra a las 7, sale a las 3 y la buscará en la planta baja antes de acabar el turno. **Vence: Día 33** — pero el lunes se ven en persona a las 15:00, así que el mensaje del día se lo ahorra si la escena ocurre.
   - _Voz:_ **trata a Marcie de usted** siempre, también en lo íntimo. Contesta lo difícil con un **dato clínico** en vez de una evasiva. **Se disculpa por reflejo.** Cuando reconoce algo sobre sí misma lo suelta **deprisa y de un tirón**. **Repite la orden resumida en voz alta**, como fijándose la lista. Lleva la **cuenta en voz alta de los elogios** ("van cuatro").
   - _Mecánica:_ residente de primer año del Creston, vive sola y no conoce la ciudad. Desde el Día 30 lleva **jaula de castidad y plug de forma continuada**, turnos incluidos y **sin ropa interior**; el plug solo se quita para lo imprescindible. **Sin ningún límite sobre el hospital.** Dentro del Creston sí puede agacharse doblando las rodillas; fuera, no.
   - → un mensaje se narra con esto; abrir ficha si hay cita, escena o el fin de semana enyesada.
 
-- **Patricia** — escribe a Marcie **cada 3-4 días** contando cómo va lo suyo con Hannah y pidiendo que la visite. **Último: Día 32** (disparado: cuenta que duermen juntas desde el martes y pide verla; se cierra con la comida de hoy). **Vence: Día 35-36.**
+- **Patricia** — escribe a Marcie **cada 3-4 días** contando cómo va lo suyo con Hannah y pidiendo que la visite. **Último: Día 32** (disparado y consumido: comida en el Café Elm y tarde en casa de Hannah con las tres). **Vence: Día 35-36.** Lo que traerá el próximo: cómo le ha sentado el día siguiente y si quiere repetir lo de las tres.
   - _Voz:_ frases cortas, dato y sigue, sin adornos ni emoji. Humor seco de amortiguador cuando algo le incomoda. Avisa de que lo que va a decir suena raro y lo dice igual ("Eso es una cosa muy rara para decirle a alguien, lo sé"). Compara sensaciones en vez de valorarlas. Tutea a Marcie. **Ajuste activo desde el Día 9:** la tristeza contenida sube o baja según cómo la trate Marcie.
   - _Mecánica:_ ambos brazos amputados desde el hombro; prótesis de gancho en uso desde el Día 17. En los Días 9-10 **Hannah escribía los mensajes por ella**; no está establecido que teclee sola con los ganchos. → si la escena necesita precisión sobre cómo escribe, **abrir ficha**.
   - → un mensaje se narra con esto; abrir ficha si hay visita o conversación larga.
@@ -137,4 +136,5 @@
 - **Las dos mujeres del parque de la ribera** — Marcie quiere conocerlas a las dos juntas; Claire las tiene localizadas. Descripción en `pendientes.md` → "Las dos del parque de la ribera".
 - **Consecuencias de la primera intimidad Rachel-Dana** (Día 28, en el Creston) — nunca se han hablado entre ellas.
 - **La siguiente vez con Mills** — dejó dicho que no agenda nada desde el hospital y que **la llama Marcie** al contacto personal. Ella ya dijo que quiere que la haya; el movimiento es de Marcie.
+- **Repetir lo de las tres (Marcie, Patricia y Hannah)** — dicho al terminar el Día 32 y aceptado por las dos, sin fecha. Condición de Hannah: **avisar antes de ir**, aunque sean diez minutos.
 - **Presentar a Hobbs y a Vera** — Marcie quiere hacerlo; condición de Vera desde el Día 30: **hablar con Hobbs a solas antes de nada**. Se vuelve urgente antes del **Día 37**, porque Vera vive en la casa donde Hobbs va a pasar el fin de semana enyesada.

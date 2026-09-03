@@ -20,7 +20,7 @@
 - **Brazo derecho:** accidente reciente con sierra en su taller (Día 5). **Los dos muñones quedan simétricos**, a ras de hombro, sin nada que sobresalga.
 - **Prótesis:** decidió intentarlas en ambos brazos el Día 6. **Prótesis de gancho de accionamiento corporal**, en uso desde el Día 19; ese día escribió sola por primera vez con el gancho. **No las lleva siempre:** alterna con ir sin ellas por decisión propia, y sabe distinguir bien lo que le da cada opción ("Los ganchos están bien. Pero esto también").
 - **Dependencia:** con o sin ganchos necesita ayuda para vestirse, acostarse y asearse. La atiende Hannah.
-- **Sensibilidad del muñón derecho:** el reciente es **distinto del izquierdo**, que ya lleva años. Le gusta que se lo toquen.
+- **Sensibilidad del muñón derecho:** el reciente es **distinto del izquierdo**, que ya lleva años. Le gusta que se lo toquen — con las manos en los dos muñones a la vez, durante el sexo, pierde el control por completo (Día 32). **Puede acariciar con los muñones** girando el torso y arrastrando el hombro: caricia ancha, torpe y con peso; nadie se lo había pedido antes del Día 32.
 
 **Vestimenta habitual:** ropa cómoda de casa, sin mangas y fácil de poner por la cabeza. Sale poco arreglada salvo para ocasiones concretas.
 
@@ -43,7 +43,7 @@ Dice lo que siente con torpeza reconocida en voz alta, y lo hace igual. Cuando a
 ## Conocimiento
 
 - **Sabe:** que Mark la visitó dos veces en el hospital; que tienen un vínculo afectivo y noches compartidas; que Mark no es exclusivo y él se lo dijo.
-- **No sabe:** que Megan existe. Que tiene activo un **ajuste emocional aplicado por Claire** (tristeza contenida que escala a llanto según la interacción con Mark). Nada de la tecnología real oculta.
+- **No sabe:** que Megan existe. Que tiene activos **dos ajustes aplicados por Claire**: el emocional (tristeza contenida que escala a llanto según la interacción con Marcie) y, desde el Día 32, el de **comentar el pene de Marcie** (ver Estado actual). Nada de la tecnología real oculta.
 - **Cree erróneamente:** que el yeso de Mark era médico.
 
 ---
@@ -66,27 +66,28 @@ Dice lo que siente con torpeza reconocida en voz alta, y lo hace igual. Cuando a
 - **Llora abierto cuando es necesario** pero no se queda en el llanto: vuelve a la conversación práctica.
 - **Reconoce en voz alta que lo que va a decir suena raro, y lo dice igual** ("Eso es una cosa muy rara para decirle a alguien, lo sé").
 - **Compara sensaciones en vez de valorarlas** ("Con el cilindro de Hannah no es lo mismo. El metal es distinto", "Los ganchos están bien. Pero esto también").
+- **Usa "administrar" para lo que no puede controlar** — dolor, celos, situación: es su palabra de amortiguador cuando reconocerlo de frente la incomodaría.
+- **Avisa de que va a llorar y de que no hay que parar por ello:** "lloro y sigo, lo tengo muy practicado".
 - Bajo el ajuste emocional activo desde el Día 9, la tristeza contenida sube según la interacción de Marcie.
 
 ---
 
 ## Citas memorables
 - "Los ganchos están bien. Pero esto también." _(comparando la intimidad con y sin prótesis — Día 21)_
-- "Porque tú también me gustas. Eso no cambió por lo de anoche. Y no entiendo cómo pueden ser las dos cosas verdad al mismo tiempo." _(confundida entre Mark y Hannah — Día 26)_
-- "Besé a Hannah anoche al llegar. No dije nada antes, solo lo hice... No sé qué somos ahora pero no me arrepiento." _(mensaje a Mark — Día 27)_
-- "Tienes razón. Es más fácil decirlo con la boca cerrada que con palabras, pero sí. Hoy le voy a decir algo, aunque sea torpe." _(Día 27)_
 - "Antes ella me acostaba y se iba. Ahora me acuesta y se queda... Como cuando pasé del gancho al muñón: no es que uno esté bien y el otro mal, es que no se parecen en nada." _(sobre Hannah — Día 32)_
-- "En la mesa me tienes que dar de comer tú, con los ganchos o sin ellos. Se me da fatal el tenedor y no pienso pelearme con él delante de gente." _(Día 32)_
-- "Prefiero no darlo por hecho ahora y que lo decidamos al final de la comida, porque hace seis días que no te veo y todavía no sé cómo vas a llegar tú." _(Día 32)_
+- "Estar así, quieta, notándote a ti moverte debajo de mi pie y sin poder hacer nada más… es una cosa distinta a cuando puedo participar. No mejor ni peor. Distinta." _(tras la escena de los pies en el Café Elm — Día 32)_
+- "No estoy celosa. Estoy… administrando. Hay dos y yo no llego a ninguna, esa es toda la situación." _(viendo a Hannah con Marcie — Día 32)_
+- "Nadie me ha pedido eso nunca. Ni yo se lo he ofrecido a nadie." _(cuando Marcie le pide que la acaricie con los muñones — Día 32)_
+- "Hoy no me he sentido un mueble en ningún momento. Eso también apúntalo." _(después de la doble — Día 32)_
 
 ---
 
-> Entradas anteriores (6) en [patricia-historial.md](patricia-historial.md).
+> Entradas anteriores (11) en [patricia-historial.md](patricia-historial.md).
 
 ## Momentos con Marcie
-- **Visita al Creston (Día 26, escena 154):** sorpresa genuina ante el vendaje total y el cabello nuevo. **Le cuenta el beso de Hannah**, confundida entre las dos relaciones. Mark le habla de su propia no exclusividad y le sugiere que bese ella a Hannah, sin necesidad de palabras; decide hacerlo esa misma noche.
-- **Mensajes del Día 32 (escena 264):** escribe tras cuatro días, con la fórmula de siempre ("esto es una cosa muy rara para decirle a alguien, lo sé") para contar cómo ha cambiado el rato de después con Hannah, **comparando en vez de valorar**. No preguntó cómo estaba Marcie porque la última vez la vio vendada entera y no quería que esa fuera la primera pregunta. Acepta la comida de hoy, avisa de lo del tenedor, **predice y acierta que Hannah dirá que no** a acompañarlas, y se niega a dar por hecha la continuación en su casa.
-- **Mensaje del Día 27 (escena 157):** cuenta que besó a Hannah al llegar y que fue correspondida. Acepta el consejo de hablarlo abiertamente y decide intentarlo ese mismo día.
+- **Comida en el Café Elm (Día 32, escenas 266-270):** primera vez que ve el cuerpo nuevo. **Escena entera con los pies bajo la mesa**: hace que Marcie se corra durante la comida y después se corre ella con la camarera a un paso, mientras Marcie le da de comer. Descubre que sin brazos y sin nada a lo que agarrarse el orgasmo le da miedo tanto como le gusta.
+- **Tarde en casa de Hannah (Día 32, escenas 273-278):** **primera vez con las dos a la vez**, decidido por ella ("prefiero que la primera vez sea así y no enterarme por partes"). **Primera penetración doble** y **primera anal con un pene** — puso las condiciones ella (entrar parando, parar cuando ella lo diga). Marcie le pidió que **la acariciara con los muñones**, algo que nadie le había pedido nunca; lloró y siguió. Se corrió cuando Marcie le acarició los dos muñones con las manos.
+- **Mensajes del Día 32 (escena 264):** escribe tras cuatro días para contar cómo ha cambiado el rato de después con Hannah, comparando en vez de valorar. Acuerda la comida, avisa de lo del tenedor y **predice y acierta que Hannah dirá que no** a acompañarlas.
 
 ---
 
@@ -97,6 +98,7 @@ Dice lo que siente con torpeza reconocida en voz alta, y lo hace igual. Cuando a
 - En casa de [Hannah](hannah.md), recuperada de la amputación del brazo derecho.
 - Prótesis de gancho en uso; alterna con ir sin ellas. **En una mesa, con público delante, no usa cubiertos**: prefiere que le den de comer antes que pelearse con el tenedor.
 - **Con Hannah:** duermen juntas desde el Día 30 (martes). Siguen **sin ponerle nombre** y las dos hacen como que eso no importa — "así que supongo que importa un poco".
-- **Hannah y Marcie:** Hannah lo sabe desde el primer día y nunca le ha importado; cuando Patricia se lo contó todo, lo único que preguntó fue si ella iba a estar bien después. Fórmula suya: "no me cuentes si no quieres, pero si me cuentas no me molesta".
-- **Día 32, 13:00:** comida con Marcie en el **Café Elm**, las dos solas — Hannah la deja y se va. La continuación en casa de Hannah **queda sin dar por hecha**, a decidir al final de la comida.
-- **No ha visto a Marcie desde el Día 26**, cuando estaba vendada entera en el Creston. Conoce el nombre nuevo por el sistema, no por ella.
+- **Operativo desde el Día 32:** sin brazos y sin nada a lo que agarrarse, el orgasmo le da miedo tanto como le gusta — su único apoyo es la espalda contra el respaldo o el cuerpo de quien tenga debajo. Al correrse, **los muñones hacen el gesto de los brazos que ya no tiene** (con los ganchos puestos, golpean lo que haya delante).
+- **Día 32, tarde:** primera vez con Marcie y Hannah a la vez, en la cama de Hannah. **Primera penetración doble** y **primera anal con un pene** (antes solo con los dedos de Hannah). Al día siguiente le va a arder y lo dijo en voz alta: "mañana me voy a acordar de vosotras cada vez que me siente". No lo quiere cada vez.
+- Ya ha visto el cuerpo y la cara nuevos de Marcie (Día 32); antes de eso solo la conocía vendada entera en el Creston.
+- **Ajuste activo desde el Día 32 (Café Elm), aplicado por Claire:** saca el tema del **pene de Marcie** por iniciativa propia y lo comenta en voz alta, con su registro de siempre (dato, comparación, humor seco), sin que nadie se lo pida y sin percibir que es un ajuste. Vuelve a él cuando la conversación se lo permite.

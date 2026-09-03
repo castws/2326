@@ -32,3 +32,17 @@ Entradas antiguas de `personajes/patricia.md`, movidas aquí para aligerar la fi
 - **Primera vez que escribe sola con el gancho** y conversación íntima por texto sobre sus masturbaciones con Hannah: lo describe con honestidad y reconoce que no le incomoda _(Día 19, escena 92)_.
 - Conoce a Dana; conversación sobre adaptación a prótesis de gancho _(Día 22, escena 122)_.
 - **Noche en la mansión (Día 21, escenas 117, 120, 121):** **primera intimidad con las prótesis puestas** — desabrocha el pantalón con los ganchos, lo masturba con el derecho y lo cabalga dictando el ritmo ("Quieto tú. Yo me muevo"). Primera masturbación propia con el gancho. Después, segunda intimidad **sin** prótesis, con los muñones libres.
+
+## Citas (movidas el Día 32, cierre)
+
+- "Porque tú también me gustas. Eso no cambió por lo de anoche. Y no entiendo cómo pueden ser las dos cosas verdad al mismo tiempo." _(confundida entre Mark y Hannah — Día 26)_
+- "Besé a Hannah anoche al llegar. No dije nada antes, solo lo hice... No sé qué somos ahora pero no me arrepiento." _(mensaje a Mark — Día 27)_
+- "Tienes razón. Es más fácil decirlo con la boca cerrada que con palabras, pero sí. Hoy le voy a decir algo, aunque sea torpe." _(Día 27)_
+
+## Momentos con Marcie (movidos el Día 32, cierre)
+
+- **Visita al Creston (Día 26, escena 154):** sorpresa genuina ante el vendaje total y el cabello nuevo. **Le cuenta el beso de Hannah**, confundida entre las dos relaciones. Mark le habla de su propia no exclusividad y le sugiere que bese ella a Hannah, sin necesidad de palabras; decide hacerlo esa misma noche.
+- **Mensaje del Día 27 (escena 157):** cuenta que besó a Hannah al llegar y que fue correspondida. Acepta el consejo de hablarlo abiertamente y decide intentarlo ese mismo día.
+
+- "En la mesa me tienes que dar de comer tú, con los ganchos o sin ellos. Se me da fatal el tenedor y no pienso pelearme con él delante de gente." _(Día 32)_
+- "Prefiero no darlo por hecho ahora y que lo decidamos al final de la comida, porque hace seis días que no te veo y todavía no sé cómo vas a llegar tú." _(Día 32)_

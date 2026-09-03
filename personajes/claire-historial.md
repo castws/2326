@@ -21,3 +21,7 @@ Entradas antiguas de `personajes/claire.md`, movidas aquí para aligerar la fich
 - Localiza a las dos mujeres del parque de la ribera y ajusta a Nora durante la cita para extender la PC también a los brazos _(Día 10, escena 37)_.
 - Explica los dos métodos de aprendizaje del idioma y agenda la inducción neurolingüística; informa del procedimiento de cambio de sexo _(Día 11, escena 47)_.
 - Reprograma las visitas al Creston para que no se crucen _(Día 27, escena 168)_; cambia el uniforme del personal de enfermería _(Día 28, escena 173)_; ajusta la vestimenta de Rachel y de Dana _(Día 28, escena 175)_.
+
+## Momentos con Marcie (movido el Día 32, cierre)
+
+- **Día 30, tras el alta (escenas 216-218):** registra el cambio de nombre en los sistemas del área. **Crea a [Sadie](sadie.md) Ford** y construye el **Marginalia**. Sobre el ritmo de las amputaciones, **señala el coste de alterar la percepción del tiempo** y ofrece dos alternativas limpias; se adopta la cicatrización rápida + reloj anclado a las visitas. Encarga la jaula de castidad para Hobbs y sustituye todo el vestuario.
