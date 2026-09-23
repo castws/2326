@@ -106,9 +106,9 @@ Existe en la ciudad una práctica privada y minoritaria de **cirugía de modific
 
 - **Tamaño:** 1.000 km². **Ubicación:** costa oeste (equivalente geográfico al año 2026). **Terreno:** mayormente plano en el interior, con bosque natural y acceso al océano.
 
-- **[La mansión](escenarios/mansion.md)** — residencia de Marcie. Una sola planta en forma de U, patio interior con piscina, bosque detrás. Incluye la **habitación de yesos** del ala posterior.
-- **[Casa de Claire](escenarios/casa-claire.md)** — pequeña, adyacente a la mansión, acceso por los jardines. Claire vive sola desde el Día 31.
-- **[Casa de huéspedes](escenarios/casa-huespedes.md)** — lado oeste de la mansión, construida el Día 22. La habita Vera desde el Día 23.
+- **[La mansión](escenarios/mansion.md)** — residencia de Marcie. Una sola planta en forma de U abierta al bosque (norte), patio interior con piscina. Servicio al oeste, zona privada al este; **habitación de yesos** en el anexo oeste. Planos en `imagenes/planos/`.
+- **[Casa de Claire](escenarios/casa-claire.md)** — pequeña, al este de la mansión, a unos 15 m de la puerta lateral, cruzando el jardín este. Claire vive sola desde el Día 31.
+- **[Casa de huéspedes](escenarios/casa-huespedes.md)** — lado oeste de la mansión, al norte del garaje y del anexo; se llega por la pasarela. Construida el Día 22. La habita Vera desde el Día 23.
 - **[Casa de Emma Campbell](escenarios/casa-emma.md)** — sector noroeste del área. Construcción abierta pensada contra la claustrofobia; cama hospitalaria en el salón.
 
 ### La ciudad
