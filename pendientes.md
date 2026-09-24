@@ -96,3 +96,7 @@ Le propongo a Mira que me visite un fin de semana, le digo que la enfermera le p
 Mira me cita a un café y me cuenta que ella y su hermana recibieron una herencia o que se ganaron la lotería. Mira decidió vivir sola y ahora tiene tres enfermeras que se turnan para cuidar de ella.
 
 Mira se entera de las amputaciones de los otros personajes y me pide que le ayude a amputarse todos los miembros, eso disminuiría el tiempo de dolor cuando le cambian los vendajes. La idea ya le venía rondando en la cabeza desde que le amputaron el brazo.
+
+# Sesión de rol
+
+Sesión de rol erótica

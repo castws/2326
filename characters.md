@@ -28,6 +28,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ apartamento de Megan, día y noche.
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
   - _Dónde:_ Creston en turno de mañana, sale a las 15:00; su apartamento el resto.
+- **[Delaney](personajes/delaney.md)** — robot, fisioterapeuta del Creston. 28, morena, pelo negro a la mandíbula, compacta y fuerte; pene marcado en el uniforme. Sin discapacidad.
+  - _Dónde:_ sala 3 de rehabilitación, planta baja del Creston; mañana y primera tarde.
 - **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Marcie.
   - _Dónde:_ Creston. Fuera de ahí, solo si Marcie la llama a su contacto personal.
 - **[Jude](personajes/jude.md)** — robot. Cabello negro, tatuajes, 24. Derrame a los 21: inmovilización total, solo ojos. Traqueotomía, respirador, sonda.
@@ -52,6 +54,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ la ciudad; sale de noche con su grupo (Trish, Maddie, Bex). Contacto guardado.
 - **[Sloane](personajes/sloane.md)** — robot, ~26, castaño rojizo en moño alto; pierna der. amputada sobre la rodilla, sin prótesis, dos muletas. Sin pene.
   - _Dónde:_ su tienda de lencería del centro comercial, en horario comercial.
+- **[Wren Calloway](personajes/wren.md)** — robot, 20, camarera. Alta (180), castaño claro en moño, pecas; senos copa C. Pene fino colgando con capucha negra (13 × 9; 18 × 11,5). Sin discapacidad.
+  - _Dónde:_ el Hollis, mediodía y primera tarde.
 - **[Dra. Vivian Kerr](personajes/kerr.md)** — robot, 34, cirujana privada de modificaciones corporales electivas. Pelo negro muy corto, ojos grises, muy pálida. Creada el Día 31; aún no ha aparecido.
   - _Dónde:_ su consultorio privado de la ciudad, ajeno al Creston. Solo con cita.
 

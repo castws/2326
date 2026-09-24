@@ -18,7 +18,7 @@ Todos los vehículos son autónomos.
 
 La composición de la población (edades, proporción de amputaciones, yesos y otras discapacidades) está fijada en **[reglas/poblacion-y-enfermedades.md](../reglas/poblacion-y-enfermedades.md)**, junto con las dos enfermedades de yeso del mundo y las cifras totales.
 
-Resumen operativo para narrar: solo mujeres de 19 a 30 años aparentes (ningún personaje de la ciudad supera los 35), mitad con vagina y mitad con pene funcional, **10 % con amputaciones**, **5 % con otras discapacidades** y **~23 % con al menos un yeso** en cualquier momento.
+Resumen operativo para narrar: solo mujeres de 19 a 30 años aparentes (ningún personaje de la ciudad supera los 35), mitad con vagina y mitad con pene funcional, **10 % con amputaciones**, **5 % con otras discapacidades** y **~16 % con al menos un yeso** en cualquier momento (1 de cada 6).
 
 ---
 
@@ -37,7 +37,7 @@ Resumen operativo para narrar: solo mujeres de 19 a 30 años aparentes (ningún 
 
 Cada vez que Marcie recorra las calles y zonas públicas de la ciudad, el narrador describe brevemente el paisaje humano que la rodea. Esta descripción incluye siempre dos elementos entrelazados:
 
-1. **Discapacidades y yesos visibles:** transeúntes con yesos (desde un miembro hasta cuerpo completo), amputadas, mujeres en silla de ruedas, con andador, con muletas, con aparatos ortopédicos de polio, con parálisis cerebral. La muestra debe ser coherente con las proporciones de la ciudad (10 % amputaciones, 5 % otras discapacidades y ~23 % con algún yeso — aproximadamente **1 de cada 4 personas del entorno**, repartidas entre fracturas convencionales, posiciones poco convencionales de la enfermedad de yoga y yesos de cadera/pene de la de mástil) y variada entre escenas.
+1. **Discapacidades y yesos visibles:** transeúntes con yesos (desde un miembro hasta cuerpo completo), amputadas, mujeres en silla de ruedas, con andador, con muletas, con aparatos ortopédicos de polio, con parálisis cerebral. La muestra debe ser coherente con las proporciones de la ciudad (10 % amputaciones, 5 % otras discapacidades y ~16 % con algún yeso — aproximadamente **1 de cada 6 personas del entorno**, repartidas entre fracturas convencionales, posiciones poco convencionales de la enfermedad de yoga y yesos de cadera/pene de la de mástil) y variada entre escenas.
 
 2. **Moda de exposición visible en el entorno:** algunas mujeres llevan los senos al descubierto con pezoneras, faldas con abertura en V que dejan la zona íntima visible con C-string de joyería, o la prenda de pene con capucha combinada con falda corta que deja visible la punta. La descripción refleja que estas opciones son elecciones cotidianas normales, sin énfasis especial. Ver `world.md` → "Vestuario y moda".
 

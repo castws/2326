@@ -1,6 +1,6 @@
-# Registro de Escenas — Archivo (Días 1–30)
+# Registro de Escenas — Archivo (Días 1–32)
 
-Escenas 1–232, verbatim e íntegras. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
+Escenas 1–279, verbatim e íntegras. NO se carga al inicio de sesión: consultar on-demand cuando se necesite un detalle antiguo. El índice día-a-día vive en `state.md` → sección "Hitos pasados".
 
 > **Regla de archivado (no invertir el orden):** un día se copia aquí **verbatim e íntegro** en el momento en que sale de la ventana verbatim de `scene_log.md`, y **solo después** se condensa la copia que se queda allí. Este archivo nunca recibe una versión resumida ni se reescribe: solo crece. Por debajo de él, `conversaciones/sesion_NN.md` conserva el transcript literal.
 
@@ -1702,3 +1702,145 @@ Marcie las acompaña **sin bajar del vehículo** (le cuesta entrar y salir con e
 Vuelta de noche. Vera atiende primero a **Rachel y Sophie** (rutina completa) y después desmonta a Marcie en el orden de siempre, comprueba el color de la base, aplica la pomada y deja las piezas ordenadas en la banqueta del vestidor. **"Mills viene a las nueve. Yo te levanto a las ocho y media."**
 
 ---
+
+---
+
+## Día 32 (domingo) — Mañana (sesión 36)
+
+### Escena 253: Vera la despierta y la baña (Día 32, 7:30)
+
+Vera entra a las **7:30**, una hora antes de lo que había dicho anoche: rehízo la cuenta (baño quince minutos, aparato doce, vestir y peinar veinte, Mills a las nueve) y a las ocho y media no llegaban. Trae palangana, toallas y la pomada de la pauta de Mills; las piezas del aparato siguen ordenadas en la banqueta del vestidor por orden de montaje, con la barra de abducción apoyada aparte.
+
+**Baño en cama**, a petición de Marcie, rápido para dar tiempo a desayunar: cara, brazos, torso, vientre y después de cintura para abajo. Al llegar a las piernas Vera encuentra **dos líneas rojas paralelas en cada muslo** de los montantes, más marcadas por dentro de la rodilla izquierda, y anuncia que se lo enseñará a Mills. Termina con la zona genital y la pomada bajo la corona; el pene responde en su mano y ella no cambia el ritmo: "Hoy no hay anillo puesto, así que no hay nada que comprobar."
+
+### Escena 254: Montaje del aparato sin barra y ropa de casa (Día 32, ~7:45)
+
+Marcie pide el aparato **sin la barra de abducción**; Vera ni la trae ("ayer ya no tocaba y hoy, con Mills viniendo a quitártelo todo, menos"). El anillo no entra con la erección todavía presente y Vera lo dice sin forzarlo _(**corrección de continuidad, sesión 38:** el anillo **sí se puede montar en erección** — bisagra, pasador y diámetro lo admiten. Lo de esta escena se relee como preferencia de Vera, que prefiere no montarlo apretado teniendo cinco minutos, no como imposibilidad física)_; **Marcie le cuenta algo gracioso, se ríen las dos** —risa corta, cara girada a la ventana— y con eso se ganan los cinco minutos.
+
+Montaje completo en el orden de siempre: anillo con pasador, cuna, arnés, **pletina dorsal** (aviso antes del efecto: "en cuanto la cierre te sube a noventa de golpe"), las dos correas de velcro al punto de ayer, comprobación de color y temperatura junto al anillo, cinturón pélvico, topes de cadera, montantes, cinchas de arriba abajo y estribos. **Doce minutos.** Ropa elegida de tres opciones contadas: **camisa larga de lino color arena**, abrochada hasta la cintura y abierta a partir de la férula, con la punta a la vista en el hueco. **Marcie decide no ponerse capucha** porque Mills se lo va a quitar todo igual. Zapatos planos de velcro sobre los estribos.
+
+### Escena 255: Desayuno en la cocina (Día 32, ~7:55–8:30)
+
+Marcie baja a la cocina en vez de desayunar en la habitación, avisando de que le pidió a Dana algo ligero. **Descripción de la marcha con la ortesis**, a petición del usuario: rodillas bloqueadas, ningún pie se levanta del suelo, las dos muletas se clavan un paso por delante, todo el peso a los antebrazos y el cuerpo entero balanceado como un bloque; los dos estribos aterrizan juntos con un doble chasquido seco, la cadera oscila a cada ciclo, unos ochenta centímetros por paso, mirando el suelo porque no hay tobillo que corrija. Vuelta a la habitación después del desayuno: Vera la sienta, la gira noventa grados en bloque, le quita los zapatos y le deja las piernas rectas. Marcie decide **esperar a Mills en la habitación** y que se la traigan directamente allí.
+
+### Escena 256: Llega Mills y retira el aparato (Día 32, 9:00)
+
+Mills llega **a las nueve en punto**, sin bata (domingo, viene de la calle): pantalón ancho de lino gris oscuro, camiseta blanca de tirantes, chaqueta fina abierta, zapatillas planas, moño bajo, maletín rígido y carpeta. Marcie reporta **dolor leve un par de veces en la base**; Mills no lo deja pasar, palpa el contorno del anillo y lo encuadra: sin dolor a la palpación, sin edema, relleno normal — la base se ensancha con la erección y el aro no acompaña, "molesto, pero no isquémico". **Vera aporta el dato de ayer** (comprobó color y temperatura y reajustó los dos velcros dos dedos más atrás) y Mills lo valida.
+
+Retirada de abajo arriba: estribos, desbloqueo de rodillas, cinchas, montantes, cinturón pélvico y topes. Vera le señala **la marca de la rodilla izquierda**; Mills la lee como **presión, no rozadura** ("mañana no queda nada; si hubiera tenido que llevarlo una semana más, ahí sí habría cambiado el acolchado"). Evaluación de rangos dictada en voz alta: **flexión de rodilla completa las dos**, sin dolor ni crepitación, caderas bien, tobillos algo rígidos —sobre todo el izquierdo—, y **tono de cuádriceps mejor de lo esperado**.
+
+### Escena 257: De pie sin nada, y la rodilla que cede (Día 32, ~9:20)
+
+Primera vez de pie **sin ningún dispositivo**: los cuádriceps aguantan pero tiemblan, las rodillas hacen un vaivén hasta encontrar el punto, los pies notan el suelo entero sin la chapa del estribo. Pulso bien, sin mareo, sin caída de pelvis. **Diez segundos sola**, sin apoyo y sin buscar la pared.
+
+Mills se retira cuatro metros y le pide que camine, avisando de que si se le va una rodilla pare donde esté. Al **cuarto paso, con el peso en la izquierda, la rodilla cede hacia dentro** y **Vera la coge antes de que llegue al suelo**. Marcie describe lo que notó: **pérdida de fuerza, no dolor**. Diagnóstico de Mills: **no ha fallado la rodilla, ha fallado el músculo** — fatiga del cuádriceps, que avisa así, quitándose de en medio sin dolor previo.
+
+### Escena 258: Retirada de la férula (Día 32, ~9:35)
+
+Al revés de como se puso: las dos correas, la pletina —el pene baja solo por primera vez en nueve días—, la cuna, el arnés y por último el anillo. Debajo queda un **surco circular pálido en toda la base** con la piel de alrededor algo más rosada, y el pene tira todavía un poco hacia arriba, "como si le costara acordarse". Lectura de Mills: **surco de presión sin lesión** (se borra en horas), glande normal, **sensibilidad alta hoy y mañana**. Primera vez sin nada encima del cuerpo desde el quirófano.
+
+### Escena 259: La evaluación de erección y eyaculación (Día 32, ~9:40–10:15)
+
+Marcie tiene una erección espontánea a los dos minutos de retirar la férula y lo comenta; Mills la toma como el dato que le faltaba —**"la mejor noticia de toda la mañana"**— y avisa antes de tocar, como siempre, de qué parte es clínica y qué parte pone ella porque quiere. Pregunta si quiere a **Vera** dentro o fuera; **Marcie se lo pregunta a Vera directamente** y ella, tras distinguir en voz alta las dos cosas que puede significar quedarse, **decide participar** con una condición propia: "aquí dirige usted".
+
+La evaluación se alarga **media hora larga**, con Mills frenando a propósito. Medidas dictadas en voz alta: **17,5 cm de longitud en erección y 13 de circunferencia**, "exactamente lo que pusimos en el plan quirúrgico, al milímetro". Vera reporta las respuestas como un parte (respiración, pezones) hasta que deja de poder hacerlo. Momento de la escena: **Marcie le pregunta a Vera por la ropa interior** y Vera contesta que **desde el Día 23 no lleva nada debajo del uniforme** —bañándola, montándole el aparato, dándole de comer— y que hoy sabía perfectamente en qué consiste la última parte de una revisión de erección y ha venido igual. **Acuerdo para el Día 33: Marcie se lo comprobará ella misma al levantarla.**
+
+Marcie las dirige a las dos —**Vera y Mills se besan encima de ella**— y a la pregunta de a cuál le gustaría montarla contestan las dos que sí, Mills primero y sin fingir que se lo piensa. Se resuelve con **Vera sobre la boca de Marcie** (desnuda salvo las medias veladas blancas) y **Mills sobre las caderas**. Vera llega primero y pierde por completo la compostura; después Mills toma el control del ritmo y **terminan las dos casi a la vez**. Detalle de continuidad: el **cuádriceps izquierdo vuelve a temblar** al empujar desde abajo y Mills lo nombra en mitad de la escena ("eso que te está temblando es fatiga muscular y mañana lo vas a pagar").
+
+### Escena 260: Indicaciones de alta y las dos ediciones de Claire (Día 32, ~10:20)
+
+Mills se viste y recupera el tono en un minuto. Deja claro que **médicamente no queda ninguna revisión con ella**: está de alta, la rehabilitación la lleva otra persona, no hay próxima cita ni motivo clínico para ponerla — y que si Marcie quiere una siguiente vez, **la llama al contacto personal que le dejó**, no al del hospital. Después, las **dos indicaciones**: **muletas tres días mínimo** (y a partir de ahí las deja el día que ella note que no las necesita; **el lunes, a rehabilitación, con ellas sí o sí**), y **férula peneana dos días más, solo para dormir**.
+
+**Dos ediciones vía Claire, seguidas:** primero que la indicación pase a ser **día y noche**, y después que se extienda **también al martes, hasta el final del día**. Claire ejecuta las dos y antepone el dato no técnico: llevarla de día es llevarla a la vista, porque el ángulo no lo tapa ninguna falda del vestidor, y **el lunes se la verá la fisioterapeuta**. Mills lo repite como suyo, tachando y reescribiendo en la carpeta: **domingo, lunes y martes completos; el martes por la noche se la quita Vera y no vuelve**. Se la **vuelve a montar ella misma** antes de irse.
+
+### Escena 261: Marcie se queda con la ortesis (Día 32, ~10:30)
+
+Mills va a llevarse el hierro y **Marcie le pide quedárselo**. Mills accede sin problema práctico (está hecho a medida y no le sirve a nadie) y pregunta para qué; **Marcie le dice la verdad: que le excita llevarlo puesto.** Reacción de Mills, sin cara de nada y sin fingir que lo ha oído antes: **"No me suena raro, me suena nuevo. En diez años no me lo había dicho nadie, y eso no significa que no le pase a nadie: significa que a mí no me lo cuentan."** Lo deja **con dos condiciones de médica**: ratos y no días (cuatro o cinco horas, y esta semana ni eso), y que **alguien le revise la piel cada vez que se lo quite**, sobre todo la rodilla izquierda. **Vera acepta el encargo delante de ella**: "Yo se lo pongo y yo se lo quito." Vera ya conocía el fetiche —el del yeso desde el Día 23 y el del aparato desde que Marcie le pidió volver a ponerle la barra sin necesidad—; lo nuevo es que **ahora lo sabe Mills y que el encargo se lo han dado a ella por escrito**. Mills, desde la puerta: prefiere enterarse así, porque si se lo hubieran colado como un recuerdo no habría sabido que hacía falta avisar de lo de las cuatro horas y la rodilla. Se despide: el lunes en el Creston es la cirujana que la operó y nada más; **"lo otro, cuando llames"**. Vera apila el hierro en un rincón del vestidor en vez de sacarlo.
+
+### Escena 262: Mensajes de Hobbs — se confirman el lunes y el fin de semana (Día 32, ~10:30–11:08)
+
+**Siete mensajes sin leer**, seis de anoche y uno de las 07:12. Reporte del turno del sábado (jaula y plug las doce horas, sin ropa interior; se agachó doblando las rodillas y la supervisora le preguntó si le dolía la espalda), estado del plug, una disculpa por escribir tanto, el recordatorio de que **sigue queriendo el fin de semana entero** y el "sigue sin leerme" de las 23:47.
+
+Marcie contesta y pregunta por la excitación. Datos de Hobbs: **once intentos de erección ayer, cuatro en lo que va de mañana**, la jaula no la deja crecer, aprieta y duele un poco en la base. Lo que no sabía contar lo suelta de un tirón: **está así todo el rato**, lleva tres días sin poder terminar y no sabe si va a mejorar o a peor. Confiesa además dos intentos de tocarse anoche por costumbre y, sobre todo, que **mueve el plug a propósito echándose hacia atrás en la silla del control**, tres o cuatro veces esta mañana, en mitad del pasillo y con la supervisora a dos metros: **lo que la excita es que no se vea**. Vuelve a nombrar su miedo — lo rápido que ha pasado de no hacerlo a hacerlo sin que se lo mandaran. Cuenta el elogio de Marcie: **"Seis."**
+
+**Fin de semana confirmado:** viernes (Día 37) sale a las 15:00, libre sábado y domingo, entra el lunes (Día 40) a las 07:00 — **sesenta y cuatro horas**, y lo tenía mirado desde el jueves pasado. **El yeso se lo hace Marcie en la mansión.** Horario de la semana: lunes y martes sale a las 15:00, miércoles guardia de 24 h, **jueves (Día 36) libre entero desde las 9:00**. Quedan el **lunes (Día 33) a las 15:00 a la salida del hospital**, y Hobbs **mueve la cita de rehabilitación de Marcie de las 11:15 a las 14:00** con Delaney, moviendo de sitio a otro paciente. Cierre suyo: "Voy a estar tres días pensando en el lunes y luego cuatro más pensando en el viernes, y todavía es domingo por la mañana."
+
+### Escena 263: Mensajes con Mills — en qué consiste la rehabilitación (Día 32, ~11:20)
+
+Marcie le pregunta por escrito en qué consiste la sesión y si involucra el pene. Mills describe los **cincuenta minutos**: diez de evaluación y rangos, quince de movilidad de rodilla y tobillo, quince de fuerza de cuádriceps y glúteo, diez de marcha (paralelas primero, muletas después). Y sí, hay una parte que lo involucra, **pero no el lunes**: al retirar la férula el martes por la noche empieza un **protocolo de movilización progresiva** —tracción suave y trabajo manual en varias direcciones, **diez minutos al día durante dos semanas**— para evitar rigidez de base y curvatura. Lo hace **Delaney**, en la misma sala y con la puerta cerrada, como procedimiento; Mills ofrece la alternativa de enseñárselo a Marcie y a Vera, o de hacerlo ella misma. **Marcie elige dejarlo en manos de Delaney.** Mills lo deja por escrito en el parte y añade los dos datos prácticos: es diario, incluidos los días sin rehabilitación de piernas (**del miércoles en adelante, al Creston todos los días**), y **duele el primer día, no a partir del tercero**.
+
+### Escena 264: Mensajes de Patricia — comida en el Elm (Día 32, ~11:19–11:43)
+
+**Hilo latente disparado.** Patricia escribe tras cuatro días: con **Hannah** va bien, duermen juntas desde el martes y no lo han llamado de ninguna manera. Lo compara sin valorarlo — "antes ella me acostaba y se iba; ahora me acuesta y se queda... como cuando pasé del gancho al muñón: no es que uno esté bien y el otro mal, es que no se parecen en nada". Vio el **nombre nuevo por el sistema** y no preguntó cómo estaba porque la última vez la vio vendada entera.
+
+Marcie la invita a comer **hoy**. Se acuerda el **Café Elm a la una**, **las dos solas**: Hannah la deja y se va (Patricia lo predice — "la última vez se pasó la comida pendiente de si yo necesitaba algo y acabó sin comerse lo suyo" — y acierta). Aviso práctico de Patricia: **en la mesa le tiene que dar de comer Marcie**, con ganchos o sin ellos, porque no piensa pelearse con el tenedor delante de gente. Sobre la postura de Hannah: lo sabe desde el primer día y nunca le ha importado — cuando se lo contó todo, lo único que preguntó fue si ella iba a estar bien después. La **continuación en casa de Hannah queda sin dar por hecha**, a decidir al final de la comida.
+
+### Escena 265: Vestirse para la cita (Día 32, ~11:45)
+
+Marcie llama a Vera para elegir ropa. Vera señala que hoy es más fácil que ayer: **con las piernas libres la ropa entra por donde tiene que entrar**. Tres opciones contadas con el criterio práctico primero — vestido camisero azul medianoche (el que menos da la lata), **conjunto negro de falda de tiro alto con abertura en V + jersey corto de punto** (el único pensado para llevar la férula puesta) y vestido cruzado verde oscuro (se abre solo con las muletas) —. **Marcie elige el negro.** La **capucha no es opcional para salir a la calle**: Vera pone la pieza ancha, la que usó Dana el día del alta, ajustada por detrás de la corona, negra con ribete de plata. Pezoneras adhesivas con cadena. Maquillaje: **veinte minutos, no quince** ("ayer fuiste corriendo"), ojos marcados y labio menos.
+
+Vera pregunta para quién es la cita y **no conoce a Patricia**. Al saber que le faltan ambos brazos desde el hombro, el pincel se para medio segundo y sigue: **"Ya sabes lo que me pasa a mí con eso, así que no voy a fingir... Pero es tu cita y no es asunto mío. Ya está dicho."** Lo que sí reclama como asunto suyo es lo práctico: **"tú vas con dos muletas y ella no tiene manos"** — que el vehículo las deje en la misma puerta y que elijan mesa con el camarero de por medio, nada de terraza al fondo.
+
+### Escena 266: Llegada al Café Elm y reencuentro con Patricia (Día 32, 13:05)
+
+Primer escenario nuevo del día: el **[Café Elm](../escenarios/cafe-elm.md)**, en la esquina de la calle Elm, ladrillo rojo, dos ventanales y pasillo central ancho entre mesas. Domingo a media capacidad. Paisaje humano: una mujer de unos 25 con **yeso de enfermedad de yoga en el tobillo derecho**, fijado en flexión completa hacia arriba, de media pantorrilla a medio muslo, dedos libres, comiendo con la silla girada 45° y las dos muletas contra el alféizar.
+
+**Patricia** espera en la mesa del ventanal, de cara a la puerta: vestido verde oscuro sin mangas, pelo recogido a un lado (mano de Hannah), **con los ganchos puestos** y el arnés cruzado sobre el vestido, las dos prótesis apoyadas en el borde de la mesa. **No la veía desde el Día 26**, vendada entera. Su primera frase: "Sabía lo del nombre, pero no sabía lo de la cara." Valora el rostro y el cuerpo nuevos con su tic de comparar en vez de valorar ("no te pareces a ti y te pareces igual"), y dice en voz alta que lo tocaría para creérselo y que eso lo tiene complicado. Marcie le ofrece que la toque con los pies; Patricia acepta y pide que le desabroche las sandalias de hebilla.
+
+### Escena 267: Ajuste de Claire y los pies bajo la mesa (Día 32, ~13:10)
+
+**Instrucción a Claire:** que Patricia **comente el pene de Marcie** por iniciativa propia. Claire ejecuta ("lo va a decir con sus palabras y no va a saber por qué le sale"); ajuste registrado en la ficha de Patricia. Patricia lo saca de inmediato: "antes se te quedaba pegado al cuerpo y ahora va por delante como un mástil de bandera", y pregunta si es el aparato o si además se lo han hecho más grande. Marcie confirma que lo pidió más grande.
+
+Patricia sube un pie descalzo por la pantorrilla hasta el muslo, reconoce la **férula** a ciegas (pletina, correas, anillo, cuna) y localiza la capucha: "esto es todo aparato… aquí sí eres tú". Marcie tiene una erección; el anillo aprieta en la base como avisó Mills. La camarera —pelirroja, ~22, delantal verde— toma nota: dos milanesas, la de Patricia **cortada en la cocina en trozos de bocado**, y otra agua con pajita.
+
+### Escena 268: Marcie se corre en la mesa (Día 32, ~13:25)
+
+Marcie pide que no pare **ni aunque traigan la comida**. Patricia se desliza en la silla, se encaja contra el respaldo —único apoyo que tiene sin brazos— y trabaja con **los dos pies**, con la piel del tronco atrapada entre las plantas. Marcie le da de comer con el tenedor entre pasada y pasada y disimula los gemidos; la camarera sirve los platos en mitad de la escena, repara medio segundo en su cara y no pregunta. Se corre con la pletina sujetando el ángulo: la capucha atrapa parte y el resto acaba en el empeine y los dedos de Patricia, en la cara interna de la falda y en el mantel. Los **ganchos siguen inmóviles** sobre la mesa todo el tiempo. Marcie le limpia los dos pies con la servilleta, uno cada vez, porque el equilibrio de Patricia no da para más.
+
+### Escena 269: El aseo del Elm y la mujer con yeso de mástil (Día 32, ~13:35)
+
+Marcie va al aseo (pasillo detrás de la barra) a vaciar y lavar la capucha. **Instrucción a Claire:** que entre alguien mientras está en el lavamanos con la punta descubierta. Entra una mujer de ~26, alta, muy pálida, pelo negro liso a la mandíbula, top corto óxido y **falda larga de abertura delantera**, con **yeso de enfermedad de mástil de nivel medio**: bloque de cadera y muslos hasta un palmo por encima de las rodillas, **barra de abducción**, abertura posterior, dos muletas, y el pene enyesado **recto hacia adelante** hasta la coronilla con la cabeza libre y **capucha azul marino con aro metálico**. Se disculpa al ver el glande descubierto de Marcie —está mal visto— y acepta la explicación de la mancha de comida sin más. Cuenta su caso con naturalidad de trámite: **nueve días, se lo quitan el jueves**, el anterior fue leve, con la barra no se sienta en sitios con brazos y duerme boca arriba. Marcie aclara que lo suyo es post-quirúrgico, no mástil.
+
+Al cruzar la sala, descripción a petición del usuario de **lo que ve el local**: las muletas no llaman la atención, el cuerpo sí; senos descubiertos con pezoneras y cadena, la V de la falda con el aparato en ángulo fijo, la capucha mojada con una gota bajando por el ribete y el rastro en la cara interna de la falda. La camarera lo lee como montaje médico y vuelve a la libreta; nadie comenta nada.
+
+### Escena 270: El turno de Patricia (Día 32, ~13:45)
+
+Patricia declara su propio problema ("llevo diez minutos apretando las piernas"). Marcie se descalza y le sube el pie por la pantorrilla y el muslo; Patricia separa las rodillas, el vestido se le arruga en la ingle y no puede bajárselo. Avisa de que lleva braga; Marcie la aparta con los dedos del pie y le localiza el clítoris. Patricia se sujeta con lo único que tiene: la espalda contra el respaldo y los muslos cerrados sobre el pie. **Instrucción a Claire:** que la camarera venga a preguntar si necesitan algo. Llega justo a tiempo: Patricia se corre **con la camarera a un paso**, los **dos ganchos golpean la mesa** al hacer los brazos un gesto que ya no existe, y lo convierte a medias en un carraspeo. La camarera espera dos segundos y ofrece "un vaso de agua fría para tu amiga". Patricia después: le gustó y le dio miedo a partes iguales, no por la gente sino **por no tener con qué agarrarse**. Marcie le arregla el mechón de pelo; ella cierra los ojos y dice que Hannah también lo hace y que le sigue pareciendo lo más raro del mundo depender de que a alguien se le ocurra.
+
+### Escena 271: Postre, decisión y ajustes sobre Hannah (Día 32, ~14:10)
+
+De postre, tiramisú, que Marcie le da con cuchara. Marcie propone **segunda ronda en casa de Hannah** y Patricia acepta sin adornarlo, con un dato por delante: **Hannah está en casa toda la tarde y no se va a ir**; a ella no le molesta, la pregunta es si le molesta a Marcie. No le molesta. Patricia pide que sea Marcie quien le escriba a Hannah, porque teclear le lleva mucho rato.
+
+**Instrucciones a Claire, dos seguidas:** que Hannah reciba en **panties blancos de encaje y camiseta blanca semitransparente sin brasier**, que **se excite al ver el aparato peneano** y que **se quede con ellas en la sala** en vez de retirarse. Claire antepone el dato no técnico: "Hannah tiene pene y va a ir en panties blancos; lo que le pase al verte se le va a ver desde la puerta, y ella no va a saber por qué." Segunda orden: **reorganizar la ficha de Hannah con la plantilla** — hecha (nombre completo Hannah Vance, 170 cm, 16 × 12,5 en erección y 11 × 10 en reposo, no circuncidada, sin vagina, sin discapacidad, secciones de plantilla y nombre actualizado).
+
+### Escena 272: Llegada a casa de Hannah (Día 32, ~14:45)
+
+Se establece la **[casa de Hannah](../escenarios/casa-hannah.md)**: dos plantas, calle tranquila, porche de madera, camino de losas y tres escalones; Patricia llama al timbre con el hombro. **Hannah abre** con el ajuste puesto: panties blancos de encaje, camiseta blanca de algodón fino con los pezones transparentándose, sin brasier, el pene marcado hacia el muslo izquierdo. La mirada se le va al aparato en la abertura de la falda y se queda dos segundos largos; saluda estrenando el nombre nuevo ("Marcie"). Dice sin filtro que no se lo esperaba y que no consigue dejar de mirarlo, y **se le pone dura debajo del encaje** mientras habla — el elástico tirando, el glande empujando bajo la tela tensada y transparentada, una mancha pequeña donde está la punta. Su comentario: "Perdona. Es que además hoy voy con lo puesto." Descripción detallada, a petición del usuario, de su parte de abajo por detrás y por delante. Van a la sala; Hannah va a por el vino.
+
+### Escena 273: La sala, el ajuste de Hannah y el freno (Día 32, ~14:50)
+
+Se sientan en la sala. Marcie llega con erección; Hannah sirve vino (vaso con pajita para Patricia) sin ocultar la suya bajo el encaje. Pregunta directa: "¿alguien me explica el plan o vamos improvisando?" y le pasa la decisión a Patricia, que la toma: **que se quede**, porque nunca las ha tenido a las dos en la misma habitación y prefiere que la primera vez sea así. Hannah se arrodilla a preguntar si el aparato se puede tocar; **Marcie frena** — "estamos yendo muy rápido, nunca hemos estado juntas". Hannah retira las manos en el acto, sin ofenderse, y reconoce que ella también estrena esto ("ella es mía y tú eres suya"). Marcie le pide que se quede al lado y vayan despacio; Hannah vuelve al sofá y le quita a Patricia los ganchos y el arnés como cada día, con la respiración cambiada.
+
+### Escena 274: Primeros contactos en el sofá (Día 32, ~15:10)
+
+Marcie le acaricia el muslo a Hannah por delante de Patricia, que mira desde en medio ("esto va a ser muy raro de ver desde aquí. No pares por eso"). Sube por el pene, el seno y la cara, la atrae por la nuca y **la besa delante de Patricia**; Hannah besa sin trámite y muerde el labio. Después trabajo manual sobre el encaje hasta que Hannah se lo baja ella misma por debajo de los testículos. Marcie besa a Patricia con la otra mano en su nuca mientras masturba a Hannah; Patricia se apoya con el cuerpo entero porque no tiene con qué agarrarse. Hannah pide que no la miren para no acabar en cuatro. Marcie propone ir a la cama.
+
+### Escena 275: La habitación y el desmontaje del aparato (Día 32, ~15:25)
+
+Habitación de Hannah, al fondo del pasillo: cama doble baja sin cabecero, mesilla con dos vasos y **un cilindro de silicona a la vista**, lámpara de pie, luz de tarde en franjas. Marcie se tumba y **Hannah le desmonta la férula pieza a pieza**, preguntando antes de cada una: las dos correas, la pletina dorsal (el ángulo deja de estar impuesto y no baja, porque hay erección), la cuna, el arnés y por último **el anillo**, que sale tirante — la base se ensancha con la erección y el aro no acompaña. Debajo, el surco pálido de nueve días. Primera vez sin nada encima estando así desde el quirófano. Reacción de Hannah: "Ahora entiendo la cara que ponías en la puerta."
+
+### Escena 276: Orales y acuerdo de la doble (Día 32, ~15:40)
+
+Patricia nunca ha hecho una penetración doble; Hannah sí, dos veces, y avisa de que no se improvisa y hace falta lubricante. Hannah se desnuda del todo; Marcie le pregunta si quiere tocar y ella lo hace sin disimulo. Le quita el vestido a Patricia —sin brasier, senos pequeños y separados— y le hace un sitio: Hannah primero con la boca, después Patricia tumbada de lado con almohada y **Hannah sujetándole la nuca para que tenga de dónde empujar**, porque sin brazos no puede dirigir nada. Marcie calcula que aguanta **dos veces en una tarde, no tres** (ya se corrió en el Elm), así que Patricia decide guardarla para la doble. Condiciones de Patricia: entrar parando, y **parar cuando ella lo diga, no cuando le parezca a la otra**, porque no puede apartarse.
+
+### Escena 277: La penetración doble (Día 32, ~16:00)
+
+Colocación: **Marcie abajo** (las piernas no la sostienen), Patricia a horcajadas encima y apoyada de pecho porque no se sostiene erguida sin brazos, Hannah detrás. Hannah la guía en la penetración vaginal y prepara la anal con dedos y lubricante — Patricia solo lo había hecho con dedos, nunca con un pene. Entra a tramos, parando a cada permiso. Marcie marca el ritmo desde abajo con las manos en su cintura; **el cuádriceps izquierdo tiembla desde el tercer empuje**. Momento de la escena: Marcie le pide que **la acaricie con los muñones** — nadie se lo había pedido nunca ni ella se lo había ofrecido a nadie — y llora sin dejar de hacerlo ("lloro y sigo, lo tengo muy practicado"). Al acariciarle Marcie los dos muñones con las manos, **Patricia se corre**; Hannah justo detrás, dentro de ella. Marcie sigue hasta correrse también, con la pierna izquierda soltándose del todo en mitad del movimiento.
+
+### Escena 278: Después, y la despedida (Día 32, ~16:20–18:00)
+
+Nadie se mueve un rato; Patricia se queda encima porque no puede quitarse sola. Caricias, pelo y un dedo donde Hannah acaba de estar; Patricia valora el anal sin dramatizar ("un poco al principio… después no era dolor, era mucho") y avisa de que mañana se acordará. Su frase de cierre: **"hoy no me he sentido un mueble en ningún momento"**. Hannah trae toallas, limpia a las dos, viste a Patricia y **mete las piezas del aparato en una bolsa de tela**. Se despiden a las seis; Hannah pide aviso previo la próxima vez, "aunque sea diez minutos, para ponerme algo".
+
+### Escena 279: Vuelta a casa — mensajes de Hobbs y montaje sola (Día 32, ~18:00)
+
+En el vehículo, **dos mensajes de Hobbs sin contestar**: reporte de las 16:20 (catorce horas seguidas con jaula y plug, siete intentos de erección, no se ha agachado en la calle) y el de las 17:40 (mañana entra a las 7 y sale a las 3; la va a ver en la planta baja antes de terminar el turno, y lleva desde ayer contando las horas). **Marcie se vuelve a montar la férula ella sola** en el asiento, por primera vez sin Vera: el anillo se le escapa dos veces antes de encajar el pasador, el arnés obliga a levantar el cuerpo con una mano en marcha, y **las dos correas no quedan en las marcas de Vera** — el conjunto asienta torcido hacia la izquierda. Se aguanta y no aprieta de más, pero hay que rehacerlo al llegar.

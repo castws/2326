@@ -12,7 +12,7 @@
 
 **Cuerpo:** 158 cm. Baja y de complexión menuda: torso estrecho, costillas algo marcadas. Senos pequeños y separados, pezones rosados muy pequeños. Caderas anchas en proporción a su estatura. Pubis completamente depilado.
 
-**Genitales:** **Tiene pene funcional**, y es lo primero que se le ve de cerca por lo desproporcionado respecto a su estatura. **Erecto: 15 × 15 cm** — casi tanto perímetro como longitud. **Fláccido: 8,5 × 11,5 cm** (medido el Día 29 a orden de Mark): "de largo no es nada, de ancho sí". Recto, sin curvatura, con el glande apenas más ancho que el tronco. Piel clara, sin venas marcadas. Testículos pequeños y recogidos. **Sin vagina.**
+**Genitales:** **Tiene pene funcional**, y es lo primero que se le ve de cerca por lo desproporcionado respecto a su estatura. **Erecto: 15 × 15 cm** — casi tanto perímetro como longitud. **Fláccido: 8,5 × 11,5 cm** (medido el Día 29 a orden de Mark): "de largo no es nada, de ancho sí". Recto, sin curvatura, con el glande apenas más ancho que el tronco. **No circuncidada:** el prepucio cubre el glande en reposo y en erección se retrae solo en parte; para dejarlo al descubierto del todo hay que bajarlo con la mano. Piel clara, sin venas marcadas. Testículos pequeños y recogidos. **Sin vagina.**
 
 **Condición física:** ninguna, pero **lleva dos dispositivos puestos de forma continuada desde la noche del Día 30, turnos incluidos, hasta que Marcie decida:**
 
@@ -42,14 +42,18 @@ Residente de primer año en el Creston. **Llegó al área el Día 21** con una m
 
 - **Solo conoce el hospital y el apartamento donde duerme** (a cinco minutos andando). No ha visto nada de la ciudad y no sabía llegar al centro comercial.
 - **Pacientes que lleva** (mencionadas, nunca en escena): **Kelsey Barr**, 22 años, habitación 214, amputación por debajo de la rodilla izquierda, cura del muñón cada día a las once. **Nadine Foss**, 27 años, habitación 209, operada de columna hace cinco días tras una caída, ambas piernas sin respuesta, cura de espalda dos veces al día boca abajo.
-- **Límite sobre el hospital: NO existe.** No ha puesto ninguna condición sobre su turno ni sobre el Creston, y Marcie no le ha prometido nada. Las órdenes y los retos entran también dentro del hospital, y ella lo acepta. **Regla relajada por Marcie (Día 30):** dentro del hospital sí puede agacharse doblando las rodillas. Fuera, no.
+- **Límite sobre el hospital: NO existe.** No ha puesto ninguna condición sobre su turno ni sobre el Creston, y Marcie no le ha prometido nada. Las órdenes y los retos entran también dentro del hospital, y ella lo acepta. **Regla relajada por Marcie (Día 30):** dentro del hospital sí puede agacharse doblando las rodillas. Fuera, solo se puede agachar con las rodillas rectas cuando lleve falda corta.
 
 ---
 
 ## Conocimiento
 
 - **Sabe (desde el Día 30):** que el Creston es de Marcie y que su plaza nunca ha corrido peligro.
-- **No sabe:** nada de la tecnología real oculta, ni de los ajustes de Claire, ni de los demás vínculos de Marcie.
+- **Sabe (desde el Día 33):** cómo es la mansión, que Vera es la enfermera de la casa y dominante, y quiénes son Dana, Rachel y Sophie.
+- **Cree las versiones públicas:** **Rachel se cayó por unas escaleras** y a **Sophie la atropelló un camión**. No sabe que el yeso de Sophie fue voluntario.
+- **No sabe:** nada de la tecnología real oculta, ni de los ajustes de Claire. Tampoco sabe que Marcie oyó por el auricular su conversación con Vera.
+
+**Salud:** **nunca ha tenido ninguna de las dos enfermedades de yeso** —ni la de yoga ni la de mástil—, ni un solo episodio en toda su vida. Las conoce solo por el trabajo, de ver pacientes. **Le puede tocar en el futuro como a cualquiera.** Que le tocara la de mástil implicaría además quitarle la jaula para enyesar.
 
 ---
 
@@ -63,6 +67,7 @@ Residente de primer año en el Creston. **Llegó al área el Día 21** con una m
 - **Le afecta más la indiferencia que el escándalo:** que a la gente le dé igual verla expuesta es peor para ella que si alguien dijera algo.
 - **Masturbación:** todos los días antes de dormir, para apagar la cabeza tras el turno. Lo que usaba desde hacía dos años era la hora de pie de su expareja; desde el Día 29 lo ha sustituido por el momento en que Marcie le prohibió tocarse.
 - **Permiso concedido sin poder usarlo:** con la jaula puesta, que le den permiso es peor que la prohibición — "antes por lo menos era usted el que no me dejaba".
+- **Palabra de seguridad: "maleta"** (elegida por ella el Día 33, en su primera conversación con Vera; nunca había tenido una). **Solo vale para las sesiones de BDSM**: dicha, se para todo al instante, sin preguntas ni coste. **En la vida cotidiana y cuando está enyesada no hace falta**: ahí dice con normalidad lo que quiere y lo que no. **Vera le mandó que se la diga ella misma a Marcie.**
 - **Lo que más miedo le da** no es el yeso ni la jaula: es **lo rápido que se le está haciendo normal** dejar que decida otra persona.
 
 ### Inmovilización — lo que quiere
@@ -80,7 +85,9 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 ## Relaciones
 
 - **Marcie** — arco BDSM activo desde el Día 29. Primer beso la noche del Día 30, en la galería del centro comercial, sosteniendo ella todo el peso de Marcie porque las muletas estaban en el suelo. Lo que más tiempo le ocupó esa noche no fue nada de lo demás, sino **decidir si el beso formaba parte de lo que hacen o si Marcie lo hizo porque quería**.
-- **[Vera](vera.md)** — **no se conocen todavía.** Idea de Marcie, aún no planteada a Hobbs: ofrecerle trabajo como enfermera en la mansión ayudando a Vera, y que Vera sea su maestra en el BDSM. Plan acordado con Vera: **invitarla primero a conocer la casa y a las demás, y que decida informada.** **Condición que puso Vera: hablar con Hobbs a solas antes de nada**.
+- **[Vera](vera.md)** — **se conocen desde el Día 33**, a solas en la biblioteca de la mansión. Hobbs llegó con miedo a que la "pasaran a otra persona" y lo dijo primero. Vera le enseñó la palabra de seguridad (**"maleta"**). **Acuerdan sesiones de BDSM con Vera de dominante, y con Marcie involucrada cuando quiera**; Hobbs sigue siendo de Marcie como hasta ahora.
+- **[Rachel](rachel.md), [Sophie](sophie.md) y [Dana](dana.md)** — las conoce el Día 33. Rachel le da el consejo de la primera noche enyesada; Sophie le registra la jaula ("Titanio. ¿Cuánto te queda con eso?"); Dana la recibe. Van a estar alrededor durante su fin de semana enyesada.
+- **[Delaney](delaney.md)** — fisioterapeuta de la planta baja. Hobbs le movió la cita de Marcie el Día 32.
 
 ---
 
@@ -93,7 +100,7 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 - **Objeta una vez con criterio clínico y obedece igual**, sin insistir en la objeción.
 - **Repite la orden en voz alta resumida**, como fijándose la lista ("Centro comercial, andando, preguntando. Sin tocarme, sin limpiarme...").
 - **Anticipa el obstáculo práctico** antes de que se lo señalen ("hay un problema práctico: no conozco nada de la ciudad").
-- **Lleva la cuenta en voz alta de los elogios** que recibe ("van cuatro", "van cinco").
+- **Cuenta los elogios** que recibe (van **ocho** al Día 33). Hasta el Día 33 decía solo el número en voz alta ("Seis."); **desde el Día 33, por indicación de Marcie** ("corta el momento"), **en vez del número suelto le da las gracias con palabras suyas** y como mucho mete la cifra dentro de la frase. Por dentro sigue llevando la cuenta y se los repasa en orden al llegar a casa.
 - Cuando le dan a elegir, **mira instintivamente a Marcie buscando la respuesta**; desde el Día 30 se corta a mitad del gesto y decide sola.
 - Cuando algo le importa de verdad, deja el registro clínico y **hace la aritmética moral en voz alta**, separando lo que sintió de lo que le costó.
 - Tic físico: se tira de la falda hacia abajo cada pocos segundos sin darse cuenta.
@@ -103,37 +110,38 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 ## Citas memorables
 
 - "Esta parece mía. Parece ropa que me habría comprado yo un martes sin que nadie me dijera nada, y entonces ya no es que usted me esté haciendo hacer algo. Es que soy así." _(sobre el encaje blanco — Día 30)_
-- "Lo he elegido yo. Y no me he bloqueado. He tardado, pero no me he bloqueado." _(Día 30)_
 - "Me acaba de dar permiso y no puedo, y es mucho peor que cuando me lo prohibía." _(con la jaula puesta — Día 30)_
 - "Lo que me atrae de usted es que está pendiente. Nadie ha estado nunca pendiente de mí así." _(Día 30)_
 - "En tres días sigo siendo yo esperando a que se acabe. En seis semanas se me olvida cómo era pedir un vaso de agua sin pedirlo." _(Día 30)_
 - "Lo que me incomoda es que se me está haciendo normal muy rápido." _(Día 30)_
-- "No es que me pase cuatro veces, es que las cuatro veces son las que llegan a apretar. El resto del tiempo también, solo que más bajo." _(Día 32)_
 - "Eso es lo que me pone, más que el plug: que no se vea." _(sobre mover el plug en el control, delante de todos — Día 32)_
-- "Voy a estar tres días pensando en el lunes y luego cuatro más pensando en el viernes, y todavía es domingo por la mañana." _(Día 32)_
+- "Maleta. Es lo único que traje cuando vine a esta ciudad, y todavía no la he deshecho. Si la digo, es que me quiero ir a casa." _(su palabra de seguridad, a Vera — Día 33)_
+- "No es 'no'. Es 'espera'." _(primera penetración anal — Día 33)_
+- "Hace un rato estaba libre y tenía miedo. Ahora está cerrado y estoy tranquila. Eso debería ser al revés y no lo es." _(al volver a cerrarle la jaula — Día 33)_
 
 ---
 
-> Entradas anteriores (7) en [hobbs-historial.md](hobbs-historial.md).
+> Entradas anteriores (10) en [hobbs-historial.md](hobbs-historial.md).
 
 ## Momentos con Marcie
 
-- **Día 30, 20:30–23:50 — la noche en el centro comercial (escenas 223–232):** primera cita fuera del hospital, sin ropa interior. **Lencería:** se bloquea al elegir las pezoneras y luego **decide sola dos veces**; cruza la tienda dos veces en ropa interior y no se tapa. **Ropa:** vestuario nuevo; se agacha de espaldas a la dependienta sin doblar las rodillas. **Sex shop:** de pie sobre una silla y con los ojos cerrados, recibe la **jaula** y el **plug**. **Atrio:** agachada de espaldas a cuatro desconocidas fingiendo ajustar un zapato; responde ella misma a Corinne. **Marginalia:** lectura clínica de las amputaciones de Sadie (no le cuadran con una enfermedad). **Baño accesible:** sexo oral, con permiso de tocarse concedido e inutilizable por la jaula. **Galería: primer beso de las dos.**
-- **Día 31, turno de mañana (escena 235):** seis mensajes, sin verse. Llegó a casa con todo puesto y orinó sentada como se le indicó. Tardó en dormirse — **"No por el plug. Por lo otro."** Entró de turno con todo puesto y sin nada debajo: "Se me nota al andar y nadie me ha dicho nada en toda la mañana." **Reyes se le miró la jaula un segundo en el control y siguió a lo suyo sin decir nada.**
-  - **Pensamientos de esa noche (informe de Claire, que Hobbs desconoce):** despierta de 00:52 a 02:10. Volvió **doce veces** al beso de la galería. **Intentó masturbarse dos veces por costumbre y se acordó de la jaula las dos veces.** Contó los elogios: cinco.
 - **Día 32, hilo de mensajes de la mañana (escena 262):** siete mensajes sin leer (seis de la noche del Día 31 y uno de las 07:12), incluida una disculpa por escribir tanto, el recordatorio de que sigue queriendo el fin de semana entero, y un "sigue sin leerme" a las 23:47. Cuando Marcie contesta y le pregunta por la excitación, da primero el **dato clínico** —once intentos de erección el sábado, cuatro en media mañana del domingo, la jaula no deja crecer, aprieta y duele en la base— y después **lo suelta de un tirón**: está así todo el rato, lleva tres días sin poder terminar y no sabe si va a mejorar o a peor. Confiesa dos intentos de tocarse por costumbre y, sobre todo, que **mueve el plug a propósito echándose hacia atrás en la silla del control**, tres o cuatro veces esa mañana, con la supervisora a dos metros: **lo que la excita es que no se vea**. Vuelve a nombrar su miedo — lo rápido que ha pasado de no hacerlo a hacerlo sin que se lo manden. **Cuenta el elogio: "Seis."**
 - **Día 32, lo que se cierra por mensaje (escena 262):** **fin de semana confirmado** — sesenta y cuatro horas exactas, viernes 15:00 a lunes 07:00, que **tenía calculadas desde el jueves anterior por si se lo preguntaban**; se lo hace **Marcie, en la mansión**, y ella lo repite resumido en voz alta como siempre. Da su horario entero de la semana sin que se lo pidan y luego se disculpa por dar cuatro datos cuando le pedían uno. **Mueve ella misma la cita de rehabilitación de Marcie** de las 11:15 a las 14:00, desplazando a otro paciente, y quedan **el lunes a las 15:00 a la salida del hospital**.
 
+- **Día 33 — tarde con Marcie (escenas 284–292):** sale del turno a buscarla; comida en el Hollis sobre sillas duras con el plug; acepta **entrenarse con Vera** con la condición de conocerla antes, vestida y pudiendo irse. **Primera persona que entra en su apartamento:** se corre con la jaula puesta en la boca de Marcie, con una vecina mirando por la ventana. En la mansión conoce a Dana, Rachel y Sophie, y elige el yeso del viernes **con los senos fuera**. Conversación a solas con **Vera** (palabra **"maleta"**, sesiones acordadas). En la habitación de Marcie: le quita la férula, **primera penetración anal de su vida** y se vienen juntas; Marcie le **abre la jaula**, le niega venirse, se le escapa un orgasmo contra la orden y **se lo perdona**; vuelve a cerrarla con llave. Cambia su forma de contar los elogios (van diez). Se va a casa a dormir y queda en **volver el jueves y quedarse a dormir**.
+
 ---
 
-> Entradas anteriores (8) en [hobbs-historial.md](hobbs-historial.md).
+> Entradas anteriores (10) en [hobbs-historial.md](hobbs-historial.md).
 
 ## Estado actual
 
-- En el Creston, en turno. Jaula y plug puestos de forma continuada; la llave la tiene Marcie.
-- **Tercer día sin poder terminar** (desde el Día 30). Excitación de fondo continua; la jaula convierte cada respuesta en presión y dolor leve en la base, que se pasa en un par de minutos.
-- **Costumbre nueva desde el Día 32:** mover el plug a propósito en la silla del control, sin que se le note por fuera. Nadie se lo ha mandado y eso es exactamente lo que la inquieta.
-- **Confirmado: fin de semana enyesada de cuerpo entero**, **Día 37 (viernes) 15:00 → Día 40 (lunes) 07:00**, en la mansión y **se lo hace Marcie**. Sesenta y cuatro horas.
-- **Confirmado: Día 33 (lunes), 15:00**, quedan a la salida del hospital cuando termine su turno.
-- **Horario de la semana:** lunes y martes sale a las 15:00; miércoles guardia de 24 h; **jueves (Día 36) libre entero desde las 9:00**; viernes sale a las 15:00.
-- **Pendiente:** la invitación a conocer la mansión y a las demás, con la oferta de trabajo detrás. **Todavía no conoce a Vera**, que vive en la casa donde va a pasar el fin de semana enyesada; condición de Vera: hablar con ella a solas antes de nada.
+- **Final del Día 33:** en su apartamento, dormida. **Jaula cerrada** (se la reabrió Marcie para revisarle la piel: marcas de presión, sin lesiones) y **plug puesto** otra vez en casa, como se le mandó. **La llave está en el cajón de la mesilla de Marcie.** Sigue sin ropa interior en los turnos.
+- **Día 33:** tres orgasmos, el último arrancado contra la orden de Marcie y perdonado.
+- **Costumbre desde el Día 32:** mueve el plug a propósito en la silla del control, y le inquieta que nadie se lo haya mandado.
+- **Calendario:**
+  - **Día 34:** turno de mañana. Sabe que Marcie está a las 10:00 en la sala 3 y dijo que no bajará.
+  - **Día 35:** guardia de 24 h.
+  - **Día 36:** sale a las 9:00, duerme en casa y **por la tarde tiene la primera sesión con Vera**, con Marcie presente. **Se queda a dormir en la mansión** y trae el uniforme.
+  - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, **con los senos fuera** y sin palabra de seguridad durante el yeso.
+- **Abierto:** le atrae el yeso de mástil de nivel medio, aunque nunca ha tenido la enfermedad; la **circuncisión**, aparcada (ver `state.md` → "Sin cerrar"); y la oferta de trabajo en la mansión, todavía sin plantear.

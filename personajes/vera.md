@@ -85,7 +85,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **[Dra. Vivian Kerr](kerr.md)** — la conoce desde hace años del ambiente BDSM de la ciudad: cirujana privada con consultorio propio, que practica **modificaciones corporales electivas**, amputaciones incluidas. No son amigas; es una conocida profesional a la que respeta y de la que sabe que trabaja en serio.
 - **[Dana](dana.md)** — a Dana le gustaría que Vera la ayudara a masturbarse, pero no tiene excusa práctica porque no es paciente suya. **Vera no lo sabe.**
 - **[Jude](jude.md)** — **no se conocen todavía.** Cuando la conozca, sentirá atracción hacia ella y hacia su situación (inmovilización total permanente, pasado BDSM activo). El sentimiento será mutuo en cuanto Jude sepa que a Vera le gusta el BDSM y la inmovilización. **Se desarrollará de forma gradual.**
-- **[Hobbs](hobbs.md)** — **no se conocen todavía.** Marcie quiere presentárselas. **Condición de Vera: hablar con Hobbs a solas antes de nada** — quiere que decida informada, no que se la entreguen. Idea de fondo: que Hobbs trabaje de enfermera en la mansión ayudándola, y que Vera sea su maestra en el BDSM.
+- **[Hobbs](hobbs.md)** — **se conocen desde el Día 33**, a solas en la biblioteca de la mansión, sin Marcie delante (condición de las dos). Vera abrió dejando claro que no se la traían para ella; le enseñó qué es una **palabra de seguridad** (Hobbs eligió **"maleta"**; **solo para las sesiones de BDSM** — en la vida diaria y enyesada, Hobbs dice lo que quiere con normalidad) y le mandó decírsela ella misma a Marcie. **Acuerdan sesiones de BDSM entre las dos, en registro BDSM, con Vera de dominante**; **Marcie puede estar involucrada** cuando quiera, precisamente para que Hobbs no sienta que la pasan a otra persona.
 
 ---
 
@@ -118,23 +118,24 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - "Quedarme puede ser quedarme a mirar, o puede ser quedarme y participar. ¿Cuál de las dos me estás ofreciendo?" _(Día 32)_
 - "Esto no me lo ha mandado ella. Es mío." _(antes de besar a Marcie — Día 32)_
 - "Con el uniforme no llevo desde hace años... Bañándote, montándote el aparato, dándote de comer. Todo eso ha sido con esto puesto y nada debajo, y tú no lo sabías." _(Día 32)_
-- "Ya sabes lo que me pasa a mí con eso, así que no voy a fingir que me lo has contado como quien cuenta el tiempo que hace. Pero es tu cita y no es asunto mío." _(al saber que a Patricia le faltan los dos brazos — Día 32)_
+- "Lo primero, para que no lo pienses durante toda la conversación: no te han traído aquí para mí." _(a Hobbs, al quedarse solas — Día 33)_
+- "Sabe lo que quiere y le da miedo saberlo, que es lo mejor que se puede traer a esto." _(sobre Hobbs — Día 33)_
 
 ---
 
-> Entradas anteriores (9) en [vera-historial.md](vera-historial.md).
+> Entradas anteriores (10) en [vera-historial.md](vera-historial.md).
 
 ## Momentos con Marcie
 
 - **El yeso a cuatro patas** (propuesta de Marcie, registro BDSM): piernas con las **rodillas a 90°** y brazos con los **codos a 90°**, para tener que moverse por la casa a cuatro patas. Le interesa y lo dice sin rodeos. Duración por ahora: **dos o tres días**. Condiciones suyas: días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas de apoyo** — a las dos horas apoyada en cuatro puntos, rodillas y codos se destrozan por dentro del yeso.
-- **Día 32, mañana (escenas 253–258):** la despierta **una hora antes** por su cuenta tras rehacer la cuenta de tiempos, la baña en cama y le monta el aparato **sin la barra** en doce minutos, avisando de cada efecto antes de causarlo. Con el anillo en la mano se niega a forzarlo sobre una erección y espera; **se ríe con ella** dos segundos y sigue. Detecta y le enseña a Mills **la marca de la rodilla izquierda**, y le aporta el dato del reajuste de los velcros del día anterior. **Coge a Marcie al vuelo cuando le cede la rodilla** al cuarto paso.
-- **Día 32, la evaluación (escena 259):** preguntada por Marcie si prefiere quedarse o salir, **cierra la puerta con el talón y se queda**, pero exige antes que le digan cuál de las dos cosas le están ofreciendo. Participa poniendo su propia condición —"aquí dirige usted"— y la respeta toda la escena. Se besa con Mills encima de Marcie. **Revela que desde el Día 23 no lleva ropa interior bajo el uniforme** en ninguna de las rondas de cuidados, y que hoy sabía perfectamente lo que podía pasar y vino igual; queda en que **Marcie se lo comprobará ella misma el Día 33 al levantarla**.
 - **Día 32, la ortesis (escena 261):** acepta **delante de Mills** el encargo de revisarle la piel cada vez que se la quite ("yo se lo pongo y yo se lo quito"), lo que convierte en rutina explícita lo que hasta ahora era solo gusto compartido. Lo único que le sorprende no es el fetiche —que ya conocía— sino que se lo hayan encargado a ella por escrito.
 - **Día 32, antes de la cita (escena 265):** viste y maquilla a Marcie para Patricia. Al saber que le faltan ambos brazos desde el hombro, **el pincel se para medio segundo**, lo reconoce sin adornarlo y lo cierra ella misma. Después reclama lo práctico: dos muletas y ninguna mano entre las dos, así que vehículo a la puerta y mesa con camarero cerca.
 
+- **Día 33 (escenas 288–294):** conoce a **Hobbs** a solas en la biblioteca (Marcie lo oye todo por el auricular, y Vera no lo sabe). Abre con "no te han traído aquí para mí", le enseña la **palabra de seguridad** ("maleta") y corrige ella misma lo que había dicho mal: la palabra es **solo para las sesiones**. Acuerdan **sesiones de BDSM**, con Marcie dentro cuando quiera, y la primera el jueves. Por la noche nota que **la férula no la ha montado ella** y la recoloca mientras hablan. Marcie le encarga convertir la **bodega** en **habitación de BDSM**, sin límite de dinero; Vera distingue en voz alta los registros ("de enfermera" no es "médico") y le da la razón en que estén al lado de la sala de yesos. La organiza con discreción: **a cada contratada solo le enseña su parte**.
+
 ---
 
-> Entradas anteriores (8) en [vera-historial.md](vera-historial.md).
+> Entradas anteriores (10) en [vera-historial.md](vera-historial.md).
 
 ## Estado actual
 
@@ -145,6 +146,9 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - El **yeso a cuatro patas**, sin fecha.
   - **Disparador de Kerr:** si Megan llega a ir a la consulta, la presentación la hace Vera y nadie entra en la sala.
   - **Encargo de Mills (Día 32):** revisarle a Marcie la piel, las marcas y la temperatura **cada vez que se quite la ortesis**, con atención especial a la cara interna de la rodilla izquierda; si algo no le gusta, llama a Mills. Ella se la pone y ella se la quita.
-  - **La férula peneana** se la monta cada mañana y se la quita al acostarla, hasta el final del Día 34.
-  - **Día 33, al levantarla:** Marcie le va a comprobar por debajo del uniforme lo que le contó el Día 32. Vera ya lo sabe y lo espera.
+  - **La férula peneana:** el **Día 34** por la mañana se la monta y **por la noche se la retira para siempre**.
+  - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando.
+  - **La bodega** tiene que quedar **terminada como habitación de BDSM para el jueves (Día 36)**: mudanza, pintura y luz, y anclajes en las vigas. Contrata ella y paga Marcie.
+  - **Día 36 por la tarde:** primera sesión con **Hobbs**, de unas horas, con Marcie presente. Hobbs se queda a dormir.
+  - **Días 37–40:** Hobbs, enyesada por Marcie, en la casa donde vive Vera.
 - **No lleva ropa interior bajo el uniforme de enfermera desde el Día 23**, por costumbre propia y no por nadie. Marcie lo supo el Día 32.

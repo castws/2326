@@ -21,3 +21,8 @@ Entradas antiguas de `personajes/rachel.md`, movidas aquí para aligerar la fich
 - Conversación clave en la ducha sobre límites íntimos: pide a Mark que no insista por un tiempo _(Día 9, escena 24)_.
 - Baña a Patricia sin previo aviso, con su lógica práctica de siempre _(Día 12, escena 51)_.
 - **Hospitalizada con doble shoulder spica** (habitación 214). "Igual que alguien con los dos brazos pegados al cuerpo." Rechaza que Mark la bañe; acepta que lo haga Dana _(Día 19, escena 96)_.
+
+## Momentos con Marcie (movidos el Día 33)
+
+- **Alta y primera intimidad directa con Mark** (Día 20, escenas 107-110): acepta que Mark limpie la zona genital tras el argumento de Sophie; escena a tres con Sophie; después, a solas, admite que la dependencia del yeso la excita. Primera vez que dice su nombre durante el sexo. Tarde leyendo su novela juntos.
+- Conversación antes del hospital: admite que le hubiera gustado que le consultaran lo de Vera. "Yo también te voy a extrañar. No estoy acostumbrada a decir estas cosas." Preocupación compartida por no poder tener intimidad con Sophie _(Día 23, escena 140)_.

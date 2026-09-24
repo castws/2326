@@ -80,6 +80,8 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 - **Día 30, noche** (escenas 223 y 232): la lleva al centro comercial en el vehículo grande de acceso trasero, el único en el que puede viajar sentada con la barra puesta. **Se queda esperando dentro del vehículo las cuatro horas y media** que dura la salida, por decisión de Marcie. Al volver: "Cuatro horas y media. Ha ido bien, entonces."
 - **Día 31, mañana** (escenas 235, 237): sirve el desayuno con la cafetera enganchada, apoyando el pico en el borde de cada taza para no fallar. **Resuelve el problema de asiento sin que se lo pidan** —con las piernas abiertas por la barra Marcie no entra de frente en una silla, así que junta dos y la sienta de lado— y en el traslado a la sala reparte el trabajo en voz alta: ella sujeta los tobillos desde delante y Vera baja del arnés, para que el golpe no caiga en la cadera.
 
+- **Día 33, tarde (escenas 288–289):** recibe a **Hobbs** en la entrada por encargo de Claire y le abre la puerta del vehículo con el gancho: "ese asiento es muy hondo y cuesta a todo el mundo, así que nadie tiene prisa". Vuelve a tapar a Sophie con la manta usando los ganchos como pinza y va a buscar a Vera a la casa de huéspedes.
+
 ---
 
 > Entradas anteriores (6) en [dana-historial.md](dana-historial.md).
@@ -89,3 +91,4 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 - En la mansión. Se incorporó el Día 15.
 - Sin cambios en su condición física.
 - **Pendiente:** su excusa para pedirle ayuda a [Vera](vera.md).
+- Conoce a **Hobbs** desde el Día 33; va a estar en la casa durante el fin de semana enyesada de Hobbs (Días 37–40).

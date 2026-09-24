@@ -44,6 +44,7 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 
 - **Sabe:** que Megan existe y tiene yesos voluntarios (los aplicó ella misma); que Marcie tiene múltiples vínculos simultáneos.
 - **No sabe:** los detalles de los ajustes que Claire aplica (regla de invisibilidad). Nada de la tecnología real oculta.
+- **Versión pública para Hobbs (Día 33):** "se cayó por unas escaleras". No la corrigió y la mantiene.
 
 ---
 
@@ -88,15 +89,15 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 > Entradas anteriores (4) en [rachel-historial.md](rachel-historial.md).
 
 ## Momentos con Marcie
-- **Alta y primera intimidad directa con Mark** (Día 20, escenas 107-110): acepta que Mark limpie la zona genital tras el argumento de Sophie; escena a tres con Sophie; después, a solas, admite que la dependencia del yeso la excita. Primera vez que dice su nombre durante el sexo. Tarde leyendo su novela juntos.
-- Conversación antes del hospital: admite que le hubiera gustado que le consultaran lo de Vera. "Yo también te voy a extrañar. No estoy acostumbrada a decir estas cosas." Preocupación compartida por no poder tener intimidad con Sophie _(Día 23, escena 140)_.
 - **Visita al Creston con Dana** (Día 28, escena 175): sorpresa genuina ante el vendaje total. Admite excitación y algo parecido a los celos por no poder tocarlo ella. Acepta que Dana la masturbe. Se despide con un beso en la mejilla, lo único que puede ofrecer.
 - **Día 30 (Creston, escenas 205 y 207):** primera vez que ve a Marcie sin vendas ("¿Qué te han hecho?"). Le toca la cara, el cuello y el pecho en un recorrido de dos o tres centímetros, con el cuerpo entero. **Confiesa por iniciativa propia el episodio del Día 27 con Vera** antes de que se lo cuente nadie, y admite que le gustó estar delante. Dice lo que quiere pedirle a Vera y **acuerda el plan que ejecuta ella sola**: preguntarle si a *ella* le gustaría, en vez de pedírselo. Pide expresamente que no venga de Marcie. Es **la única de las cuatro que pregunta por el cambio de nombre** en vez de aceptarlo sin más _(escenas 210-211)_.
 - **Día 31, mañana (escenas 233-234):** entra en la habitación de Marcie en cuanto la ve despierta y le cuenta la noche anterior con Vera —cómo abrió, la condición de Vera, y que **miraba el yeso y no a ella**, con la mano plana sobre la escayola todo el rato. Se da cuenta en voz alta de que no sabe si quiere que el yeso acabe. **Cierra con Marcie el acuerdo de yesos periódicos para después del Día 61.** Abre su preocupación sobre cómo contárselo a Sophie.
 
+- **Día 33, tarde (escena 288):** conoce a **Hobbs** en la sala: "Pasa, que no mordemos. Tampoco podríamos." **No corrige la versión pública** que da Marcie (que se cayó por unas escaleras). Le da el consejo de la primera noche enyesada: si pica algo, pedirlo en voz alta, porque en esa casa siempre hay alguien que oye.
+
 ---
 
-> Entradas anteriores (8) en [rachel-historial.md](rachel-historial.md).
+> Entradas anteriores (10) en [rachel-historial.md](rachel-historial.md).
 
 ## Estado actual
 
@@ -104,3 +105,4 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 - Doble shoulder spica hasta **~Día 61**.
 - **Acordado para después del Día 61:** yesos periódicos, **con las manos dentro**, sin que le pregunten cada vez y sin que le digan cuánto van a durar. Decide Marcie.
 - **Pendiente:** contárselo a Sophie.
+- Conoce a **Hobbs**, que pasará los Días 37–40 enyesada en la casa.

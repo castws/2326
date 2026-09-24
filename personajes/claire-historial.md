@@ -25,3 +25,11 @@ Entradas antiguas de `personajes/claire.md`, movidas aquí para aligerar la fich
 ## Momentos con Marcie (movido el Día 32, cierre)
 
 - **Día 30, tras el alta (escenas 216-218):** registra el cambio de nombre en los sistemas del área. **Crea a [Sadie](sadie.md) Ford** y construye el **Marginalia**. Sobre el ritmo de las amputaciones, **señala el coste de alterar la percepción del tiempo** y ofrece dos alternativas limpias; se adopta la cicatrización rápida + reloj anclado a las visitas. Encarga la jaula de castidad para Hobbs y sustituye todo el vestuario.
+
+## Momentos con Marcie (movido el Día 33, cierre)
+
+- **Día 30, tarde y noche (escenas 220-229):** cinco ajustes en la misma jornada. (1) **Desacopla el fetiche de [Vera](vera.md)** por los yesos del BDSM, en dos registros independientes que se acuerdan en voz alta. (2) Fija y luego extiende el horario del centro comercial. (3) Hace entrar a dos clientas en la tienda de lencería justo cuando Hobbs cruza al mostrador. (4) Abre el canal de audio del auricular con la conversación de las cuatro del atrio. (5) Hace que Sadie vaya a la barra pasando junto a Marcie, y después que las cuatro del banco no pasen por el café.
+
+## Momentos con Marcie (movido el Día 33, cierre, 2)
+
+- **Día 31, tarde:** fija las **consecuencias reales de la inmovilización de Megan** y después acorta su recuperación a cinco días. Entrega el **informe sobre la reacción interna de Vera** al conocer a Megan y **lo corrige sin defenderse** cuando Marcie detecta el fallo. **Crea a la [Dra. Vivian Kerr](kerr.md)** con disparador condicionado, señalando que la condición de Kerr —detectar a quien empuja desde fuera— le apunta a la propia Marcie. Fija el desenlace de Megan y Emily, volviendo a señalar la tensión estructural sin insistir. Ejecuta sin comentario el despeje de la cocina.
