@@ -35,7 +35,7 @@
 - **Sin fecha**: **yeso de Vera a cuatro patas** (rodillas y codos a 90°, registro BDSM, dos o tres días).
 - **Sin fecha**: **segundo yeso de Megan**, brazo hasta el hombro, indefinido — solo ella decide cuándo termina.
 - **Sin fecha (vacaciones de Hobbs)**: repetición de dos semanas. **A más largo plazo**: conseguirle seis semanas libres.
-- **Sin fecha (tras el alta)**: Marcie invita a **Cora y Jude** a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club, dando tiempo libre a Cora. Primera vez que Jude sale de la ciudad.
+- **Sin fecha (tras el alta)**: Marcie invita a **Cora y Jude** a pasar la tarde en la mansión para conocer a Vera; deciden juntas si Vera ayuda a cuidar de Jude y la acompaña a las reuniones del club, dando tiempo libre a Cora.
 
 ### Hilos latentes
 
