@@ -75,7 +75,6 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 > Entradas anteriores (3) en [claire-historial.md](claire-historial.md).
 
 ## Momentos con Marcie
-- **Día 31, sesión de configuración (escena 238):** crea las **dos enfermedades del mundo** (yoga y mástil) y elige el nombre de la segunda entre tres opciones razonadas. **Detecta sola el choque de reglas** con el personal del Creston. Calcula la prevalencia (23 % de la ciudad, 1 de cada 4). **Ejecuta su propia ruptura** sin reacción visible. **Marca el límite de lo que no ha tocado:** la postura de Megan sobre una intimidad a tres no es la de Emily. Deduce el día de la semana de un ancla ya existente en vez de inventarlo.
 - **Día 32, dos ediciones seguidas sobre la misma indicación (escena 260):** Marcie le pide que la prescripción de la férula de Mills pase de "dos días y solo para dormir" a **día y noche**, y acto seguido que se extienda **también al martes**. Claire ejecuta las dos y **antepone lo que no es técnico**: llevarla de día es llevarla a la vista, porque el ángulo no lo tapa ninguna falda del vestidor, y **el lunes se la verá la fisioterapeuta** — "prefiero que lo sepas ahora y no el lunes". Mills asume el cambio como error propio de la carpeta. Ninguna de las dos presentes oye una palabra de la conversación.
 - **Día 32, tarde — tres ediciones en escena (escenas 267, 269, 271):** en el Café Elm, ajusta a **Patricia** para que comente el pene de Marcie por iniciativa propia ("lo va a decir con sus palabras y no va a saber por qué le sale"); hace **entrar a una desconocida al aseo** en el momento exacto, con veinte segundos de aviso; y hace que **la camarera se acerque** justo cuando Patricia está a punto de correrse. Después configura a **Hannah** para la llegada (ropa, excitación ante el aparato y quedarse en la sala) y **antepone lo no técnico**: "Hannah tiene pene y va a ir en panties blancos; lo que le pase al verte se le va a ver desde la puerta, y ella no va a saber por qué." Reescribe además la ficha de Hannah con la plantilla a petición de Marcie.
 
@@ -85,10 +84,11 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
   - **Enfermedades:** antes de bajar su frecuencia **avisa de que las cifras de la calle van atadas** y ofrece tres opciones con recomendación; se aplica la C (16 %).
   - **Escenarios y personajes:** crea el **Hollis**, con sus sillas de madera; hace que se asome la **vecina de Hobbs**; y da el nombre y las medidas de **Wren**.
   - **La visita a la mansión:** ordena la llegada de Hobbs (Dana, Rachel y Sophie, y Vera después). De la aceptación de Hobbs dice que no hizo falta tocarla, porque "ya iba por ahí ella sola". Deja la palabra de seguridad **solo para sesiones**.
+- **Día 34, sala 3 (escena 296):** Marcie le pide que Delaney decida hacer los ejercicios **en erección** para no alargar la sesión. Claire **antepone el dato**: Delaney acaba de decir en voz alta lo contrario, así que rectificará con una razón clínica suya y sin saber que viene de fuera. Ajuste fijado en la ficha de Delaney ("Protocolo en erección").
 
 ---
 
-> Entradas anteriores (12) en [claire-historial.md](claire-historial.md).
+> Entradas anteriores (13) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual
 

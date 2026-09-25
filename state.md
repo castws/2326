@@ -6,18 +6,18 @@
 
 ### Día actual
 
-**Día 34 (martes), por la mañana, sin empezar.** Marcie está en la cama de la habitación principal de la mansión, con la **férula peneana puesta**: se la montó Hobbs anoche y Vera la reajustó y le revisó la piel antes de dormir. Muletas al alcance. **Próximo momento a narrar: Vera la levanta.** Es el último día de férula.
+**Día 34 (martes), 10:20.** Marcie está en el **pasillo de rehabilitación del Creston**, recién salida de la sala 3 con muletas. Delaney le ha remontado la férula para el resto del día. El vehículo espera en la entrada. Hobbs está en el control de la planta de arriba y no bajará; sus tres mensajes de la mañana siguen sin contestar. **Próximo momento a narrar: lo que Marcie haga con el resto del día**, que está libre. Por la noche, Vera retira la férula para siempre.
 
-**Fichas a abrir:** **[Vera](personajes/vera.md)** (la levanta por la mañana) · **[Delaney](personajes/delaney.md)** (10:00, protocolo en la sala 3 del Creston).
+**Fichas a abrir:** ninguna.
 
 ### Eventos programados (futuros)
 
 > Plazos anclados a número de día absoluto. Cuando un personaje mencione un plazo relativo en la narración, registrarlo aquí convertido a día absoluto.
 
-- **Día 34 (martes)**: último día de **férula peneana**. **10:00, protocolo** con Delaney en la sala 3, ~15 minutos y solo pene: ella la desmonta y la remonta. Hobbs está de turno y no bajará a buscarla. **Por la noche Vera la retira al acostarla, para no volver a ponerla.**
+- **Día 34 (martes), noche**: último día de **férula peneana**. **Vera la retira al acostarla, para no volver a ponerla.** Esa noche, deberes de pene en blando y sin anillo.
 - **Hasta el Día 35 como mínimo**: **muletas**. Después las deja el día que note que no le hacen falta (Mills).
 - **Días 33–48 (a diario)**: **protocolo de movilización peneana** con **[Delaney](personajes/delaney.md)** en la sala 3, **10 minutos**. Duele el primer día y a partir del tercero ya no. Los días de piernas va dentro de los 50 minutos. Implica ir al Creston todos los días.
-- **Piernas con Delaney: lunes, miércoles y viernes**. Las próximas son el **Día 35** y el **Día 37**.
+- **Piernas con Delaney: lunes, miércoles y viernes**. Las próximas son el **Día 35 a las 10:00** (fijado el Día 34; 50 minutos con el protocolo dentro, ya sin férula; después, si Marcie quiere, lo acordado con Delaney **tras cerrar la sesión**) y el **Día 37**.
 - **Día 36**: **Megan camina con la prótesis y una muleta** — fin de los cinco días de recuperación tras la retirada de los yesos. Así la verá Marcie la próxima vez.
 - **Antes del Día 36**: **la bodega queda convertida en habitación de BDSM**. La lleva Vera y paga Marcie.
 - **Día 36 (jueves), por la tarde**: **primera sesión de BDSM Vera–Hobbs**, de unas horas, sin yeso y **con Marcie presente** (su papel, sin decidir). Hobbs **se queda a dormir** por primera vez.
@@ -34,7 +34,7 @@
 >
 > Prohibido registrar una iniciativa como estado: "Patricia y Hannah lo están intentando" es estado y va a la ficha; "Patricia escribe cada 3-4 días" es iniciativa y va aquí, con cadencia.
 
-- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa. Cuenta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 33**, en persona toda la tarde y un mensaje a las 21:40: "En casa. Plug puesto antes de meterme en la cama, como me dijo. Hoy no los repaso en orden: los repaso todos a la vez." **Vence: Día 34.** El martes está de turno de mañana y el miércoles tiene guardia de 24 h, así que escribirá desde el control.
+- **Hobbs** — **escribe a Marcie casi a diario**, sobre todo desde el turno y al llegar a casa. Cuenta cómo lleva la jaula y el plug y si alguien lo ha notado. **Último: Día 34**, tres mensajes: 06:52 (plug toda la noche, 5 h 40 de sueño), 09:14 desde el control (una enfermera la vio recolocarse y dijo "la lumbar"; dos erecciones bloqueadas) y 09:31 ("Me quedo arriba en la planta y no bajo, como quedamos"). **Los tres siguen sin contestar**, y lo notará sin reproche. **Vence: Día 34 por la tarde** (al salir a las 15:00 y al llegar a casa) y **Día 35**, desde la guardia de 24 h, escribiendo desde el control.
   - _Voz:_ **trata a Marcie de usted** siempre, también en lo íntimo. Contesta lo difícil con un **dato clínico** en vez de una evasiva. **Se disculpa por reflejo.** Cuando reconoce algo sobre sí misma lo suelta **deprisa y de un tirón**. **Repite la orden resumida en voz alta**, como si se apuntara la lista. **Cuenta los elogios (van diez)**, pero desde el Día 33 **da las gracias con sus palabras en vez de decir solo el número**. Nota cuando Marcie no contesta a algo, y lo dice sin reproche.
   - _Mecánica:_ residente de primer año del Creston, vive sola en un bajo casi vacío. Lleva **jaula y plug de forma continuada**, sin ropa interior. La **llave la tiene Marcie**, en el cajón de su mesilla. **Palabra de seguridad "maleta", solo para sesiones de BDSM.** Conoce a Vera, Rachel, Sophie y Dana desde el Día 33.
   - → un mensaje se narra con esto; abrir ficha si hay cita, escena o el fin de semana enyesada.
@@ -70,7 +70,7 @@
 
 ### Hitos pasados (referencia)
 
-> Una línea por día. El detalle escena a escena vive en `scene_log.md` (Días 31-33) y en `scene_log_archive.md` (Días 1-32, verbatim).
+> Una línea por día. El detalle escena a escena vive en `scene_log.md` (Días 32-34) y en `scene_log_archive.md` (Días 1-33, verbatim).
 
 - **Día 1**: Despertar; llegada a la mansión; primera noche con Rachel y Sophie.
 - **Día 2**: Sophie enyesada de cuerpo completo (rostro, senos y genitales libres).
@@ -106,6 +106,7 @@
 - **Día 31**: Yesos de Megan retirados; declara que quiere amputarse el brazo. Emily deja a Claire y se muda con Megan.
 - **Día 32**: Mills retira la ortesis y Marcie se la queda. Evaluación con Vera y Mills. Pies en el Elm y doble con Patricia y Hannah.
 - **Día 33**: Delaney y el protocolo; Hobbs en su casa y en la mansión; conoce a Vera ("maleta"); primera anal; bodega para BDSM.
+- **Día 34 (mañana)**: Protocolo en erección con Delaney; Marcie eyacula en plena tracción; tras cerrar la sesión, la masturba.
 
 ---
 
@@ -130,4 +131,5 @@
 - **Repetir lo de las tres (Marcie, Patricia y Hannah)** — dicho al terminar el Día 32 y aceptado por las dos, sin fecha. Condición de Hannah: **avisar antes de ir**, aunque sean diez minutos.
 - **Circuncisión de Hobbs** (aparcada el Día 33): no está circuncidada. Por sí sola no se la haría; si se la pidiera Marcie, "no lo sé", y eso la asusta. Si va en serio, **preguntárselo en frío**. Sería permanente.
 - **Comprobarle a Vera lo del uniforme** — Marcie iba a comprobar al levantarla el Día 33 que no lleva nada debajo del uniforme. La mañana se saltó y sigue pendiente. Vera lo sabe y lo espera.
+- **Delaney, después de las sesiones** — aceptó repetir lo del Día 34 con una regla fija: **primero cierra la sesión (parte firmado, pestillo); dentro de la sesión, nada.** No lo propone ella: lo mueve Marcie.
 - **La vecina del primero de enfrente de Hobbs** — vio a Hobbs y a Marcie por la ventana el Día 33 y no se apartó. Sin más consecuencias por ahora.

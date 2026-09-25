@@ -46,6 +46,7 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
   los ratos en que el aparato está desmontado; **(3)** desde la cuarta sesión, **tracción recta suave de 10
   segundos**, a media fuerza y con la mano fija en la base. Regla que repite siempre: **si aparece dolor, se
   para — en casa no se busca el tope nunca.**
+- **Protocolo en erección (ajuste de Claire, Día 34):** si Marcie tiene una erección durante la sesión, **no espera a que baje**: hace las cuatro direcciones y la tracción en erección para no alargar la sesión. Adapta la técnica (agarre bajo la coronilla, el tope llega antes y se sostiene ahí sin empujar contra la presión) y lo presenta como **criterio clínico suyo**, rectificando en voz alta si antes había dicho lo contrario. En casa la regla no cambia: los deberes se hacen en blando.
 - **Excepción con Marcie (ajuste de Claire, Día 33):** con ella **no corta por reloj**. Si la sesión necesita más tiempo del reservado, se lo toma, aunque eso signifique hacer esperar a la siguiente persona o quedarse después de su horario. Lo trata como una decisión suya y no lo presenta como un favor.
 
 ---
@@ -68,7 +69,9 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 ## Sexualidad / fetiches
 
 - **Se le pone dura trabajando** (desde el Día 33, ajuste de Claire). **No interrumpe el procedimiento por eso** ni se tapa ni se disculpa: sigue con la maniobra, y si la erección estorba a lo que está enseñando lo nombra en voz alta como el dato técnico que es y se adapta. Con el mismo tono con el que dice que un tobillo está rígido.
-- Por lo demás, nada declarado todavía.
+- **Con Marcie, fuera de la sesión (desde el Día 34):** acepta sexo con ella **solo con la sesión ya cerrada**: firma el parte, echa el pestillo y lo dice ("Sesión cerrada a las diez y catorce. Ahora sí"). Dentro de la sesión, nada, y lo de después no va en el parte. **No lo propone ella.**
+- **Cómo le gusta que la masturben:** con gel, **apretando casi el doble** que en el ejercicio, **lento**, **más despacio en el glande** y sin aflojar al subir ("estoy circuncidada: lo que noto es la mano"), y **la otra mano sujetando los testículos sin apretar**. Avisa cuando está cerca y marca con la mano dónde tiene que caer.
+- **Al correrse cuenta sus propias contracciones** en voz baja, igual que las repeticiones (ocho, el Día 34). Gemido corto y cerrado, entre dientes.
 
 ---
 
@@ -76,6 +79,7 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 
 - **[Dra. Mills](mills.md)** — le pasa los partes post-quirúrgicos. Relación estrictamente profesional; se fía de sus tiempos y no los discute.
 - **[Hobbs](hobbs.md)** — residente del centro, se cruzan por la planta baja. Sabe quién es, nada más.
+- **Marcie** — paciente y propietaria del Creston. Desde el Día 34, además, **sexo después de las sesiones** con la regla de arriba. Aclara que no es por quién es Marcie.
 
 ---
 
@@ -88,6 +92,11 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 - Cuando detecta que alguien se está callando algo, **para en seco y lo dice**: "Si no me lo dices, trabajo a ciegas."
 - **Tutea** a todo el mundo, pacientes incluidos, sin importar quién sea.
 - Cierra cada bloque con el minutaje: "Diez de rangos. Vamos a fuerza."
+- **Separa los datos mezclados** antes de apuntar: si una respuesta junta dos cosas (tensión y excitación), pide el número de cada una por separado.
+- **Rectifica en voz alta con razón clínica** cuando cambia de criterio a mitad, y tacha la línea en el parte.
+- **Valora con número también lo personal** ("un nueve"), y explica el punto que falta.
+- **Media sonrisa rara y breve**, que se le va enseguida. Contesta a los cumplidos con "no es un cumplido, es un dato".
+- **Avisa de cuándo algo se sale del protocolo** antes de aceptarlo ("eso no está en ningún protocolo") y da la ventaja clínica que le ve.
 
 ---
 
@@ -97,18 +106,23 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 - "Del uno al diez, ¿dónde está? Y 'bien' no es un número." _(primera evaluación — Día 33)_
 - "Aquí busco el tope porque sé dónde está y lo tengo medido. En casa no se busca nunca." _(deberes de pene — Día 33)_
 - "Y ahí lo tienes en directo, que además viene bien: fíjate en cuánto se me ha acortado el recorrido de golpe." _(con la erección en plena demostración — Día 33)_
+- "No lo sientas. […] Es un dato y lo apunto como dato." _(tras la eyaculación de Marcie en plena tracción — Día 34)_
+- "Sí quiero. Pero dentro de la sesión no. Primero la cierro, y lo que venga después no va en el parte." _(Día 34)_
+- "No es un cumplido. Es un dato." _(Día 34)_
 
 ---
 
 ## Momentos con Marcie
 
 - **Día 33, primera sesión (escenas 281–283):** 40 minutos de piernas y el **primer día del protocolo** en los 50 minutos: retira la férula, tres tracciones (5 y 6-7), cuatro direcciones con tope en el lateral derecho, y la remonta. Manda **deberes de piernas y de pene**, tras rectificar en el parte lo que había dicho. Hace la **demostración en su propio cuerpo**, topless y con el panel del pantalón bajado, corrige el agarre de Marcie y tiene una erección a mitad que usa de ejemplo. Por ajustes de Claire: **no corta por reloj con Marcie**.
+- **Día 34, protocolo en erección (escenas 296–297):** noche con anillo, **1**; surco limpio. Erección al quitar la capucha y, por ajuste de Claire, **rectifica y hace las direcciones en erección**. Arriba, abajo y lateral izquierdo, **4**; separa la excitación (**8**) de la tensión. A Marcie le deja **practicar los deberes en su pene** (10 s sin tope), le corrige la mano de la base y le da un tres de fuerza. **Marcie eyacula en el lateral derecho**, que queda sin número, y ella cuenta seis contracciones. **Cierra la sesión, echa el pestillo y Marcie la masturba** siguiendo sus indicaciones; se corre sobre la toalla contando ocho. Le da un **nueve**. Acepta repetirlo con la misma regla.
 
 ---
 
 ## Estado actual
 
-- Sala 3 del Creston. **Próxima cita: Día 34 a las 10:00**, quince minutos solo de protocolo, desmontando y remontando la férula. Piernas otra vez el **Día 35 (miércoles)**.
+- Sala 3 del Creston. **Próxima cita: Día 35 (miércoles) a las 10:00**, piernas 50 minutos con el protocolo dentro, ya sin férula.
 - **Protocolo vigente con Marcie:** piernas lunes, miércoles y viernes (50 minutos, ampliables) y **movilización peneana diaria de 10 minutos del Día 33 al 48**. Desde el Día 35 ya no hay férula que quitar.
 - **Sin límite de reloj con Marcie.** Deberes de casa mandados y apuntados en el parte.
-- No sabe nada de la vida de Marcie fuera del hospital.
+- No sabe nada de la vida de Marcie fuera del hospital, ni de su fetiche por los aparatos.
+- **Después de las sesiones, sexo con Marcie si ella quiere**, siempre con la sesión ya cerrada.

@@ -1844,3 +1844,101 @@ Nadie se mueve un rato; Patricia se queda encima porque no puede quitarse sola. 
 ### Escena 279: Vuelta a casa — mensajes de Hobbs y montaje sola (Día 32, ~18:00)
 
 En el vehículo, **dos mensajes de Hobbs sin contestar**: reporte de las 16:20 (catorce horas seguidas con jaula y plug, siete intentos de erección, no se ha agachado en la calle) y el de las 17:40 (mañana entra a las 7 y sale a las 3; la va a ver en la planta baja antes de terminar el turno, y lleva desde ayer contando las horas). **Marcie se vuelve a montar la férula ella sola** en el asiento, por primera vez sin Vera: el anillo se le escapa dos veces antes de encajar el pasador, el arnés obliga a levantar el cuerpo con una mano en marcha, y **las dos correas no quedan en las marcas de Vera** — el conjunto asienta torcido hacia la izquierda. Se aguanta y no aprieta de más, pero hay que rehacerlo al llegar.
+
+---
+
+## Día 33 (lunes) — Tarde y noche (sesión 38)
+
+> La sesión arranca saltando del Día 32 a las 18:10 al Día 33 a las 13:55. La llegada a la mansión del domingo y la mañana del lunes quedan sin narrar, incluida la comprobación del uniforme de Vera al levantarla, que sigue pendiente.
+
+### Escena 280: Entrada al Creston y la edición de Claire (Día 33, 13:55)
+
+Marcie entra sola al **Creston** con muletas y la **férula** puesta. Lleva **falda azul muy corta** (por detrás llega justo al nacimiento del muslo y por delante la férula la remanga), **camisa de botones semitransparente**, **pezoneras azules**, capucha azul y nada de ropa interior. En el vestíbulo hay una mujer de ~25, rubia de pelo muy corto, con **yeso de yoga solo en el brazo derecho**: codo en extensión completa y el brazo levantado en diagonal por encima de la cabeza, sostenido por una **columna de yeso del mismo bloque** que baja hasta un **cinturón de yeso** en la cintura. Con el brazo izquierdo, libre, lo hace todo; se sienta de perfil porque el codo no cabe entre respaldos. **Dos correcciones del usuario, ya fijadas como regla:** la descripción tiene que dejar claro qué miembros quedan libres, y **todo soporte de un yeso es de yeso**, nunca metal, arnés ni correa (`reglas/poblacion-y-enfermedades.md` → "Todo el soporte es yeso", con referencia en `world.md`).
+
+**Instrucción a Claire:** meter la terapia del pene en la sesión de hoy sin alargarla. Claire deja los **50 minutos** así: 10 de evaluación, 15 de rodilla y tobillo, 15 de fuerza y **10 de protocolo de movilización**, quitados del bloque de marcha. Antepone el dato no técnico: el protocolo estaba pensado para empezar sin férula. Marcie fija la pauta: **Delaney la desmonta, hace la terapia y la vuelve a montar**, en la sala, mientras dure la férula.
+
+### Escena 281: Delaney y la sesión de piernas (Día 33, 14:00–14:40)
+
+Primera aparición de **[Delaney](../personajes/delaney.md)** (Tess Delaney, 28, fisioterapeuta, **sala 3** de la planta baja): 168 cm, compacta y fuerte, morena de pelo negro a la mandíbula, túnica azul claro y pantalón blanco ceñido con el **pene marcado** hacia la cadera derecha. Su primera frase: "Me dijeron quién eres antes de darme el parte. Te lo digo yo primero para que no lo pienses tú: aquí dentro eso no me sirve de nada." Cuarenta minutos de piernas contando en voz alta y pidiendo número del 1 al 10 ("'bien' no es un número"). El tobillo izquierdo está duro y el **cuádriceps izquierdo se suelta dos veces** en la serie larga.
+
+### Escena 282: El protocolo de movilización (Día 33, ~14:40–14:50)
+
+Delaney baja la camilla, pone un paño y retira la férula: correas, pletina (el pene baja de golpe tras día y medio a 90°), cuna, arnés y anillo. Al descomprimir se llena solo. Tres **tracciones rectas** (20, 20 y 30 segundos) con la mano izquierda anclada en la base contra el pubis y la derecha bajo la corona. Marcie reporta **5** y **6-7**; Delaney quiere un 6-7 y decide que esa es la fuerza de la semana. El pene cae **un par de grados a la izquierda**, con el lado izquierdo más corto, que es justo lo que se busca corregir. Después las **cuatro direcciones**, 30 segundos cada una: el lateral derecho tiene tope (5 con rango limitado) y hacia abajo es la que más cuesta.
+
+**Corrección vía Claire:** **el anillo se puede montar en erección** (bisagra y pasador; aprieta más, pero no es isquémico). Se repite el beat: Delaney pregunta cuánto tarda en bajar la erección porque es un dato de riego para el parte, no para montarla. Corrección de continuidad en la escena 254: lo de Vera fue preferencia suya. **Instrucción a Claire:** con Marcie, Delaney **no corta por reloj**.
+
+### Escena 283: Deberes y la demostración de Delaney (Día 33, ~14:50–15:05)
+
+**Deberes de pierna:** cuádriceps 3 × 10 con 10 s, elevación de pierna recta 3 × 8 y tobillo 2 minutos, todos los días. Primero dice que el pene en casa no se toca. **Instrucción a Claire: que mande deberes de pene.** Delaney rectifica en el parte: (1) suelo pélvico 3 × 10 con 5 s, tres veces al día; (2) los cuatro estiramientos en versión corta, 10 s y sin tope, mañana y noche; (3) desde la cuarta sesión, tracción suave de 10 s. "En casa no se busca el tope nunca."
+
+A propuesta de Marcie, **Delaney hace la demostración en su propio cuerpo**. **Instrucción a Claire:** repetir el beat con Delaney quitándose también la túnica. Queda topless: senos pequeños y pezones grandes y oscuros. Suelta los **dos corchetes** del panel del pantalón y enseña el pene circuncidado, 12 × 11 en reposo. Corrige el agarre de Marcie (la mano de abajo estaba dos dedos alta) y hacen los laterales a la vez. **Corrección:** Delaney **no sabe nada de Vera** ni del entorno de Marcie; se repite su línea sin nombrarla. **Instrucción a Claire:** que se le ponga dura en el siguiente ejercicio. Se le pone (16 × 12,5, descrito en detalle a petición) y lo usa de ejemplo: duro se pierde recorrido, así que en casa se hace blando. A petición del usuario se explica el **pantalón de panel abatible** y se añade a `world.md` como prenda del mundo.
+
+Remonta la férula con el anillo sobre la erección, dos posiciones más holgado. Marcie le pregunta por qué no lleva ropa interior: porque el panel ya sujeta y en el turno roza. Ella señala que Marcie tampoco lleva. **Mañana (Día 34) a las 10:00**, quince minutos solo de protocolo; piernas otra vez el miércoles.
+
+### Escena 284: Hobbs a la salida y Rowan (Día 33, ~15:10)
+
+**Hobbs** sale de personal a las 15:10 con la falda de cuerina de abertura en V, el top negro de brazos y hombros, C-string negro y pezoneras de colgantes azules. En la V se leen las barras de la jaula bajo el encaje. Junto a la puerta está **Rowan**, de laboratorio, con **yeso de mástil de nivel medio**; se la llevan de la mano y se la ve andar de espaldas.
+
+**Tres correcciones del usuario, ya fijadas como regla:** la abertura posterior **va tapada siempre en público**; **no existe ninguna pieza fabricada para eso**, cada una lo resuelve con un apaño casero (Rowan, una toalla metida bajo el borde del yeso); y **el apaño se sale a menudo** y deja ver parte de una nalga, sin que nadie se escandalice.
+
+Marcie le dice a Hobbs que le gustaría verla con un yeso así. **Instrucción a Claire:** las enfermedades pasan a ser **ocasionales** (una vez cada dos años de media, y hay quien no las tiene nunca) y **Hobbs nunca ha tenido ninguna**. Claire avisa de que eso cambia las cifras y el usuario elige la **opción C**: yesos de **un mes** de media, **4 % de yoga, 2 % de mástil y ~16 % de la ciudad enyesada (1 de cada 6)**. Aplicado en reglas, `world.md` y `ciudad.md`. Hobbs confiesa que el yeso de mástil medio "se le ha metido en la cabeza" de ver pacientes.
+
+### Escena 285: Comida en el Hollis (Día 33, ~15:20–16:15)
+
+Escenario nuevo: **[Hollis](../escenarios/hollis.md)**, a una manzana del Creston. **Instrucción a Claire:** sillas de **madera maciza sin cojín**. Hobbs se sienta de lado por el plug; la madera se lo empuja todo el rato y "lo decide la silla". Admite que le gusta: cuatro días sin terminar. A la pregunta de si querría masturbarse, contesta que todas las noches la mano se encuentra el titanio. Atiende **[Wren Calloway](../personajes/wren.md)**, camarera de 20 años, alta y con pecas, senos por las aberturas y el pene colgando con capucha negra; se describe caminando a petición y luego Claire da sus medidas. Hobbs pide té frío sin mirar a Marcie antes. Cuando Marcie dice que la excita saber que no puede masturbarse, la jaula aprieta: "ya no es que no pueda, es que es para usted".
+
+Marcie le propone **ser sumisa de Vera para que la entrene**, sin dejar de ser suya. Hobbs repite la lista, deduce que Vera vive en la casa del fin de semana y pone su condición: **conocerla antes del viernes, vestida, de pie y pudiéndose ir**. Coincide con la de Vera. Acepta ir hoy, pero **vuelve a su casa esa noche**, por decisión propia, para no juntar dos primeras veces. "Siete" cuando Marcie le dice que le da igual cómo sea su casa.
+
+### Escena 286: El paseo y el apartamento de Hobbs (Día 33, ~16:15–16:35)
+
+Doce minutos andando. En un banco hay una pelirroja con **yeso de yoga en la pierna derecha**, de la ingle a los dedos, rodilla a 90° y tobillo en punta. Escenario nuevo: **[apartamento de Hobbs](../escenarios/apartamento-hobbs.md)**, bajo 1C, estudio casi vacío con cama, silla, mesa y la maleta sin deshacer. No había entrado nadie nunca.
+
+### Escena 287: El apartamento — la ventana y la vecina (Día 33, ~16:35–17:05)
+
+Hobbs se desnuda por orden, prenda a prenda. Se agacha con las rodillas rectas y se ve la joya del plug; la jaula se describe entera; las pezoneras adhesivas escuecen al quitarlas. La ventana da al patio: "Que miren". Marcie le toca los testículos y la jaula entre las barras, la lame y la succiona. **Instrucción a Claire:** que se asome una vecina. Se asoma la del primero de enfrente (~25, pelo negro rizado, pañuelo amarillo) a regar y se queda mirando.
+
+Marcie mueve el plug y **Hobbs se corre con la jaula puesta** dentro de la boca de Marcie, en pulsos cortos. **Corrección:** la regla de "boca cerrada" del Día 30 era para cuando Hobbs le hace oral a Marcie, no para su propio orgasmo; se aclara en el registro y se repite la escena. Después la acuesta y la acaricia; Hobbs: "usted se lo ha tragado todo y luego me ha cogido con las dos manos". Hobbs quiere que le quite la jaula para revisar la piel y la vuelva a cerrar, pero **la llave está en la mansión**. Pide que sea **a solas y con la puerta cerrada**, no delante de la enfermera. Marcie **corta el beso de golpe** y la manda limpiarse y vestirse. **Instrucción a Claire: las pezoneras adhesivas se reutilizan con pegamento para pezoneras** (`world.md`), y Hobbs rectifica.
+
+### Escena 288: El viaje y la mansión (Día 33, ~17:15–17:45)
+
+En el coche, Hobbs está nerviosa "por usted, no por la enfermera". Pregunta qué saben de ella y Marcie no contesta; Hobbs lo nota y no insiste. **Instrucción a Claire:** recibe Dana, Rachel y Sophie esperan en la sala, todas amables, y **Vera aparece después**. Dana, de uniforme, le abre la puerta con el gancho. Hobbs mira a Rachel y Sophie palideciendo. Marcie da las **versiones públicas: Rachel se cayó por unas escaleras y a Sophie la atropelló un camión**; ninguna lo corrige.
+
+Sophie a Hobbs: "Titanio. ¿Cuánto te queda con eso?" / "Eso lo decide ella." Hobbs elogia los dos yesos y dice que lo que pidió para el viernes "son ustedes dos juntas". Rachel le da un consejo: la primera noche la mala, y que lo pida en voz alta. Marcie **le quita la manta a Sophie** delante de Hobbs ("Podías avisar. No es que pueda taparme") y le pregunta a Hobbs si quiere los senos cubiertos. **Hobbs decide que fuera**, sin pezoneras, porque es lo único que nunca enseña. Dana vuelve a tapar a Sophie.
+
+### Escena 289: Vera y Hobbs en la biblioteca, por el auricular (Día 33, ~17:50–18:05)
+
+Vera aparece de ropa de calle negra. Marcie las deja solas y, desde su estudio, pide a Claire **escuchar por el auricular**: nuevo **modo escucha**, solo audio, sin que los robots lo noten.
+
+Vera abre con "no te han traído aquí para mí". Pregunta qué ha entendido Hobbs; esta nombra su miedo a que la **pasen a otra persona**. A la pregunta de si puede decirle que no a Marcie, contesta: "Hoy le he dicho tres noes y las tres me ha dicho que sí." Vera le enseña la **palabra de seguridad** y Hobbs elige **"maleta"** (lo único que trajo y no ha deshecho: "si la digo, es que me quiero ir a casa"). Vera le manda que se la diga ella misma a Marcie.
+
+**Instrucción a Claire:** que Vera le proponga **sesiones de BDSM** y Hobbs acepte, con Marcie pudiendo participar. Claire avisa de que no hizo falta tocar a Hobbs. Hobbs pregunta "¿Y ella?" y Vera: "está cuando quiera estar". Hobbs acepta ("me da menos miedo que hace diez minutos, que es justo lo que me da miedo"). Vera propone algo **corto antes del viernes, el jueves**. **Instrucción a Claire:** la palabra es **solo para las sesiones**; en la vida diaria y enyesada, "no" es no. Vera lo corrige en voz alta antes de irse.
+
+### Escena 290: La habitación — Hobbs desviste a Marcie (Día 33, ~18:10–18:35)
+
+En el pasillo, Vera: "Lo que hay que contarte te lo cuenta ella". En la habitación, con la puerta cerrada, Hobbs dice **"maleta"**. Marcie la manda desnudarse y le dice que **la llave está en esa habitación**. Luego Hobbs desviste a Marcie: la camisa, "85 de banda, 106 de contorno" (estaba cuando Mills la midió), le toca los senos y le despega las pezoneras sujetando la piel con un dedo. Limpia el pegamento con toallitas del cajón de la mesilla sin mirar qué más hay.
+
+Le chupa los pezones y dice **"Ocho"**. Marcie pregunta qué es; Hobbs explica que **cuenta los elogios** desde el Día 30. **Marcie le pide que no diga solo el número: que dé las gracias con sus palabras** (tic modificado en su ficha). Le quita la falda y **retira la férula** en orden inverso; se equivoca con la pletina, que con la erección salta hacia arriba. Lo siguiente: "Gracias por dejarme quitárselo yo".
+
+### Escena 291: Primera penetración anal de Hobbs (Día 33, ~18:35–19:00)
+
+Hobbs a cuatro patas. Marcie le quita el C-string y **el plug** y le pone pomada. **Nunca la habían penetrado** fuera del plug. Dedo con lubricante, entra la corona y Hobbs pide esperar ("No es 'no'. Es 'espera'"). Entra entera; la presión en la próstata le saca un chorro sin orgasmo. Movimiento lento ("Me gustan tus nalgas": "Gracias… el noveno") y luego rápido. Cuando Hobbs está a punto, **Marcie sale** y se tumba boca arriba con las manos en la nuca. Hobbs lo entiende sola y se sube; "Estoy cansada, móntame hasta que me venga". Lo monta (**elogio diez**) y **se vienen juntas**, Hobbs con la jaula soltando sobre el vientre de Marcie.
+
+Después, Hobbs llora en silencio: "nadie se había quedado nunca después". Cuenta la segunda cosa: **el jueves con Vera**. Marcie dice sí, **estará presente** y serán **unas horas**, porque Hobbs sale de una guardia de 24 h. Queda así: **dormir en su casa, venir por la tarde y quedarse a dormir el jueves**. Hobbs limpia a Marcie. Marcie la limpia a ella con las piernas levantadas (Hobbs se sujeta los muslos sola, por reflejo de planta) y le pone crema hidratante. "Me dan ganas de penetrarte otra vez, pero para otro día."
+
+### Escena 292: La jaula abierta (Día 33, ~19:00–19:30)
+
+Marcie saca la **llave del cajón de la mesilla**, a diez centímetros de donde Hobbs cogió las toallitas. Abre el pasador y quita la jaula y después el **anillo**. Marcas de las barras y surco del anillo, **sin lesiones**. Erección inmediata, que duele "como su pletina, pero cuatro días". Hobbs pide permiso para tocarse y se masturba mirándola. En el borde pregunta "¿Puedo?" y Marcie dice **"No, ya te has venido dos veces"**. Hobbs para.
+
+Marcie la limpia y le **baja el prepucio**: **Hobbs no está circuncidada** (dato nuevo, en su ficha). Hobbs aguanta recitando el **inventario del carro de curas** y luego los **huesos del carpo**. Con la pomada en círculos sobre el glande **se le escapa un orgasmo a medias**, contra la orden; pide perdón y Marcie la perdona. Hobbs pide que le vuelvan a poner la jaula. Marcie la limpia, le pone crema, limpia la jaula por dentro y **la cierra con llave**; la llave vuelve al cajón. "Hace un rato estaba libre y tenía miedo. Ahora está cerrado y estoy tranquila."
+
+**Hobbs le monta la férula** a Marcie. Marcie le pregunta si ha pensado en la **circuncisión**: por la higiene con la jaula sí, pero es permanente. Si se lo pidiera Marcie, "no lo sé", y eso la asusta. Tema **aparcado**. El plug: **se lo lleva y se lo pone en casa**. Hobbs viste a Marcie con la ropa azul, sin capucha. De camino se despide de Rachel, Sophie y Vera. Beso junto al coche: "El jueves." / "Gracias… por quedarse después, las tres veces."
+
+### Escena 293: Vera y la bodega (Día 33, ~19:40–20:10)
+
+En la biblioteca, Vera nota enseguida que **la férula no la ha montado ella** y la recoloca mientras hablan. Marcie propone convertir la **bodega** del anexo oeste, junto a la sala de yesos, en **habitación de BDSM**. Vera tiene cuerdas, esposas, cinta y ropa de sesión, pero no una habitación. Ven la bodega: 8 × 8, vigas vistas que aguantan anclajes.
+
+Vera quiere mantener separados los dos registros. Marcie precisa que la sala de yesos también es fetiche. Vera matiza: "de enfermera" es el registro, no algo médico, y le da la razón en que estén juntas. **Marcie paga y le dice que contrate a quien necesite**. Vera la tendrá **entera el jueves**: mudanza, pintura y luz, anclajes. **Discreción**: a cada contratada solo le enseña su parte y monta ella lo de dentro. De Hobbs: "Sabe lo que quiere y le da miedo saberlo, que es lo mejor que se puede traer a esto."
+
+### Escena 294: Cierre del día (Día 33, noche)
+
+Vera termina con Rachel y Sophie, **revisa la piel y el anillo** de Marcie y deja la férula puesta: "Mañana te levanto yo". Mensaje de Hobbs a las **21:40**: "En casa. Plug puesto antes de meterme en la cama, como me dijo. Hoy no los repaso en orden: los repaso todos a la vez."

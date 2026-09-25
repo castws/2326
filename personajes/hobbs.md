@@ -140,7 +140,7 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 - **Día 33:** tres orgasmos, el último arrancado contra la orden de Marcie y perdonado.
 - **Costumbre desde el Día 32:** mueve el plug a propósito en la silla del control, y le inquieta que nadie se lo haya mandado.
 - **Calendario:**
-  - **Día 34:** turno de mañana. Sabe que Marcie está a las 10:00 en la sala 3 y dijo que no bajará.
+  - **Día 34:** turno de mañana; sale a las 15:00. No bajó a la sala 3. **Tres mensajes de la mañana sin contestar** (06:52, 09:14 y 09:31): durmió 5 h 40 con el plug, se recolocó tres veces en el taburete del control y a la enfermera que le preguntó le dijo "la lumbar"; dos erecciones bloqueadas.
   - **Día 35:** guardia de 24 h.
   - **Día 36:** sale a las 9:00, duerme en casa y **por la tarde tiene la primera sesión con Vera**, con Marcie presente. **Se queda a dormir en la mansión** y trae el uniforme.
   - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, en la mansión y **se lo hace Marcie**. **Los senos fuera, sin pezoneras** (lo eligió ella el Día 33), **abertura genital para la jaula**, y sin palabra de seguridad durante el yeso.

@@ -10,7 +10,7 @@
 
 - Dos plantas. Tecnología de 2026 en apariencia, de 2326 por dentro.
 - Cuenta con quirófanos, planta de hospitalización, urgencias y consultas.
-- **Planta baja:** vestíbulo con recepción, puerta de personal y **pasillo de rehabilitación** con varias salas (la **sala 3**, al fondo, es la de Delaney: camilla alta regulable con pedal, paralelas, colchoneta, carro y lavabo).
+- **Planta baja:** vestíbulo con recepción, puerta de personal y **pasillo de rehabilitación** con varias salas (la **sala 3**, al fondo, es la de Delaney: camilla alta regulable con pedal, paralelas, colchoneta, carro, lavabo, cubo de ropa y **pestillo** en la puerta, de cristal esmerilado hacia el pasillo; frente a la sala 2 hay bancos de madera clara).
 - A una manzana, en la misma calle: el restaurante **[Hollis](hollis.md)**.
 
 ---
