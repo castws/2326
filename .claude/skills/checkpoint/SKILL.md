@@ -24,9 +24,10 @@ Guardado rápido mid-sesión. Registra el estado actual sin hacer un cierre comp
    - **Solo añadir.** Nunca consolidar, condensar ni archivar escenas en un checkpoint — un checkpoint jamás toca `scene_log_archive.md` ni resume un día ya escrito (eso es exclusivo de `/close-session`).
 
 3. **Actualizar solo las secciones de `state.md` que hayan cambiado**:
-   - **"Día actual":** ubicación de Marcie y su estado
+   - **"Día actual":** ubicación de Marcie y su situación inmediata
    - **"Fichas a abrir":** dejarlo apuntando a quien esté delante de Marcie **ahora mismo**, con el motivo entre paréntesis. Es lo que se cargará si la sesión se corta aquí; `ninguna` es válido
    - "Eventos programados" y "Hilos latentes" si surgió o se consumió alguno
+   - **El estado físico de Marcie** (movilidad, aparatos, rehabilitación) va a `marcie.md` → `## Estado actual`, no a `state.md`
    - **El estado físico de cualquier otro personaje NO va aquí:** va al `## Estado actual` de su ficha `personajes/<nombre>.md`. `state.md` no lleva bloques de personaje
    - No reescribir lo que no cambió
 

@@ -146,7 +146,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - El **yeso a cuatro patas**, sin fecha.
   - **Disparador de Kerr:** si Megan llega a ir a la consulta, la presentación la hace Vera y nadie entra en la sala.
   - **Encargo de Mills (Día 32):** revisarle a Marcie la piel, las marcas y la temperatura **cada vez que se quite la ortesis**, con atención especial a la cara interna de la rodilla izquierda; si algo no le gusta, llama a Mills. Ella se la pone y ella se la quita.
-  - **La férula peneana:** el **Día 34** por la mañana se la monta y **por la noche se la retira para siempre**.
+  - **La férula peneana:** Marcie amanece el **Día 34** con ella puesta (la montó Hobbs la noche del Día 33 y Vera la reajustó). **Esa noche, al acostarla, Vera se la retira para siempre.**
   - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando.
   - **La bodega** tiene que quedar **terminada como habitación de BDSM para el jueves (Día 36)**: mudanza, pintura y luz, y anclajes en las vigas. Contrata ella y paga Marcie.
   - **Día 36 por la tarde:** primera sesión con **Hobbs**, de unas horas, con Marcie presente. Hobbs se queda a dormir.

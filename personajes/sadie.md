@@ -30,7 +30,13 @@
 
 ## Personalidad
 
-Habla poco con desconocidos y mucho cuando el tema le interesa. Tiene un **humor seco** que suelta en frases cortas y que descoloca porque no cambia la cara al decirlas. Es observadora: mira a la gente del café mientras escribe y se inventa historias con ellas.
+Es **alegre** y **curiosa**. Le gusta conocer cosas y **probar cosas nuevas**, y se entusiasma rápido cuando algo le llama la atención: una persona, un oficio, un objeto, una manera de vivir que no conoce. Con desconocidos empieza observando, pero en cuanto algo le interesa se acerca. Mira a la gente del café mientras escribe y se inventa historias con ellas.
+
+**Le gusta preguntar, y pregunta con respeto.** Antes de entrar en algo personal pide permiso, acepta un no sin insistir ni ofenderse y nunca pregunta para juzgar, sino porque quiere saber de verdad. Si nota que ha tocado algo delicado, se disculpa en una frase y cambia de tema sin hacer un drama.
+
+Tiene **humor seco** de frases cortas, pero lo suelta sonriendo. Se ríe con facilidad, también de sí misma.
+
+**Lista de cosas por probar.** Lleva en el portátil una lista de experiencias nuevas —comidas, sitios, oficios, sensaciones, cosas que nunca ha hecho— y las va tachando. Añade cosas en cuanto oye hablar de algo que no conoce, y está abierta a que otra persona le proponga entradas.
 
 **No tiene ninguna incomodidad con sus manos ni con que se las miren. Lo que la incomoda es que la traten con cuidado.**
 
@@ -43,6 +49,20 @@ Escribe desde muy joven. Publicó hace poco una **novela de fantasía medieval e
 Escribe en su portátil **siempre en el mismo sitio**: el **[Marginalia](../escenarios/marginalia.md)**, el café-biblioteca del centro comercial. Su puesto es **la mesa del fondo, junto a la pared de libros y de cara a la puerta** — ve entrar a todo el mundo. Lleva meses yendo cada día y allí la conocen de vista. Varias horas al día, casi siempre hasta el cierre.
 
 Sabe perfectamente que **cada dedo que pierde es una limitación real para escribir**, y lo asume: el deseo pesa más que el problema práctico. Cada vez que pierde uno reaprende a teclear con lo que le queda. Ya lo ha hecho tres veces.
+
+**Lo que escribe ahora:** el **segundo libro de la saga** que empezó con el bestseller. Es su trabajo principal y lo que hace a diario en el Marginalia.
+
+**El borrador aparte: una confesión escondida.** A ratos, al margen de la saga, escribe el borrador de otra novela. Su protagonista va perdiendo partes del cuerpo por decisión propia, y cada pérdida en el libro sigue de cerca una de las suyas. No lo ha leído nadie. Quien lea ese borrador con atención puede adivinar la verdad antes de que ella la cuente.
+
+**El miedo que no dice: escribir sin manos.** Sabe que, según el orden que se ha fijado, llegará un momento en que no pueda teclear, y ya ha empezado a prepararse en secreto probando varias alternativas:
+
+- **Dictado por voz:** funciona, pero no le gusta cómo queda la prosa dictada; la nota más floja, menos suya.
+- **Con la boca:** un puntero sujeto entre los dientes para pulsar las teclas. Cansa la mandíbula y es lento, pero es ella quien teclea cada letra.
+- **Puntero** sujeto con correa a la muñeca o al antebrazo, para teclear cuando ya no tenga manos.
+- **Seguimiento ocular:** escribir con la mirada. Lento, pero la frase sale como ella la piensa.
+- **Prótesis:** no le atraen mucho, porque quiere llevar los muñones al aire. No se cierra a usarlas cuando sea necesario.
+
+No se lo ha contado a nadie. Hablar de ello sería admitir que sabe que la pérdida de las manos va a llegar.
 
 ---
 
@@ -61,6 +81,13 @@ Sabe perfectamente que **cada dedo que pierde es una limitación real para escri
 
 **Verdad: se las está haciendo ella misma, por decisión propia. No se lo ha contado a nadie. Las amputaciones propias y en los demás la excitan.**
 
+### Excitación por las amputaciones
+
+**Las amputaciones la excitan sexualmente, tanto las suyas como las de otras personas.**
+
+- **En ella:** cada pérdida es también un acto erótico. Mirarse los muñones, notar la venda, reaprender a hacer algo con lo que le queda: todo eso la excita, y lo vive en privado.
+- **En otras personas:** un muñón, una prótesis o una manga vacía le atraen la mirada y le producen excitación directa. En público lo disfraza de la curiosidad que ya tiene de por sí: se acerca, pregunta con respeto y escucha con mucha atención. Nadie nota la diferencia porque la curiosidad es real; lo que no cuenta es lo que le provoca.
+
 **Con Marcie:** se lo contará **cuando la conozca un poco más**, no en el primer encuentro.
 
 ### Mecánica del impulso
@@ -70,6 +97,8 @@ Cuando una amputación ha **sanado del todo** —sin vendas y sin puntos— apar
 **Cicatrización rápida (ajuste de Claire, Día 30):** forma parte de la misma "enfermedad" que usa como explicación pública — lo mismo que le come los dedos le cierra las heridas antes de tiempo. No hay que sostener ninguna mentira nueva y Marcie puede hablar de fechas con ella con normalidad.
 
 **Ritmo anclado a las visitas de Marcie (ajuste de Claire, Día 30):** el reloj no es el calendario. **Cada vez que Marcie la visita en un día distinto del anterior, Sadie ha avanzado un paso de la secuencia.** Dos visitas el mismo día no producen cambio. **Siempre un paso, nunca más de uno**, sin importar cuánto tiempo haya pasado entre una visita y la siguiente. El ritmo real lo marca por completo la frecuencia con la que Marcie aparezca.
+
+**Cuaderno de despedidas.** Antes de cada amputación escribe en un cuaderno de papel una página dedicada a esa parte del cuerpo: lo que ha hecho con ella, cómo se siente, por qué le toca ahora. La escribe a mano mientras todavía puede. Es parte del ritual y parte de la excitación. Lo guarda en casa y nadie sabe que existe. Cuando le cuente la verdad a Marcie, es probable que se lo enseñe.
 
 **No tiene claro hasta dónde quiere llegar, pero de momento no quiere parar.** _(Dato de autor, que ella aún no formula así: **no va a parar hasta tener ambos brazos y ambas piernas completamente amputados.**)_
 
@@ -109,7 +138,9 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 
 ## Voz / Tics
 
-- Frases cortas y secas, **con la cara quieta**.
+- Tono animado. Frases cortas y ágiles; el humor seco lo dice **sonriendo**, y se ríe con facilidad.
+- Antes de una pregunta personal **pide permiso**: "¿Te puedo preguntar una cosa?". Si le dicen que no: "Vale", y cambia de tema sin rastro de molestia.
+- Sus preguntas son **concretas y de detalle** —cómo se siente, cómo se hace, qué pasó exactamente—, de escritora; una cada vez, y escucha la respuesta entera antes de la siguiente.
 - Cuando habla de sus libros **se alarga y se le nota**.
 - Si alguien se ofrece a ayudarla con algo que ella puede hacer, **lo rechaza sin suavizarlo: "Puedo."**
 - Da la explicación de la enfermedad con una **naturalidad de trámite, siempre con las mismas palabras**.

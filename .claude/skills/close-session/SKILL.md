@@ -1,6 +1,6 @@
 ---
 name: close-session
-description: Cierre completo de sesión de roleplay. Actualiza scene_log.md, state.md, characters.md y el transcript de conversación con un resumen exhaustivo de la sesión.
+description: Cierre completo de sesión de roleplay. Actualiza scene_log.md, state.md, marcie.md, characters.md y el transcript de conversación con un resumen exhaustivo de la sesión.
 ---
 
 # Skill: close-session
@@ -12,6 +12,7 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
 1. **Leer los archivos actuales** antes de modificar nada:
    - `world.md` (convenciones del mundo, tecnología, moda, índice de escenarios y de reglas)
    - Las fichas `escenarios/<nombre>.md` de los lugares donde transcurrió la sesión, y `reglas/<nombre>.md` si la sesión tocó la composición de la población, las enfermedades del mundo o la app de citas
+   - `marcie.md` (ficha de la protagonista)
    - `state.md`
    - `scene_log.md` (ventana activa de escenas)
    - `characters.md` (índice) y las fichas `personajes/<nombre>.md` de los personajes que intervinieron en la sesión (ya estarán abiertas: intervenir exige haber abierto la ficha)
@@ -37,15 +38,16 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
      - Antes de mover un día, comprobar que `state.md` → "Hitos pasados" tiene su línea-resumen de ≤ 130 caracteres; si falta, añadirla. No sacar de Nivel 1 escenas a las que aún apunte un evento de "Eventos programados", un hilo de "Hilos latentes" o una entrada de "Sin cerrar".
 
 4. **Actualizar `state.md`**:
-   - **"Día actual":** ubicación de Marcie, su estado y el próximo momento a narrar.
+   - **"Día actual":** ubicación de Marcie, su situación inmediata y el próximo momento a narrar.
    - **"Fichas a abrir":** los nombres exactos de quien vaya a estar en el primer beat de la próxima sesión, cada uno con su motivo en un paréntesis corto (`**Vera** (la levanta a las 8:30)`). Normalmente 0-2 nombres; **`ninguna` es un valor válido y correcto**. Es el único campo que decide qué se carga al arrancar: la ubicación de Marcie ya no decide nada. Escribirlo pensando en quién estará delante, no en quién es importante.
-   - Estado físico actualizado (yesos, amputaciones, prótesis, vendajes) y estado relacional si cambió.
-   - **`state.md` NO lleva bloques de personaje.** Su contenido es exactamente: `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —única sin ficha propia— y `## Sin cerrar`. Nada más.
+   - **`state.md` NO lleva bloques de personaje.** Su contenido es exactamente: `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —solo el puntero a `marcie.md`— y `## Sin cerrar`. Nada más.
    - **Todo estado de personaje va al `## Estado actual` de su ficha**, esté donde esté y se cargue o no. Si alguien cambió de estado en la sesión, se edita su ficha; **nunca se crea un bloque en `state.md`**, ni siquiera para quien viva con Marcie: su ficha se abre en cuanto entra en escena, así que el bloque solo duplicaría peor lo que ya está cargado.
    - Lo único que puede tirar de un personaje hacia `state.md` es **una iniciativa suya** → va a "Hilos latentes" con su tarjeta de voz y mecánica, o **un plazo** → va a "Eventos programados".
    - **"Hitos pasados":** añadir la línea del día, **≤ 130 caracteres**.
    - **"Hilos latentes":** actualizar los disparos consumidos (poner el nuevo "Último: Día N" y recalcular el vencimiento) y añadir los hilos nuevos que hayan surgido.
    - **"Sin cerrar":** hilos abiertos que no son iniciativa de nadie y que solo mueve Marcie. Retirar los ya consumidos. No repetir aquí nada que ya esté en "Eventos programados" o "Hilos latentes".
+
+4b. **Actualizar `marcie.md`** si cambió algo suyo: estado físico (movilidad, aparatos, rehabilitación, deberes) en `## Estado actual`; hitos personales en `## Historia`; propiedades o recursos nuevos; quién conoce sus fetiches. **Solo datos**: nunca se le añade voz, personalidad ni decisiones, porque a Marcie la escribe el usuario.
 
 5. **Actualizar el mundo** si durante la sesión se estableció algo nuevo y permanente. Cada tipo de cambio va a su archivo:
    - **Lugar nuevo descrito con detalle** (edificio, local, zona, casa): crear su ficha `escenarios/<nombre-kebab>.md` con el formato habitual (campos de cabecera, secciones `##`, y una sección final **`## Reglas de continuidad`**) y añadir su línea al índice de escenarios de `world.md`.
@@ -82,11 +84,11 @@ Cierre completo de sesión de roleplay. Actualiza todos los archivos de continui
 8. **Verificar el presupuesto de contexto** antes de cerrar. Medir los archivos que se cargan al inicio y avisar de cualquier tope superado (ver `CLAUDE.md` → "Presupuesto de contexto"):
 
    ```bash
-   wc -c world.md characters.md state.md scene_log.md CLAUDE.md
+   wc -c world.md characters.md marcie.md state.md scene_log.md CLAUDE.md
    wc -c personajes/*.md | grep -v historial | sort -n | tail -5
    ```
 
-   Topes: `state.md` 20 KB · `scene_log.md` 55 KB · `characters.md` 8 KB · ficha individual 8 KB (salvo arco muy activo) · **carga total de inicio 175 KB**. El bloque fijo (`world` + `characters` + `state` + `scene_log` + `CLAUDE`) son ~119 KB; encima solo suman las fichas de "Fichas a abrir". Si algo se pasa, decir cuánto y por qué; no dejarlo pasar en silencio.
+   Topes: `state.md` 20 KB · `marcie.md` 8 KB · `scene_log.md` 55 KB · `characters.md` 8 KB · ficha individual 8 KB (salvo arco muy activo) · **carga total de inicio 175 KB**. El bloque fijo (`world` + `characters` + `marcie` + `state` + `scene_log` + `CLAUDE`) son ~119 KB; encima solo suman las fichas de "Fichas a abrir". Si algo se pasa, decir cuánto y por qué; no dejarlo pasar en silencio.
 
 9. **Confirmar al usuario** con un resumen de una sola línea por archivo modificado, indicando qué cambió. Ejemplo:
 

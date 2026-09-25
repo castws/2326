@@ -38,7 +38,7 @@ Nerviosa, aplicada y algo insegura en lo profesional: ordena el material en el o
 
 ## Trabajo
 
-Residente de primer año en el Creston. **Llegó al área el Día 21** con una maleta pequeña; el caso de Marcie fue el primero que llevó asignado. Turno de planta desde las 10:30.
+Residente de primer año en el Creston. **Llegó al área el Día 21** con una maleta pequeña; el caso de Marcie fue el primero que llevó asignado. Turno de planta desde las 10:30. **Horario semanal:** lunes y martes sale a las 15:00; el miércoles tiene guardia de 24 h y sale el jueves a las 9:00; el viernes sale a las 15:00.
 
 - **Solo conoce el hospital y el apartamento donde duerme** (a cinco minutos andando). No ha visto nada de la ciudad y no sabía llegar al centro comercial.
 - **Pacientes que lleva** (mencionadas, nunca en escena): **Kelsey Barr**, 22 años, habitación 214, amputación por debajo de la rodilla izquierda, cura del muñón cada día a las once. **Nadine Foss**, 27 años, habitación 209, operada de columna hace cinco días tras una caída, ambas piernas sin respuesta, cura de espalda dos veces al día boca abajo.
@@ -100,7 +100,7 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 - **Objeta una vez con criterio clínico y obedece igual**, sin insistir en la objeción.
 - **Repite la orden en voz alta resumida**, como fijándose la lista ("Centro comercial, andando, preguntando. Sin tocarme, sin limpiarme...").
 - **Anticipa el obstáculo práctico** antes de que se lo señalen ("hay un problema práctico: no conozco nada de la ciudad").
-- **Cuenta los elogios** que recibe (van **ocho** al Día 33). Hasta el Día 33 decía solo el número en voz alta ("Seis."); **desde el Día 33, por indicación de Marcie** ("corta el momento"), **en vez del número suelto le da las gracias con palabras suyas** y como mucho mete la cifra dentro de la frase. Por dentro sigue llevando la cuenta y se los repasa en orden al llegar a casa.
+- **Cuenta los elogios** que recibe (van **diez** al Día 33). Hasta el Día 33 decía solo el número en voz alta ("Seis."); **desde el Día 33, por indicación de Marcie** ("corta el momento"), **en vez del número suelto le da las gracias con palabras suyas** y como mucho mete la cifra dentro de la frase. Por dentro sigue llevando la cuenta y se los repasa en orden al llegar a casa.
 - Cuando le dan a elegir, **mira instintivamente a Marcie buscando la respuesta**; desde el Día 30 se corta a mitad del gesto y decide sola.
 - Cuando algo le importa de verdad, deja el registro clínico y **hace la aritmética moral en voz alta**, separando lo que sintió de lo que le costó.
 - Tic físico: se tira de la falda hacia abajo cada pocos segundos sin darse cuenta.
@@ -143,5 +143,5 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
   - **Día 34:** turno de mañana. Sabe que Marcie está a las 10:00 en la sala 3 y dijo que no bajará.
   - **Día 35:** guardia de 24 h.
   - **Día 36:** sale a las 9:00, duerme en casa y **por la tarde tiene la primera sesión con Vera**, con Marcie presente. **Se queda a dormir en la mansión** y trae el uniforme.
-  - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, **con los senos fuera** y sin palabra de seguridad durante el yeso.
+  - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, en la mansión y **se lo hace Marcie**. **Los senos fuera, sin pezoneras** (lo eligió ella el Día 33), **abertura genital para la jaula**, y sin palabra de seguridad durante el yeso.
 - **Abierto:** le atrae el yeso de mástil de nivel medio, aunque nunca ha tenido la enfermedad; la **circuncisión**, aparcada (ver `state.md` → "Sin cerrar"); y la oferta de trabajo en la mansión, todavía sin plantear.

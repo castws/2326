@@ -24,7 +24,7 @@ A partir del texto identificar:
 
 ### 3. Leer los archivos de referencia
 
-Leer `characters.md` (índice) y, por cada personaje presente en la escena, su ficha `personajes/<nombre>.md` (aunque esté en pausa o archivado). Leer también `state.md` y `CLAUDE.md`. De `world.md` basta con las reglas que aparezcan en la escena. Si la localización identificada en el paso 2 tiene ficha propia, leer `escenarios/<nombre>.md` (el índice de escenarios de `world.md` da el enlace); leer `reglas/<nombre>.md` solo si la escena depende de la composición de la población, de las enfermedades del mundo o de la app de citas.
+Leer `characters.md` (índice) y, por cada personaje presente en la escena, su ficha `personajes/<nombre>.md` (aunque esté en pausa o archivado). Leer también `marcie.md`, `state.md` y `CLAUDE.md`. De `world.md` basta con las reglas que aparezcan en la escena. Si la localización identificada en el paso 2 tiene ficha propia, leer `escenarios/<nombre>.md` (el índice de escenarios de `world.md` da el enlace); leer `reglas/<nombre>.md` solo si la escena depende de la composición de la población, de las enfermedades del mundo o de la app de citas.
 
 ### 4. Construir el prompt por capas
 
@@ -59,7 +59,7 @@ Por cada personaje presente, generar un bloque con exactamente estos campos (sin
 [Nombre]: [apariencia física en 1-2 líneas]. [Condiciones físicas especiales, si las hay]. [Rasgo de personalidad dominante en 1 frase]. [Posición actual en la escena].
 ```
 
-Extraer esta información de la ficha del personaje (`personajes/<nombre>.md`) y de `state.md`. No incluir backstory, motivaciones, historia con Mark, citas, ni información que no afecte directamente la narración de la escena.
+Extraer esta información de la ficha del personaje (`personajes/<nombre>.md`) y de `state.md`. El estado físico de Marcie sale de `marcie.md`. No incluir backstory, motivaciones, historia con Mark, citas, ni información que no afecte directamente la narración de la escena.
 
 ---
 

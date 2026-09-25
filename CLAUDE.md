@@ -89,7 +89,7 @@ La edición se trata narrativamente como la "ejecución" técnica de la orden de
 
 ## Coherencia entre sesiones
 
-Al final de cada sesión, actualizar `state.md`, `scene_log.md`, la ficha de cada personaje que intervino en `personajes/<nombre>.md` y el índice `characters.md` (si hubo personajes nuevos, cambios de `Dónde` o cambios permanentes), y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.
+Al final de cada sesión, actualizar `state.md`, `scene_log.md`, `marcie.md` (si cambió algo suyo), la ficha de cada personaje que intervino en `personajes/<nombre>.md` y el índice `characters.md` (si hubo personajes nuevos, cambios de `Dónde` o cambios permanentes), y el transcript de conversación con lo ocurrido. Leer los archivos de referencia al inicio de cada nueva sesión para retomar la historia sin pérdida de continuidad. Estos archivos son la memoria viva de la historia: sin ellos se pierde continuidad.
 
 ## Consistencia temporal
 
@@ -126,9 +126,10 @@ Leer antes de comenzar, en este orden:
 
 1. `world.md`
 2. `characters.md` (el índice de personajes)
-3. `state.md`
-4. `scene_log.md` (la ventana activa de escenas)
-5. **Solo entonces**, las fichas `personajes/<nombre>.md` que `state.md` → "Día actual" → **Fichas a abrir** nombre explícitamente (ver abajo).
+3. `marcie.md` (la ficha de la protagonista — la única que se carga siempre)
+4. `state.md`
+5. `scene_log.md` (la ventana activa de escenas)
+6. **Solo entonces**, las fichas `personajes/<nombre>.md` que `state.md` → "Día actual" → **Fichas a abrir** nombre explícitamente (ver abajo).
 
 ### Qué fichas se cargan: en el momento de aparecer, no al empezar
 
@@ -181,7 +182,8 @@ Un personaje puede tener algo que hacer por iniciativa propia —escribir, llama
 - **`personajes/<nombre>.md`** — una ficha completa por personaje (apariencia, conocimiento, voz/tics, citas, momentos con Marcie). El contenido de una ficha **nunca se mueve de archivo**: un personaje cambia de grupo solo moviendo su línea en el índice.
 - **`personajes/<nombre>-historial.md`** — desbordamiento histórico. Cuando una ficha supera **~8 KB**, las entradas antiguas de `## Momentos con Marcie` y `## Citas memorables` —las dos únicas secciones que crecen sin techo— se mueven aquí en orden cronológico y verbatim. La ficha conserva lo que sigue siendo operativo para narrarla hoy (orientativo: ≤ 1,5 KB por sección) más un puntero al historial. **Estos archivos no se cargan nunca al inicio.**
 - **`reglas/plantilla-personaje.md`** — el formato de las fichas: dos niveles (breve / completa), orden fijo de secciones y campos físicos que **nunca se omiten** (altura, forma de los labios, medidas del pene en fláccido y erecto, condición física). Regla clave: **no se crean bloques `## Día N` en las fichas** — lo ocurrido se reparte entre las secciones que ya existen, y el detalle escena a escena vive en `scene_log.md`.
-- **`state.md`** — **no contiene bloques de personaje.** Solo `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —la única sin ficha propia— y `## Sin cerrar`. El estado de cualquier otro personaje vive en el `## Estado actual` de su ficha, se cargue o no: duplicarlo aquí solo produce dos versiones del mismo dato que se desincronizan.
+- **`marcie.md`** (en la raíz) — la ficha de la protagonista: cuerpo, historia, conocimiento, fetiches, propiedades y `## Estado actual`. **Es la única ficha que se carga siempre.** No lleva Personalidad ni Voz, porque a Marcie la escribe solo el usuario: la ficha es de datos, nunca un guion para hablar por ella.
+- **`state.md`** — **no contiene bloques de personaje.** Solo `## Cronología` (Día actual · Eventos programados · Hilos latentes · Hitos pasados), `## Marcie` —solo un puntero a `marcie.md`— y `## Sin cerrar`. El estado de cualquier otro personaje vive en el `## Estado actual` de su ficha, se cargue o no: duplicarlo aquí solo produce dos versiones del mismo dato que se desincronizan.
 - **`characters.md`** — índice/roster con **dos grupos: `## Activos` y `## Archivados`**. Ningún grupo decide qué se carga (eso lo decide la regla de arriba); archivado significa solo que ese personaje no vuelve a escena salvo que Marcie lo pida. Cada línea: nombre enlazado + ficha mínima de **≤ 200 caracteres** (apariencia clave + condición física), más un sub-bullet **`_Dónde:_` de ≤ 80 caracteres** con la ubicación habitual y el horario si no es trivial. Nada de actualizaciones de estado en negrita: eso va a `state.md` si es un hilo abierto, a la ficha si es permanente, y a "Hilos latentes" si es una iniciativa.
 - **`Dónde` es el dato canónico de ubicación**: si la ficha del personaje dice otra cosa, manda el índice. Se actualiza en `/close-session` para quien haya cambiado de sitio o de rutina. Lo único que se mueve de grupo es archivar o desarchivar.
 
@@ -219,7 +221,8 @@ Topes por archivo, verificados al final de `/close-session`. Superarlos no es un
 
 | Archivo | Tope |
 |---|---|
-| `state.md` | 20 KB — Cronología + bloque de **Marcie** + Hilos latentes + Sin cerrar; **ningún otro bloque de personaje** |
+| `state.md` | 20 KB — Cronología + Hilos latentes + Sin cerrar; **ningún bloque de personaje**, tampoco el de Marcie |
+| `marcie.md` | 8 KB — ficha de la protagonista, siempre cargada |
 | `scene_log.md` | 55 KB — 1 día verbatim + 3 condensados, archivando antes de condensar |
 | `characters.md` | 8 KB — por personaje: ficha mínima ≤ 200 caracteres + `Dónde` ≤ 80 |
 | `personajes/<nombre>.md` | 8 KB — el exceso histórico va a `-historial.md` |
@@ -228,13 +231,13 @@ Topes por archivo, verificados al final de `/close-session`. Superarlos no es un
 
 Los personajes en arco muy activo (hoy Vera con 14,7 KB y Hobbs con 13,5 KB) quedan por encima de los 8 KB cuando lo que les sobra es contenido **operativo** —voz, mecánica, relaciones, ajustes vigentes— y no histórico. Eso es aceptable: ahora que una ficha solo se abre cuando su personaje entra en escena, el coste de una ficha grande se paga una vez y solo cuando sirve.
 
-**Medición real:** el bloque fijo (`world.md` + `characters.md` + `state.md` + `scene_log.md` + `CLAUDE.md`) son ~119 KB. Sobre eso se suman **únicamente** las fichas de "Fichas a abrir": el arranque del Día 32 son ~142 KB con Vera y Mills; una sesión que arranque sin nadie delante, ~119 KB. La cifra importante es que **el arranque ya no crece cuando crece el reparto**: un personaje nuevo suma 0 KB hasta el turno en que aparece.
+**Medición real:** el bloque fijo (`world.md` + `characters.md` + `marcie.md` + `state.md` + `scene_log.md` + `CLAUDE.md`) son ~119 KB. Sobre eso se suman **únicamente** las fichas de "Fichas a abrir": el arranque del Día 32 son ~142 KB con Vera y Mills; una sesión que arranque sin nadie delante, ~119 KB. La cifra importante es que **el arranque ya no crece cuando crece el reparto**: un personaje nuevo suma 0 KB hasta el turno en que aparece.
 
 ## Inicio de sesión
 
 Cuando el usuario indique que comienza una nueva sesión (con frases como "nueva sesión", "continuemos", "seguimos" o similares):
 
-1. Leer `world.md`, `characters.md`, `state.md` y `scene_log.md`.
+1. Leer `world.md`, `characters.md`, `marcie.md`, `state.md` y `scene_log.md`.
 2. Abrir **exactamente** las fichas que nombre `state.md` → "Día actual" → **Fichas a abrir**, ni una más. Si dice `ninguna`, no se abre ninguna.
 3. **Revisar "Hilos latentes" y "Eventos programados"** y disparar lo que venza hoy. La ficha de quien entre en escena por un disparo se abre **en ese momento**, no ahora.
 4. Responder con un resumen de orientación breve antes de continuar la historia:

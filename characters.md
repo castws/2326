@@ -6,7 +6,7 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
 - **`Dónde` es el dato canónico de ubicación.** Si la ficha del personaje dice otra cosa, manda este índice. Sirve para responder si alguien *puede* estar en un sitio — **no** para meterlo en escena por su cuenta.
 - **Qué ficha se abre y cuándo lo decide `CLAUDE.md`** → "Qué fichas se cargan: en el momento de aparecer, no al empezar". Este índice no lleva reglas de carga y el orden de la lista no significa nada: está ordenada por ubicación habitual solo para poder encontrar a alguien.
 
-> **Nota:** desde el Día 30 (~12:20) la protagonista es **Marcie** (antes Mark). Registrado en todos los sistemas del área; todos los personajes usan el nombre y el femenino.
+> **Nota:** desde el Día 30 (~12:20) la protagonista es **Marcie** (antes Mark); su ficha es [marcie.md](marcie.md). Registrado en todos los sistemas del área; todos los personajes usan el nombre y el femenino.
 
 ---
 

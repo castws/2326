@@ -10,6 +10,8 @@
 - Sabe: que Tori tiene fractura cervical, de hombro derecho y de mandíbula; que lleva jaula de castidad por una enfermedad que hace dolorosas las erecciones.
 - No sabe: que el accidente fue simulado.
 
+**Iniciativa:** escribe a Marcie por su cuenta cuando hay algo que reportar de la rutina de Tori. Disparador en `state.md` → "Hilos latentes".
+
 **Voz / Tics de habla:**
 
 - Práctica y sin comentarios innecesarios. Entra, hace lo que hay que hacer, sale. No conversa con Tori ni le formula preguntas de sí/no.

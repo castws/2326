@@ -112,4 +112,4 @@ Sin pareja y sin vida sexual desde hace años — **"No cuento"**, con esas pala
 - En su apartamento de la ciudad, edificio de ladrillo claro a diez minutos del de Megan, con Jude en cama hospitalaria en el salón. Sin cambios físicos.
 - Única cuidadora de Jude y única vía de comunicación de su hermana.
 - **Pendiente:** la visita de las dos a la mansión tras el alta, para conocer a Vera y decidir si esta ayuda con el cuidado y acompaña a Jude a las reuniones del club. Sin fecha; hay que avisarla con tiempo para organizar el traslado con silla y respirador.
-- **Sin iniciativa propia:** no escribe ni aparece por su cuenta salvo para reportar algo de Jude. La mueve Marcie.
+- **Iniciativa:** no escribe ni aparece por su cuenta salvo para reportar algo de Jude. Disparador en `state.md` → "Hilos latentes". Todo lo demás lo mueve Marcie.
