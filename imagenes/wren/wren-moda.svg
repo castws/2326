@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" width="900" height="1400">
+  <defs>
+    <filter id="wash" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="17" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.1 0 0 0 0.25" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="3" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="10" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="0.8"/>
+    </filter>
+    <filter id="washSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="41" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.3 0 0 0 0.05" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="12" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="40" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="2"/>
+    </filter>
+    <filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="4" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.3  0 0 0 0.09 0"/>
+    </filter>
+    <linearGradient id="skinG" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ecccba"/>
+      <stop offset="0.5" stop-color="#f8e6da"/>
+      <stop offset="1" stop-color="#eed0bf"/>
+    </linearGradient>
+    <radialGradient id="silver" cx="0.35" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#cfd4da"/>
+      <stop offset="1" stop-color="#8e969f"/>
+    </radialGradient>
+  </defs>
+
+  <!-- papel -->
+  <rect width="900" height="1400" fill="#f7f3ec"/>
+  <rect width="900" height="1400" filter="url(#grain)"/>
+
+  <!-- manchas de fondo: verde del Hollis y un melocotón cálido -->
+  <path transform="translate(0 70)" d="M240 300 C220 170 360 90 500 110 C650 130 720 250 690 390 C665 510 600 600 470 610 C330 620 260 520 240 410 Z" fill="#b9cfbf" opacity="0.5" filter="url(#washSoft)"/>
+  <path d="M560 560 C630 520 700 570 680 650 C664 700 600 700 582 660 Z" fill="#f2c7a8" opacity="0.35" filter="url(#washSoft)"/>
+  <ellipse cx="470" cy="1276" rx="180" ry="28" fill="#d8c6a6" opacity="0.5" filter="url(#washSoft)"/>
+  <g fill="#6d9278" opacity="0.45">
+    <circle cx="700" cy="300" r="3.6"/><circle cx="716" cy="322" r="2.2"/><circle cx="230" cy="470" r="2.8"/>
+  </g>
+
+  <g transform="translate(0 70)">
+  <g transform="translate(0 640) scale(1 0.82) translate(0 -640)">
+  <!-- ===================== PIERNAS A MEDIA ZANCADA ===================== -->
+  <path d="M392 600 C386 700 396 800 412 900 C406 980 402 1080 414 1180 C420 1240 424 1280 426 1300 L456 1300 C454 1240 452 1160 452 1080 C452 1000 448 950 446 902 C450 820 454 720 456 648 C466 740 480 830 486 905 C492 990 500 1080 500 1160 C502 1200 502 1230 500 1256 L528 1252 C530 1220 532 1180 530 1140 C532 1060 526 980 518 905 C528 820 534 700 520 600 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M404 700 C408 800 420 860 428 900 M500 700 C496 800 494 860 500 905 M420 960 C414 1060 420 1160 434 1280 M504 960 C508 1040 514 1120 514 1230" fill="none" stroke="#e6c0ab" stroke-width="14" opacity="0.25" filter="url(#wash)"/>
+  <path d="M392 600 C386 700 396 800 412 900 C406 980 402 1080 414 1180 C420 1240 424 1280 426 1300 M456 1300 C454 1240 452 1160 452 1080 C452 1000 448 950 446 902 C450 820 454 720 456 648 C466 740 480 830 486 905 C492 990 500 1080 500 1160 C502 1200 502 1230 500 1256 M528 1252 C530 1220 532 1180 530 1140 C532 1060 526 980 518 905 C528 820 534 700 520 600" fill="none" stroke="#7a5647" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M414 896 Q428 906 444 898 M488 902 Q502 910 516 902" fill="none" stroke="#cda694" stroke-width="1.2" filter="url(#ink)"/>
+  <!-- zapatillas planas negras: la de delante apoyada, la de atrás en punta -->
+  <path d="M420 1296 Q404 1326 413 1352 L467 1354 Q478 1330 460 1296 Z" fill="#1c1c1f" stroke="#050505" stroke-width="1.5" filter="url(#ink)"/>
+  <path d="M412 1346 L468 1348" stroke="#f1f1f1" stroke-width="2.2"/>
+  <path d="M498 1250 Q493 1280 505 1302 L534 1304 Q541 1284 530 1250 Z" fill="#1c1c1f" stroke="#050505" stroke-width="1.5" filter="url(#ink)"/>
+  <path d="M504 1298 L534 1300" stroke="#f1f1f1" stroke-width="2"/>
+  <!-- trazos de movimiento -->
+  <g fill="none" stroke="#8a8277" stroke-width="0.9" stroke-linecap="round" opacity="0.55" filter="url(#ink)">
+    <path d="M548 1236 Q560 1250 566 1270"/><path d="M556 1206 Q570 1222 578 1246"/>
+    <path d="M536 640 Q548 650 552 664"/><path d="M372 630 Q364 644 364 660"/>
+  </g>
+
+  </g>
+
+  <!-- pene colgando por la abertura, con la capucha negra lisa: se balancea con el paso -->
+  <g transform="rotate(9 456 646)">
+    <rect x="449" y="640" width="13" height="40" rx="3" fill="url(#skinG)" stroke="#b9917d" stroke-width="1" filter="url(#ink)"/>
+    <path d="M448 676 L463 676 L463 690 Q463 700 455.5 700 Q448 700 448 690 Z" fill="#111113" stroke="#000" stroke-width="1" filter="url(#ink)"/>
+  </g>
+
+  <!-- ===================== FALDA NEGRA MUY CORTA Y DELANTAL ===================== -->
+  <path d="M410 512 L500 510 Q522 556 530 600 Q534 624 538 652 Q456 664 374 650 Q376 624 382 600 Q392 556 410 512 Z" fill="#161619" filter="url(#ink)"/>
+  <path d="M410 512 L500 510 Q522 556 530 600 Q534 624 538 652 Q456 664 374 650 Q376 624 382 600 Q392 556 410 512 Z" fill="none" stroke="#050505" stroke-width="1.5" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M470 530 Q482 580 492 640" fill="none" stroke="#4a4a52" stroke-width="2.4" opacity="0.6"/>
+  <!-- delantal corto verde oscuro, más corto que la falda; las tiras vuelan -->
+  <path d="M410 524 L502 522 L512 628 Q456 638 400 628 Z" fill="#2f4d3b" filter="url(#wash)"/>
+  <path d="M410 524 L502 522 L512 628 Q456 638 400 628 Z" fill="none" stroke="#14231a" stroke-width="1.4" stroke-linejoin="round" filter="url(#ink)"/>
+  <rect x="402" y="514" width="108" height="12" rx="2" fill="#243d2e" stroke="#14231a" stroke-width="1" filter="url(#ink)"/>
+  <path d="M430 572 L482 572 L482 606 L430 606 Z M456 572 L456 606" fill="none" stroke="#7d9f88" stroke-width="1" stroke-dasharray="3 2.5"/>
+  <path d="M510 520 Q548 528 566 560 M510 524 Q540 546 546 590" fill="none" stroke="#243d2e" stroke-width="4" stroke-linecap="round" filter="url(#ink)"/>
+
+  <!-- ===================== TORSO Y CAMISA ===================== -->
+  <path d="M440 254 L436 302 L476 302 L472 254 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M388 336 L524 332 L512 520 L402 520 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <!-- senos por las aberturas redondas: pezonera de disco plateado sobre la areola -->
+  <path d="M398 418 Q404 436 420 436 Q432 434 438 424 M472 422 Q478 434 490 434 Q506 434 512 416" fill="none" stroke="#c49e8a" stroke-width="1.2" filter="url(#ink)"/>
+  <circle cx="419" cy="414" r="9.5" fill="#f0b9b0" filter="url(#wash)"/>
+  <circle cx="419" cy="414" r="5.8" fill="url(#silver)" stroke="#7d858d" stroke-width="0.6"/>
+  <circle cx="492" cy="412" r="9.5" fill="#f0b9b0" filter="url(#wash)"/>
+  <circle cx="492" cy="412" r="5.8" fill="url(#silver)" stroke="#7d858d" stroke-width="0.6"/>
+  <!-- camisa blanca: lo blanco es el papel; sombras en gris azulado -->
+  <path d="M438 300 L455 352 L474 298 Q508 302 538 314 Q554 340 558 424 L516 434 L512 410 Q510 470 502 520 L408 520 Q400 470 398 412 L394 436 L352 428 Q356 344 372 318 Q404 304 438 300 Z M395 412 a24 24 0 1 0 48 0 a24 24 0 1 0 -48 0 Z M468 410 a24 24 0 1 0 48 0 a24 24 0 1 0 -48 0 Z" fill="#fdfcf9" fill-rule="evenodd"/>
+  <path d="M398 412 Q400 470 408 520 L424 520 Q416 470 414 440 Z M512 410 Q510 470 502 520 L488 520 Q494 470 498 440 Z" fill="#d7dde4" opacity="0.8" filter="url(#wash)"/>
+  <path d="M356 360 Q360 340 372 322 L382 426 L354 424 Z M552 360 Q548 336 536 316 L528 426 L556 420 Z" fill="#dde2e8" opacity="0.8" filter="url(#wash)"/>
+  <path d="M438 300 L455 352 L474 298 Q508 302 538 314 Q554 340 558 424 L516 434 L512 410 Q510 470 502 520 M408 520 Q400 470 398 412 L394 436 L352 428 Q356 344 372 318 Q404 304 438 300" fill="none" stroke="#6a6f76" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)"/>
+  <circle cx="419" cy="412" r="24" fill="none" stroke="#6a6f76" stroke-width="1.3" filter="url(#ink)"/>
+  <circle cx="492" cy="410" r="24" fill="none" stroke="#6a6f76" stroke-width="1.3" filter="url(#ink)"/>
+  <!-- cuello abierto y tapeta -->
+  <path d="M438 300 L426 318 L448 330 Z M474 298 L486 316 L462 328 Z" fill="#ffffff" stroke="#6a6f76" stroke-width="1.2" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M455 352 L455 518" stroke="#b8bec5" stroke-width="1"/>
+  <g fill="#eef0f2" stroke="#8a9098" stroke-width="0.8"><circle cx="455" cy="454" r="2.4"/><circle cx="455" cy="478" r="2.4"/><circle cx="455" cy="502" r="2.4"/></g>
+  <!-- reguero de pecas pálidas de las clavículas a los senos -->
+  <g fill="#d9a88c" opacity="0.85">
+    <circle cx="448" cy="310" r="0.9"/><circle cx="462" cy="312" r="0.9"/><circle cx="454" cy="322" r="0.9"/><circle cx="458" cy="334" r="0.8"/>
+    <circle cx="412" cy="396" r="0.9"/><circle cx="424" cy="398" r="0.8"/><circle cx="404" cy="404" r="0.8"/><circle cx="430" cy="404" r="0.8"/>
+    <circle cx="486" cy="394" r="0.9"/><circle cx="498" cy="396" r="0.8"/><circle cx="480" cy="402" r="0.8"/><circle cx="506" cy="402" r="0.8"/>
+  </g>
+
+  <!-- ===================== BRAZOS ===================== -->
+  <!-- derecho de ella (izq. del dibujo): se balancea hacia atrás -->
+  <path d="M356 428 Q346 480 348 520 Q350 560 358 596 L378 594 Q374 560 376 520 Q380 480 382 432 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M356 596 Q350 624 358 648 Q370 656 380 646 Q386 624 378 594 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M356 428 Q346 480 348 520 Q350 560 358 596 Q350 624 358 648 Q370 656 380 646 Q386 624 378 594 Q374 560 376 520 Q380 480 382 432" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" filter="url(#ink)"/>
+  <!-- vuelta de la manga remangada -->
+  <path d="M350 414 L396 420 L394 440 L350 434 Z" fill="#f4f5f6" stroke="#6a6f76" stroke-width="1.2" filter="url(#ink)"/>
+  <!-- izquierdo de ella (dcha. del dibujo): doblado, levanta el bloc -->
+  <path d="M520 430 Q536 470 552 500 L574 488 Q560 460 554 424 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M552 500 Q566 452 572 404 L592 406 Q590 456 574 492 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M520 430 Q536 470 552 500 Q566 452 572 404 M554 424 Q560 460 574 488 Q590 456 592 406" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M514 416 L558 412 L560 432 L518 438 Z" fill="#f4f5f6" stroke="#6a6f76" stroke-width="1.2" filter="url(#ink)"/>
+  <!-- el bloc, que lleva y no usa -->
+  <g transform="rotate(-12 584 360)">
+    <rect x="562" y="318" width="46" height="62" rx="2" fill="#fffef6" stroke="#3a302b" stroke-width="1.3" filter="url(#ink)"/>
+    <rect x="562" y="318" width="46" height="9" fill="#2a4434"/>
+    <path d="M568 340 h34 M568 350 h34 M568 360 h24" stroke="#d6d9dc" stroke-width="1.2"/>
+  </g>
+  <path d="M570 388 Q566 404 576 410 Q590 412 594 400 Q596 388 588 382 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M570 388 Q566 404 576 410 Q590 412 594 400 Q596 388 588 382 M574 396 L590 392" fill="none" stroke="#7a5647" stroke-width="1.3" filter="url(#ink)"/>
+
+  <!-- ===================== CABEZA ===================== -->
+  <g transform="rotate(-6 455 200)">
+    <path d="M415 196 Q415 148 455 146 Q495 148 495 196 Q495 232 482 248 Q470 260 455 260 Q440 260 428 248 Q415 232 415 196 Z" fill="url(#skinG)" filter="url(#wash)"/>
+    <path d="M416 208 Q418 234 428 248 Q440 260 455 260 Q470 260 482 248 Q492 234 494 210" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" filter="url(#ink)"/>
+    <ellipse cx="430" cy="222" rx="11" ry="6" fill="#f0a9a0" opacity="0.3" filter="url(#wash)"/>
+    <ellipse cx="482" cy="222" rx="11" ry="6" fill="#f0a9a0" opacity="0.3" filter="url(#wash)"/>
+    <g fill="#dcae93" opacity="0.85">
+      <circle cx="446" cy="214" r="0.9"/><circle cx="452" cy="210" r="0.8"/><circle cx="460" cy="210" r="0.8"/><circle cx="466" cy="214" r="0.9"/>
+      <circle cx="428" cy="214" r="0.8"/><circle cx="434" cy="219" r="0.8"/><circle cx="476" cy="214" r="0.8"/><circle cx="482" cy="219" r="0.8"/>
+    </g>
+    <!-- cejas claras y relajadas -->
+    <path d="M428 182 Q437 177 447 180 M463 180 Q473 177 482 182" fill="none" stroke="#8a6545" stroke-width="2" stroke-linecap="round"/>
+    <!-- ojos castaños, un poco entornados por la sonrisa -->
+    <path d="M428 194 Q437 187 447 194 Q437 197 428 194 Z M463 194 Q473 187 482 194 Q473 197 463 194 Z" fill="#fbf8f4" stroke="#3a2c24" stroke-width="1.2"/>
+    <circle cx="438" cy="193" r="3.4" fill="#6b4a30"/><circle cx="473" cy="193" r="3.4" fill="#6b4a30"/>
+    <circle cx="439.2" cy="191.8" r="1" fill="#fff"/><circle cx="474.2" cy="191.8" r="1" fill="#fff"/>
+    <path d="M428 193 Q437 186 447 193 M463 193 Q473 186 482 193" fill="none" stroke="#3a2c24" stroke-width="1.5"/>
+    <!-- nariz y sonrisa fácil -->
+    <path d="M456 200 Q455 212 451 216 Q456 219 461 216" fill="none" stroke="#c7a28f" stroke-width="1.2" filter="url(#ink)"/>
+    <path d="M440 230 Q455 244 472 230 Q456 236 440 230 Z" fill="#fff" stroke="#b97a74" stroke-width="1"/>
+    <path d="M440 230 Q456 250 472 230 Q466 246 456 247 Q446 246 440 230 Z" fill="#d99a92"/>
+    <path d="M440 230 Q448 226 456 228 Q464 226 472 230" fill="none" stroke="#b97a74" stroke-width="1.3"/>
+    <path d="M437 228 Q436 232 439 234 M475 228 Q476 232 473 234" fill="none" stroke="#b97a74" stroke-width="1"/>
+    <!-- pelo castaño claro recogido: moño deshecho con el bolígrafo clavado -->
+    <path d="M412 202 Q410 146 456 138 Q500 144 498 200 Q494 172 478 160 Q458 152 440 158 Q420 168 414 202 Z" fill="#a57c55" filter="url(#wash)"/>
+    <path d="M412 202 Q410 146 456 138 Q500 144 498 200" fill="none" stroke="#6a4c30" stroke-width="1.4" stroke-linecap="round" filter="url(#ink)"/>
+    <line x1="506" y1="84" x2="452" y2="140" stroke="#1f4e9e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M440 128 Q432 96 460 88 Q490 82 500 108 Q506 132 482 140 Q458 146 440 128 Z" fill="#a57c55" filter="url(#wash)"/>
+    <path d="M440 128 Q432 96 460 88 Q490 82 500 108 Q506 132 482 140 Q458 146 440 128 M448 120 Q460 100 486 106 M452 132 Q472 124 494 126" fill="none" stroke="#6a4c30" stroke-width="1.3" stroke-linecap="round" filter="url(#ink)"/>
+    <line x1="513" y1="76" x2="506" y2="84" stroke="#dfe3e8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M416 192 Q410 214 416 236 M496 192 Q502 212 496 230 M444 158 Q432 170 430 186 M500 116 Q514 112 520 122" fill="none" stroke="#8a6545" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  </g>
+
+  </g>
+
+  <!-- nota a lápiz -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#8a8277" font-size="15">
+    <text x="592" y="1040" transform="rotate(-6 592 1040)">paso largo y suelto</text>
+  </g>
+  <path d="M590 1046 Q566 1060 548 1086" fill="none" stroke="#8a8277" stroke-width="1" filter="url(#ink)"/>
+
+  <!-- ===================== FIRMA Y RÓTULO ===================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2e2724">
+    <text x="596" y="1170" font-size="56" font-style="italic" transform="rotate(-4 596 1170)">Wren</text>
+    <text x="600" y="1206" font-size="24" font-style="italic" fill="#4a4440" transform="rotate(-4 600 1206)">Calloway</text>
+    <text x="604" y="1238" font-size="13" letter-spacing="3" fill="#3f6b50" transform="rotate(-4 604 1238)">CAMARERA · HOLLIS</text>
+    <text x="606" y="1260" font-size="12" letter-spacing="1.5" fill="#8a8277" transform="rotate(-4 606 1260)">turno de mediodía · día 33</text>
+  </g>
+  <path d="M600 1218 Q680 1210 780 1196" fill="none" stroke="#6d9278" stroke-width="3" stroke-linecap="round" opacity="0.6" filter="url(#wash)"/>
+</svg>

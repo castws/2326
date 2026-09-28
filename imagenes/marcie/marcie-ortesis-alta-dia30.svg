@@ -1,0 +1,302 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1320" width="1240" height="1320" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e2bea6"/>
+      <stop offset="0.5" stop-color="#f2d8c6"/>
+      <stop offset="1" stop-color="#e2bea6"/>
+    </linearGradient>
+    <linearGradient id="knit" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#8b9096"/>
+      <stop offset="0.5" stop-color="#b3b7bc"/>
+      <stop offset="1" stop-color="#8b9096"/>
+    </linearGradient>
+    <pattern id="jaspe" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="5" fill="url(#knit)"/>
+      <path d="M0 2 L2 2 M3 4 L5 4" stroke="#7d8288" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="skirt" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0f0f11"/>
+      <stop offset="0.5" stop-color="#2b2b30"/>
+      <stop offset="1" stop-color="#0f0f11"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#7f8891"/>
+      <stop offset="0.5" stop-color="#eef1f4"/>
+      <stop offset="1" stop-color="#7f8891"/>
+    </linearGradient>
+    <radialGradient id="metal" cx="0.35" cy="0.35" r="0.8">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#c8ced4"/>
+      <stop offset="1" stop-color="#858d96"/>
+    </radialGradient>
+    <radialGradient id="gold" cx="0.35" cy="0.35" r="0.8">
+      <stop offset="0" stop-color="#fff4c4"/>
+      <stop offset="0.5" stop-color="#d9b24c"/>
+      <stop offset="1" stop-color="#9a7420"/>
+    </radialGradient>
+  </defs>
+
+  <!-- papel -->
+  <rect width="1240" height="1320" fill="#f5f2ec"/>
+  <rect x="24" y="24" width="1192" height="1272" fill="none" stroke="#d8d1c4" stroke-width="1"/>
+  <line x1="650" y1="60" x2="650" y2="1260" stroke="#e0d9cc" stroke-width="1"/>
+
+  <!-- ===================== FIGURA ===================== -->
+  <ellipse cx="330" cy="1234" rx="170" ry="13" fill="#e4ddd0"/>
+
+  <!-- pelo largo por detrás -->
+  <path d="M282 170 Q272 112 330 106 Q388 112 378 170 Q392 230 398 300 Q404 400 394 470 Q330 484 266 470 Q256 400 262 300 Q268 230 282 170 Z" fill="#3a2517"/>
+
+  <!-- muletas canadienses (detrás de las manos) -->
+  <g stroke-linecap="round" fill="none">
+    <polyline points="241,546 239,622 196,1222" stroke="#8e98a2" stroke-width="5.5"/>
+    <polyline points="419,546 421,622 464,1222" stroke="#8e98a2" stroke-width="5.5"/>
+    <line x1="196" y1="1212" x2="195" y2="1228" stroke="#222" stroke-width="7"/>
+    <line x1="464" y1="1212" x2="465" y2="1228" stroke="#222" stroke-width="7"/>
+  </g>
+
+  <!-- piernas rectas y separadas por la barra -->
+  <path d="M258 560 Q246 740 252 890 Q250 1040 254 1182 L280 1182 Q284 1040 286 890 Q300 760 328 652 L332 652 Q360 760 374 890 Q376 1040 380 1182 L406 1182 Q410 1040 408 890 Q414 740 402 560 Z" fill="url(#skin)" stroke="#b58c74" stroke-width="1.2"/>
+
+  <!-- torso (piel del pecho, entre el jersey y la cinturilla) -->
+  <path d="M270 330 L390 330 L386 412 L274 412 Z" fill="url(#skin)"/>
+  <!-- senos (copa D) enteros por fuera -->
+  <path d="M276 372 Q282 398 302 398 Q318 396 323 382" fill="none" stroke="#b58c74" stroke-width="1.2"/>
+  <path d="M337 382 Q342 396 358 398 Q378 398 384 372" fill="none" stroke="#b58c74" stroke-width="1.2"/>
+  <!-- pezoneras adhesivas doradas con cadena -->
+  <path d="M302 381 Q330 404 358 381" fill="none" stroke="#c9a23f" stroke-width="1.4" stroke-dasharray="2 1.2"/>
+  <circle cx="302" cy="379" r="6" fill="url(#gold)" stroke="#8a6a1c" stroke-width="0.8"/>
+  <circle cx="358" cy="379" r="6" fill="url(#gold)" stroke="#8a6a1c" stroke-width="0.8"/>
+
+  <!-- capucha de testículos y férula de frente (pletina a 90°) -->
+  <ellipse cx="330" cy="640" rx="11" ry="8.5" fill="#1a1a1c" stroke="#000" stroke-width="1"/>
+  <path d="M317 612 Q318 628 330 630 Q342 628 343 612" fill="none" stroke="url(#metal)" stroke-width="4" stroke-linecap="round"/>
+  <rect x="314" y="606" width="5" height="15" rx="1" fill="#3a3a3e"/>
+  <rect x="341" y="606" width="5" height="15" rx="1" fill="#3a3a3e"/>
+  <circle cx="330" cy="615" r="10.5" fill="#1a1a1c" stroke="#000" stroke-width="1.1"/>
+  <circle cx="330" cy="615" r="7" fill="none" stroke="#45454b" stroke-width="1"/>
+  <rect x="322" y="598" width="16" height="6" rx="1.5" fill="url(#metal)" stroke="#6f7780" stroke-width="0.8"/>
+
+  <!-- falda negra de talle alto con abertura en V: cinturilla bajo el pecho, bajo un palmo por debajo de la ingle -->
+  <path d="M284 406 L376 406 Q382 440 370 462 Q392 510 404 565 Q416 660 420 772 L364 772 L334 598 L326 598 L296 772 L240 772 Q244 660 256 565 Q268 510 290 462 Q278 440 284 406 Z" fill="url(#skirt)" stroke="#000" stroke-width="1.3" stroke-linejoin="round"/>
+  <path d="M286 420 L374 420" stroke="#4d4d54" stroke-width="1"/>
+  <path d="M300 766 L330 606 L360 766" fill="none" stroke="#55555c" stroke-width="0.9" stroke-dasharray="3 2.5"/>
+  <path d="M304 480 Q300 560 290 700 M356 480 Q360 560 370 700" fill="none" stroke="#3e3e45" stroke-width="1.4" opacity="0.8"/>
+
+  <!-- ORTESIS: montantes laterales de acero, de la cadera al estribo -->
+  <g>
+    <!-- montante izquierdo del dibujo -->
+    <path d="M254 560 Q246 740 250 890 Q248 1040 250 1200" fill="none" stroke="#5e6770" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M254 560 Q246 740 250 890 Q248 1040 250 1200" fill="none" stroke="url(#steel)" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- montante derecho del dibujo -->
+    <path d="M406 560 Q414 740 410 890 Q412 1040 410 1200" fill="none" stroke="#5e6770" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M406 560 Q414 740 410 890 Q412 1040 410 1200" fill="none" stroke="url(#steel)" stroke-width="5.5" stroke-linecap="round"/>
+    <!-- articulación de cadera con topes a 15° -->
+    <circle cx="251" cy="604" r="8" fill="url(#metal)" stroke="#5e6770" stroke-width="1"/>
+    <circle cx="409" cy="604" r="8" fill="url(#metal)" stroke="#5e6770" stroke-width="1"/>
+    <circle cx="251" cy="604" r="2.2" fill="#5e6770"/><circle cx="409" cy="604" r="2.2" fill="#5e6770"/>
+    <!-- rodilla bloqueada -->
+    <rect x="241" y="880" width="18" height="22" rx="4" fill="url(#metal)" stroke="#5e6770" stroke-width="1"/>
+    <rect x="401" y="880" width="18" height="22" rx="4" fill="url(#metal)" stroke="#5e6770" stroke-width="1"/>
+    <path d="M244 891 L256 891 M404 891 L416 891" stroke="#5e6770" stroke-width="1.6"/>
+  </g>
+  <!-- abrazaderas: muslo, sobre rodilla, bajo rodilla y pantorrilla -->
+  <g>
+    <path d="M250 800 Q268 808 290 800 L290 816 Q268 824 250 816 Z M410 800 Q392 808 370 800 L370 816 Q392 824 410 816 Z" fill="#26262a" stroke="#000" stroke-width="0.9"/>
+    <path d="M250 852 Q268 860 286 852 L286 866 Q268 874 250 866 Z M410 852 Q392 860 374 852 L374 866 Q392 874 410 866 Z" fill="#26262a" stroke="#000" stroke-width="0.9"/>
+    <path d="M250 928 Q268 936 286 928 L286 942 Q268 950 250 942 Z M410 928 Q392 936 374 928 L374 942 Q392 950 410 942 Z" fill="#26262a" stroke="#000" stroke-width="0.9"/>
+    <path d="M250 1040 Q267 1048 283 1040 L283 1056 Q267 1064 250 1056 Z M410 1040 Q393 1048 377 1040 L377 1056 Q393 1064 410 1056 Z" fill="#26262a" stroke="#000" stroke-width="0.9"/>
+    <g fill="#8e98a2">
+      <rect x="248" y="803" width="7" height="10" rx="1"/><rect x="405" y="803" width="7" height="10" rx="1"/>
+      <rect x="248" y="854" width="7" height="10" rx="1"/><rect x="405" y="854" width="7" height="10" rx="1"/>
+      <rect x="248" y="930" width="7" height="10" rx="1"/><rect x="405" y="930" width="7" height="10" rx="1"/>
+      <rect x="248" y="1043" width="7" height="10" rx="1"/><rect x="405" y="1043" width="7" height="10" rx="1"/>
+    </g>
+  </g>
+  <!-- barra de abducción con dos tornillos de mariposa -->
+  <rect x="283" y="1112" width="94" height="8" rx="3" fill="url(#steel)" stroke="#5e6770" stroke-width="1"/>
+  <path d="M283 1102 L283 1130 M377 1102 L377 1130" stroke="#5e6770" stroke-width="4" stroke-linecap="round"/>
+  <path d="M288 1108 Q293 1116 288 1124 Q298 1116 288 1108 Z M372 1108 Q367 1116 372 1124 Q362 1116 372 1108 Z" fill="#aab2ba" stroke="#5e6770" stroke-width="0.8"/>
+
+  <!-- zapatos ortopédicos con velcro, dos números más, sobre los estribos -->
+  <path d="M238 1180 Q224 1214 232 1232 L298 1232 Q306 1214 294 1180 Z" fill="#2a2a2d" stroke="#000" stroke-width="1.2"/>
+  <path d="M366 1180 Q354 1214 362 1232 L428 1232 Q436 1214 422 1180 Z" fill="#2a2a2d" stroke="#000" stroke-width="1.2"/>
+  <g fill="#3d3d42" stroke="#111" stroke-width="0.8">
+    <rect x="240" y="1188" width="52" height="8" rx="2"/><rect x="238" y="1201" width="56" height="8" rx="2"/>
+    <rect x="368" y="1188" width="52" height="8" rx="2"/><rect x="366" y="1201" width="56" height="8" rx="2"/>
+  </g>
+  <path d="M234 1224 L296 1224 M364 1224 L426 1224" stroke="#55555b" stroke-width="1.5"/>
+  <!-- estribos: de los montantes bajo la suela -->
+  <path d="M250 1196 L246 1232 L300 1232 M410 1196 L414 1232 L360 1232" fill="none" stroke="url(#steel)" stroke-width="4"/>
+
+  <!-- jersey gris con los senos fuera: cubre brazos, hombros y clavículas -->
+  <path d="M234 346 Q224 410 226 470 Q227 540 232 606 L254 608 Q254 540 256 480 Q260 420 264 354 Z" fill="url(#skin)"/>
+  <path d="M426 346 Q436 410 434 470 Q433 540 428 606 L406 608 Q406 540 404 480 Q400 420 396 354 Z" fill="url(#skin)"/>
+  <path d="M305 288 Q270 292 246 306 Q230 330 228 400 Q225 490 231 603 L257 605 Q259 520 262 470 Q266 420 268 364 Q296 342 330 336 Q364 342 392 364 Q394 420 398 470 Q401 520 403 605 L429 603 Q435 490 432 400 Q430 330 414 306 Q390 292 355 288 Q330 302 305 288 Z" fill="url(#jaspe)" stroke="#5e636a" stroke-width="1.2" stroke-linejoin="round"/>
+  <path d="M270 360 Q298 340 330 334 Q362 340 390 360" fill="none" stroke="#6f747b" stroke-width="2.4"/>
+  <path d="M232 590 L257 592 M403 592 L428 590" stroke="#6f747b" stroke-width="2.4"/>
+  <path d="M244 420 Q246 470 244 540 M416 420 Q414 470 416 540" fill="none" stroke="#7f858c" stroke-width="1.2"/>
+  <!-- abrazaderas de muleta y manos -->
+  <path d="M226 548 Q240 540 256 548 L256 540 Q240 532 226 540 Z" fill="#8e98a2" stroke="#5e6770" stroke-width="0.8"/>
+  <path d="M404 548 Q420 540 434 548 L434 540 Q420 532 404 540 Z" fill="#8e98a2" stroke="#5e6770" stroke-width="0.8"/>
+  <rect x="222" y="614" width="36" height="9" rx="4" fill="#2b2b2e"/>
+  <rect x="402" y="614" width="36" height="9" rx="4" fill="#2b2b2e"/>
+  <path d="M228 604 Q222 614 228 628 Q240 636 254 628 Q258 614 254 604 Z" fill="#f2d8c6" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M432 604 Q438 614 432 628 Q420 636 406 628 Q402 614 406 604 Z" fill="#f2d8c6" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M232 618 L250 618 M410 618 L428 618" stroke="#caa28b" stroke-width="0.9"/>
+
+  <!-- cuello y cabeza -->
+  <path d="M310 240 L307 290 L353 290 L350 240 Z" fill="#eed2bf" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M305 288 Q330 302 355 288" fill="none" stroke="#6f747b" stroke-width="2.4"/>
+  <path d="M288 178 Q288 126 330 125 Q372 126 372 178 Q372 218 356 236 Q344 248 330 248 Q316 248 304 236 Q288 218 288 178 Z" fill="#f3dac9" stroke="#b58c74" stroke-width="1.2"/>
+  <path d="M303 168 Q313 162 323 166 M337 166 Q347 162 357 168" fill="none" stroke="#3a2517" stroke-width="2" stroke-linecap="round"/>
+  <path d="M301 181 Q313 172 326 180 Q313 186 301 181 Z" fill="#fff" stroke="#2a1e17" stroke-width="1.2"/>
+  <circle cx="314" cy="180" r="3.8" fill="#3f8a5a"/><circle cx="314" cy="180" r="1.6" fill="#13201a"/>
+  <path d="M334 180 Q347 172 359 181 Q347 186 334 180 Z" fill="#fff" stroke="#2a1e17" stroke-width="1.2"/>
+  <circle cx="346" cy="180" r="3.8" fill="#3f8a5a"/><circle cx="346" cy="180" r="1.6" fill="#13201a"/>
+  <path d="M300 180 L297 177 M360 180 L363 177" stroke="#2a1e17" stroke-width="1.2"/>
+  <path d="M330 188 Q329 200 326 205 Q330 208 334 205" fill="none" stroke="#c49b83" stroke-width="1.1"/>
+  <path d="M315 222 Q322 215 330 218 Q338 215 345 222 Q338 226 330 226 Q322 226 315 222 Z" fill="#b8605d"/>
+  <path d="M315 222 Q322 233 330 233 Q338 233 345 222 Q338 227 330 227 Q322 227 315 222 Z" fill="#c9706b"/>
+  <path d="M288 184 Q280 120 330 114 Q380 120 372 184 Q370 158 352 142 Q340 134 330 134 Q320 134 308 142 Q290 158 288 184 Z" fill="#3a2517" stroke="#24160d" stroke-width="1"/>
+  <path d="M288 184 Q282 220 290 250 Q294 270 300 284 L292 292 Q276 260 278 220 Z" fill="#3a2517"/>
+  <path d="M372 184 Q378 220 370 250 Q366 270 360 284 L368 292 Q384 260 382 220 Z" fill="#3a2517"/>
+  <path d="M330 116 L330 136 M300 128 Q292 150 290 176 M360 128 Q368 150 370 176" fill="none" stroke="#5a3d28" stroke-width="1.1"/>
+
+  <!-- ===================== LLAMADAS ===================== -->
+  <g font-size="12.5" fill="#3d3a36">
+    <g stroke="#9c948a" stroke-width="0.9" fill="none">
+      <polyline points="414,320 470,280 486,280"/>
+      <polyline points="358,379 470,370 486,370"/>
+      <polyline points="376,410 470,450 486,450"/>
+      <polyline points="342,615 470,640 486,640"/>
+      <polyline points="418,760 470,730 486,730"/>
+      <polyline points="410,891 470,850 486,850"/>
+      <polyline points="410,934 470,950 486,950"/>
+      <polyline points="377,1116 470,1070 486,1070"/>
+      <polyline points="426,1200 470,1180 486,1180"/>
+      <polyline points="252,740 214,740 200,740"/>
+      <polyline points="318,641 214,640 200,640"/>
+    </g>
+    <g fill="#9c948a">
+      <circle cx="414" cy="320" r="2.4"/><circle cx="358" cy="379" r="2.4"/><circle cx="376" cy="410" r="2.4"/>
+      <circle cx="342" cy="615" r="2.4"/><circle cx="418" cy="760" r="2.4"/>
+      <circle cx="410" cy="891" r="2.4"/><circle cx="410" cy="934" r="2.4"/><circle cx="377" cy="1116" r="2.4"/>
+      <circle cx="426" cy="1200" r="2.4"/><circle cx="252" cy="740" r="2.4"/><circle cx="318" cy="641" r="2.4"/>
+    </g>
+    <text x="492" y="277" font-weight="bold">Jersey gris</text>
+    <text x="492" y="293">manga larga; cubre brazos,</text>
+    <text x="492" y="307">hombros y clavículas</text>
+
+    <text x="492" y="367" font-weight="bold">Pezoneras adhesivas</text>
+    <text x="492" y="383">doradas, unidas por una</text>
+    <text x="492" y="397">cadena; senos fuera</text>
+
+    <text x="492" y="447" font-weight="bold">Falda negra de talle alto</text>
+    <text x="492" y="463">cinturilla bajo el pecho;</text>
+    <text x="492" y="477">tapa el cinturón pélvico</text>
+
+    <text x="492" y="637" font-weight="bold">Férula peneana a 90°</text>
+    <text x="492" y="653">por la abertura en V, sin</text>
+    <text x="492" y="667">deformar la tela; capucha</text>
+
+    <text x="492" y="727" font-weight="bold">Bajo de la falda</text>
+    <text x="492" y="743">un palmo bajo la ingle;</text>
+    <text x="492" y="757">el metal asoma a los lados</text>
+
+    <text x="492" y="847" font-weight="bold">Rodilla bloqueada</text>
+    <text x="492" y="863">se cierra con chasquido;</text>
+    <text x="492" y="877">la pierna no dobla</text>
+
+    <text x="492" y="947" font-weight="bold">Abrazaderas</text>
+    <text x="492" y="963">muslo, sobre y bajo rodilla,</text>
+    <text x="492" y="977">pantorrilla</text>
+
+    <text x="492" y="1067" font-weight="bold">Barra de abducción</text>
+    <text x="492" y="1083">dos tornillos de mariposa;</text>
+    <text x="492" y="1097">las piernas no se juntan</text>
+
+    <text x="492" y="1177" font-weight="bold">Zapatos ortopédicos</text>
+    <text x="492" y="1193">velcro, dos números más,</text>
+    <text x="492" y="1207">encima de los estribos</text>
+
+    <g text-anchor="end">
+      <text x="194" y="737" font-weight="bold">Montantes laterales</text>
+      <text x="194" y="753">de acero, de la cadera</text>
+      <text x="194" y="767">al estribo</text>
+      <text x="194" y="637" font-weight="bold">Dos capuchas</text>
+      <text x="194" y="653">glande y testículos</text>
+    </g>
+  </g>
+
+  <!-- ===================== COLUMNA DERECHA ===================== -->
+  <g fill="#2e2b28">
+    <text x="690" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="4">MARCIE</text>
+    <text x="690" y="122" font-size="13" letter-spacing="1.2" fill="#6d665d">CON LA ORTESIS · DÍA 30, 11:45 · ALTA DEL CRESTON</text>
+    <text x="690" y="144" font-size="13" fill="#8a8277">Primer atuendo con el cuerpo nuevo · lo trae Dana de las tiendas del Creston</text>
+  </g>
+  <line x1="690" y1="162" x2="1190" y2="162" stroke="#cfc7b9" stroke-width="1"/>
+
+  <text x="690" y="192" font-size="12" letter-spacing="2" fill="#8a8277">LA ORTESIS · PIEZA ÚNICA A MEDIDA</text>
+  <!-- esquema de una pierna, vista lateral -->
+  <g transform="translate(0 0)">
+    <path d="M770 232 L842 232 L842 252 L770 252 Z" fill="#26262a" stroke="#000"/>
+    <text x="806" y="246" font-size="9.5" text-anchor="middle" fill="#e8e8e8">cinturón pélvico</text>
+    <path d="M806 252 L806 560" stroke="#5e6770" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M806 252 L806 560" stroke="url(#steel)" stroke-width="5.5" stroke-linecap="round"/>
+    <circle cx="806" cy="282" r="9" fill="url(#metal)" stroke="#5e6770"/><circle cx="806" cy="282" r="2.4" fill="#5e6770"/>
+    <rect x="796" y="408" width="20" height="24" rx="4" fill="url(#metal)" stroke="#5e6770"/>
+    <path d="M799 420 L813 420" stroke="#5e6770" stroke-width="1.6"/>
+    <g fill="#26262a" stroke="#000" stroke-width="0.9">
+      <rect x="782" y="330" width="48" height="14" rx="3"/><rect x="782" y="378" width="48" height="12" rx="3"/>
+      <rect x="782" y="450" width="48" height="12" rx="3"/><rect x="782" y="510" width="48" height="14" rx="3"/>
+    </g>
+    <path d="M778 572 L840 572 L846 582 L772 582 Z" fill="#2a2a2d" stroke="#000"/>
+    <path d="M806 556 L806 586 M776 586 L840 586" stroke="url(#steel)" stroke-width="4"/>
+  </g>
+  <g font-size="11.5" fill="#4d4841">
+    <g stroke="#9c948a" stroke-width="0.8" fill="none">
+      <line x1="815" y1="282" x2="880" y2="282"/><line x1="830" y1="337" x2="880" y2="337"/>
+      <line x1="816" y1="420" x2="880" y2="420"/><line x1="830" y1="517" x2="880" y2="517"/>
+      <line x1="840" y1="586" x2="880" y2="586"/><line x1="842" y1="242" x2="880" y2="242"/>
+    </g>
+    <text x="886" y="246">cinturón pélvico (bajo la cinturilla)</text>
+    <text x="886" y="286">cadera articulada, topes a 15°</text>
+    <text x="886" y="341">abrazadera de muslo</text>
+    <text x="886" y="424">rodilla con bloqueo</text>
+    <text x="886" y="521">abrazaderas bajo rodilla y pantorrilla</text>
+    <text x="886" y="590">estribo bajo la suela del zapato</text>
+  </g>
+  <g font-size="11.5" fill="#4d4841">
+    <text x="690" y="632">Montada por Mills en el Creston: montantes de abajo arriba, rodillas</text>
+    <text x="690" y="650">bloqueadas, cinturón pélvico y, por último, la barra de abducción, que</text>
+    <text x="690" y="668">se retira al día siguiente. La férula va aparte y se cierra con dos correas.</text>
+    <text x="690" y="686">Marcha de balanceo con las muletas: las dos delante y dejarse caer.</text>
+  </g>
+
+  <line x1="690" y1="720" x2="1190" y2="720" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="748" font-size="12" letter-spacing="2" fill="#8a8277">EL VESTUARIO DEL ALTA</text>
+  <g font-size="11.5" fill="#4d4841">
+    <text x="690" y="774">Los tres atuendos comprados antes no sirven: estaban pensados para que</text>
+    <text x="690" y="792">el pene colgara, y con la férula horizontal nada cae ni se sube.</text>
+    <text x="690" y="810">Dana vuelve con la <tspan font-weight="bold">falda de talle alto con abertura en V</tspan>, que deja toda la</text>
+    <text x="690" y="828">estructura por fuera de la tela, las <tspan font-weight="bold">dos capuchas</tspan>, las <tspan font-weight="bold">pezoneras con cadena</tspan></text>
+    <text x="690" y="846">y los <tspan font-weight="bold">zapatos de ortopedia</tspan>. El jersey entra manga a manga: Marcie</text>
+    <text x="690" y="864">no tiene rango para levantar los brazos.</text>
+  </g>
+
+  <!-- paleta -->
+  <line x1="690" y1="900" x2="1190" y2="900" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="928" font-size="12" letter-spacing="2" fill="#8a8277">PALETA</text>
+  <g font-size="11" fill="#4d4841">
+    <rect x="690" y="942" width="110" height="52" fill="url(#jaspe)"/>
+    <text x="690" y="1012" font-weight="bold">Gris jaspeado</text><text x="690" y="1026">jersey</text>
+    <rect x="818" y="942" width="110" height="52" fill="url(#skirt)"/>
+    <text x="818" y="1012" font-weight="bold">Negro</text><text x="818" y="1026">falda, capuchas, zapatos</text>
+    <rect x="946" y="942" width="110" height="52" fill="url(#gold)"/>
+    <text x="946" y="1012" font-weight="bold">Dorado</text><text x="946" y="1026">pezoneras y cadena</text>
+    <rect x="1074" y="942" width="110" height="52" fill="url(#steel)"/>
+    <text x="1074" y="1012" font-weight="bold">Acero</text><text x="1074" y="1026">ortesis, férula, muletas</text>
+  </g>
+  <text x="690" y="1070" font-size="11.5" fill="#8a8277" font-style="italic">Se la retira Mills el Día 32 y Marcie se la queda como objeto personal.</text>
+</svg>

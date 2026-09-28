@@ -13,7 +13,7 @@
 
 **Cuerpo:** **168 cm.** Complexión compacta y fuerte, con hombros y antebrazos claramente trabajados —es lo que hace ocho horas al día— y espalda ancha para su altura. Senos pequeños y separados, pezones grandes y oscuros. Cintura corta, caderas estrechas, muslos densos. **Vello púbico rasurado por completo.**
 
-**Genitales:** **Pene funcional. Sin vagina.** Circuncidado. **16 × 12,5 cm en erección; 12 × 11 en reposo.** Testículos medianos y altos, recogidos. **En la ropa lo lleva marcado, no colgando:** el pantalón del uniforme tiene una pieza delantera moldeada que le sujeta y le dibuja la forma entera hacia la cadera derecha, a la vista y sin disimulo, como es norma. Fuera del trabajo alterna esa misma opción con la prenda de capucha, en verde oliva.
+**Genitales:** **Pene funcional. Sin vagina.** Circuncidado. **16 × 12,5 cm en erección; 12 × 11 en reposo.** Testículos medianos y altos, recogidos. **En la ropa lo lleva marcado, no colgando:** el pantalón del uniforme tiene una pieza delantera moldeada que le sujeta el pene centrado y hacia arriba y le dibuja la forma entera, a la vista y sin disimulo, como es norma. Fuera del trabajo alterna esa misma opción con la prenda de capucha, en verde oliva.
 
 **Condición física:** **Ninguna.** Sin amputaciones, sin yesos, sin prótesis ni aparatos.
 

@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" width="900" height="1400">
+  <defs>
+    <!-- cielo y luz de media tarde -->
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#5f9fe0"/>
+      <stop offset="0.45" stop-color="#9cc8f0"/>
+      <stop offset="0.75" stop-color="#dcebf7"/>
+      <stop offset="1" stop-color="#f3efe6"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.92" cy="0.12" r="0.9">
+      <stop offset="0" stop-color="#fff3d2" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="#ffe7b8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffe7b8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="facade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#cfd5dc"/>
+      <stop offset="1" stop-color="#eef0f2"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#6d8aa6"/>
+      <stop offset="0.5" stop-color="#a9c2d8"/>
+      <stop offset="1" stop-color="#58728d"/>
+    </linearGradient>
+    <linearGradient id="pave" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#d9d6cf"/>
+      <stop offset="1" stop-color="#b9b4aa"/>
+    </linearGradient>
+    <filter id="dof" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="2.4"/></filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="soft2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.5"/></filter>
+
+    <!-- materiales del personaje -->
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f0cbbb"/>
+      <stop offset="0.55" stop-color="#fce6da"/>
+      <stop offset="1" stop-color="#fff1e8"/>
+    </linearGradient>
+    <linearGradient id="skinV" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fce6da"/>
+      <stop offset="1" stop-color="#f3d0c1"/>
+    </linearGradient>
+    <radialGradient id="blush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff8f93" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff8f93" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#b98f58"/>
+      <stop offset="0.6" stop-color="#9c7543"/>
+      <stop offset="1" stop-color="#7e5b31"/>
+    </linearGradient>
+    <linearGradient id="hairLight" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f6ddaa" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f9e6bd" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#f6ddaa" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="iris" cx="0.5" cy="0.62" r="0.6">
+      <stop offset="0" stop-color="#b8e0ff"/>
+      <stop offset="0.45" stop-color="#5a98d8"/>
+      <stop offset="0.85" stop-color="#2a5a9a"/>
+      <stop offset="1" stop-color="#1a3560"/>
+    </radialGradient>
+    <linearGradient id="knit" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#17171d"/>
+      <stop offset="0.6" stop-color="#26262f"/>
+      <stop offset="1" stop-color="#3a3b4a"/>
+    </linearGradient>
+    <linearGradient id="leather" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#101014"/>
+      <stop offset="0.5" stop-color="#23232b"/>
+      <stop offset="0.85" stop-color="#34343f"/>
+      <stop offset="1" stop-color="#4a4a58"/>
+    </linearGradient>
+    <pattern id="lace" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#18181d"/>
+      <circle cx="3" cy="3" r="1.5" fill="none" stroke="#55555f" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <!-- ===================== FONDO: entrada del Creston, 15:10 ===================== -->
+  <g filter="url(#dof)">
+    <rect width="900" height="1400" fill="url(#sky)"/>
+    <!-- nubes -->
+    <g fill="#ffffff">
+      <path d="M-40 300 Q20 220 110 250 Q150 180 240 210 Q300 160 360 220 Q420 230 410 290 L-40 300 Z" opacity="0.95"/>
+      <path d="M520 150 Q560 90 640 110 Q690 60 770 100 Q850 90 880 150 Q940 170 920 220 L520 220 Z" opacity="0.9"/>
+    </g>
+    <g fill="#c9dcef" opacity="0.8">
+      <path d="M-40 300 Q40 270 120 285 Q220 270 300 282 Q380 278 410 290 Z"/>
+      <path d="M520 220 Q620 196 720 206 Q820 200 920 220 Z"/>
+    </g>
+    <!-- edificio del hospital -->
+    <rect x="0" y="330" width="900" height="760" fill="url(#facade)"/>
+    <g stroke="#b8c0c9" stroke-width="2">
+      <line x1="0" y1="420" x2="900" y2="420"/><line x1="0" y1="520" x2="900" y2="520"/>
+      <line x1="120" y1="330" x2="120" y2="1090"/><line x1="780" y1="330" x2="780" y2="1090"/>
+    </g>
+    <!-- ventanas de la planta de arriba -->
+    <g fill="#8fb0cf" opacity="0.85">
+      <rect x="20" y="350" width="80" height="54"/><rect x="140" y="350" width="140" height="54"/><rect x="300" y="350" width="140" height="54"/>
+      <rect x="460" y="350" width="140" height="54"/><rect x="620" y="350" width="140" height="54"/><rect x="800" y="350" width="80" height="54"/>
+    </g>
+    <!-- rótulo -->
+    <rect x="230" y="440" width="440" height="52" rx="4" fill="#f7f8f9" stroke="#aab4be" stroke-width="2"/>
+    <text x="450" y="476" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="5" fill="#2f5c86" text-anchor="middle">CRESTON MEDICAL CENTER</text>
+    <!-- marquesina y puertas de cristal -->
+    <path d="M140 540 L760 540 L740 572 L160 572 Z" fill="#dde2e7" stroke="#aab4be" stroke-width="2"/>
+    <rect x="190" y="572" width="520" height="518" fill="url(#glass)"/>
+    <g stroke="#e8edf2" stroke-width="6">
+      <line x1="320" y1="572" x2="320" y2="1090"/><line x1="450" y1="572" x2="450" y2="1090"/><line x1="580" y1="572" x2="580" y2="1090"/>
+      <line x1="190" y1="572" x2="190" y2="1090"/><line x1="710" y1="572" x2="710" y2="1090"/>
+    </g>
+    <!-- reflejos en el cristal -->
+    <g fill="#ffffff" opacity="0.28">
+      <path d="M200 590 L260 590 L200 760 Z"/><path d="M470 600 L560 600 L480 860 L450 860 Z"/><path d="M600 620 L650 620 L600 760 Z"/>
+    </g>
+    <!-- vestíbulo al fondo, luces -->
+    <g fill="#fff6dc" opacity="0.6">
+      <ellipse cx="260" cy="640" rx="30" ry="8"/><ellipse cx="390" cy="640" rx="30" ry="8"/><ellipse cx="520" cy="640" rx="30" ry="8"/><ellipse cx="650" cy="640" rx="30" ry="8"/>
+    </g>
+    <!-- setos a los lados -->
+    <path d="M0 960 Q40 900 100 930 Q140 890 180 940 L190 1090 L0 1090 Z" fill="#6f9a6a"/>
+    <path d="M900 960 Q860 900 800 930 Q760 890 720 940 L710 1090 L900 1090 Z" fill="#6f9a6a"/>
+    <path d="M0 990 Q50 950 110 975 Q150 950 186 990 L190 1090 L0 1090 Z M900 990 Q850 950 790 975 Q750 950 714 990 L710 1090 L900 1090 Z" fill="#557d52"/>
+    <!-- acera -->
+    <path d="M0 1090 L900 1090 L900 1400 L0 1400 Z" fill="url(#pave)"/>
+    <g stroke="#a9a397" stroke-width="2" opacity="0.7">
+      <line x1="450" y1="1090" x2="450" y2="1400"/><line x1="330" y1="1090" x2="150" y2="1400"/><line x1="570" y1="1090" x2="750" y2="1400"/>
+      <line x1="210" y1="1090" x2="-150" y2="1400"/><line x1="690" y1="1090" x2="1050" y2="1400"/>
+      <line x1="0" y1="1170" x2="900" y2="1170"/><line x1="0" y1="1280" x2="900" y2="1280"/>
+    </g>
+  </g>
+  <!-- luz cálida desde arriba a la derecha -->
+  <rect width="900" height="1400" fill="url(#sun)"/>
+  <!-- rayos -->
+  <g fill="#fff7e0" opacity="0.18">
+    <path d="M900 60 L380 1400 L520 1400 Z"/><path d="M900 120 L620 1400 L700 1400 Z"/>
+  </g>
+
+  <!-- sombra proyectada en el suelo (sol arriba a la derecha) -->
+  <path d="M420 1356 Q300 1360 170 1386 Q120 1396 140 1400 L380 1400 Q450 1380 500 1360 Z" fill="#5e5a63" opacity="0.28" filter="url(#soft)"/>
+  <ellipse cx="455" cy="1358" rx="84" ry="10" fill="#3e3a42" opacity="0.35" filter="url(#soft2)"/>
+
+  <!-- ===================== PERSONAJE ===================== -->
+  <!-- pelo, capa de atrás -->
+  <path d="M370 252 C364 170 408 148 452 148 C500 148 538 174 532 252 L536 352 C522 362 506 356 500 346 L402 346 C396 356 380 362 366 352 Z" fill="#7a5830"/>
+
+  <!-- piernas desnudas -->
+  <path d="M344 858 C342 930 360 985 372 1012 C362 1070 360 1130 372 1200 C380 1260 392 1300 398 1326 L424 1328 C424 1270 424 1200 424 1130 C422 1080 424 1040 428 1012 C432 960 444 900 450 858 C458 900 472 950 486 1010 C480 1040 478 1080 478 1130 C478 1200 482 1280 484 1326 L512 1326 C516 1300 528 1250 536 1180 C544 1110 540 1060 532 1010 C540 980 556 930 556 858 Z" fill="url(#skin)" stroke="#a8705f" stroke-width="1.6" stroke-linejoin="round"/>
+  <!-- sombras planas de las piernas -->
+  <path d="M344 858 C342 930 360 985 372 1012 C366 1040 362 1070 362 1100 C372 1060 380 1030 386 1012 C376 980 366 930 368 858 Z" fill="#eab8a6" opacity="0.8"/>
+  <path d="M428 1012 C424 1040 422 1080 424 1130 C424 1200 424 1270 424 1326 L414 1326 C410 1260 404 1200 404 1130 C404 1080 408 1040 414 1012 Z" fill="#eab8a6" opacity="0.45" filter="url(#soft2)"/>
+  <path d="M450 862 C446 900 440 950 436 990 C452 950 462 910 466 872 Z" fill="#e3ac99" opacity="0.5" filter="url(#soft2)"/>
+  <path d="M486 1010 C480 1040 478 1080 478 1130 C478 1180 480 1240 484 1320 L494 1320 C492 1250 492 1180 494 1120 C496 1080 498 1040 500 1016 Z" fill="#eab8a6" opacity="0.4" filter="url(#soft2)"/>
+  <!-- luz de contra en el lado derecho -->
+  <path d="M556 862 C556 930 540 980 532 1010 C540 1060 544 1110 536 1180 C528 1250 516 1300 512 1324" fill="none" stroke="#fff5e2" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M372 1012 Q386 1024 402 1016 M486 1010 Q502 1022 520 1012" fill="none" stroke="#c98c7b" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M390 1300 Q404 1310 420 1306 M488 1306 Q500 1312 512 1304" fill="none" stroke="#c98c7b" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- zapatillas blancas con velcro -->
+  <g stroke="#6d6a70" stroke-width="1.6" stroke-linejoin="round">
+    <path d="M392 1318 Q378 1340 384 1362 L440 1364 Q448 1344 432 1318 Z" fill="#fbfbfc"/>
+    <path d="M478 1318 Q468 1342 478 1362 L532 1360 Q538 1340 520 1318 Z" fill="#fbfbfc"/>
+  </g>
+  <path d="M384 1354 L440 1356 M478 1354 L532 1352" stroke="#c9ccd3" stroke-width="3"/>
+  <g fill="#eef0f4" stroke="#8d8a92" stroke-width="1.1">
+    <rect x="390" y="1326" width="44" height="8" rx="3"/><rect x="388" y="1338" width="47" height="8" rx="3"/>
+    <rect x="480" y="1326" width="44" height="8" rx="3"/><rect x="479" y="1338" width="47" height="8" rx="3"/>
+  </g>
+  <path d="M520 1320 Q534 1336 532 1356" fill="none" stroke="#ffffff" stroke-width="2.4" opacity="0.9"/>
+
+  <!-- C-string de encaje dentro de la V -->
+  <path d="M438 758 Q450 750 462 758 Q466 780 456 800 Q450 806 444 800 Q434 780 438 758 Z" fill="url(#lace)" stroke="#0b0b0e" stroke-width="1.2"/>
+  <path d="M445 760 L445 798 M450 756 L450 802 M455 760 L455 798" stroke="#7a7a86" stroke-width="0.8" opacity="0.8"/>
+
+  <!-- torso descubierto -->
+  <path d="M372 450 C366 500 372 542 390 594 L510 594 C528 542 534 500 528 450 C500 438 400 438 372 450 Z" fill="url(#skin)" stroke="#a8705f" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- sombra lateral y bajo los senos -->
+  <path d="M372 450 C366 500 372 542 390 594 L404 594 C392 548 386 500 390 452 Z" fill="#eab8a6" opacity="0.8"/>
+  <ellipse cx="419" cy="522" rx="22" ry="7" fill="#e6b09d" opacity="0.6" filter="url(#soft2)"/><ellipse cx="481" cy="522" rx="22" ry="7" fill="#e6b09d" opacity="0.6" filter="url(#soft2)"/>
+  <path d="M396 494 Q400 518 420 520 Q434 518 440 506 M504 494 Q500 518 480 520 Q466 518 460 506" fill="none" stroke="#b67e6c" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M450 548 L450 578" fill="none" stroke="#e8b6a4" stroke-width="1.2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M528 452 C534 500 528 542 510 594" fill="none" stroke="#fff5e2" stroke-width="2.6" opacity="0.9"/>
+  <!-- pezoneras negras con colgantes azules -->
+  <circle cx="419" cy="500" r="6.2" fill="#141418"/>
+  <circle cx="481" cy="500" r="6.2" fill="#141418"/>
+  <circle cx="417" cy="498" r="1.8" fill="#5a5a6a"/><circle cx="479" cy="498" r="1.8" fill="#5a5a6a"/>
+  <path d="M419 506 L419 515 M481 506 L481 515" stroke="#c9ced6" stroke-width="1.1"/>
+  <path d="M419 514 Q413 522 419 531 Q425 522 419 514 Z M481 514 Q475 522 481 531 Q487 522 481 514 Z" fill="#2f74e0" stroke="#173f86" stroke-width="0.9"/>
+  <path d="M417 518 L417 525 M479 518 L479 525" stroke="#dcecff" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- falda de cuerina de talle alto, abertura en V -->
+  <path d="M392 590 L508 590 C540 630 556 680 560 740 C562 790 562 830 562 862 L480 862 L450 752 L420 862 L338 862 C338 830 338 790 340 740 C344 680 360 630 392 590 Z" fill="url(#leather)" stroke="#07070a" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M394 606 L506 606" stroke="#3d3d48" stroke-width="1.4"/>
+  <!-- brillos especulares -->
+  <path d="M500 604 C528 650 540 720 546 850 L538 850 C532 730 520 660 494 610 Z" fill="#8b8ca3" opacity="0.55"/>
+  <path d="M514 640 C528 690 534 760 536 846 L532 846 C530 770 522 700 510 646 Z" fill="#e8e9f5" opacity="0.7"/>
+  <path d="M378 640 C366 690 360 760 358 846 L364 846 C368 770 374 700 384 646 Z" fill="#5a5a6c" opacity="0.5"/>
+  <path d="M430 612 C440 660 446 700 448 740" fill="none" stroke="#3a3a46" stroke-width="2" opacity="0.8"/>
+  <path d="M560 740 C562 790 562 830 562 862" fill="none" stroke="#ffe9c7" stroke-width="2.4" opacity="0.8"/>
+
+  <!-- brazo derecho de ella (izquierda del cuadro): tira del bajo de la falda -->
+  <path d="M340 416 C326 470 320 540 322 600 C324 680 336 740 350 796 L378 792 C366 736 356 676 354 600 C354 540 362 488 376 448 Z" fill="url(#knit)" stroke="#07070a" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M334 470 C328 540 330 620 340 700" fill="none" stroke="#50526a" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <path d="M348 790 L380 786 L381 798 L350 802 Z" fill="#101014" stroke="#07070a" stroke-width="1.2"/>
+  <path d="M348 800 C340 822 346 848 360 862 C372 870 388 866 392 852 C396 832 390 812 380 798 Z" fill="url(#skin)" stroke="#a8705f" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M356 852 L390 846 L392 856 L358 864 Z" fill="#23232b"/>
+  <path d="M362 836 Q372 832 384 836 M360 846 Q372 842 386 846" fill="none" stroke="#c98c7b" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- top negro: hombros y clavículas -->
+  <path d="M424 390 C400 392 370 398 350 408 C336 416 332 432 336 452 L368 462 C392 448 420 442 450 441 C480 442 508 448 532 462 L564 452 C568 432 564 416 550 408 C530 398 500 392 476 390 C466 400 434 400 424 390 Z" fill="url(#knit)" stroke="#07070a" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M370 418 Q410 404 450 404 Q490 404 530 418" fill="none" stroke="#4a4c62" stroke-width="2.4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M370 460 C394 450 420 446 450 446 C480 446 506 450 530 460" fill="none" stroke="#34354a" stroke-width="2"/>
+  <path d="M550 408 C564 416 568 432 564 452" fill="none" stroke="#9aa0bd" stroke-width="2.4" opacity="0.8"/>
+
+  <!-- bolso pequeño colgado del hombro izquierdo de ella -->
+  <path d="M532 400 C544 470 560 560 578 652" fill="none" stroke="#1a1d2a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M560 648 L636 640 Q646 690 640 738 L574 748 Q562 700 560 648 Z" fill="#26304a" stroke="#0e1220" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M560 648 L636 640 Q640 664 634 680 L566 690 Q560 670 560 648 Z" fill="#303b5a" stroke="#0e1220" stroke-width="1.4"/>
+  <circle cx="600" cy="684" r="3.5" fill="#c9ced6"/>
+  <path d="M636 642 Q646 690 640 736" fill="none" stroke="#ffe9c7" stroke-width="2" opacity="0.8"/>
+
+  <!-- brazo izquierdo de ella (derecha del cuadro): doblado, se agarra a la correa -->
+  <path d="M560 414 C580 450 594 510 598 574 C600 596 588 606 574 602 L570 580 C566 530 556 480 536 450 Z" fill="url(#knit)" stroke="#07070a" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M598 574 C596 596 580 606 566 596 L534 528 L556 514 Z" fill="url(#knit)" stroke="#07070a" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M584 470 C590 510 594 540 594 570" fill="none" stroke="#9aa0bd" stroke-width="2.4" opacity="0.8"/>
+  <path d="M538 522 L558 510 L562 520 L542 532 Z" fill="#101014"/>
+  <path d="M536 520 C526 506 528 488 540 480 C552 474 562 482 562 496 C564 508 556 520 546 526 Z" fill="url(#skin)" stroke="#a8705f" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M538 492 Q548 488 556 494 M538 502 Q548 498 558 504" fill="none" stroke="#c98c7b" stroke-width="1.1"/>
+
+  <!-- cuello -->
+  <path d="M424 334 L419 398 L481 398 L476 334 Z" fill="url(#skinV)" stroke="#a8705f" stroke-width="1.4"/>
+  <path d="M428 334 Q450 358 472 334 L474 364 Q450 378 426 364 Z" fill="#e7b3a0"/>
+  <path d="M430 404 Q442 410 450 408 Q458 410 470 404" fill="none" stroke="#c98c7b" stroke-width="1.2" opacity="0.8"/>
+
+  <!-- ===================== CABEZA (ligeramente ladeada) ===================== -->
+  <g transform="rotate(4 450 260)">
+    <path d="M384 262 C380 190 410 168 450 168 C492 168 520 192 516 262 C514 300 500 324 482 338 C470 347 460 350 450 350 C440 350 430 347 418 338 C400 324 386 300 384 262 Z" fill="url(#skin)" stroke="#a8705f" stroke-width="1.6"/>
+    <!-- sombra plana del flequillo y del lado en sombra -->
+    <path d="M388 232 Q420 256 450 250 Q486 256 514 232 L514 256 Q484 272 450 266 Q418 272 388 256 Z" fill="#efbfae" opacity="0.8"/>
+    <path d="M384 262 C386 300 400 324 418 338 C408 318 400 294 398 262 Z" fill="#efbfae" opacity="0.7"/>
+    <!-- rubor -->
+    <ellipse cx="408" cy="306" rx="26" ry="14" fill="url(#blush)"/>
+    <ellipse cx="494" cy="306" rx="26" ry="14" fill="url(#blush)"/>
+    <path d="M398 302 L394 310 M406 302 L402 310 M490 302 L486 310 M498 302 L494 310" stroke="#e7727d" stroke-width="1.2" stroke-linecap="round" opacity="0.7"/>
+    <!-- pecas -->
+    <g fill="#c78b6c" opacity="0.85">
+      <circle cx="440" cy="296" r="1.1"/><circle cx="446" cy="290" r="1"/><circle cx="456" cy="290" r="1"/><circle cx="462" cy="296" r="1.1"/>
+      <circle cx="418" cy="292" r="1"/><circle cx="426" cy="298" r="0.9"/><circle cx="484" cy="292" r="1"/><circle cx="476" cy="298" r="0.9"/>
+      <circle cx="432" cy="302" r="0.9"/><circle cx="470" cy="302" r="0.9"/>
+    </g>
+    <!-- ojos azules grandes, mirada de lado -->
+    <g>
+      <path d="M400 276 Q404 258 422 256 Q438 256 444 272 Q440 290 422 292 Q404 292 400 276 Z" fill="#ffffff"/>
+      <path d="M402 268 Q420 262 442 270 L442 276 Q420 270 402 276 Z" fill="#d9dde8" opacity="0.8"/>
+      <ellipse cx="416" cy="275" rx="11.5" ry="15" fill="url(#iris)" stroke="#16305c" stroke-width="1.2"/>
+      <ellipse cx="416" cy="276" rx="5" ry="7" fill="#0c1a33"/>
+      <path d="M408 284 Q416 290 424 284" fill="none" stroke="#9fd2ff" stroke-width="1.6" opacity="0.9"/>
+      <ellipse cx="411" cy="268" rx="3.6" ry="4.6" fill="#ffffff"/>
+      <circle cx="421" cy="282" r="1.8" fill="#ffffff"/>
+      <path d="M399 273 Q406 257 423 255 Q435 255 441 265" fill="none" stroke="#2a1d18" stroke-width="3.4" stroke-linecap="round"/>
+      <path d="M399 273 L393 270 M401 266 L395 262" stroke="#2a1d18" stroke-width="1.8" stroke-linecap="round"/>
+      <path d="M402 250 Q420 244 440 250" fill="none" stroke="#b67e6c" stroke-width="1.1"/>
+      <path d="M408 291 Q422 295 436 289" fill="none" stroke="#6a4a3e" stroke-width="1.1" stroke-linecap="round"/>
+
+      <path d="M456 272 Q462 256 478 256 Q496 258 500 276 Q496 292 478 292 Q460 290 456 272 Z" fill="#ffffff"/>
+      <path d="M458 270 Q480 262 498 268 L498 276 Q480 270 458 276 Z" fill="#d9dde8" opacity="0.8"/>
+      <ellipse cx="474" cy="275" rx="11.5" ry="15" fill="url(#iris)" stroke="#16305c" stroke-width="1.2"/>
+      <ellipse cx="474" cy="276" rx="5" ry="7" fill="#0c1a33"/>
+      <path d="M466 284 Q474 290 482 284" fill="none" stroke="#9fd2ff" stroke-width="1.6" opacity="0.9"/>
+      <ellipse cx="469" cy="268" rx="3.6" ry="4.6" fill="#ffffff"/>
+      <circle cx="479" cy="282" r="1.8" fill="#ffffff"/>
+      <path d="M459 265 Q465 255 477 255 Q494 257 501 273" fill="none" stroke="#2a1d18" stroke-width="3.4" stroke-linecap="round"/>
+      <path d="M501 273 L507 270 M499 266 L505 262" stroke="#2a1d18" stroke-width="1.8" stroke-linecap="round"/>
+      <path d="M460 250 Q480 244 498 250" fill="none" stroke="#b67e6c" stroke-width="1.1"/>
+      <path d="M464 289 Q478 295 492 291" fill="none" stroke="#6a4a3e" stroke-width="1.1" stroke-linecap="round"/>
+    </g>
+    <!-- cejas finas, algo levantadas por dentro -->
+    <path d="M404 238 Q420 230 438 236 M462 236 Q480 230 496 238" fill="none" stroke="#8a6640" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- nariz y boca pequeña, entreabierta -->
+    <path d="M452 294 Q455 304 452 310" fill="none" stroke="#d79a86" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M447 311 Q451 313 455 311" fill="none" stroke="#c07c69" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M440 326 Q450 322 460 326 Q456 332 450 332 Q444 332 440 326 Z" fill="#c7666b"/>
+    <path d="M440 326 Q450 322 460 326" fill="none" stroke="#8e4a4b" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M444 335 Q450 337 456 335" fill="none" stroke="#e4a497" stroke-width="1.2" opacity="0.8"/>
+    <!-- luz de contra en la mejilla -->
+    <path d="M516 262 C514 300 500 324 482 338" fill="none" stroke="#fff5e2" stroke-width="2.6" opacity="0.9"/>
+
+    <!-- pelo rubio oscuro a la mandíbula: flequillo con raya a un lado -->
+    <path d="M378 262 C370 186 404 154 452 152 C504 152 532 184 524 262 L516 244 L508 262 L502 222 L490 254 L480 214 L468 248 L452 204 L440 244 L426 206 L420 248 L410 214 L402 258 L394 226 L386 266 Z" fill="url(#hair)" stroke="#5a3f22" stroke-width="1.6" stroke-linejoin="round"/>
+    <!-- mechones laterales hasta la mandíbula -->
+    <path d="M378 250 C370 290 372 330 382 356 L396 346 C390 318 390 290 394 256 Z" fill="url(#hair)" stroke="#5a3f22" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M522 250 C530 290 528 330 518 356 L504 346 C510 318 510 290 506 256 Z" fill="url(#hair)" stroke="#5a3f22" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- sombras entre mechones -->
+    <g fill="#6c4d27" opacity="0.6">
+      <path d="M420 248 L426 206 L432 232 Z"/><path d="M452 204 L460 232 L468 248 Z"/><path d="M480 214 L486 236 L490 254 Z"/><path d="M402 258 L410 214 L412 244 Z"/>
+    </g>
+    <path d="M384 290 C382 316 384 336 390 350 M516 290 C518 316 516 336 510 350" fill="none" stroke="#6c4d27" stroke-width="2" opacity="0.7"/>
+    <g fill="none" stroke="#6c4d27" stroke-width="1.2" opacity="0.7" stroke-linecap="round">
+      <path d="M420 166 Q404 190 400 226"/><path d="M446 158 Q436 184 434 222"/><path d="M474 160 Q478 186 474 220"/><path d="M500 172 Q510 196 510 232"/>
+    </g>
+    <!-- aro de brillo -->
+    <path d="M394 196 Q450 170 508 196 Q500 208 480 204 L470 214 L462 202 Q430 200 408 212 Z" fill="url(#hairLight)"/>
+    <path d="M520 200 C528 230 528 262 524 262" fill="none" stroke="#fff0cf" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+    <!-- mechón que se escapa de la pinza -->
+    <path d="M394 214 C384 244 388 280 400 308" fill="none" stroke="#9c7543" stroke-width="6" stroke-linecap="round"/>
+    <path d="M394 214 C384 244 388 280 400 308" fill="none" stroke="#5a3f22" stroke-width="1.2" stroke-linecap="round" opacity="0.8"/>
+    <path d="M392 230 C388 250 390 272 396 290" fill="none" stroke="#e9cc98" stroke-width="1.6" stroke-linecap="round" opacity="0.9"/>
+    <!-- pinza azul -->
+    <g transform="rotate(-58 398 212)">
+      <rect x="380" y="206" width="36" height="12" rx="5.5" fill="#2f74e0" stroke="#173f86" stroke-width="1.4"/>
+      <path d="M384 210 L412 210" stroke="#bcd8ff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- polvo en suspensión en el contraluz -->
+  <g fill="#fff6dc" opacity="0.8">
+    <circle cx="640" cy="420" r="2"/><circle cx="700" cy="520" r="1.6"/><circle cx="610" cy="300" r="1.4"/><circle cx="760" cy="380" r="2.2"/>
+    <circle cx="300" cy="460" r="1.4"/><circle cx="660" cy="760" r="1.8"/>
+  </g>
+</svg>

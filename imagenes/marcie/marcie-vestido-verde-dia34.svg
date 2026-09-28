@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1320" width="1240" height="1320" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e2bea6"/>
+      <stop offset="0.5" stop-color="#f2d8c6"/>
+      <stop offset="1" stop-color="#e2bea6"/>
+    </linearGradient>
+    <pattern id="flores" width="34" height="34" patternUnits="userSpaceOnUse">
+      <rect width="34" height="34" fill="#2e7650"/>
+      <g fill="#ffffff">
+        <circle cx="8" cy="5" r="2.2"/><circle cx="12" cy="8" r="2.2"/><circle cx="10.5" cy="12.5" r="2.2"/><circle cx="5.5" cy="12.5" r="2.2"/><circle cx="4" cy="8" r="2.2"/>
+      </g>
+      <circle cx="8" cy="9" r="1.4" fill="#e8d36a"/>
+      <g fill="#ffffff" opacity="0.9">
+        <circle cx="25" cy="22" r="1.6"/><circle cx="28" cy="24.5" r="1.6"/><circle cx="27" cy="28" r="1.6"/><circle cx="23" cy="28" r="1.6"/><circle cx="22" cy="24.5" r="1.6"/>
+      </g>
+      <circle cx="25" cy="25.3" r="1" fill="#e8d36a"/>
+      <circle cx="26" cy="7" r="0.9" fill="#cfe8d8"/><circle cx="9" cy="27" r="0.9" fill="#cfe8d8"/>
+    </pattern>
+    <linearGradient id="dressShade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0.28"/>
+      <stop offset="0.3" stop-color="#000" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.28"/>
+    </linearGradient>
+    <radialGradient id="metal" cx="0.35" cy="0.35" r="0.8">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#c8ced4"/>
+      <stop offset="1" stop-color="#858d96"/>
+    </radialGradient>
+  </defs>
+
+  <!-- papel -->
+  <rect width="1240" height="1320" fill="#f5f2ec"/>
+  <rect x="24" y="24" width="1192" height="1272" fill="none" stroke="#d8d1c4" stroke-width="1"/>
+  <line x1="650" y1="60" x2="650" y2="1260" stroke="#e0d9cc" stroke-width="1"/>
+
+  <!-- ===================== FIGURA ===================== -->
+  <ellipse cx="330" cy="1234" rx="150" ry="13" fill="#e4ddd0"/>
+
+  <!-- pelo largo por detrás (hasta media espalda) -->
+  <path d="M282 170 Q272 112 330 106 Q388 112 378 170 Q392 230 398 300 Q404 400 394 470 Q330 484 266 470 Q256 400 262 300 Q268 230 282 170 Z" fill="#3a2517"/>
+
+  <!-- piernas -->
+  <path d="M258 560 Q254 740 270 890 Q277 1040 290 1182 L316 1182 Q318 1040 320 890 Q324 780 328 652 L332 652 Q336 780 340 890 Q342 1040 344 1182 L370 1182 Q383 1040 390 890 Q406 740 402 560 Z" fill="url(#skin)" stroke="#b58c74" stroke-width="1.2"/>
+  <path d="M282 884 Q294 893 308 886 M352 886 Q366 893 378 884" fill="none" stroke="#caa28b" stroke-width="1.1"/>
+
+  <!-- torso (piel bajo el vestido) -->
+  <path d="M270 338 L390 338 L390 404 L270 404 Z" fill="url(#skin)"/>
+
+  <!-- arnés de la férula: correas a la cintura, visibles en la abertura -->
+  <path d="M312 594 L322 610 M348 594 L338 610" stroke="#1b1b1d" stroke-width="3" stroke-linecap="round"/>
+  <!-- capucha de los testículos -->
+  <ellipse cx="330" cy="640" rx="11" ry="8.5" fill="#1f7a45" stroke="#0f4a28" stroke-width="1"/>
+  <!-- férula de frente: la pletina fija el pene a 90°, hacia delante -->
+  <path d="M317 612 Q318 628 330 630 Q342 628 343 612" fill="none" stroke="url(#metal)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M317 612 Q318 628 330 630 Q342 628 343 612" fill="none" stroke="#6f7780" stroke-width="0.7"/>
+  <rect x="314" y="606" width="5" height="15" rx="1" fill="#1b1b1d"/>
+  <rect x="341" y="606" width="5" height="15" rx="1" fill="#1b1b1d"/>
+  <circle cx="330" cy="615" r="10.5" fill="#1f7a45" stroke="#0f4a28" stroke-width="1.1"/>
+  <circle cx="330" cy="615" r="7" fill="none" stroke="#2f9a5c" stroke-width="1"/>
+  <circle cx="327" cy="612" r="2.2" fill="#5fc58a" opacity="0.8"/>
+  <rect x="322" y="598" width="16" height="6" rx="1.5" fill="url(#metal)" stroke="#6f7780" stroke-width="0.8"/>
+
+  <!-- vestido verde entallado y corto, flores blancas, de botones -->
+  <path d="M306 284 L330 326 L354 284 Q388 290 414 302 Q424 320 428 350 L396 356 Q398 392 390 420 Q380 444 370 462 Q390 510 402 560 Q408 630 410 705 L362 705 L336 590 L324 590 L298 705 L250 705 Q252 630 258 560 Q270 510 290 462 Q280 444 270 420 Q262 392 264 356 L232 350 Q236 320 246 302 Q272 290 306 284 Z M300 351 A24 22 0 1 0 300.1 351 Z M360 351 A24 22 0 1 0 360.1 351 Z" fill="url(#flores)" fill-rule="evenodd" stroke="#1d4f35" stroke-width="1.4" stroke-linejoin="round"/>
+  <path d="M306 284 L330 326 L354 284 Q388 290 414 302 Q424 320 428 350 L396 356 Q398 392 390 420 Q380 444 370 462 Q390 510 402 560 Q408 630 410 705 L362 705 L336 590 L324 590 L298 705 L250 705 Q252 630 258 560 Q270 510 290 462 Q280 444 270 420 Q262 392 264 356 L232 350 Q236 320 246 302 Q272 290 306 284 Z M300 351 A24 22 0 1 0 300.1 351 Z M360 351 A24 22 0 1 0 360.1 351 Z" fill="url(#dressShade)" fill-rule="evenodd"/>
+  <!-- ribetes, tapeta y botones -->
+  <ellipse cx="300" cy="373" rx="24" ry="22" fill="none" stroke="#1d4f35" stroke-width="1.2"/>
+  <ellipse cx="360" cy="373" rx="24" ry="22" fill="none" stroke="#1d4f35" stroke-width="1.2"/>
+  <path d="M234 342 L264 348 M426 342 L396 348" stroke="#1d4f35" stroke-width="1" stroke-dasharray="3 2.5"/>
+  <path d="M252 697 L298 697 M362 697 L408 697" stroke="#1d4f35" stroke-width="1" stroke-dasharray="3 2.5"/>
+  <path d="M330 326 L330 590" stroke="#1d4f35" stroke-width="1"/>
+  <g fill="#f4f1e6" stroke="#1d4f35" stroke-width="0.8">
+    <circle cx="330" cy="408" r="2.6"/><circle cx="330" cy="440" r="2.6"/><circle cx="330" cy="472" r="2.6"/><circle cx="330" cy="504" r="2.6"/><circle cx="330" cy="536" r="2.6"/><circle cx="330" cy="568" r="2.6"/>
+    <circle cx="316" cy="632" r="2.6"/><circle cx="306" cy="672" r="2.6"/>
+  </g>
+  <!-- ojales vacíos en el lado contrario -->
+  <path d="M341 630 L347 630 M351 670 L357 670" stroke="#1d4f35" stroke-width="1.4" stroke-linecap="round"/>
+  <path d="M296 470 Q300 420 292 404 M364 470 Q360 420 368 404" fill="none" stroke="#1d4f35" stroke-width="1" opacity="0.5"/>
+
+  <!-- senos (copa D), por las aberturas -->
+  <path d="M278 380 Q284 398 302 398 Q318 396 322 382" fill="none" stroke="#b58c74" stroke-width="1.2"/>
+  <path d="M338 382 Q342 396 358 398 Q376 398 382 380" fill="none" stroke="#b58c74" stroke-width="1.2"/>
+  <!-- pezoneras negras con pendientes verdes -->
+  <circle cx="302" cy="379" r="5.5" fill="#111"/>
+  <line x1="302" y1="384" x2="302" y2="392" stroke="#9aa3ad" stroke-width="0.9"/>
+  <path d="M302 391 Q297 397 302 404 Q307 397 302 391 Z" fill="#1f9a55" stroke="#0f5a30" stroke-width="0.7"/>
+  <circle cx="358" cy="379" r="5.5" fill="#111"/>
+  <line x1="358" y1="384" x2="358" y2="392" stroke="#9aa3ad" stroke-width="0.9"/>
+  <path d="M358 391 Q353 397 358 404 Q363 397 358 391 Z" fill="#1f9a55" stroke="#0f5a30" stroke-width="0.7"/>
+
+  <!-- muletas canadienses (detrás de las manos) -->
+  <g stroke-linecap="round" fill="none">
+    <polyline points="241,546 239,622 204,1222" stroke="#8e98a2" stroke-width="5.5"/>
+    <polyline points="419,546 421,622 456,1222" stroke="#8e98a2" stroke-width="5.5"/>
+    <line x1="204" y1="1212" x2="203" y2="1228" stroke="#222" stroke-width="7"/>
+    <line x1="456" y1="1212" x2="457" y2="1228" stroke="#222" stroke-width="7"/>
+  </g>
+  <!-- brazos -->
+  <path d="M234 346 Q224 410 226 470 Q227 540 232 606 L254 608 Q254 540 256 480 Q260 420 264 354 Z" fill="url(#skin)" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M426 346 Q436 410 434 470 Q433 540 428 606 L406 608 Q406 540 404 480 Q400 420 396 354 Z" fill="url(#skin)" stroke="#b58c74" stroke-width="1.1"/>
+  <!-- abrazaderas de antebrazo -->
+  <path d="M226 548 Q240 540 256 548 L256 540 Q240 532 226 540 Z" fill="#8e98a2" stroke="#5e6770" stroke-width="0.8"/>
+  <path d="M404 548 Q420 540 434 548 L434 540 Q420 532 404 540 Z" fill="#8e98a2" stroke="#5e6770" stroke-width="0.8"/>
+  <!-- manos sobre la empuñadura -->
+  <rect x="222" y="614" width="36" height="9" rx="4" fill="#2b2b2e"/>
+  <rect x="402" y="614" width="36" height="9" rx="4" fill="#2b2b2e"/>
+  <path d="M228 604 Q222 614 228 628 Q240 636 254 628 Q258 614 254 604 Z" fill="#f2d8c6" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M432 604 Q438 614 432 628 Q420 636 406 628 Q402 614 406 604 Z" fill="#f2d8c6" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M232 618 L250 618 M410 618 L428 618" stroke="#caa28b" stroke-width="0.9"/>
+
+  <!-- bailarinas -->
+  <path d="M290 1180 Q279 1214 288 1230 L322 1230 Q330 1214 318 1180 Z" fill="#f7f4ee" stroke="#8b9097" stroke-width="1.2"/>
+  <path d="M292 1192 Q304 1198 316 1192" fill="none" stroke="#b5bac0" stroke-width="1"/>
+  <path d="M342 1180 Q330 1214 338 1230 L372 1230 Q381 1214 370 1180 Z" fill="#f7f4ee" stroke="#8b9097" stroke-width="1.2"/>
+  <path d="M344 1192 Q356 1198 368 1192" fill="none" stroke="#b5bac0" stroke-width="1"/>
+
+  <!-- cuello y cabeza -->
+  <path d="M310 240 L307 290 L353 290 L350 240 Z" fill="#eed2bf" stroke="#b58c74" stroke-width="1.1"/>
+  <path d="M288 178 Q288 126 330 125 Q372 126 372 178 Q372 218 356 236 Q344 248 330 248 Q316 248 304 236 Q288 218 288 178 Z" fill="#f3dac9" stroke="#b58c74" stroke-width="1.2"/>
+  <path d="M303 168 Q313 162 323 166 M337 166 Q347 162 357 168" fill="none" stroke="#3a2517" stroke-width="2" stroke-linecap="round"/>
+  <!-- ojos verdes alargados -->
+  <path d="M301 181 Q313 172 326 180 Q313 186 301 181 Z" fill="#fff" stroke="#2a1e17" stroke-width="1.2"/>
+  <circle cx="314" cy="180" r="3.8" fill="#3f8a5a"/><circle cx="314" cy="180" r="1.6" fill="#13201a"/>
+  <path d="M334 180 Q347 172 359 181 Q347 186 334 180 Z" fill="#fff" stroke="#2a1e17" stroke-width="1.2"/>
+  <circle cx="346" cy="180" r="3.8" fill="#3f8a5a"/><circle cx="346" cy="180" r="1.6" fill="#13201a"/>
+  <path d="M300 180 L297 177 M360 180 L363 177" stroke="#2a1e17" stroke-width="1.2"/>
+  <path d="M330 188 Q329 200 326 205 Q330 208 334 205" fill="none" stroke="#c49b83" stroke-width="1.1"/>
+  <!-- labios llenos -->
+  <path d="M315 222 Q322 215 330 218 Q338 215 345 222 Q338 226 330 226 Q322 226 315 222 Z" fill="#b8605d"/>
+  <path d="M315 222 Q322 233 330 233 Q338 233 345 222 Q338 227 330 227 Q322 227 315 222 Z" fill="#c9706b"/>
+  <!-- pelo por delante: raya al medio, cae por detrás de los hombros -->
+  <path d="M288 184 Q280 120 330 114 Q380 120 372 184 Q370 158 352 142 Q340 134 330 134 Q320 134 308 142 Q290 158 288 184 Z" fill="#3a2517" stroke="#24160d" stroke-width="1"/>
+  <path d="M288 184 Q282 220 290 250 Q294 270 300 284 L292 292 Q276 260 278 220 Z" fill="#3a2517"/>
+  <path d="M372 184 Q378 220 370 250 Q366 270 360 284 L368 292 Q384 260 382 220 Z" fill="#3a2517"/>
+  <path d="M330 116 L330 136 M300 128 Q292 150 290 176 M360 128 Q368 150 370 176" fill="none" stroke="#5a3d28" stroke-width="1.1"/>
+
+  <!-- ===================== LLAMADAS ===================== -->
+  <g font-size="12.5" fill="#3d3a36">
+    <g stroke="#9c948a" stroke-width="0.9" fill="none">
+      <polyline points="386,240 470,190 486,190"/>
+      <polyline points="410,320 470,280 486,280"/>
+      <polyline points="382,373 470,370 486,370"/>
+      <polyline points="358,398 470,450 486,450"/>
+      <polyline points="330,536 470,540 486,540"/>
+      <polyline points="342,614 470,630 486,630"/>
+      <polyline points="340,641 470,720 486,720"/>
+      <polyline points="306,672 214,780 200,780"/>
+      <polyline points="444,860 470,880 486,880"/>
+      <polyline points="370,1205 470,1180 486,1180"/>
+    </g>
+    <g fill="#9c948a">
+      <circle cx="386" cy="240" r="2.4"/><circle cx="410" cy="320" r="2.4"/><circle cx="382" cy="373" r="2.4"/>
+      <circle cx="358" cy="398" r="2.4"/><circle cx="330" cy="536" r="2.4"/><circle cx="342" cy="614" r="2.4"/>
+      <circle cx="340" cy="641" r="2.4"/><circle cx="306" cy="672" r="2.4"/><circle cx="444" cy="860" r="2.4"/>
+      <circle cx="370" cy="1205" r="2.4"/>
+    </g>
+    <text x="492" y="187" font-weight="bold">Pelo castaño oscuro</text>
+    <text x="492" y="203">suelto, hasta media espalda</text>
+
+    <text x="492" y="277" font-weight="bold">Vestido verde</text>
+    <text x="492" y="293">entallado y corto, con</text>
+    <text x="492" y="307">flores blancas</text>
+
+    <text x="492" y="367" font-weight="bold">Una abertura por seno</text>
+    <text x="492" y="383">los senos salen enteros</text>
+
+    <text x="492" y="447" font-weight="bold">Pezoneras negras</text>
+    <text x="492" y="463">con pendientes verdes</text>
+
+    <text x="492" y="537" font-weight="bold">Botonadura delantera</text>
+    <text x="492" y="553">cerrada hasta el pubis</text>
+
+    <text x="492" y="627" font-weight="bold">Férula peneana</text>
+    <text x="492" y="643">pletina a 90°, hacia delante;</text>
+    <text x="492" y="657">capucha verde en el glande</text>
+
+    <text x="492" y="717" font-weight="bold">Segunda capucha verde</text>
+    <text x="492" y="733">en los testículos</text>
+
+    <text x="84" y="777" font-weight="bold">Botones de abajo</text>
+    <text x="84" y="793">abiertos: la férula</text>
+    <text x="84" y="807">no deja cerrarlos.</text>
+    <text x="84" y="821">Sin ropa interior</text>
+
+    <text x="492" y="877" font-weight="bold">Muletas canadienses</text>
+    <text x="492" y="893">abrazadera de antebrazo;</text>
+    <text x="492" y="907">el cuádriceps izquierdo cede</text>
+
+    <text x="492" y="1177" font-weight="bold">Bailarinas planas</text>
+    <text x="492" y="1193">color crudo</text>
+  </g>
+
+  <!-- ===================== COLUMNA DERECHA ===================== -->
+  <g fill="#2e2b28">
+    <text x="690" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="4">MARCIE</text>
+    <text x="690" y="122" font-size="13" letter-spacing="1.2" fill="#6d665d">DÍA 34, 9:45 · CAMINO DEL CRESTON, SESIÓN CON DELANEY</text>
+    <text x="690" y="144" font-size="13" fill="#8a8277">30 años · ~173 cm, esbelta con curvas · 85/106, copa D · ojos verdes</text>
+  </g>
+  <line x1="690" y1="162" x2="1190" y2="162" stroke="#cfc7b9" stroke-width="1"/>
+
+  <text x="690" y="192" font-size="12" letter-spacing="2" fill="#8a8277">PLANO TÉCNICO</text>
+  <!-- plano del vestido -->
+  <path d="M790 214 L810 244 L830 214 Q856 219 876 228 Q884 242 887 264 L862 268 Q863 294 857 316 Q850 334 842 346 Q857 382 866 420 Q870 470 872 520 L838 520 L816 432 L804 432 L782 520 L748 520 Q750 470 754 420 Q763 382 778 346 Q770 334 763 316 Q757 294 758 268 L733 264 Q736 242 744 228 Q764 219 790 214 Z M786 262 A18 16 0 1 0 786.1 262 Z M834 262 A18 16 0 1 0 834.1 262 Z" fill="url(#flores)" fill-rule="evenodd" stroke="#1d4f35" stroke-width="1.3" stroke-linejoin="round"/>
+  <ellipse cx="786" cy="278" rx="18" ry="16" fill="none" stroke="#1d4f35" stroke-width="1"/>
+  <ellipse cx="834" cy="278" rx="18" ry="16" fill="none" stroke="#1d4f35" stroke-width="1"/>
+  <line x1="810" y1="244" x2="810" y2="432" stroke="#1d4f35" stroke-width="0.9"/>
+  <g fill="#f4f1e6" stroke="#1d4f35" stroke-width="0.8">
+    <circle cx="810" cy="304" r="2.2"/><circle cx="810" cy="330" r="2.2"/><circle cx="810" cy="356" r="2.2"/><circle cx="810" cy="382" r="2.2"/><circle cx="810" cy="408" r="2.2"/>
+    <circle cx="800" cy="460" r="2.2"/><circle cx="792" cy="492" r="2.2"/>
+  </g>
+  <text x="810" y="548" font-size="12" text-anchor="middle" fill="#5e5850">Vestido de botones · abertura por seno</text>
+  <text x="810" y="564" font-size="12" text-anchor="middle" fill="#5e5850">botones de abajo sueltos</text>
+
+  <!-- detalle: la férula peneana en perfil (solo el aparato) -->
+  <text x="930" y="192" font-size="12" letter-spacing="2" fill="#8a8277">FÉRULA · PERFIL</text>
+  <g transform="translate(0 20)">
+    <line x1="960" y1="200" x2="960" y2="420" stroke="#b9b1a4" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="952" y="214" font-size="10" text-anchor="end" fill="#8a8277">pubis</text>
+    <!-- arnés a la cintura -->
+    <path d="M940 222 L1000 222" stroke="#1b1b1d" stroke-width="5" stroke-linecap="round"/>
+    <path d="M968 224 L972 300 M992 224 L982 300" stroke="#1b1b1d" stroke-width="3" stroke-linecap="round"/>
+    <!-- anillo de base con bisagra y pasador -->
+    <ellipse cx="972" cy="318" rx="7" ry="20" fill="none" stroke="url(#metal)" stroke-width="5"/>
+    <ellipse cx="972" cy="318" rx="7" ry="20" fill="none" stroke="#6f7780" stroke-width="0.8"/>
+    <circle cx="972" cy="297" r="3" fill="#6f7780"/>
+    <!-- pletina dorsal -->
+    <rect x="976" y="292" width="104" height="7" rx="2" fill="url(#metal)" stroke="#6f7780" stroke-width="0.8"/>
+    <!-- cuna -->
+    <path d="M978 330 Q1030 350 1076 334 L1076 342 Q1030 360 978 340 Z" fill="url(#metal)" stroke="#6f7780" stroke-width="0.8"/>
+    <!-- dos correas de velcro -->
+    <rect x="1008" y="296" width="9" height="50" rx="2" fill="#1b1b1d"/>
+    <rect x="1046" y="296" width="9" height="46" rx="2" fill="#1b1b1d"/>
+    <!-- capucha verde en la cabeza libre -->
+    <path d="M1080 302 L1098 302 Q1116 302 1116 318 Q1116 334 1098 334 L1080 334 Z" fill="#1f7a45" stroke="#0f4a28" stroke-width="1"/>
+    <!-- ángulo -->
+    <path d="M960 262 Q990 262 996 296" fill="none" stroke="#b0503c" stroke-width="1.1"/>
+    <text x="1000" y="268" font-size="11" fill="#b0503c">90°</text>
+  </g>
+  <g font-size="11" fill="#4d4841">
+    <text x="930" y="394"><tspan font-weight="bold">Anillo</tspan> de base, bisagra y pasador</text>
+    <text x="930" y="409"><tspan font-weight="bold">Pletina</tspan> dorsal: fija el ángulo</text>
+    <text x="930" y="424"><tspan font-weight="bold">Cuna</tspan> de soporte por debajo</text>
+    <text x="930" y="439"><tspan font-weight="bold">Dos correas</tspan> de velcro · <tspan font-weight="bold">arnés</tspan></text>
+    <text x="930" y="454">Cabeza libre, con capucha verde</text>
+    <text x="930" y="474" fill="#8a8277">Pieza única post-quirúrgica.</text>
+    <text x="930" y="489" fill="#8a8277">Se retira para siempre esta noche.</text>
+  </g>
+
+  <!-- detalles -->
+  <line x1="690" y1="600" x2="1190" y2="600" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="628" font-size="12" letter-spacing="2" fill="#8a8277">DETALLES</text>
+  <!-- pezonera -->
+  <circle cx="740" cy="690" r="26" fill="#111"/>
+  <line x1="740" y1="716" x2="740" y2="752" stroke="#9aa3ad" stroke-width="1.6"/>
+  <circle cx="740" cy="719" r="3" fill="none" stroke="#9aa3ad" stroke-width="1.4"/>
+  <path d="M740 750 Q725 770 740 794 Q755 770 740 750 Z" fill="#1f9a55" stroke="#0f5a30" stroke-width="1.2"/>
+  <path d="M735 763 Q733 772 737 780" fill="none" stroke="#a6e3bf" stroke-width="1.5" stroke-linecap="round"/>
+  <g font-size="11.5" fill="#4d4841">
+    <text x="780" y="680" font-weight="bold">Pezonera negra</text>
+    <text x="780" y="696">con pendiente verde</text>
+    <text x="780" y="712">a juego con el vestido</text>
+  </g>
+  <!-- capuchas -->
+  <path d="M960 668 L990 668 Q1012 668 1012 690 Q1012 712 990 712 L960 712 Z" fill="#1f7a45" stroke="#0f4a28" stroke-width="1.2"/>
+  <line x1="966" y1="668" x2="966" y2="712" stroke="#2f9a5c" stroke-width="1.2"/>
+  <ellipse cx="1060" cy="700" rx="26" ry="20" fill="#1f7a45" stroke="#0f4a28" stroke-width="1.2"/>
+  <path d="M1036 690 Q1060 682 1084 690" fill="none" stroke="#2f9a5c" stroke-width="1.2"/>
+  <g font-size="11.5" fill="#4d4841">
+    <text x="960" y="740" font-weight="bold">Dos capuchas verdes</text>
+    <text x="960" y="756">glande y testículos</text>
+    <text x="960" y="772">(obligatoria fuera de casa)</text>
+  </g>
+
+  <!-- paleta -->
+  <line x1="690" y1="830" x2="1190" y2="830" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="858" font-size="12" letter-spacing="2" fill="#8a8277">PALETA</text>
+  <g font-size="11" fill="#4d4841">
+    <rect x="690" y="872" width="110" height="52" fill="url(#flores)"/>
+    <text x="690" y="942" font-weight="bold">Verde de flores</text><text x="690" y="956">vestido</text>
+    <rect x="818" y="872" width="110" height="52" fill="#1f7a45"/>
+    <text x="818" y="942" font-weight="bold">Verde vivo</text><text x="818" y="956">capuchas y pendientes</text>
+    <rect x="946" y="872" width="110" height="52" fill="#111"/>
+    <text x="946" y="942" font-weight="bold">Negro</text><text x="946" y="956">pezoneras, correas</text>
+    <rect x="1074" y="872" width="110" height="52" fill="url(#metal)"/>
+    <text x="1074" y="942" font-weight="bold">Acero</text><text x="1074" y="956">férula y muletas</text>
+  </g>
+  <text x="690" y="1006" font-size="11.5" fill="#8a8277" font-style="italic">Última salida con la férula: Vera se la retira para siempre la noche del Día 34.</text>
+</svg>

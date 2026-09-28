@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1320" width="1240" height="1320" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e5c6b4"/>
+      <stop offset="0.6" stop-color="#f7e4d8"/>
+      <stop offset="1" stop-color="#ebcfbe"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e3e6e9"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f1f2f3"/>
+    </linearGradient>
+    <linearGradient id="apron" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#22382b"/>
+      <stop offset="1" stop-color="#3a5b46"/>
+    </linearGradient>
+    <linearGradient id="skirt" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0f0f11"/>
+      <stop offset="0.5" stop-color="#2b2b30"/>
+      <stop offset="1" stop-color="#141417"/>
+    </linearGradient>
+    <radialGradient id="silver" cx="0.35" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#cfd4da"/>
+      <stop offset="1" stop-color="#8e969f"/>
+    </radialGradient>
+  </defs>
+
+  <!-- papel -->
+  <rect width="1240" height="1320" fill="#f5f2ec"/>
+  <rect x="24" y="24" width="1192" height="1272" fill="none" stroke="#d8d1c4" stroke-width="1"/>
+  <line x1="650" y1="60" x2="650" y2="1260" stroke="#e0d9cc" stroke-width="1"/>
+
+  <!-- ===================== FIGURA (perfil, mira a la derecha) ===================== -->
+  <ellipse cx="330" cy="1234" rx="110" ry="11" fill="#e4ddd0"/>
+
+  <!-- pie lejano -->
+  <path d="M326 1178 Q320 1202 324 1226 L388 1226 Q390 1216 380 1210 Q362 1198 356 1178 Z" fill="#2a2a2d" stroke="#000" stroke-width="1"/>
+
+  <!-- cuerpo (piel), alta y delgada -->
+  <path d="M300 244 Q296 272 292 300 Q274 318 270 360 Q268 410 276 450 Q282 470 284 480 Q266 520 264 570 Q264 620 278 652 Q286 700 288 760 Q294 830 304 885 Q292 940 298 1000 Q306 1090 314 1165 Q306 1195 310 1228 L380 1228 Q384 1218 374 1212 Q356 1200 348 1176 Q350 1080 352 1000 Q360 940 360 890 Q370 800 370 740 Q372 680 366 648 Q360 620 358 604 Q362 560 360 540 Q354 515 356 500 Q352 480 350 460 Q350 432 354 410 L352 320 Q350 306 346 300 Q340 272 342 248 Z" fill="url(#skin)" stroke="#b9917d" stroke-width="1.2"/>
+  <path d="M318 884 Q334 892 350 884" fill="none" stroke="#cda694" stroke-width="1.1"/>
+  <!-- zapatilla plana negra (pie cercano) -->
+  <path d="M310 1202 Q306 1216 310 1228 L380 1228 Q384 1218 374 1212 Q364 1205 354 1202 Z" fill="#1c1c1f" stroke="#000" stroke-width="1.2"/>
+  <path d="M310 1224 L382 1224" stroke="#f1f1f1" stroke-width="2"/>
+
+  <!-- pene colgando por la abertura, por delante de los muslos, con capucha negra lisa -->
+  <g transform="rotate(-6 364 664)">
+    <rect x="358" y="650" width="13" height="36" rx="3" fill="#f2dace" stroke="#b9917d" stroke-width="1"/>
+    <path d="M357 682 L372 682 L372 696 Q372 706 364.5 706 Q357 706 357 696 Z" fill="#111113" stroke="#000" stroke-width="1"/>
+    <line x1="357" y1="684" x2="372" y2="684" stroke="#3d3d42" stroke-width="1"/>
+  </g>
+
+  <!-- falda negra muy corta -->
+  <path d="M284 452 L352 452 Q358 500 362 545 Q366 610 370 664 L266 664 Q258 610 260 570 Q262 520 280 478 Z" fill="url(#skirt)" stroke="#000" stroke-width="1.3" stroke-linejoin="round"/>
+  <path d="M268 657 L369 657" stroke="#46464c" stroke-width="0.9" stroke-dasharray="3 2.5"/>
+
+  <!-- delantal corto: pieza delantera separada del cuerpo, lazo atrás -->
+  <rect x="278" y="452" width="82" height="12" fill="#2a4434" stroke="#16251c" stroke-width="1"/>
+  <path d="M352 464 L362 464 Q372 552 380 640 L368 642 Q360 556 352 474 Z" fill="url(#apron)" stroke="#16251c" stroke-width="1.1"/>
+  <path d="M370 636 L378 635" stroke="#6f8f7a" stroke-width="0.9" stroke-dasharray="2 2"/>
+  <!-- lazo en la espalda -->
+  <path d="M278 458 Q258 440 250 452 Q248 466 278 462 Z" fill="#2a4434" stroke="#16251c" stroke-width="1"/>
+  <path d="M278 462 Q256 470 252 484 Q262 490 280 466 Z" fill="#2a4434" stroke="#16251c" stroke-width="1"/>
+  <path d="M276 464 Q270 500 266 528 M279 465 Q280 500 276 536" fill="none" stroke="#2a4434" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="278" cy="460" r="4.5" fill="#22382b" stroke="#16251c" stroke-width="0.8"/>
+
+  <!-- seno (copa C, alto y algo cónico) por la abertura redonda -->
+  <path d="M354 338 Q372 344 380 364 Q382 380 370 392 Q360 398 354 396 Z" fill="url(#skin)" stroke="#b9917d" stroke-width="1.1"/>
+  <!-- camisa blanca de perfil, remetida en la falda -->
+  <path d="M300 290 Q274 314 268 360 Q266 410 276 450 L280 456 L352 456 Q348 432 352 410 L352 336 Q350 314 346 300 Q326 304 300 290 Z" fill="url(#shirt)" stroke="#9aa0a6" stroke-width="1.3" stroke-linejoin="round"/>
+  <path d="M356 334 Q346 366 355 400" fill="none" stroke="#9aa0a6" stroke-width="1.8"/>
+  <path d="M353 336 Q344 366 352 398" fill="none" stroke="#b6bbc0" stroke-width="1" stroke-dasharray="2.5 2"/>
+  <!-- cuello de camisa -->
+  <path d="M300 290 L312 270 L330 292 Z" fill="#fdfdfd" stroke="#9aa0a6" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M336 282 L346 300 L354 306 L342 312 Z" fill="#fdfdfd" stroke="#9aa0a6" stroke-width="1" stroke-linejoin="round"/>
+  <g fill="#e6e8ea" stroke="#a3a9af" stroke-width="0.8"><circle cx="352" cy="420" r="2.2"/><circle cx="351" cy="444" r="2.2"/></g>
+  <!-- areola asomando alrededor de la pezonera de disco, de canto -->
+  <ellipse cx="380.5" cy="366" rx="2.2" ry="6.5" fill="#f0b9b0"/>
+  <ellipse cx="381.5" cy="366" rx="1.8" ry="4.2" fill="url(#silver)" stroke="#7d858d" stroke-width="0.5"/>
+  <!-- pecas pálidas en el escote -->
+  <g fill="#d9a88c" opacity="0.8">
+    <circle cx="344" cy="306" r="0.8"/><circle cx="348" cy="316" r="0.8"/><circle cx="360" cy="344" r="0.8"/><circle cx="366" cy="350" r="0.8"/><circle cx="362" cy="356" r="0.7"/>
+  </g>
+
+  <!-- brazo cercano, caído, con la manga remangada sobre el codo -->
+  <path d="M290 346 Q284 410 288 470 Q292 540 300 604 L322 604 Q322 540 318 474 Q320 410 330 346 Z" fill="url(#skin)" stroke="#b9917d" stroke-width="1.1"/>
+  <path d="M286 304 Q310 290 334 304 Q340 340 334 410 L288 410 Q280 350 286 304 Z" fill="url(#shirt)" stroke="#9aa0a6" stroke-width="1.3"/>
+  <path d="M286 400 L336 400 L336 420 L286 420 Z" fill="#f1f2f3" stroke="#9aa0a6" stroke-width="1.1"/>
+  <path d="M296 470 Q302 476 312 474" fill="none" stroke="#cda694" stroke-width="1"/>
+  <!-- mano con el bloc -->
+  <path d="M298 602 Q292 624 300 648 Q312 656 322 646 Q328 624 322 602 Z" fill="#f4dfd3" stroke="#b9917d" stroke-width="1.1"/>
+  <g transform="rotate(8 324 626)">
+    <rect x="316" y="606" width="14" height="40" rx="1.5" fill="#fffef6" stroke="#8b9097" stroke-width="1"/>
+    <rect x="316" y="606" width="14" height="5" fill="#2a4434"/>
+  </g>
+  <path d="M306 620 Q316 616 322 624" fill="none" stroke="#cda694" stroke-width="1"/>
+
+  <!-- cabeza de perfil -->
+  <path d="M318 116 Q356 118 358 160 L359 172 Q362 181 369 192 Q364 197 358 198 Q361 204 362 208 Q359 211 357 213 Q361 217 360 221 Q358 232 352 240 Q338 250 318 248 L300 246 Q284 240 276 224 Q262 196 264 164 Q270 118 318 116 Z" fill="#f7e4d8" stroke="#b9917d" stroke-width="1.2"/>
+  <path d="M339 170 Q347 166 355 169" fill="none" stroke="#8a6545" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M341 181 Q348 176 355 180 Q349 184 341 181 Z" fill="#fff" stroke="#3a2c24" stroke-width="1.1"/>
+  <circle cx="350" cy="180.5" r="2.5" fill="#6b4a30"/>
+  <path d="M355 180 L358 177" stroke="#3a2c24" stroke-width="1.1"/>
+  <path d="M357 206 Q361 208 362 208 Q359 211 357 213 Q361 217 360 221 Q354 219 352 214 Q354 209 357 206 Z" fill="#d99a92"/>
+  <g fill="#dcae93" opacity="0.85">
+    <circle cx="346" cy="192" r="0.8"/><circle cx="351" cy="196" r="0.8"/><circle cx="342" cy="198" r="0.7"/><circle cx="355" cy="190" r="0.7"/><circle cx="338" cy="194" r="0.7"/>
+  </g>
+  <ellipse cx="312" cy="186" rx="7" ry="12" fill="#f1d8ca" stroke="#b9917d" stroke-width="1"/>
+  <!-- pelo castaño claro recogido: moño deshecho arriba y detrás, con el bolígrafo clavado -->
+  <path d="M264 170 Q266 118 318 112 Q352 114 358 150 Q348 136 330 134 Q312 136 304 150 Q298 162 300 176 Q296 196 286 214 Q272 210 266 196 Z" fill="#a57c55" stroke="#76553a" stroke-width="1"/>
+  <line x1="316" y1="70" x2="270" y2="128" stroke="#1f4e9e" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M258 128 Q248 100 270 88 Q294 78 308 96 Q318 116 300 128 Q280 138 258 128 Z" fill="#a57c55" stroke="#76553a" stroke-width="1"/>
+  <path d="M264 118 Q276 98 298 102 M268 126 Q286 116 304 120 M276 92 Q290 96 294 110" fill="none" stroke="#c49a6e" stroke-width="1.2"/>
+  <line x1="322" y1="62" x2="316" y2="70" stroke="#dfe3e8" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M302 150 Q296 170 300 194 M268 200 Q262 214 266 228" fill="none" stroke="#8a6545" stroke-width="1.4" stroke-linecap="round"/>
+
+  <!-- ===================== LLAMADAS ===================== -->
+  <g font-size="12.5" fill="#3d3a36">
+    <g stroke="#9c948a" stroke-width="0.9" fill="none">
+      <polyline points="300,96 470,96 486,96"/>
+      <polyline points="344,300 470,250 486,250"/>
+      <polyline points="381,366 470,340 486,340"/>
+      <polyline points="336,410 470,430 486,430"/>
+      <polyline points="330,640 470,530 486,530"/>
+      <polyline points="378,600 470,610 486,610"/>
+      <polyline points="368,664 470,690 486,690"/>
+      <polyline points="372,700 470,770 486,770"/>
+      <polyline points="366,1000 470,1000 486,1000"/>
+      <polyline points="380,1222 470,1180 486,1180"/>
+      <polyline points="252,466 214,466 200,466"/>
+    </g>
+    <g fill="#9c948a">
+      <circle cx="300" cy="96" r="2.4"/><circle cx="344" cy="300" r="2.4"/><circle cx="381" cy="366" r="2.4"/>
+      <circle cx="336" cy="410" r="2.4"/><circle cx="330" cy="640" r="2.4"/><circle cx="378" cy="600" r="2.4"/>
+      <circle cx="368" cy="664" r="2.4"/><circle cx="372" cy="700" r="2.4"/><circle cx="366" cy="1000" r="2.4"/>
+      <circle cx="380" cy="1222" r="2.4"/><circle cx="252" cy="466" r="2.4"/>
+    </g>
+    <text x="492" y="93" font-weight="bold">Moño deshecho</text>
+    <text x="492" y="109">arriba y atrás, con el</text>
+    <text x="492" y="123">bolígrafo clavado</text>
+
+    <text x="492" y="247" font-weight="bold">Camisa blanca</text>
+    <text x="492" y="263">cuello abierto, remetida</text>
+    <text x="492" y="277">en la falda</text>
+
+    <text x="492" y="337" font-weight="bold">Seno de perfil</text>
+    <text x="492" y="353">alto y algo cónico por la</text>
+    <text x="492" y="367">abertura; disco plateado de</text>
+    <text x="492" y="381">canto con el anillo de areola</text>
+
+    <text x="492" y="427" font-weight="bold">Manga remangada</text>
+    <text x="492" y="443">vuelta sobre el codo</text>
+
+    <text x="492" y="527" font-weight="bold">Bloc</text>
+    <text x="492" y="543">en la mano; no apunta nada</text>
+
+    <text x="492" y="607" font-weight="bold">Delantal corto</text>
+    <text x="492" y="623">cuelga separado del cuerpo</text>
+    <text x="492" y="637">por delante</text>
+
+    <text x="492" y="687" font-weight="bold">Falda negra</text>
+    <text x="492" y="703">muy corta; de pie, el bajo</text>
+    <text x="492" y="717">cubre justo el soporte</text>
+
+    <text x="492" y="767" font-weight="bold">Prenda de capucha</text>
+    <text x="492" y="783">cuelga por delante de los</text>
+    <text x="492" y="797">muslos: capucha negra lisa</text>
+    <text x="492" y="811">y unos tres dedos de tronco</text>
+
+    <text x="492" y="997" font-weight="bold">Piernas desnudas</text>
+    <text x="492" y="1013">largas, sin medias</text>
+
+    <text x="492" y="1177" font-weight="bold">Zapatillas planas</text>
+    <text x="492" y="1193">negras</text>
+
+    <g text-anchor="end">
+      <text x="194" y="463" font-weight="bold">Lazo del delantal</text>
+      <text x="194" y="479">atado en la espalda,</text>
+      <text x="194" y="493">con las puntas colgando</text>
+    </g>
+  </g>
+
+  <!-- ===================== COLUMNA DERECHA ===================== -->
+  <g fill="#2e2b28">
+    <text x="690" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="4">WREN CALLOWAY</text>
+    <text x="690" y="122" font-size="13" letter-spacing="1.2" fill="#6d665d">VISTA LATERAL · CAMARERA DEL HOLLIS, DÍA 33</text>
+    <text x="690" y="144" font-size="13" fill="#8a8277">Complemento de wren-hollis-dia33.svg (vista frontal)</text>
+  </g>
+  <line x1="690" y1="162" x2="1190" y2="162" stroke="#cfc7b9" stroke-width="1"/>
+
+  <text x="690" y="192" font-size="12" letter-spacing="2" fill="#8a8277">DETALLES DE ESPALDA</text>
+  <!-- lazo ampliado -->
+  <g transform="translate(610 -10) scale(1.2)">
+    <rect x="80" y="202" width="150" height="16" fill="#2a4434" stroke="#16251c" stroke-width="0.8"/>
+    <path d="M155 210 Q118 180 104 198 Q100 222 155 214 Z" fill="#2a4434" stroke="#16251c" stroke-width="0.8"/>
+    <path d="M155 210 Q192 180 206 198 Q210 222 155 214 Z" fill="#2a4434" stroke="#16251c" stroke-width="0.8"/>
+    <path d="M152 214 Q140 250 132 280 M158 214 Q168 250 176 284" fill="none" stroke="#2a4434" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="155" cy="211" r="7" fill="#22382b" stroke="#16251c" stroke-width="0.8"/>
+  </g>
+  <text x="796" y="360" font-size="11.5" text-anchor="middle" fill="#4d4841">Lazo del delantal, a la espalda</text>
+  <!-- moño ampliado -->
+  <g transform="translate(1016 206) scale(0.9)">
+    <line x1="80" y1="0" x2="10" y2="90" stroke="#1f4e9e" stroke-width="5" stroke-linecap="round"/>
+    <line x1="88" y1="-10" x2="80" y2="0" stroke="#dfe3e8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M10 92 Q-4 50 30 30 Q70 14 90 44 Q104 76 76 94 Q44 110 10 92 Z" fill="#a57c55" stroke="#76553a" stroke-width="1.2"/>
+    <path d="M20 80 Q36 50 70 56 M24 92 Q54 78 84 84 M38 34 Q60 40 64 62" fill="none" stroke="#c49a6e" stroke-width="1.6"/>
+    <path d="M14 96 Q8 116 16 132 M86 90 Q96 108 90 124" fill="none" stroke="#8a6545" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <text x="1060" y="360" font-size="11.5" text-anchor="middle" fill="#4d4841">Moño con el bolígrafo</text>
+
+  <line x1="690" y1="380" x2="1190" y2="380" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="408" font-size="12" letter-spacing="2" fill="#8a8277">LO QUE SE LEE DE LADO</text>
+  <g font-size="11.5" fill="#4d4841">
+    <text x="690" y="434">El <tspan font-weight="bold">delantal</tspan> no va pegado: cuelga por delante como una pieza suelta</text>
+    <text x="690" y="452">desde la cinturilla, y se anuda atrás.</text>
+    <text x="690" y="478">La <tspan font-weight="bold">prenda de capucha</tspan> deja el pene colgando por delante de los muslos;</text>
+    <text x="690" y="496">se balancea con el paso largo. De pie, el bajo de la falda cubre justo el</text>
+    <text x="690" y="514">soporte de los panties; al sentarse o agacharse asoma el bulto de tela.</text>
+    <text x="690" y="540">Los <tspan font-weight="bold">senos</tspan> salen enteros por las aberturas redondas de la camisa;</text>
+    <text x="690" y="558">de canto se ve que el disco de la pezonera no llega a cubrir la areola.</text>
+  </g>
+
+  <!-- paleta -->
+  <line x1="690" y1="600" x2="1190" y2="600" stroke="#e0d9cc" stroke-width="1"/>
+  <text x="690" y="628" font-size="12" letter-spacing="2" fill="#8a8277">PALETA</text>
+  <g font-size="11" fill="#4d4841">
+    <rect x="690" y="642" width="110" height="52" fill="#fdfdfd" stroke="#c9ccd0"/>
+    <text x="690" y="712" font-weight="bold">Blanco</text><text x="690" y="726">camisa</text>
+    <rect x="818" y="642" width="110" height="52" fill="#2f4a3a"/>
+    <text x="818" y="712" font-weight="bold">Verde oscuro</text><text x="818" y="726">delantal del Hollis</text>
+    <rect x="946" y="642" width="110" height="52" fill="#151517"/>
+    <text x="946" y="712" font-weight="bold">Negro</text><text x="946" y="726">falda y capucha</text>
+    <rect x="1074" y="642" width="110" height="52" fill="url(#silver)"/>
+    <text x="1074" y="712" font-weight="bold">Plata</text><text x="1074" y="726">pezoneras de disco</text>
+  </g>
+</svg>

@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" width="900" height="1400">
+  <defs>
+    <!-- acuarela: la mancha se sale un poco del contorno y la carga de pigmento varía -->
+    <filter id="wash" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="8" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.1 0 0 0 0.25" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="2" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="11" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="0.8"/>
+    </filter>
+    <filter id="washSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="21" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.3 0 0 0 0.05" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="5" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="40" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="2"/>
+    </filter>
+    <!-- tinta: trazo ligeramente tembloroso -->
+    <filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="4" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <!-- grano del papel -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.3  0 0 0 0.09 0"/>
+    </filter>
+    <linearGradient id="skinG" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#a8765a"/>
+      <stop offset="0.45" stop-color="#c9976f"/>
+      <stop offset="1" stop-color="#b07e5f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- papel -->
+  <rect width="900" height="1400" fill="#f7f3ec"/>
+  <rect width="900" height="1400" filter="url(#grain)"/>
+
+  <!-- manchas de fondo -->
+  <path d="M250 330 C230 200 380 120 520 150 C660 180 720 300 690 440 C665 560 600 640 470 650 C340 660 270 560 250 450 Z" fill="#bcd5ea" opacity="0.55" filter="url(#washSoft)"/>
+  <path d="M600 470 C650 430 720 470 700 540 C690 590 630 600 610 560 Z" fill="#9fbad3" opacity="0.35" filter="url(#washSoft)"/>
+  <ellipse cx="495" cy="1336" rx="220" ry="34" fill="#d8c6a6" opacity="0.5" filter="url(#washSoft)"/>
+  <g fill="#9fbad3" opacity="0.5">
+    <circle cx="700" cy="330" r="4"/><circle cx="716" cy="352" r="2.4"/><circle cx="236" cy="520" r="3"/><circle cx="690" cy="610" r="2"/>
+  </g>
+
+  <!-- ===================== PANTALÓN BLANCO CEÑIDO ===================== -->
+  <!-- lo blanco es el papel: solo se lavan las sombras -->
+  <path d="M392 598 C384 700 396 820 408 950 C404 1010 396 1070 404 1150 C410 1220 420 1270 428 1296 L454 1296 C452 1240 450 1150 448 1080 C446 1020 446 990 442 950 C446 860 452 760 458 690 C470 770 486 880 496 958 C506 1030 522 1120 540 1200 C548 1250 552 1280 556 1296 L584 1292 C576 1240 566 1160 560 1090 C552 1030 548 990 548 958 C556 850 560 720 548 612 L548 600 L392 590 Z" fill="#fbfaf7"/>
+  <!-- sombras -->
+  <path d="M398 640 C396 760 406 870 414 950 C412 1040 404 1110 414 1200 L432 1290 L440 1290 C438 1180 436 1080 434 990 C430 860 426 740 424 650 Z" fill="#d5dde7" opacity="0.75" filter="url(#wash)"/>
+  <path d="M462 700 C474 800 490 900 500 968 C512 1060 530 1150 548 1240 L560 1288 L566 1288 C556 1200 540 1100 528 1010 C518 930 500 820 480 720 Z" fill="#d5dde7" opacity="0.85" filter="url(#wash)"/>
+  <path d="M534 640 C544 740 544 860 540 950 L548 952 C552 850 556 730 546 640 Z" fill="#c9d3de" opacity="0.8" filter="url(#wash)"/>
+  <!-- panel abatible: copa abajo y canal vertical centrado, marcado por la tela -->
+  <path d="M436 612 Q432 668 458 700 Q482 668 480 612" fill="none" stroke="#b9c3cd" stroke-width="1.1" stroke-dasharray="3 3" filter="url(#ink)"/>
+  <ellipse cx="459" cy="652" rx="9" ry="24" fill="#cfd7e0" opacity="0.9" filter="url(#wash)"/>
+  <path d="M455 634 L455 668" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" opacity="0.9"/>
+  <ellipse cx="459" cy="686" rx="15" ry="9" fill="#d4dbe3" opacity="0.9" filter="url(#wash)"/>
+  <!-- pliegues de rodilla y tobillo -->
+  <path d="M410 946 Q424 956 440 948 M500 958 Q520 968 544 956 M430 1276 Q440 1282 452 1278 M558 1276 Q570 1280 582 1274" fill="none" stroke="#a9b3be" stroke-width="1.2" filter="url(#ink)"/>
+  <!-- contorno de tinta -->
+  <path d="M392 598 C384 700 396 820 408 950 C404 1010 396 1070 404 1150 C410 1220 420 1270 428 1296 M454 1296 C452 1240 450 1150 448 1080 C446 1020 446 990 442 950 C446 860 452 760 458 690 C470 770 486 880 496 958 C506 1030 522 1120 540 1200 C548 1250 552 1280 556 1296 M584 1292 C576 1240 566 1160 560 1090 C552 1030 548 990 548 958 C556 850 560 720 548 612" fill="none" stroke="#3a302b" stroke-width="1.7" stroke-linecap="round" filter="url(#ink)"/>
+
+  <!-- zapatillas planas blancas -->
+  <path d="M424 1292 Q412 1320 421 1342 L471 1344 Q480 1322 460 1292 Z" fill="#ffffff" stroke="#3a302b" stroke-width="1.6" filter="url(#ink)"/>
+  <path d="M552 1290 Q546 1316 560 1332 Q592 1348 622 1338 Q624 1322 590 1292 Z" fill="#ffffff" stroke="#3a302b" stroke-width="1.6" filter="url(#ink)"/>
+  <path d="M420 1334 L472 1336 M556 1326 Q590 1340 622 1332" fill="none" stroke="#b8c0c9" stroke-width="2" filter="url(#ink)"/>
+  <path d="M430 1340 Q450 1344 468 1340 M566 1334 Q600 1344 618 1338" fill="none" stroke="#d5dde7" stroke-width="5" opacity="0.7" filter="url(#wash)"/>
+
+  <!-- ===================== CUELLO Y ESCOTE ===================== -->
+  <path d="M448 240 L444 300 L500 300 L494 238 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M436 294 L468 396 L502 292 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M448 244 Q446 272 444 296 M494 242 Q496 270 500 294" fill="none" stroke="#5a3e2e" stroke-width="1.4" filter="url(#ink)"/>
+  <path d="M452 306 Q468 316 486 306" fill="none" stroke="#8a5f45" stroke-width="1.2" filter="url(#ink)"/>
+  <path d="M430 302 Q446 306 456 312 M508 302 Q492 306 484 312" fill="none" stroke="#8a5f45" stroke-width="1.1" opacity="0.8" filter="url(#ink)"/>
+
+  <!-- ===================== TÚNICA AZUL MUY CLARO ===================== -->
+  <path d="M440 292 L468 392 L500 290 Q540 294 574 302 Q594 318 604 400 L560 410 L556 378 Q540 440 514 494 Q534 552 560 618 Q512 640 468 636 Q420 640 372 628 Q390 560 404 502 Q384 450 380 392 L378 428 L330 420 Q338 350 360 322 Q400 300 440 292 Z" fill="#d6e5f1" filter="url(#wash)"/>
+  <!-- sombras de la túnica -->
+  <path d="M380 392 Q384 450 404 502 Q390 560 372 628 Q392 632 406 630 Q412 560 420 510 Q404 450 398 396 Z" fill="#9fbad3" opacity="0.6" filter="url(#wash)"/>
+  <path d="M556 378 Q540 440 514 494 Q534 552 560 618 L540 624 Q520 560 500 500 Q524 440 540 386 Z" fill="#9fbad3" opacity="0.55" filter="url(#wash)"/>
+  <path d="M446 300 L468 380 L494 300 L486 300 L468 360 L452 300 Z" fill="#8fadc8" opacity="0.5" filter="url(#wash)"/>
+  <path d="M336 380 Q340 350 360 330 L368 418 L332 414 Z M600 380 Q596 340 580 312 L568 404 L602 398 Z" fill="#a9c2d9" opacity="0.55" filter="url(#wash)"/>
+  <!-- pliegues sueltos -->
+  <path d="M430 420 Q436 470 428 540 M500 430 Q494 480 502 540 M420 600 Q444 610 470 604 M488 606 Q512 614 536 604" fill="none" stroke="#7d9bb8" stroke-width="1.3" stroke-linecap="round" filter="url(#ink)"/>
+  <!-- contorno de tinta de la túnica -->
+  <path d="M440 292 L468 392 L500 290 Q540 294 574 302 Q594 318 604 400 L560 410 L556 378 Q540 440 514 494 Q534 552 560 618 Q512 640 468 636 Q420 640 372 628 Q390 560 404 502 Q384 450 380 392 L378 428 L330 420 Q338 350 360 322 Q400 300 440 292" fill="none" stroke="#3a302b" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M332 412 L378 420 M602 392 L560 402" stroke="#6f8aa3" stroke-width="1" stroke-dasharray="3 2.5"/>
+
+  <!-- ===================== BRAZOS ===================== -->
+  <!-- derecho de ella (izquierda del dibujo): doblado, sujeta el parte contra la cadera -->
+  <path d="M332 420 Q322 460 318 500 Q320 522 336 528 L354 510 Q366 470 378 428 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M320 506 Q340 548 376 576 L394 560 Q372 528 352 500 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M332 420 Q322 460 318 500 Q322 522 338 530 Q356 552 376 576 M378 428 Q366 470 354 506 Q374 532 394 558" fill="none" stroke="#5a3e2e" stroke-width="1.6" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M326 462 Q334 480 334 498 M340 530 Q356 540 368 556" fill="none" stroke="#8a5f45" stroke-width="1.1" filter="url(#ink)"/>
+  <!-- el parte (tablilla con la hoja) -->
+  <g transform="rotate(-9 382 630)">
+    <rect x="352" y="560" width="62" height="140" rx="4" fill="#c7a77e" filter="url(#wash)"/>
+    <rect x="358" y="572" width="50" height="122" fill="#fffdf6" stroke="#3a302b" stroke-width="1.2" filter="url(#ink)"/>
+    <rect x="370" y="562" width="26" height="12" rx="2" fill="#9aa3ad" stroke="#3a302b" stroke-width="1" filter="url(#ink)"/>
+    <path d="M364 590 L400 590 M364 602 L396 602 M364 614 L400 614 M364 626 L390 626 M364 638 L398 638 M364 650 L388 650" stroke="#9fb0c2" stroke-width="1.1"/>
+    <rect x="352" y="560" width="62" height="140" rx="4" fill="none" stroke="#3a302b" stroke-width="1.5" filter="url(#ink)"/>
+  </g>
+  <!-- mano sobre el borde de la tablilla -->
+  <path d="M372 562 Q392 550 410 566 Q414 582 398 590 Q378 592 370 578 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M372 562 Q392 550 410 566 Q414 582 398 590 Q378 592 370 578 M384 572 Q396 570 404 578" fill="none" stroke="#5a3e2e" stroke-width="1.4" filter="url(#ink)"/>
+
+  <!-- izquierdo de ella (derecha del dibujo): caído, con el reloj y el tatuaje -->
+  <path d="M562 410 Q566 450 568 494 L602 494 Q604 450 604 400 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M568 494 Q570 570 576 642 L600 642 Q604 570 602 494 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M574 640 Q568 680 578 716 Q590 728 602 716 Q608 680 600 640 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M562 410 Q566 450 568 494 Q570 570 576 642 Q568 680 578 716 Q590 728 602 716 Q608 680 600 642 Q604 570 602 494 Q604 450 604 400" fill="none" stroke="#5a3e2e" stroke-width="1.6" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M590 500 Q596 540 594 580 M586 690 Q590 704 596 712" fill="none" stroke="#8a5f45" stroke-width="1.1" filter="url(#ink)"/>
+  <!-- tatuaje: tres líneas en la cara interna del antebrazo -->
+  <path d="M573 570 L583 568 M573 577 L583 575 M573 584 L583 582" stroke="#2b2522" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- reloj de correa ancha -->
+  <path d="M574 622 L602 620 L602 642 L575 644 Z" fill="#35414b" stroke="#1f272d" stroke-width="1" filter="url(#ink)"/>
+  <rect x="581" y="624" width="14" height="14" rx="3" fill="#dfe4e8" stroke="#1f272d" stroke-width="1"/>
+
+  <!-- ===================== CABEZA ===================== -->
+  <g transform="rotate(-5 470 190)">
+    <path d="M430 176 Q430 130 470 128 Q512 130 512 176 Q512 214 499 233 Q485 250 470 250 Q455 250 443 235 Q430 218 430 176 Z" fill="url(#skinG)" filter="url(#wash)"/>
+    <path d="M432 186 Q434 216 443 235 Q455 250 470 250 Q485 250 499 233 Q510 216 511 190" fill="none" stroke="#5a3e2e" stroke-width="1.6" stroke-linecap="round" filter="url(#ink)"/>
+    <path d="M500 190 Q506 214 496 232 L488 238 Q500 214 496 192 Z" fill="#8f5f45" opacity="0.4" filter="url(#wash)"/>
+    <!-- cejas rectas y espesas -->
+    <path d="M445 168 L464 166 M478 166 L497 168" stroke="#141111" stroke-width="4.2" stroke-linecap="round"/>
+    <!-- ojos casi negros, pestañas cortas -->
+    <path d="M446 182 Q455 175 465 182 Q455 186 446 182 Z M478 182 Q488 175 497 182 Q488 186 478 182 Z" fill="#f4ede4" stroke="#1a1411" stroke-width="1.3"/>
+    <circle cx="455.5" cy="181.5" r="3.4" fill="#140e0b"/><circle cx="487.5" cy="181.5" r="3.4" fill="#140e0b"/>
+    <circle cx="456.8" cy="180.2" r="1" fill="#fff"/><circle cx="488.8" cy="180.2" r="1" fill="#fff"/>
+    <ellipse cx="447" cy="206" rx="10" ry="5" fill="#b86f58" opacity="0.28" filter="url(#wash)"/><ellipse cx="496" cy="206" rx="10" ry="5" fill="#b86f58" opacity="0.28" filter="url(#wash)"/>
+    <path d="M446 181 Q455 173 465 181 M478 181 Q488 173 497 181" fill="none" stroke="#141111" stroke-width="2"/>
+    <!-- nariz -->
+    <path d="M471 188 Q469 204 464 208 Q470 212 478 208" fill="none" stroke="#6b4632" stroke-width="1.3" filter="url(#ink)"/>
+    <!-- boca ancha, labios gruesos -->
+    <path d="M451 226 Q461 218 471 222 Q481 217 492 222 Q482 229 471 230 Q461 230 451 226 Z" fill="#8a4c40"/>
+    <path d="M491 222 Q495 219 497 216" fill="none" stroke="#6b3a30" stroke-width="1.3" stroke-linecap="round"/>
+    <path d="M451 226 Q471 243 492 222 Q482 230 471 231 Q461 231 451 226 Z" fill="#9f5d4f"/>
+    <path d="M462 235 Q471 238 480 235" fill="none" stroke="#c89a86" stroke-width="1.4" opacity="0.7"/>
+    <!-- pelo negro liso a la mandíbula, medio recogido -->
+    <path d="M424 198 Q418 122 470 113 Q524 120 516 198 L520 254 Q508 264 497 251 L503 196 Q500 156 470 145 Q441 152 437 196 L441 251 Q430 264 419 254 Z" fill="#1b1717" filter="url(#wash)"/>
+    <path d="M424 198 Q418 122 470 113 Q524 120 516 198 L520 254 M419 254 L424 198 M441 251 L437 196 Q441 152 470 145 Q500 156 503 196 L497 251" fill="none" stroke="#0c0a0a" stroke-width="1.6" stroke-linecap="round" filter="url(#ink)"/>
+    <path d="M452 124 Q472 118 496 124 M432 160 Q438 138 454 128 M508 162 Q504 142 490 130" fill="none" stroke="#4d5a6b" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <path d="M426 212 L430 248 M512 212 L510 248" stroke="#3b3f47" stroke-width="1.2"/>
+    <!-- dos horquillas planas -->
+    <rect x="432" y="156" width="20" height="3.6" rx="1.6" fill="#c5cbd1" stroke="#6f777f" stroke-width="0.6" transform="rotate(-28 442 158)"/>
+    <rect x="488" y="154" width="20" height="3.6" rx="1.6" fill="#c5cbd1" stroke="#6f777f" stroke-width="0.6" transform="rotate(28 498 156)"/>
+  </g>
+
+
+  <!-- trazos sueltos de boceto -->
+  <g fill="none" stroke="#8a8277" stroke-width="0.8" stroke-linecap="round" opacity="0.55" filter="url(#ink)">
+    <path d="M386 610 C378 720 390 840 402 955"/>
+    <path d="M590 1296 C580 1230 570 1150 564 1080"/>
+    <path d="M366 634 Q420 648 470 644"/>
+    <path d="M610 404 Q618 450 612 500"/>
+    <path d="M320 430 Q312 470 314 504"/>
+  </g>
+  <path d="M500 700 C520 820 530 900 520 960" fill="none" stroke="#c9d3de" stroke-width="10" opacity="0.5" filter="url(#wash)"/>
+
+  <!-- ===================== FIRMA Y RÓTULO ===================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2e2724">
+    <text x="600" y="1188" font-size="50" font-style="italic" transform="rotate(-4 600 1188)">Tess Delaney</text>
+    <text x="606" y="1224" font-size="13" letter-spacing="3" fill="#6f8aa3" transform="rotate(-4 606 1224)">REHABILITACIÓN · CRESTON</text>
+    <text x="608" y="1246" font-size="12" letter-spacing="1.5" fill="#8a8277" transform="rotate(-4 608 1246)">sala 3 · día 34</text>
+  </g>
+  <path d="M600 1204 Q700 1190 820 1176" fill="none" stroke="#9fbad3" stroke-width="3" stroke-linecap="round" opacity="0.7" filter="url(#wash)"/>
+</svg>

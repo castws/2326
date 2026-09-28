@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" width="900" height="1400">
+  <defs>
+    <filter id="wash" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="13" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.1 0 0 0 0.25" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="6" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="10" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="0.8"/>
+    </filter>
+    <filter id="washSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="31" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.3 0 0 0 0.05" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="9" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="40" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="2"/>
+    </filter>
+    <filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="4" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.3  0 0 0 0.09 0"/>
+    </filter>
+    <linearGradient id="skinG" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e9c5b1"/>
+      <stop offset="0.5" stop-color="#f6e0d2"/>
+      <stop offset="1" stop-color="#ebc9b6"/>
+    </linearGradient>
+    <linearGradient id="leather" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#111114"/>
+      <stop offset="0.35" stop-color="#2d2d33"/>
+      <stop offset="0.5" stop-color="#55555e"/>
+      <stop offset="0.65" stop-color="#26262b"/>
+      <stop offset="1" stop-color="#101013"/>
+    </linearGradient>
+    <pattern id="lace" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#161616"/>
+      <circle cx="3" cy="3" r="1.5" fill="none" stroke="#55555a" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <!-- papel -->
+  <rect width="900" height="1400" fill="#f7f3ec"/>
+  <rect width="900" height="1400" filter="url(#grain)"/>
+
+  <!-- manchas de fondo -->
+  <g transform="translate(0 180)">
+  <path d="M260 360 C240 240 360 150 480 170 C620 190 690 300 660 420 C640 520 580 590 470 600 C350 610 280 520 260 440 Z" fill="#c3d4ee" opacity="0.55" filter="url(#washSoft)"/>
+  <path d="M520 200 C590 180 650 230 630 300 C615 350 560 350 540 310 Z" fill="#f0b8b0" opacity="0.22" filter="url(#washSoft)"/>
+  </g>
+  <ellipse cx="452" cy="1338" rx="170" ry="30" fill="#d8c6a6" opacity="0.5" filter="url(#washSoft)"/>
+  <g fill="#6f95d8" opacity="0.45">
+    <circle cx="672" cy="380" r="3.6"/><circle cx="688" cy="402" r="2.2"/><circle cx="248" cy="520" r="2.8"/>
+  </g>
+
+  <g transform="translate(45 212) scale(0.9)">
+  <g transform="translate(0 760) scale(1 0.85) translate(0 -760)">
+  <!-- ===================== PIERNAS (muy pálidas, rodillas juntas) ===================== -->
+  <path d="M366 740 C370 860 392 920 410 960 C400 1030 396 1100 410 1180 C416 1240 420 1270 424 1294 L450 1294 C448 1240 444 1160 444 1080 C444 1030 446 996 448 962 C446 900 448 820 450 700 C452 820 454 900 452 962 C454 996 456 1030 456 1080 C456 1160 452 1240 450 1294 L476 1294 C480 1270 484 1240 490 1180 C504 1100 500 1030 490 960 C508 920 530 860 534 740 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M420 800 C426 880 440 930 446 960 M480 800 C474 880 460 930 454 960 M416 1010 C414 1080 420 1160 432 1270 M484 1010 C486 1080 480 1160 468 1270" fill="none" stroke="#e2b9a4" stroke-width="16" opacity="0.2" filter="url(#wash)"/>
+  <path d="M366 740 C370 860 392 920 410 960 C400 1030 396 1100 410 1180 C416 1240 420 1270 424 1294 M450 1294 C448 1240 444 1160 444 1080 C444 1030 446 996 448 962 C446 900 448 820 450 760 C452 820 454 900 452 962 C454 996 456 1030 456 1080 C456 1160 452 1240 450 1294 M476 1294 C480 1270 484 1240 490 1180 C504 1100 500 1030 490 960 C508 920 530 860 534 740" fill="none" stroke="#7a5647" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M416 952 Q430 962 444 954 M456 954 Q470 962 486 952" fill="none" stroke="#c9998a" stroke-width="1.2" filter="url(#ink)"/>
+
+  <!-- zapatillas blancas con velcro, puntas hacia dentro -->
+  <path d="M420 1290 Q404 1318 412 1340 L452 1342 Q464 1322 452 1290 Z" fill="#ffffff" stroke="#3a302b" stroke-width="1.6" filter="url(#ink)"/>
+  <path d="M448 1290 Q438 1322 450 1342 L490 1340 Q498 1318 482 1290 Z" fill="#ffffff" stroke="#3a302b" stroke-width="1.6" filter="url(#ink)"/>
+  <g fill="#eef0f2" stroke="#6f777f" stroke-width="0.9" filter="url(#ink)">
+    <rect x="416" y="1302" width="36" height="7" rx="2"/><rect x="414" y="1314" width="38" height="7" rx="2"/>
+    <rect x="450" y="1302" width="36" height="7" rx="2"/><rect x="449" y="1314" width="38" height="7" rx="2"/>
+  </g>
+  <path d="M414 1334 L456 1336 M446 1336 L492 1334" stroke="#b8c0c9" stroke-width="2"/>
+
+  </g>
+
+  <!-- ===================== TORSO DESCUBIERTO ===================== -->
+  <path d="M434 300 L430 350 L470 350 L466 300 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M390 396 Q386 450 404 500 L496 500 Q514 450 510 396 Q450 384 390 396 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M390 396 Q386 450 404 500 M510 396 Q514 450 496 500" fill="none" stroke="#7a5647" stroke-width="1.4" filter="url(#ink)"/>
+  <!-- senos pequeños y separados -->
+  <path d="M398 438 Q402 462 422 462 Q434 460 438 450 M502 438 Q498 462 478 462 Q466 460 462 450" fill="none" stroke="#b48774" stroke-width="1.3" filter="url(#ink)"/>
+  <path d="M404 470 Q408 480 414 486 M496 470 Q492 480 486 486" fill="none" stroke="#dcb2a0" stroke-width="1.1"/>
+  <!-- pezoneras negras con colgantes azules -->
+  <circle cx="420" cy="448" r="5.4" fill="#111"/>
+  <line x1="420" y1="453" x2="420" y2="462" stroke="#9aa3ad" stroke-width="0.9"/>
+  <path d="M420 461 Q415 467 420 474 Q425 467 420 461 Z" fill="#2f6fd6" stroke="#1d4d9e" stroke-width="0.7"/>
+  <circle cx="482" cy="448" r="5.4" fill="#111"/>
+  <line x1="482" y1="453" x2="482" y2="462" stroke="#9aa3ad" stroke-width="0.9"/>
+  <path d="M482 461 Q477 467 482 474 Q487 467 482 461 Z" fill="#2f6fd6" stroke="#1d4d9e" stroke-width="0.7"/>
+  <circle cx="418.6" cy="465.5" r="1" fill="#cfe0ff"/><circle cx="480.6" cy="465.5" r="1" fill="#cfe0ff"/>
+
+  <!-- ===================== FALDA DE CUERINA ===================== -->
+  <!-- C-string de encaje dentro de la V (debajo de la falda) -->
+  <path d="M440 656 Q450 650 460 656 Q463 676 455 692 Q450 697 445 692 Q437 676 440 656 Z" fill="url(#lace)" stroke="#000" stroke-width="0.9"/>
+  <path d="M446 658 L446 690 M450 655 L450 694 M454 658 L454 690" stroke="#77777d" stroke-width="0.7" opacity="0.7"/>
+  <path d="M400 500 L500 500 Q526 548 534 610 Q540 680 542 764 L476 764 L450 650 L424 764 L358 764 Q360 680 366 610 Q374 548 400 500 Z" fill="url(#leather)"/>
+  <path d="M470 520 Q490 600 500 740 M420 520 Q412 600 404 740" fill="none" stroke="#8a8a96" stroke-width="3" opacity="0.35" filter="url(#wash)"/>
+  <path d="M402 516 L498 516" stroke="#4d4d56" stroke-width="1"/>
+  <path d="M400 500 L500 500 Q526 548 534 610 Q540 680 542 764 L476 764 L450 650 L424 764 L358 764 Q360 680 366 610 Q374 548 400 500 Z" fill="none" stroke="#050505" stroke-width="1.6" stroke-linejoin="round" filter="url(#ink)"/>
+
+  <!-- ===================== BRAZOS Y TOP NEGRO ===================== -->
+  <!-- brazo derecho de ella (izq. del dibujo): estirado, tira del bajo de la falda -->
+  <path d="M374 364 Q356 440 352 520 Q352 600 364 700 L384 752 L396 744 L384 692 Q378 600 382 520 Q388 450 398 396 Z" fill="#1d1d21" filter="url(#ink)"/>
+  <path d="M374 364 Q356 440 352 520 Q352 600 364 700 L384 752 M396 744 L384 692 Q378 600 382 520 Q388 450 398 396" fill="none" stroke="#050505" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M378 748 Q370 768 380 786 Q394 794 404 780 Q408 764 398 744 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M378 748 Q370 768 380 786 Q394 794 404 780 Q408 764 398 744" fill="none" stroke="#7a5647" stroke-width="1.3" filter="url(#ink)"/>
+  <!-- pellizco de la falda -->
+  <path d="M376 760 Q386 772 398 764 L402 770 Q388 782 372 770 Z" fill="#26262b"/>
+  <!-- brazo izquierdo de ella (dcha. del dibujo): cruzado por delante, se sujeta el otro brazo -->
+  <path d="M526 364 Q548 420 552 470 Q552 510 538 530 L400 560 L394 536 L520 498 Q524 470 510 410 Z" fill="#1d1d21" filter="url(#ink)"/>
+  <path d="M526 364 Q548 420 552 470 Q552 510 538 530 L400 560 M394 536 L520 498 Q524 470 510 410" fill="none" stroke="#050505" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M402 530 Q380 526 368 540 Q364 556 378 566 Q394 570 404 560 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M402 530 Q380 526 368 540 Q364 556 378 566 Q394 570 404 560 M372 548 L392 546" fill="none" stroke="#7a5647" stroke-width="1.3" filter="url(#ink)"/>
+  <path d="M362 470 Q360 560 370 660 M540 430 Q546 460 544 490" fill="none" stroke="#5a5a64" stroke-width="2" opacity="0.6"/>
+  <!-- cuerpo del top: hombros y clavículas -->
+  <path d="M432 332 Q400 334 376 348 Q362 360 360 380 Q380 392 396 400 Q424 388 450 386 Q476 388 504 400 Q520 392 540 380 Q538 360 524 348 Q500 334 468 332 Q450 344 432 332 Z" fill="#1d1d21" filter="url(#ink)"/>
+  <path d="M432 332 Q400 334 376 348 Q362 360 360 380 M540 380 Q538 360 524 348 Q500 334 468 332 M396 400 Q424 388 450 386 Q476 388 504 400 M432 332 Q450 344 468 332" fill="none" stroke="#050505" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M388 360 Q420 350 450 352 Q480 350 512 360" fill="none" stroke="#4a4a52" stroke-width="1.2" opacity="0.8"/>
+
+  <!-- ===================== CABEZA ===================== -->
+  <g transform="rotate(7 450 250)">
+    <path d="M408 244 Q408 196 450 194 Q492 196 492 244 Q492 280 478 296 Q466 308 450 308 Q434 308 422 296 Q408 280 408 244 Z" fill="url(#skinG)" filter="url(#wash)"/>
+    <path d="M410 256 Q412 282 422 296 Q434 308 450 308 Q466 308 478 296 Q490 282 491 258" fill="none" stroke="#7a5647" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+    <!-- rubor que se le enciende -->
+    <ellipse cx="424" cy="272" rx="14" ry="8" fill="#f09a90" opacity="0.5" filter="url(#wash)"/>
+    <ellipse cx="478" cy="272" rx="14" ry="8" fill="#f09a90" opacity="0.5" filter="url(#wash)"/>
+    <!-- pecas -->
+    <g fill="#c98f6f" opacity="0.9">
+      <circle cx="438" cy="262" r="1"/><circle cx="444" cy="258" r="0.9"/><circle cx="456" cy="258" r="0.9"/><circle cx="462" cy="262" r="1"/>
+      <circle cx="418" cy="264" r="1"/><circle cx="424" cy="268" r="0.9"/><circle cx="430" cy="262" r="0.9"/><circle cx="420" cy="274" r="0.9"/>
+      <circle cx="482" cy="264" r="1"/><circle cx="476" cy="268" r="0.9"/><circle cx="470" cy="262" r="0.9"/><circle cx="484" cy="274" r="0.9"/>
+    </g>
+    <!-- cejas algo levantadas, inseguras -->
+    <path d="M424 230 Q432 224 442 228 M458 228 Q468 224 476 230" fill="none" stroke="#8d6a45" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- ojos azules grandes, mirada de lado -->
+    <path d="M422 244 Q432 235 443 244 Q432 250 422 244 Z M457 244 Q468 235 478 244 Q468 250 457 244 Z" fill="#fbf8f4" stroke="#3a2c24" stroke-width="1.2"/>
+    <circle cx="437" cy="243.5" r="4.4" fill="#4b7fb3"/><circle cx="472" cy="243.5" r="4.4" fill="#4b7fb3"/>
+    <circle cx="437.5" cy="243.5" r="1.9" fill="#15202b"/><circle cx="472.5" cy="243.5" r="1.9" fill="#15202b"/>
+    <circle cx="438.8" cy="242" r="1.1" fill="#fff"/><circle cx="473.8" cy="242" r="1.1" fill="#fff"/>
+    <path d="M422 243 Q432 234 443 243 M457 243 Q468 234 478 243" fill="none" stroke="#3a2c24" stroke-width="1.6"/>
+    <!-- nariz y boca pequeña, apretada -->
+    <path d="M450 252 Q449 264 446 268 Q450 271 455 268" fill="none" stroke="#c09a85" stroke-width="1.2" filter="url(#ink)"/>
+    <path d="M440 284 Q446 280 450 282 Q455 280 460 284 Q455 287 450 287 Q445 287 440 284 Z" fill="#d98f8a"/>
+    <path d="M440 284 Q450 290 460 284" fill="none" stroke="#b76b67" stroke-width="0.9"/>
+    <!-- pelo rubio oscuro a la mandíbula, raya a un lado -->
+    <path d="M400 256 Q396 184 452 178 Q506 184 500 256 L504 306 Q494 314 486 304 L488 252 Q484 214 452 208 Q424 212 414 240 L416 304 Q406 314 396 306 Z" fill="#9a7a4e" filter="url(#wash)"/>
+    <path d="M400 256 Q396 184 452 178 Q506 184 500 256 L504 306 M396 306 L400 256 M416 304 L414 240 Q424 212 452 208 Q484 214 488 252 L486 304" fill="none" stroke="#5e4629" stroke-width="1.5" stroke-linecap="round" filter="url(#ink)"/>
+    <path d="M420 196 Q446 184 480 190 M404 230 Q410 206 428 194 M494 236 Q492 212 478 198" fill="none" stroke="#c7a676" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <!-- mechón suelto que se escapa de la pinza -->
+    <path d="M418 214 Q408 244 416 276" fill="none" stroke="#8a6c43" stroke-width="3.2" stroke-linecap="round" filter="url(#ink)"/>
+    <!-- pinza azul -->
+    <rect x="404" y="212" width="20" height="8" rx="3.5" fill="#2f6fd6" stroke="#1d4d9e" stroke-width="0.9" transform="rotate(-58 414 216)"/>
+  </g>
+
+  <!-- nota a lápiz -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#8a8277" font-size="15">
+    <text x="226" y="820" transform="rotate(-6 226 820)">se tira de la falda</text>
+    <text x="238" y="840" transform="rotate(-6 238 840)">sin darse cuenta</text>
+  </g>
+  <path d="M340 812 Q360 796 372 776" fill="none" stroke="#8a8277" stroke-width="1" filter="url(#ink)"/>
+  <path d="M372 776 L364 780 M372 776 L372 785" fill="none" stroke="#8a8277" stroke-width="1"/>
+
+  </g>
+
+  <!-- ===================== FIRMA Y RÓTULO ===================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2e2724">
+    <text x="596" y="1178" font-size="56" font-style="italic" transform="rotate(-4 596 1178)">Hobbs</text>
+    <text x="602" y="1214" font-size="13" letter-spacing="3" fill="#4b6fb0" transform="rotate(-4 602 1214)">RESIDENTE · CRESTON</text>
+    <text x="604" y="1236" font-size="12" letter-spacing="1.5" fill="#8a8277" transform="rotate(-4 604 1236)">salida de las 15:10 · día 33</text>
+  </g>
+  <path d="M596 1194 Q680 1184 780 1170" fill="none" stroke="#6f95d8" stroke-width="3" stroke-linecap="round" opacity="0.6" filter="url(#wash)"/>
+</svg>

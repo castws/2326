@@ -321,11 +321,13 @@ if MOB:
     mueble(6.2, 4.05, 6.65, 4.45); mueble(8.35, 4.05, 8.8, 4.45)
     armario(9.9, 4.3, 10.45, 6.8)
     sillon(9.0, 6.95, 9.85, 7.8)
-    # baño completo: bañera (1,7 × 0,8) contra la pared oeste y ducha a ras de suelo (1,45 × 1,75) bajo la ventana,
-    # abierta por el sur para entrar con la silla reclinable; lavabo e inodoro dejan un paso de 1,2 m desde la puerta
-    mueble(3.55, 4.05, 4.35, 5.75, 3, '#ffffff'); mueble(3.65, 4.15, 4.25, 5.65, 3, '#eef6fa')
-    ducha(4.5, 4.05, 5.95, 5.8)
-    lavabo(3.55, 6.0, 4.0, 6.8); inodoro(5.65, 6.6, 'e')
+    # baño completo: bañera (1,7 × 0,8) en el lateral derecho (pared este, esquina sureste) con el lado largo libre:
+    # delante queda un hueco de 1,6 × 2,3 m, al que da la puerta, para acercar la grúa de pacientes o la silla.
+    # Ducha a ras de suelo (1,45 × 1,55) bajo la ventana; inodoro contra la pared norte, junto a la ducha,
+    # y lavabo en la pared oeste, entre la ducha y la puerta
+    mueble(5.15, 6.25, 5.95, 7.95, 3, '#ffffff'); mueble(5.25, 6.35, 5.85, 7.85, 3, '#eef6fa')
+    ducha(3.55, 4.05, 5.0, 5.6)
+    inodoro(5.55, 4.4, 'n'); lavabo(3.55, 5.8, 4.0, 6.35)
     # cuarto auxiliar: sofá cama, escritorio bajo la ventana norte, estantería
     mueble(0.55, 4.5, 1.45, 6.5, 4, '#e7dcc8')
     mueble(1.8, 4.05, 3.0, 4.55); silla(2.4, 4.95)
@@ -482,10 +484,10 @@ if MOB:
 # ------------------------------------------------------------------ puertas y aberturas
 opening('h', 12, 9.3, 10.2, huesp, d=-1)                       # casa de huéspedes: entrada (sur)
 opening('h', 8, 7.05, 7.95, huesp, d=-1)                       # sala -> dormitorio (alineada con la cama de Vera)
-opening('h', 8, 3.7, 4.5, huesp, d=-1)                         # sala -> baño
+opening('h', 8, 3.65, 4.55, huesp, d=-1)                       # sala -> baño (0,9 m, para la grúa)
 opening('h', 8, 2.3, 3.1, huesp, d=-1)                         # sala -> cuarto auxiliar
 window('h', 4, 6.6, 8.4); window('v', 10.5, 4.8, 7.2)          # dormitorio: bosque y este
-window('h', 4, 4.1, 5.4)                                       # baño
+window('h', 4, 3.9, 4.8)                                       # baño: sobre la ducha
 window('h', 4, 1.8, 3.0); window('v', 0.5, 5.0, 7.0)           # cuarto auxiliar
 window('v', 0.5, 11.0, 11.8); window('h', 12, 4.0, 8.5); window('v', 10.5, 8.7, 9.9)   # sala y cocina
 for r in (0, 4.5, 9):

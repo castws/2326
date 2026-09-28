@@ -364,15 +364,15 @@
 <rect x="304.8" y="268.0" width="14.4" height="8.0" fill="#dfe9f1" />
 <line x1="304.8" y1="272" x2="304.8" y2="257.6" stroke="#3b3834" stroke-width="1.2"/>
 <path d="M304.8,257.6 A14.4,14.4 0 0 1 319.2,272" fill="none" stroke="#3b3834" stroke-width="0.7"/>
-<rect x="251.2" y="268.0" width="12.8" height="8.0" fill="#dfe9f1" />
-<line x1="251.2" y1="272" x2="251.2" y2="259.2" stroke="#3b3834" stroke-width="1.2"/>
-<path d="M251.2,259.2 A12.8,12.8 0 0 1 264.0,272" fill="none" stroke="#3b3834" stroke-width="0.7"/>
+<rect x="250.4" y="268.0" width="14.4" height="8.0" fill="#dfe9f1" />
+<line x1="250.4" y1="272" x2="250.4" y2="257.6" stroke="#3b3834" stroke-width="1.2"/>
+<path d="M250.4,257.6 A14.4,14.4 0 0 1 264.8,272" fill="none" stroke="#3b3834" stroke-width="0.7"/>
 <rect x="228.8" y="268.0" width="12.8" height="8.0" fill="#dfe9f1" />
 <line x1="228.8" y1="272" x2="228.8" y2="259.2" stroke="#3b3834" stroke-width="1.2"/>
 <path d="M228.8,259.2 A12.8,12.8 0 0 1 241.6,272" fill="none" stroke="#3b3834" stroke-width="0.7"/>
 <rect x="297.6" y="204.5" width="28.8" height="7.0" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
 <rect x="356.5" y="220.8" width="7.0" height="38.4" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
-<rect x="257.6" y="204.5" width="20.8" height="7.0" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
+<rect x="254.4" y="204.5" width="14.4" height="7.0" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
 <rect x="220.8" y="204.5" width="19.2" height="7.0" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
 <rect x="196.5" y="224.0" width="7.0" height="32.0" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />
 <rect x="196.5" y="320.0" width="7.0" height="12.8" fill="#ffffff" stroke="#5fa8cf" stroke-width="1.4" />

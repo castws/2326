@@ -20,7 +20,7 @@
 - **Sin yesos ni discapacidades de base.** Excepción futura: Megan, si decide incorporarse al hospital (le espera un puesto de coordinadora de enfermeras).
 - **Excepción permanente: la enfermedad de yoga.** El personal la pasa como cualquiera; mientras dure el yeso están de baja por incapacidad, pero alguna puede decidir ir a trabajar igualmente si considera que el yeso concreto no le impide hacer su trabajo. Es decisión de cada una. Ver [reglas/poblacion-y-enfermedades.md](../reglas/poblacion-y-enfermedades.md).
 - **Uniforme del personal de enfermería:** vestido blanco de enfermera, ceñido y corto, de botones frontales de arriba a abajo, con medias veladas blancas. Norma para todas las enfermeras del Creston.
-- **Uniforme de rehabilitación** (fisioterapia, distinto del de enfermería): túnica corta de manga corta azul muy claro y **pantalón blanco ceñido de panel abatible**, con la pieza delantera moldeada y dos corchetes; zapatillas planas blancas.
+- **Uniforme de rehabilitación** (fisioterapia, distinto del de enfermería): túnica corta de manga corta azul muy claro y **pantalón blanco ceñido de panel abatible**, con la pieza delantera moldeada, dos corchetes arriba y cierre de presión continuo en los laterales; zapatillas planas blancas.
 
 ---
 
