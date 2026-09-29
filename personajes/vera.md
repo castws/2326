@@ -10,7 +10,7 @@
 
 **Rasgos:** Mujer blanca, de piel muy clara. Cabello rubio lacio hasta la nuca, habitualmente suelto o recogido con descuido. Ojos gris claro. Rasgos precisos, expresión controlada. **Incluso fuera del trabajo proyecta compostura**, y desnuda mantiene exactamente la misma postura que vestida.
 
-**Cuerpo:** 171 cm. **Delgada de verdad**, sin curvas grandes, con clavículas y crestas ilíacas marcadas. Senos medianos y altos, pezones pequeños y rosados. Cintura larga, caderas estrechas, muslos finos. Pubis completamente depilado. **Cicatriz vieja de un par de centímetros en el costado derecho, a la altura de la última costilla** — única marca visible.
+**Cuerpo:** 171 cm. **Delgada de verdad**, sin curvas grandes, con clavículas y crestas ilíacas marcadas. Senos medianos y altos, **copa B (70 de banda, 84 de contorno)**, pezones pequeños y rosados; **areolas de 3 cm**, rosa claro. Cintura larga, caderas estrechas, muslos finos. Pubis completamente depilado. **Cicatriz vieja de un par de centímetros en el costado derecho, a la altura de la última costilla** — única marca visible.
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y cerrados; labios menores cortos y recogidos, apenas asomando, de un rosa pálido. Clítoris pequeño. **Sin pene.**
 

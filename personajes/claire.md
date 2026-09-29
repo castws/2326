@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel clara y uniforme. Cabello castaño, habitualmente recogido. Ojos claros, de un gris azulado. **Expresión permanentemente tranquila, casi sin variaciones emocionales visibles** — es su rasgo más reconocible y no cambia ni ejecutando su propia ruptura.
 
-**Cuerpo:** 172 cm. Complexión media, proporciones regulares y nada llamativas. Senos medianos, pezones claros. Caderas medianas. Vello púbico recortado corto.
+**Cuerpo:** 172 cm. Complexión media, proporciones regulares y nada llamativas. Senos medianos, **copa C (75 de banda, 92 de contorno)**, pezones claros; **areolas de 3,5 cm**, rosa pálido. Caderas medianas. Vello púbico recortado corto.
 
 **Genitales:** **Tiene vagina.** Labios mayores llenos y cerrados; labios menores cortos y completamente ocultos entre ellos. Clítoris pequeño, cubierto. **Sin pene.**
 

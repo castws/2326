@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel clara, con algo de color en la cara. Cabello rubio corto, por encima de la oreja, peinado hacia un lado. Ojos claros, azul grisáceo. **Sonrisa tranquila**, que es lo primero que se le nota.
 
-**Cuerpo:** 167 cm. Delgada, de líneas rectas: hombros estrechos, cintura poco marcada, caderas discretas. Senos pequeños y altos, pezones pequeños y claros. Vello púbico rubio, muy escaso, sin depilar.
+**Cuerpo:** 167 cm. Delgada, de líneas rectas: hombros estrechos, cintura poco marcada, caderas discretas. Senos pequeños y altos, **copa A (70 de banda, 82 de contorno)**, pezones pequeños y claros; **areolas de 2,5 cm**, rosa muy pálido. Vello púbico rubio, muy escaso, sin depilar.
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y poco carnosos; labios menores cortos, ocultos entre ellos, de un rosa pálido. **Sin pene.**
 

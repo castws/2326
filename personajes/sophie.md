@@ -9,7 +9,7 @@
 
 **Rasgos:** Piel clara, sin marcas. Cabello castaño muy corto, de corte recto. Ojos marrones. Cara pequeña y de rasgos suaves; media sonrisa habitual que es casi todo lo que le queda de expresión con el yeso puesto.
 
-**Cuerpo:** 165 cm. Delgada, de cintura estrecha y caderas discretas. Senos medianos y altos, pezones pequeños y oscuros. Pubis depilado.
+**Cuerpo:** 165 cm. Delgada, de cintura estrecha y caderas discretas. Senos medianos y altos, **copa B (70 de banda, 85 de contorno)**, pezones pequeños y oscuros; **areolas de 3 cm**, marrón oscuro. Pubis depilado.
 
 **Genitales:** **Tiene pene funcional**, no circuncidado. **Erecto: 16 × 12 cm. Fláccido: 9 × 9,5 cm.** Testículos medianos y altos. Fuera del yeso lo lleva marcado bajo la falda del uniforme, sin ropa interior que lo aplane. Con el yeso puesto queda descubierto por la abertura genital, a la vista de quien la atiende.
 

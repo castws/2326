@@ -3,6 +3,7 @@
 **Tipo:** Robot (hermana y cuidadora de Mira)
 **Edad aparente:** 27 años
 **Apariencia:** Cabello castaño oscuro liso hasta los hombros. Ojos marrones. Complexión media, estatura normal. Ropa sencilla y funcional: pantalones, camisetas de manga larga. Sin maquillaje. Cara tranquila, expresión que lee más de lo que muestra.
+**Senos:** grandes, copa E (80 de banda, 101 de contorno). **Areolas:** 3,5 cm, marrón claro.
 **Personalidad:** Reservada, práctica, observadora. Habla poco y escucha mucho. Sus preguntas son breves y directas, sin rodeos. No muestra hostilidad pero tampoco exceso de calidez ante desconocidos. Cuando algo se asienta en su evaluación, lo muestra en una pequeña relajación de la expresión, no en palabras.
 **Rol:** Cuidadora permanente de Mira. Vive con ella en el apartamento del centro (a tres calles del café principal).
 

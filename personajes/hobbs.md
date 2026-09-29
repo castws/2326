@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel muy pálida, sin marcas, con **pecas repartidas por la nariz y los pómulos** que se le encienden cuando se ruboriza. Cabello rubio oscuro cortado a la altura de la mandíbula, habitualmente recogido a un lado con **una pinza que se le suelta constantemente**. Cara redonda, ojos azules grandes.
 
-**Cuerpo:** 158 cm. Baja y de complexión menuda: torso estrecho, costillas algo marcadas. Senos pequeños y separados, pezones rosados muy pequeños. Caderas anchas en proporción a su estatura. Pubis completamente depilado.
+**Cuerpo:** 158 cm. Baja y de complexión menuda: torso estrecho, costillas algo marcadas. Senos pequeños y separados, **copa A (65 de banda, 77 de contorno)**, pezones rosados muy pequeños; **areolas de 2 cm**, rosadas. Caderas anchas en proporción a su estatura. Pubis completamente depilado.
 
 **Genitales:** **Tiene pene funcional**, y es lo primero que se le ve de cerca por lo desproporcionado respecto a su estatura. **Erecto: 15 × 15 cm** — casi tanto perímetro como longitud. **Fláccido: 8,5 × 11,5 cm** (medido el Día 29 a orden de Mark): "de largo no es nada, de ancho sí". Recto, sin curvatura, con el glande apenas más ancho que el tronco. **No circuncidada:** el prepucio cubre el glande en reposo y en erección se retrae solo en parte; para dejarlo al descubierto del todo hay que bajarlo con la mano. Piel clara, sin venas marcadas. Testículos pequeños y recogidos. **Sin vagina.**
 

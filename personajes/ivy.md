@@ -2,6 +2,7 @@
 
 **Tipo:** Robot (habitante de la ciudad)
 **Apariencia:** Cabello rojo, ojos oscuros, vestido verde muy corto. Yeso largo en brazo izquierdo.
+**Senos:** grandes y pesados, copa G (75 de banda, 100 de contorno). **Areolas:** 5 cm, rosa claro.
 **Personalidad:** Desinhibida, receptiva.
 **Rol:** Conocida por Hannah en el Club Insomnia. Una noche juntas en casa de Hannah.
 

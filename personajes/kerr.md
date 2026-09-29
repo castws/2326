@@ -3,7 +3,7 @@
 **Tipo:** Robot (habitante de la ciudad)
 **Estado:** creada el Día 31 como trasfondo de Vera. **Todavía no ha aparecido en escena.**
 
-**Apariencia:** 34 años aparentes. Alta (~178 cm), delgada, de manos largas y muy cuidadas. Pelo negro cortado muy corto, casi rapado por los laterales y algo más largo arriba. Ojos grises, cejas rectas. Piel muy pálida. No tiene pene; no lleva nada marcado en la ropa por delante. Fuera del consultorio viste oscuro y ajustado, sin adornos.
+**Apariencia:** 34 años aparentes. Alta (~178 cm), delgada, de manos largas y muy cuidadas. Pelo negro cortado muy corto, casi rapado por los laterales y algo más largo arriba. Ojos grises, cejas rectas. Piel muy pálida. No tiene pene; no lleva nada marcado en la ropa por delante. Fuera del consultorio viste oscuro y ajustado, sin adornos. Senos medianos, **copa C (75 de banda, 92 de contorno)**; **areolas de 2,5 cm**, rosa pálido.
 
 **Profesión:** cirujana privada. **Consultorio propio** en la ciudad — no pertenece al Creston ni a ninguna otra estructura, y no comparte historiales con nadie. Practica **modificaciones corporales electivas**: amputaciones, resecciones, cierres y reconstrucciones para personas que las quieren para sí mismas.
 

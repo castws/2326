@@ -2,6 +2,7 @@
 
 **Tipo:** Robot (enfermera del hospital, cuidadora de Tori)
 **Apariencia:** ~24 años aparentes. Cabello rubio recogido en moño bajo. Ojos marrones. Complexión media, estatura normal. Uniforme azul claro.
+**Senos:** llenos, copa D (80 de banda, 99 de contorno). **Areolas:** 3,5 cm, rosa.
 **Personalidad:** Profesional, eficiente, práctica. Puramente funcional: atiende necesidades físicas (higiene, medicación, posición, vibrador) sin buscar ninguna vía real de comunicación con Tori. No le pregunta nada ni espera respuesta a lo que le dice. No ha intentado interpretar sus parpadeos ni sus gestos con el muñón.
 **Rol:** Enfermera que cuida a Tori en el día desde hace ya algún tiempo. Mark contrató sus servicios 24 horas mientras dure la recuperación.
 

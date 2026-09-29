@@ -8,7 +8,7 @@
 
 ## Apariencia
 
-Alta, de hombros anchos y cintura marcada. Cabello castaño rojizo recogido en un moño alto y desordenado, con el flequillo largo apartado a un lado. Ojos oscuros muy juntos, boca ancha, un lunar bajo el pómulo derecho.
+Alta, de hombros anchos y cintura marcada. Cabello castaño rojizo recogido en un moño alto y desordenado, con el flequillo largo apartado a un lado. Ojos oscuros muy juntos, boca ancha, un lunar bajo el pómulo derecho. Senos grandes y llenos, **copa F (80 de banda, 103 de contorno)**; **areolas de 5 cm**, rosa oscuro; asoman por los bordes de las pezoneras ovaladas.
 
 **Pierna derecha amputada por encima de la rodilla**, sin prótesis. Se desplaza con **dos muletas de antebrazo**, con soltura y bastante rapidez, apoyando el muñón hacia atrás. Para trabajar con las manos libres se sienta en el borde de una banqueta o se apoya solo en una muleta.
 

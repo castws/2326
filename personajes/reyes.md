@@ -7,7 +7,7 @@
 
 ## Apariencia
 
-Estatura media, complexión atlética (hombros marcados, brazos con definición, vientre firme, muslos fuertes). Piel morena clara, uniforme en todo el cuerpo. Cabello negro muy liso recogido en una trenza larga. Ojos oscuros, cejas rectas, boca ancha. Senos medianos y altos, pezones oscuros y pequeños.
+Estatura media, complexión atlética (hombros marcados, brazos con definición, vientre firme, muslos fuertes). Piel morena clara, uniforme en todo el cuerpo. Cabello negro muy liso recogido en una trenza larga. Ojos oscuros, cejas rectas, boca ancha. Senos medianos y altos, **copa C (75 de banda, 92 de contorno)**, pezones oscuros y pequeños; **areolas de 3 cm**, marrón oscuro.
 
 Tiene **pene funcional**: unos 18 cm, más bien delgado, con curvatura suave hacia arriba y venas marcadas. Sin vello corporal. Bajo el uniforme se le marca claramente el contorno, sin disimulo (norma social del área).
 

@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel blanca. Cabello negro liso. Ojos verde oscuro — lo único que mueve, y por eso lo único que expresa. **Tatuajes en brazos, clavícula y costado izquierdo** (diseños geométricos y florales en negro, hechos antes del incidente). **La boca siempre abierta da a su cara una expresión de permanente suspensión, como si estuviera a punto de decir algo.**
 
-**Cuerpo:** 173 cm. Senos grandes y llenos, pezones grandes y oscuros. Cintura delgada, caderas anchas. Musculatura perdida por tres años de inmovilidad; la piel, muy pálida por no salir. Vello púbico recortado por Cora.
+**Cuerpo:** 173 cm. Senos grandes y llenos, **copa E (75 de banda, 97 de contorno)**, pezones grandes y oscuros; **areolas de 5,5 cm**, marrón oscuro. Cintura delgada, caderas anchas. Musculatura perdida por tres años de inmovilidad; la piel, muy pálida por no salir. Vello púbico recortado por Cora.
 
 **Genitales:** **Tiene vagina.** Labios mayores llenos; labios menores largos y prominentes, asomando bastante entre ellos, de un rosa oscuro. Clítoris grande y muy sensible — **la sensibilidad no se vio afectada por el derrame** y llega al orgasmo con relativa facilidad. **Sin pene.**
 

@@ -16,7 +16,7 @@ descrito en una escena suelta:
 El nivel de la ficha no tiene nada que ver con los grupos de `characters.md` (`Activos` /
 `Archivados`), que solo dicen si el personaje puede volver a escena. Al crear una ficha, añadir
 además su línea al índice: ficha mínima ≤ 200 caracteres + sub-bullet `_Dónde:_` ≤ 80 con su
-ubicación habitual (y el horario si no es trivial).
+ubicación habitual (y el horario si no es trivial). Y su fila en `reglas/medidas-personajes.md` (talla, areolas, pene).
 
 ---
 
@@ -75,7 +75,7 @@ Cuatro subcampos obligatorios y uno de vestuario.
 
 - **Rasgos:** tono de piel · color de ojos · cabello (color, largo, cómo lo lleva habitualmente) ·
   rasgos de cara · marcas visibles (pecas, tatuajes, piercings, cicatrices).
-- **Cuerpo:** **altura en cm** · complexión · senos (tamaño, pezones) · caderas · cintura ·
+- **Cuerpo:** **altura en cm** · complexión · senos (tamaño, **copa con banda y contorno en cm**, pezones, **diámetro de las areolas en cm** y color) · caderas · cintura ·
   vello púbico.
 - **Genitales:** siempre explícito, en positivo y en negativo.
   - **Con vagina:** **forma de los labios** — mayores (llenos, finos, recogidos) y menores

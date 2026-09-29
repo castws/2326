@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel morena clara, uniforme. Ojos castaño muy oscuro, casi negros, con pestañas cortas. Cabello negro y liso cortado a la altura de la mandíbula, recogido a medias con dos horquillas planas para que no le caiga en la cara al trabajar. Cejas rectas y espesas, boca ancha de labios gruesos, mandíbula marcada. Un tatuaje pequeño de tres líneas paralelas en la cara interna del antebrazo izquierdo. Sin pecas ni cicatrices visibles.
 
-**Cuerpo:** **168 cm.** Complexión compacta y fuerte, con hombros y antebrazos claramente trabajados —es lo que hace ocho horas al día— y espalda ancha para su altura. Senos pequeños y separados, pezones grandes y oscuros. Cintura corta, caderas estrechas, muslos densos. **Vello púbico rasurado por completo.**
+**Cuerpo:** **168 cm.** Complexión compacta y fuerte, con hombros y antebrazos claramente trabajados —es lo que hace ocho horas al día— y espalda ancha para su altura. Senos pequeños y separados, **copa A (80 de banda, 93 de contorno)**, pezones grandes y oscuros; **areolas de 5 cm**, marrón oscuro, grandes para el tamaño del seno. Cintura corta, caderas estrechas, muslos densos. **Vello púbico rasurado por completo.**
 
 **Genitales:** **Pene funcional. Sin vagina.** Circuncidado. **16 × 12,5 cm en erección; 12 × 11 en reposo.** Testículos medianos y altos, recogidos. **En la ropa lo lleva marcado, no colgando:** el pantalón del uniforme tiene una pieza delantera moldeada que le sujeta el pene centrado y hacia arriba y le dibuja la forma entera, a la vista y sin disimulo, como es norma. Fuera del trabajo alterna esa misma opción con la prenda de capucha, en verde oliva.
 

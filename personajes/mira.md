@@ -10,7 +10,7 @@
 
 **Rasgos:** **Cuerpo completamente vendado desde los pies hasta la cabeza.** Solo visibles **los ojos —azules, expresivos, el rasgo más comunicativo de su cara— y la boca**. **Sin cabello** (por la enfermedad, no por las vendas) y **sin orejas**. Los vendajes son blancos y limpios; June se los cambia a diario. La piel de debajo, que casi nadie ha visto, es fina y se abre con nada.
 
-**Cuerpo:** 172 cm. Complexión media-alta, aunque nunca se la ve de pie. Senos grandes, **sin pezones** (pérdida por la progresión de la epidermólisis bullosa), aunque **conserva sensibilidad en el pecho**. Sin vello púbico.
+**Cuerpo:** 172 cm. Complexión media-alta, aunque nunca se la ve de pie. Senos grandes, **copa E (80 de banda, 102 de contorno)**, **sin pezones ni areolas** (pérdida por la progresión de la epidermólisis bullosa; donde estaban, piel cicatricial lisa y algo más brillante, de unos 5 cm), aunque **conserva sensibilidad en el pecho**. Sin vello púbico.
 
 **Genitales:** **Tiene pene, amputado a la mitad de la longitud** por la progresión de la enfermedad, y **shower** — de tamaño prácticamente igual en reposo y en erección. **Erecto: 8 × 11 cm. Fláccido: 7 × 10,5 cm.** Pene y testículos van también vendados. **Sin vagina.**
 

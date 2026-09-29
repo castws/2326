@@ -2,6 +2,7 @@
 
 **Tipo:** Robot (especialista en lingüística aplicada)
 **Apariencia:** ~28 años aparentes. Cabello negro liso hasta los hombros. Ojos oscuros. Complexión delgada, tez clara. Blusa blanca entallada con recorte bajo el escote (pezoneras circulares doradas); pantalón negro de talle alto hasta la base de los senos. Maleta de tela gris.
+**Senos:** medianos-grandes, copa D (70 de banda, 89 de contorno). **Areolas:** 3 cm, rosa oscuro.
 **Personalidad:** Tranquila, profesional, directa. Escoge su ropa de forma autónoma (no por sugerencia de Claire).
 **Rol:** Técnica de inducción lingüística. Trabaja con varios humanos del área cuando se requiere. No pertenece a nadie en particular.
 

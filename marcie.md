@@ -14,7 +14,7 @@
 
 **Rasgos:** ojos verdes alargados, labios llenos, rostro femenino fruto de la cirugía del Día 23. Cabello castaño oscuro hasta media espalda. Sin cicatrices visibles: las líneas de sutura no se ven.
 
-**Cuerpo:** **~173 cm.** Esbelta con curvas marcadas: remodelación ósea de cadera y cintura y redistribución de grasa. **Senos copa D confirmada (85 de banda, 106 de contorno).** Brazos, piernas, manos y pies suavizados; piel de textura femenina. **Cero vello corporal**, eliminado de forma permanente.
+**Cuerpo:** **~173 cm.** Esbelta con curvas marcadas: remodelación ósea de cadera y cintura y redistribución de grasa. **Senos copa D confirmada (85 de banda, 106 de contorno).** **Areolas de 4,5 cm**, rosa tostado, pezones medianos. Brazos, piernas, manos y pies suavizados; piel de textura femenina. **Cero vello corporal**, eliminado de forma permanente.
 
 **Genitales:** **Conserva pene y testículos. Sin vagina.** Pene modificado de grower a shower: **~14 cm en reposo, ~17-17,5 cm en erección, ~13 cm de circunferencia en los dos estados**. **No circuncidada.** Fuera de casa, capucha, como es norma para cualquier pene a la vista.
 
@@ -57,7 +57,7 @@
 - **[La mansión](escenarios/mansion.md)**, con su habitación de yesos y la bodega que se está convirtiendo en habitación de BDSM.
 - **El [Creston Medical Center](escenarios/creston.md)**, propiedad suya desde el Día 19. Hobbs y Delaney saben que es la dueña.
 - **La ortesis completa** (de la cadera a los pies), guardada en el vestidor. Es la única pieza así en el área (`world.md` → "Aparatos ortopédicos").
-- **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude.
+- **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude. **Con Wren, desde el Día 34, sin límite de distancia.**
 - **Auricular en modo escucha (desde el Día 33):** Claire le pasa el audio de lo que se habla alrededor de cualquier robot del área, sin que lo noten.
 - **La llave de la jaula de Hobbs**, en el cajón de su mesilla.
 - **Proyecto de club BDSM, Bonded**, sin local todavía (`escenarios/club-bdsm.md`).

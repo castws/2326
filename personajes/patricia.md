@@ -10,7 +10,7 @@
 
 **Rasgos:** Tez media. Cabello castaño claro hasta los hombros. Ojos marrones oscuros. Cara joven, de rasgos redondeados.
 
-**Cuerpo:** 165 cm. Delgada, de estatura media, con poca musculatura en los hombros desde que no tiene brazos que mover. Senos pequeños y separados, pezones marrones pequeños. Caderas estrechas. Vello púbico castaño, recortado corto — se lo mantiene [Hannah](hannah.md).
+**Cuerpo:** 165 cm. Delgada, de estatura media, con poca musculatura en los hombros desde que no tiene brazos que mover. Senos pequeños y separados, **copa A (70 de banda, 83 de contorno)**, pezones marrones pequeños; **areolas de 2,5 cm**, marrón claro. Caderas estrechas. Vello púbico castaño, recortado corto — se lo mantiene [Hannah](hannah.md).
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y poco carnosos; labios menores cortos, ocultos entre ellos salvo en la parte alta, de un rosa oscuro. Clítoris pequeño y muy sensible. **Sin pene.**
 

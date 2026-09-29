@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel clara con tendencia a enrojecer en el escote. Cabello rubio y liso hasta la cintura. Ojos verdes. Rasgos suaves, boca ancha.
 
-**Cuerpo:** 170 cm. Delgada con curvas marcadas: cintura estrecha y caderas llenas. Senos medianos-grandes y algo caídos, pezones rosados y anchos. Vello púbico rubio, recortado en una franja estrecha.
+**Cuerpo:** 170 cm. Delgada con curvas marcadas: cintura estrecha y caderas llenas. Senos medianos-grandes y algo caídos, **copa D (70 de banda, 89 de contorno)**, pezones rosados y anchos; **areolas de 5 cm**, rosadas. Vello púbico rubio, recortado en una franja estrecha.
 
 **Genitales:** **Tiene vagina.** Labios mayores llenos y algo prominentes; labios menores cortos y ocultos entre ellos, de un rosa claro. Clítoris pequeño y sensible. **Sin pene.**
 

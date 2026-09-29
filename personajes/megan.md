@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel muy clara con pecas dispersas en los hombros. Cabello pelirrojo, habitualmente recogido en cola. Ojos verdes. Cara despierta.
 
-**Cuerpo:** 166 cm. Complexión media, delgada. Senos medianos, pezones claros y grandes. Caderas estrechas. Vello púbico pelirrojo, recortado.
+**Cuerpo:** 166 cm. Complexión media, delgada. Senos medianos, **copa C (70 de banda, 87 de contorno)**, pezones claros y grandes; **areolas de 4,5 cm**, rosa claro. Caderas estrechas. Vello púbico pelirrojo, recortado.
 
 **Genitales:** **Tiene pene funcional**, no circuncidado. **Erecto: 17 × 13 cm. Fláccido: 9,5 × 10 cm.** Testículos medianos. Lo lleva **visible y marcado en la ropa ceñida**, y con la prenda de capucha cuando la ocasión lo pide; con el corsé y la falda corta que estrenó el Día 11 se le nota en erección sin que ella lo disimule. **Sin vagina.**
 

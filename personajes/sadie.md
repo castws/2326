@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel clara con **pecas en los pómulos y en los antebrazos**. Cabello castaño claro cortado por encima del hombro, casi siempre recogido de cualquier manera con lo que tenga a mano. Ojos grises, con delineado oscuro que se corre a media tarde. Rasgos finos y angulosos. **Piercing en el septum y dos aros en la ceja izquierda.** Tatuajes en tinta negra: una franja de líneas y símbolos que le sube por el antebrazo derecho hasta el codo, y otro más pequeño en el costado. **Se muerde el labio cuando piensa.**
 
-**Cuerpo:** 160 cm. Estatura media-baja, delgada pero con cintura y cadera marcadas. Senos pequeños y altos, pezones pequeños y rosados. Vello púbico depilado por completo.
+**Cuerpo:** 160 cm. Estatura media-baja, delgada pero con cintura y cadera marcadas. Senos medianos y altos, **copa C (65 de banda, 82 de contorno)**, pezones pequeños y rosados; **areolas de 3 cm**, rosadas. Vello púbico depilado por completo.
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y poco carnosos; labios menores algo prominentes y asimétricos, asomando entre ellos, de un rosa oscuro. Clítoris pequeño. **Sin pene.**
 

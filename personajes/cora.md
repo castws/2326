@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel clara. Ojos castaños. Cabello castaño claro liso, a los hombros, recogido con lo primero que encuentra cuando trabaja. Cara de cansancio acumulado —ojeras que no se van— y **una sonrisa fácil que tarda un poco en llegar**: aparece medio segundo después de lo que uno esperaría. Sin tatuajes ni piercings.
 
-**Cuerpo:** 168 cm. Constitución delgada, sin volumen, con la fuerza funcional de quien levanta a otra persona varias veces al día. Senos pequeños, pezones claros y pequeños. Caderas estrechas, cintura marcada por la delgadez más que por la forma. Vello púbico recortado corto, sin diseño.
+**Cuerpo:** 168 cm. Constitución delgada, sin volumen, con la fuerza funcional de quien levanta a otra persona varias veces al día. Senos pequeños, **copa A (70 de banda, 83 de contorno)**, pezones claros y pequeños; **areolas de 2,5 cm**, rosa claro. Caderas estrechas, cintura marcada por la delgadez más que por la forma. Vello púbico recortado corto, sin diseño.
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y recogidos; labios menores ocultos entre ellos, asomando apenas, de rosa claro. Clítoris pequeño, cubierto por la capucha. **Sin pene.**
 

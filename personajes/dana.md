@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel clara, sin pecas. Cabello castaño oscuro ondulado hasta los hombros. Ojos marrones claros. Cara abierta, expresión despierta.
 
-**Cuerpo:** 168 cm. Complexión media, hombros algo anchos para su estatura, cintura poco marcada, caderas rectas. Senos medianos y separados, pezones marrones pequeños. Vello púbico recortado corto. **Las cinchas del arnés en X le han dejado dos surcos claros permanentes en los hombros y una marca fina en las costillas.**
+**Cuerpo:** 168 cm. Complexión media, hombros algo anchos para su estatura, cintura poco marcada, caderas rectas. Senos medianos y separados, **copa B (80 de banda, 95 de contorno)**, pezones marrones pequeños; **areolas de 3 cm**, marrones. Vello púbico recortado corto. **Las cinchas del arnés en X le han dejado dos surcos claros permanentes en los hombros y una marca fina en las costillas.**
 
 **Genitales:** **Tiene vagina.** Labios mayores finos y poco prominentes; labios menores algo más largos que ellos, asomando y ligeramente asimétricos (el izquierdo más). Color rosado oscuro. **Sin pene.**
 

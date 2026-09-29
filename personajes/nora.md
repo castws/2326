@@ -2,6 +2,7 @@
 
 **Tipo:** Robot (habitante de la ciudad)
 **Apariencia:** 20 años aparentes. Cabello negro muy corto, casi rapado por los lados. Ojos oscuros, casi negros. Piel oscura. Delgada, estatura media. Vagina.
+**Senos:** grandes para su delgadez, copa E (70 de banda, 91 de contorno). **Areolas:** 4 cm, marrón muy oscuro.
 **Discapacidad:** Parálisis cerebral, diplejía espástica con afectación leve en brazos. Las piernas no se relajan: tono espástico continuo, marcha en tijera con las rodillas tendiendo a juntarse. Camina con dos muletas canadienses (apoyo en antebrazo). Brazos: motricidad fina algo torpe, ligera espasticidad en manos al hacer gestos precisos; sin afectar la independencia general. Habla normal.
 **Personalidad:** Reservada al principio, suelta la voz cuando el tema la engancha. Directa cuando algo necesita resolverse. Resuelve "lo obvio" rápido para no quedarse callada después. Llegó a la ciudad hace dos años desde otra área más al sur. Le cuesta proponer planes pero responde bien si los proponen.
 **Profesión:** Restauración de libros antiguos en la biblioteca central — encuadernación, papel, tinta, transcripción cuando no se puede reparar.

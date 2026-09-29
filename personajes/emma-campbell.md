@@ -1,7 +1,7 @@
 # Emma Campbell
 
 **Tipo:** Robot (habitante del área, paciente en tratamiento)
-**Apariencia:** 32 años aparentes. Cabello cobrizo. Piel pálida que se ruboriza fácilmente. Figura esbelta, senos moderados con areolas rosadas. Vulva con vello corto.
+**Apariencia:** 32 años aparentes. Cabello cobrizo. Piel pálida que se ruboriza fácilmente. Figura esbelta, senos moderados, copa B (70 de banda, 85 de contorno), con areolas rosadas de 3,5 cm. Vulva con vello corto.
 **Profesión:** Asesora financiera remota.
 **Personalidad:** Inteligente, analítica, controladora, humor autodeprecante. Se disculpa en exceso y minimiza sus experiencias ("no está tan mal"). Vulnerable bajo la coraza.
 **Condición:** Claustrofobia severa desde hace 15 años. En tratamiento paradójico con el Dr. Ballard: inmovilización progresiva con yesos para disociar "confinamiento" de "peligro".

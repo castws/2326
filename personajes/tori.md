@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel clara con **pecas dispersas por la nariz y las mejillas**. Cabello negro liso hasta los hombros. Ojos azules. **Gafas de montura roja con lentes muy gruesos** (cristales de botella): sin ellas ve únicamente formas y colores difusos, **no distingue rostros ni puede leer**.
 
-**Cuerpo:** 166 cm. Complexión delgada, estatura media. Senos pequeños, pezones pequeños y rosados. Caderas estrechas. Vello púbico negro, recortado por su cuidadora.
+**Cuerpo:** 166 cm. Complexión delgada, estatura media. Senos pequeños, **copa A (65 de banda, 77 de contorno)**, pezones pequeños y rosados; **areolas de 2,5 cm**, rosadas. Caderas estrechas. Vello púbico negro, recortado por su cuidadora.
 
 **Genitales:** **Tiene pene funcional**, no circuncidado. **Erecto: 14 × 11 cm. Fláccido: 8 × 9,5 cm.** **Sin vagina.**
 

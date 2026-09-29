@@ -12,6 +12,7 @@ Local pequeño de una sola planta, fachada de madera pintada de verde oscuro y u
 
 - **Todas las sillas son de madera maciza**, de respaldo recto y asiento duro, sin cojín ni acolchado de ningún tipo. Los bancos del ventanal también son de madera.
 - Mesas cuadradas de madera, pasillos de anchura normal — no especialmente amplios, pero suficientes para muletas y para una silla de ruedas si se aparta una silla.
+- **Baño:** uno solo, al fondo, pasada la barra y junto a la puerta de la cocina. Individual, con pestillo, azulejo blanco, lavabo pequeño y un espejo con marco de madera.
 - Carta corta escrita en una pizarra: platos del día, sándwiches, ensaladas, sopa y dos o tres guisos. Comida rápida de hacer, pensada para turnos.
 
 ---

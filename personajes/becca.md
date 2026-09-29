@@ -2,6 +2,7 @@
 
 **Tipo:** Robot (habitante de la ciudad, cita puntual)
 **Apariencia:** 21 años aparentes. Cabello rubio muy claro liso y largo. Ojos azules. Cara redonda. Delgada.
+**Senos:** medianos, copa C (70 de banda, 87 de contorno). **Areolas:** 3 cm, rosa pálido.
 **Amputación:** Pierna derecha amputada por debajo de la rodilla (sierra de banco a los 16 años, accidente en el taller de su madre). Usa prótesis de pierna.
 **Personalidad:** Directa y sin nervios. Sociable. Habla de su amputación sin incomodidad.
 **Profesión:** Carpintera.

@@ -10,7 +10,7 @@
 
 **Rasgos:** Piel clara de tono cálido, más tostada en antebrazos y cara que en el resto del cuerpo. Cabello castaño oscuro recogido en un moño bajo. Ojos color avellana, rasgos marcados, expresión serena.
 
-**Cuerpo:** 172 cm. Complexión media, piernas largas de músculo largo. Vientre plano con una línea vertical suave de músculo. Senos medianos y altos, pezones pequeños y de color marrón claro. **Cicatriz pálida vieja de unos tres dedos en el muslo derecho.** Pubis depilado salvo una franja corta y recta, del mismo castaño oscuro que el pelo.
+**Cuerpo:** 172 cm. Complexión media, piernas largas de músculo largo. Vientre plano con una línea vertical suave de músculo. Senos medianos y altos, **copa C (75 de banda, 92 de contorno)**, pezones pequeños y de color marrón claro; **areolas de 3 cm**, marrón claro. **Cicatriz pálida vieja de unos tres dedos en el muslo derecho.** Pubis depilado salvo una franja corta y recta, del mismo castaño oscuro que el pelo.
 
 **Genitales:** **Tiene vagina.** Labios mayores llenos y recogidos, de color algo más oscuro que la piel; labios menores finos, ocultos entre los mayores salvo en la parte alta, donde asoman un poco. Clítoris pequeño y cubierto por el capuchón en reposo. **Sin pene.**
 

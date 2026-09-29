@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel morena clara. Cabello castaño muy rizado, recogido en lo alto de la cabeza. Cara redonda, ojos oscuros, cejas espesas. **Piercing en el labio inferior**, aro fino.
 
-**Cuerpo:** 163 cm. Complexión ancha, de hombros y caderas llenos. Senos grandes y bajos, pezones anchos y oscuros. Vientre blando. Vello púbico recortado corto.
+**Cuerpo:** 163 cm. Complexión ancha, de hombros y caderas llenos. Senos grandes y bajos, **copa E (90 de banda, 112 de contorno)**, pezones anchos y oscuros; **areolas de 6 cm**, marrón oscuro. Vientre blando. Vello púbico recortado corto.
 
 **Genitales:** **Tiene pene**, no circuncidado. **Erecto: 14 × 12 cm. Fláccido: 8 × 9 cm.** Testículos grandes. Lo lleva siempre a la vista con la **prenda de capucha rosa** sobre el glande, bajo faldas cortas por las que la punta asoma dos dedos por debajo del filo. **Sin vagina.**
 

@@ -11,7 +11,7 @@
 
 **Rasgos:** Piel tostada uniforme. Ojos marrones oscuros, cejas gruesas y rectas. Cabello oscuro casi negro, ondulado, hasta los omóplatos; lo lleva suelto en casa y recogido en un moño rápido cuando atiende a Patricia. Cara ancha, boca grande. Un lunar bajo el pómulo derecho. Sin tatuajes ni piercings.
 
-**Cuerpo:** 170 cm. Complexión atlética de trabajo, con hombros y brazos marcados de cargar y mover a Patricia a diario. Senos medianos y separados, pezones oscuros y anchos. Cintura poco marcada, caderas medias. Vello púbico oscuro, recortado corto.
+**Cuerpo:** 170 cm. Complexión atlética de trabajo, con hombros y brazos marcados de cargar y mover a Patricia a diario. Senos medianos y separados, **copa C (80 de banda, 97 de contorno)**, pezones oscuros y anchos; **areolas de 5 cm**, marrón oscuro. Cintura poco marcada, caderas medias. Vello púbico oscuro, recortado corto.
 
 **Genitales:** **Pene funcional**, no circuncidado. **16 × 12,5 cm en erección; 11 × 10 en reposo.** Testículos grandes, colgados. **Sin vagina.** En la ropa lo lleva siempre marcado, como es norma: con jeans ajustados se le dibuja el bulto caído hacia el muslo izquierdo, y en casa lo lleva a la vista bajo la tela de los panties sin corregir la postura ni taparse.
 
