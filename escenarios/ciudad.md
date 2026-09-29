@@ -27,7 +27,7 @@ Resumen operativo para narrar: solo mujeres de 19 a 30 años aparentes (ningún 
 - **[Creston Medical Center](creston.md)** — hospital central, propiedad de Marcie desde el Día 19.
 - **[Centro comercial](centro-comercial.md)** — galería con tiendas de ropa y lencería, sex shop, quiosco de zumos y el café-biblioteca **[Marginalia](marginalia.md)**.
 - **[Club Insomnia](club-insomnia.md)** — club de música electrónica.
-- **[Club BDSM](club-bdsm.md)** — proyecto de Marcie en planificación, sin local asignado todavía.
+- **[Bonded (club BDSM)](club-bdsm.md)** — proyecto de Marcie en planificación, sin local asignado todavía.
 - Clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques y bares.
 - **[App de citas](../reglas/app-citas.md)** activa.
 

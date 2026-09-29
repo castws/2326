@@ -4,6 +4,7 @@ Uso:
   python3 imagenes/planos/plano_mansion.py                 -> plano-mansion.svg (con rótulos)
   python3 imagenes/planos/plano_mansion.py --mobiliario    -> plano-mansion-mobiliario.svg (muebles a escala, sin rótulos)
   Se puede añadir una ruta de salida distinta como argumento.
+  En los dos modos reescribe además la sección "Estancias" de escenarios/mansion.md (entre sus marcadores).
 
 Coordenadas en metros: x hacia el este, y hacia el sur (0 = extremo norte de las alas).
 Las huellas de los edificios se repiten en plano_global.py: si se mueve un muro aquí, actualizarlo allí también.
@@ -28,6 +29,14 @@ C = {
 }
 
 out = []
+
+# Registro para el texto de escenarios/mansion.md: cada estancia con grupo se anota con sus rectángulos, y cada
+# puerta o ventana con su muro. Al final, texto_estancias() deduce de la geometría qué comunica con qué.
+GRUPO = None                # grupo de las estancias que se dibujan a continuación; None = no van al texto
+ESTANCIAS = []              # dicts: nombre, rects, grupo, notas, medidas, exterior
+ABERTURAS = []              # (kind, at, a, b, tipo, etiqueta) · tipo: 'puerta', 'sin puerta', 'paso', 'ventana'
+REGISTRAR = True            # False en la leyenda, para no anotar sus muestras de puerta y ventana
+
 def px(v): return round(v * S, 1)
 def P(x, y): return px(x - X0), px(y - Y0)
 def add(s): out.append(s)
@@ -45,9 +54,23 @@ def text(x, y, s, size=11, weight='normal', color=None, anchor='middle', italic=
     tr = f' transform="rotate(-90 {X} {Y})"' if rot else ''
     add(f'<text x="{X}" y="{Y}" font-size="{size}" font-weight="{weight}" fill="{color or C["texto"]}" text-anchor="{anchor}"{st}{tr}>{s}</text>')
 
-def room(x0, y0, x1, y1, name, fill, dims=True, size=11, sub=None, lx=None, ly=None):
-    """Estancia con su rótulo centrado (o en lx, ly). Con mobiliario, sin rótulo."""
+def estancia(nombre, x0, y0, x1, y1, notas=None, medidas=None, exterior=False, de=None):
+    """Anota una estancia para el texto (o un rectángulo más de una ya anotada, como la bahía del salón).
+    de = estancia a la que pertenece un baño privado: el texto lo describe dentro de la línea de esa estancia."""
+    for e in ESTANCIAS:
+        if e['nombre'] == nombre:
+            e['rects'].append((x0, y0, x1, y1))
+            return
+    ESTANCIAS.append(dict(nombre=nombre, rects=[(x0, y0, x1, y1)], grupo=GRUPO, notas=notas, exterior=exterior, de=de,
+                          medidas=medidas or f'{x1 - x0:g} × {y1 - y0:g} m'.replace('.', ',')))
+
+def room(x0, y0, x1, y1, name, fill, dims=True, size=11, sub=None, lx=None, ly=None, nombre=None, notas=None,
+         medidas=None, de=None):
+    """Estancia con su rótulo centrado (o en lx, ly). Con mobiliario, sin rótulo.
+    nombre (si difiere del rótulo), notas, medidas y de son para el texto de mansion.md."""
     rect(x0, y0, x1, y1, fill, C['muro'], 2.4)
+    if GRUPO and (nombre or name):
+        estancia(nombre or name.replace('\n', ' '), x0, y0, x1, y1, notas, medidas, de=de)
     if not name:
         return
     lines = name.split('\n')
@@ -64,8 +87,10 @@ def room(x0, y0, x1, y1, name, fill, dims=True, size=11, sub=None, lx=None, ly=N
         text(cx, start + (len(lines) + j) * lh, e, size - 2, color=C['sub'])
 
 # aberturas: 'v' = muro vertical en x (de y0 a y1), 'h' = muro horizontal en y (de x0 a x1)
-def opening(kind, at, a, b, fill, style='door', d=1, inv=False):
+def opening(kind, at, a, b, fill, style='door', d=1, inv=False, etiqueta=None):
     """d = lado hacia el que abre la hoja: +1 este/sur, -1 oeste/norte. inv = bisagra en b en vez de en a."""
+    if REGISTRAR:
+        ABERTURAS.append((kind, at, a, b, 'sin puerta' if style == 'open' else 'puerta', etiqueta))
     if kind == 'v':
         rect(at - 0.25, a, at + 0.25, b, fill)
     else:
@@ -90,7 +115,10 @@ def opening(kind, at, a, b, fill, style='door', d=1, inv=False):
         add(f'<line x1="{hx}" y1="{hy}" x2="{ex}" y2="{ey}" stroke="{C["muro"]}" stroke-width="1.2"/>')
         add(f'<path d="M{ex},{ey} A{px(r)},{px(r)} 0 0 {sweep} {fx},{fy}" fill="none" stroke="{C["muro"]}" stroke-width="0.7"/>')
 
-def window(kind, at, a, b):
+def window(kind, at, a, b, etiqueta=None, paso=False):
+    """etiqueta sustituye a 'ventanal' en el texto; paso = acristalamiento que se abre (vidriera corredera)."""
+    if REGISTRAR:
+        ABERTURAS.append((kind, at, a, b, 'paso' if paso else 'ventana', etiqueta))
     if kind == 'v':
         rect(at - 0.22, a, at + 0.22, b, '#ffffff', C['vent'], 1.4)
     else:
@@ -215,15 +243,26 @@ for i in range(200):
     add(f'<circle cx="{X}" cy="{Y}" r="{px(random.uniform(0.7, 1.4))}" fill="{random.choice([C["arbol"], C["arbol2"]])}" opacity="0.85"/>')
 text(35, -5.6, 'B O S Q U E', 16, 'bold', '#3f5a31')
 
-# caminos de grava
-for r in [(34.9, 29.5, 36.1, 32.5), (1.5, 31.2, 36.1, 32.5), (0.5, 23.5, 8.5, 25.0), (1.5, 25.0, 3.0, 32.5),
-          (63, 23.3, 70, 24.2),                      # sendero hacia la casa de Claire
-          (9.6, 12, 10.4, 20.2)]:                    # sendero de la casa de huéspedes a la pasarela
-    rect(*r, C['camino'])
+# caminos de grava (con nombre: el texto los usa para las puertas que dan a ellos)
+CAMINOS = {
+    'camino de grava': [(34.9, 29.5, 36.1, 32.5), (1.5, 31.2, 36.1, 32.5), (0.5, 23.5, 8.5, 25.0), (1.5, 25.0, 3.0, 32.5)],
+    'sendero de la casa de Claire': [(63, 23.3, 70, 24.2)],
+    'sendero de la casa de huéspedes': [(9.6, 12, 10.4, 20.2)],     # hasta la pasarela
+}
+for rs in CAMINOS.values():
+    for r in rs:
+        rect(*r, C['camino'])
 text(18, 33.7, 'camino de entrada (grava)', 10, color=C['sub'], italic=True)
 
 
 # patio, terraza, piscina
+GRUPO = 'Patio y terraza'
+estancia('Patio interior', 27.5, 0, 42, 16, exterior=True, medidas='14,5 × 21,5 m con la terraza',
+         notas='Abierto al bosque por el norte; se pasa a la terraza sin separación. En el centro, la **piscina** '
+               '(4 × 10), con tumbonas a los dos lados.')
+estancia('Terraza', 27.5, 16, 42, YB, exterior=True,
+         notas='De madera, en el lado sur del patio. Mesa de 2 × 1 para desayunar con seis sillas y **jacuzzi** '
+               '(2,3 × 2,3) en el lado este, junto a la bahía del salón.')
 rect(27.5, 0, 42, YB, C['patio'])
 rect(27.5, 16, 42, YB, C['deck'])
 yy = 16.5
@@ -246,7 +285,9 @@ text(34.75, 2.4, 'abierto al bosque', 9, color=C['sub'], italic=True)
 text(34.75, 17.2, 'TERRAZA', 10, 'bold', '#6b5537')
 
 # ------------------------------------------------------------------ estancias
+# Las notas son lo que el texto de mansion.md dice de cada estancia además de accesos y ventanas.
 serv, circ, soc, priv, anexo, huesp = C['serv'], C['circ'], C['soc'], C['priv'], C['anexo'], C['huesp']
+GRUPO = None                # la casa de huéspedes tiene su propia ficha (escenarios/casa-huespedes.md)
 # casa de huéspedes (Vera), 10 × 8: franja norte con cuarto auxiliar, baño y dormitorio; franja sur con sala y cocina.
 # El dormitorio de Vera se abre a la sala frente al hueco reservado para la cama hospitalaria de Jude:
 # con la puerta abierta, Vera la ve desde su cama.
@@ -258,32 +299,56 @@ room(0.5, 8, 10.5, 12, 'Sala y cocina', huesp, size=9, lx=3.6, ly=10.0)
 rect(7.0, 9.75, 8.0, 11.95, 'none', C['sub'], 1, 'stroke-dasharray="4 3"')    # hueco de la cama de Jude
 text(7.5, 11.0, 'Jude', 6, color=C['sub'], italic=True)
 # ala oeste (servicio): tres habitaciones iguales de 5 × 4,5 con baño de 2 × 2 en la esquina noreste
-for r, nombre in [(0, 'Hab. Dana'), (4.5, 'Hab. Sophie'), (9, 'Hab. Rachel')]:
-    room(21, r, 26, r + 4.5, nombre, serv, lx=22.9, ly=r + 3.35, size=9)
-    room(24, r, 26, r + 2, '' if MOB else 'Baño', serv, dims=False, size=8)
-room(21, 13.5, 26, 15.5, 'C. técnico', serv, size=9)
+GRUPO = 'Ala oeste (izquierda): servicio'
+for r, nombre in [(0, 'Dana'), (4.5, 'Sophie'), (9, 'Rachel')]:
+    room(21, r, 26, r + 4.5, 'Hab. ' + nombre, serv, lx=22.9, ly=r + 3.35, size=9, nombre='Habitación de ' + nombre,
+         notas='Cama doble con el cabecero contra la pared oeste, bajo la ventana; mesillas, armario, escritorio y '
+               'sillón. La puerta al corredor está en la parte sur.' if nombre == 'Dana' else 'Igual que la de Dana.')
+    room(24, r, 26, r + 2, '' if MOB else 'Baño', serv, dims=False, size=8, nombre='Baño de ' + nombre,
+         notas='Ducha de cristal, inodoro y lavabo.', de='Habitación de ' + nombre)
+room(21, 13.5, 26, 15.5, 'C. técnico', serv, size=9, nombre='Cuarto técnico')
 room(21, 15.5, 26, 18, 'Lavandería', serv, size=9)
 room(21, 18, 26, 20, 'Despensa', serv, size=9)
-room(26, 0, 27.5, 20, '', circ)
+room(26, 0, 27.5, 20, '', circ, nombre='Corredor lateral', notas='Recorre el ala de norte a sur, del lado del patio.')
 text(26.95, 10, 'CORREDOR LATERAL', 9, 'bold', C['sub'], rot=True)
 # anexo oeste, pasillo, pasarela, garaje
-room(11, 15, 15, 20, 'Bodega', anexo, sub='medio vacía', size=10)
-room(15, 15, 20, 20, 'Sala de\nyesos', anexo, sub='sin ventanas', size=10)
-room(11, 20, 29, 21.5, '', circ)
+GRUPO = 'Anexo oeste y garaje'
+room(11, 15, 15, 20, 'Bodega', anexo, sub='medio vacía', size=10,
+     notas='A la izquierda de la habitación de yesos. Por ahora medio vacía: botelleros y una mesa redonda con dos sillas.')
+room(15, 15, 20, 20, 'Sala de\nyesos', anexo, sub='sin ventanas', size=10, nombre='Habitación de yesos',
+     notas='Sin ventanas: luz siempre artificial. Camilla con soportes articulados, cama hospitalaria para hip spica, estantería '
+           'con materiales completos, cubo metálico con grifo, mesa de trabajo con taburete y carro auxiliar.')
+GRUPO = 'Ala oeste (izquierda): servicio'
+room(11, 20, 29, 21.5, '', circ, nombre='Pasillo oeste',
+     notas='Sale del extremo sur del corredor lateral y pasa entre la despensa y la cocina. Aquí se guarda la '
+           '**mesa con ruedas** para servir.')
 text(18, 21.0, 'PASILLO OESTE', 9, 'bold', C['sub'])
+GRUPO = 'Anexo oeste y garaje'
 rect(9, 20.2, 11, 21.3, '#f0ede6', C['muro'], 1, 'stroke-dasharray="4 3"')
+estancia('Pasarela cubierta', 9, 20.2, 11, 21.3, exterior=True,
+         notas='Une el pasillo oeste con el garaje. Por su lado norte, abierto, sale el sendero a la casa de huéspedes de Vera.')
 text(10, 19.7, 'pasarela', 8, color=C['sub'], italic=True)
-room(0, 17, 9, 23.5, 'Garaje', C['garaje'], sub='3 vehículos')
+room(0, 17, 9, 23.5, 'Garaje', C['garaje'], sub='3 vehículos',
+     notas='Tres vehículos autónomos, que salen al camino de grava y esperan frente al porche.')
 # base: cocina, comedor, corredor amplio, aseo, vestíbulo, ropero, porche
-room(21, YB, 27.5, YS, 'Cocina', serv, sub='abierta')
-room(27.5, YB, 32.5, YS, 'Comedor', soc)
-room(32.5, YB, 38.5, 25, 'Corredor amplio', soc, size=10)
+GRUPO = 'Base de la U (sur): zona social'
+room(21, YB, 27.5, YS, 'Cocina', serv, sub='abierta',
+     notas='Encimera en L, nevera y columnas de horno, isla con dos taburetes y **mesa del personal** para cuatro.')
+room(27.5, YB, 32.5, YS, 'Comedor', soc, notas='Mesa de 1 × 3 m para diez, aparador y vitrina.')
+room(32.5, YB, 38.5, 25, 'Corredor amplio', soc, size=10,
+     notas='Nada más entrar se ven el patio, la piscina y el bosque al fondo. Mesa redonda con una planta.')
 room(32.5, 25, 34, YS, 'Aseo', soc, dims=False, size=7)
 room(34, 25, 37, YS, 'Vestíbulo', soc, size=9, ly=25.9)
-room(37, 25, 38.5, YS, 'Rop.', soc, dims=False, size=7)
+room(37, 25, 38.5, YS, 'Rop.', soc, dims=False, size=7, nombre='Ropero')
 rect(34, YS, 37, 29.5, C['porche'], C['muro'], 1.2, 'stroke-dasharray="5 3"')
+estancia('Porche', 34, YS, 37, 29.5, exterior=True, notas='Abierto al camino de grava, donde esperan los vehículos.')
 text(35.5, 28.8, 'Porche', 9, 'bold')
 # salón en L: cuerpo 10,5 × 6 bajo el ala este + bahía 3,5 × 2,5 que entra en la terraza
+estancia('Salón', 38.5, YB, 49, YS, medidas='10,5 × 6 m + bahía de 3,5 × 2,5 m en la terraza',
+         notas='Unos 72 m²: **la estancia más grande de la casa**. Sofá grande en L frente al televisor (pared norte), '
+               'mesa baja y un sillón. En la parte oeste, mesa redonda de juego con cuatro sillas. En la bahía, dos '
+               'sillones mirando a la terraza; desde la terraza se ve el interior.')
+estancia('Salón', 38.5, 19, 42, YB)
 pts = [(38.5, 19), (42, 19), (42, YB), (49, YB), (49, YS), (38.5, YS)]
 add('<polygon points="' + ' '.join('%s,%s' % P(x, y) for x, y in pts) + f'" fill="{soc}" stroke="{C["muro"]}" stroke-width="2.4"/>')
 text(45.5, 24.2, 'Salón', 12, 'bold')
@@ -291,22 +356,37 @@ text(45.5, 25.1, 'sala principal · ~72 m²', 9, color=C['sub'])
 text(45.5, 25.9, '10,5 × 6 m + bahía 3,5 × 2,5 m', 8, color=C['sub'])
 text(40.25, 20.3, 'bahía', 8, color=C['sub'], italic=True)
 # ala este (Marcie)
-room(42, 0, 49, 6, 'Habitación\nprincipal', priv, size=11)
-room(49, 0, 53, 3.5, 'Baño\nprincipal', priv, size=9)
-room(49, 3.5, 53, 6, 'Vestidor', priv, size=9)
-room(42, 6, 44, YB, '', circ)
+GRUPO = 'Ala este (derecha): zona privada de Marcie'
+room(42, 0, 49, 6, 'Habitación\nprincipal', priv, size=11,
+     notas='Vigas vistas. Cama grande con el cabecero al este, mirando al patio; banco a los pies; dos sillones junto '
+           'al ventanal oeste; cómoda. Es el único paso al vestidor y al baño principal.')
+room(49, 3.5, 53, 6, 'Vestidor', priv, size=9, notas='Armarios en U y un puf. Es el paso de la habitación al baño.')
+room(49, 0, 53, 3.5, 'Baño\nprincipal', priv, size=9,
+     notas='**Bañera exenta bajo el ventanal norte**, mirando al bosque. Ducha de cristal de 2 × 1,4, donde caben tres '
+           'personas, en la esquina suroeste. Doble lavabo e inodoro.')
+room(42, 6, 44, YB, '', circ, nombre='Galería', notas='Luz cenital. Va del salón a la habitación principal.')
 rect(42.4, 6.5, 43.6, 21, 'none', '#b6ad9b', 1, 'stroke-dasharray="3 3"')
 text(43.25, 13.8, 'GALERÍA · luz cenital', 9, 'bold', C['sub'], rot=True)
-room(44, 6, 49, 12, 'Invitados 1', priv, size=10, lx=47.0)
-room(44, 12, 46, 15.5, 'Ropa\nblanca', priv, size=7, dims=False, ly=14.6)
-room(46, 12, 49, 13.75, 'Baño inv. 1', priv, dims=False, size=7)     # baño privado de invitados 1
-room(46, 13.75, 49, 15.5, 'Baño inv. 2', priv, dims=False, size=7)   # baño privado de invitados 2
-room(44, 15.5, 49, YB, 'Invitados 2', priv, size=10, lx=47.0)
+room(44, 6, 49, 12, 'Invitados 1', priv, size=10, lx=47.0, nombre='Habitación de invitados 1',
+     notas='Cama doble con el cabecero al norte, mesillas, banco a los pies, armario, escritorio y sillón. Luz suave.')
+room(44, 12, 46, 15.5, 'Ropa\nblanca', priv, size=7, dims=False, ly=14.6, nombre='Cuarto de ropa blanca',
+     notas='Toallas y sábanas del ala.')
+room(46, 12, 49, 13.75, 'Baño inv. 1', priv, dims=False, size=7, nombre='Baño de invitados 1',
+     notas='Ducha de cristal al fondo, inodoro y lavabo; pegado al de invitados 2.', de='Habitación de invitados 1')
+room(46, 13.75, 49, 15.5, 'Baño inv. 2', priv, dims=False, size=7, nombre='Baño de invitados 2',
+     notas='Ducha de cristal al fondo, inodoro y lavabo; pegado al de invitados 1.', de='Habitación de invitados 2')
+room(44, 15.5, 49, YB, 'Invitados 2', priv, size=10, lx=47.0, nombre='Habitación de invitados 2',
+     notas='Como la de invitados 1, con el cabecero al sur.')
 # bloque este
-room(49, 23, 63, 24.5, '', circ)
+GRUPO = 'Bloque este'
+room(49, 23, 63, 24.5, '', circ, nombre='Corredor este', notas='Termina en la puerta lateral.')
 text(58, 24.0, 'CORREDOR ESTE', 8, 'bold', C['sub'])
-room(52, 18, 56, 23, 'Estudio', priv, size=10)
-room(56, 18, 63, 23, 'Biblioteca', priv, size=11)
+room(52, 18, 56, 23, 'Estudio', priv, size=10, nombre='Estudio de Marcie',
+     notas='Escritorio con dos sillas de visita, estantería y un sillón. Aquí fue la entrevista de Vera (Día 23).')
+room(56, 18, 63, 23, 'Biblioteca', priv, size=11,
+     notas='Cientos de libros físicos en estanterías de madera oscura. Dos sillones de cuero junto a la ventana '
+           'norte, mesa de lectura para cuatro y un sofá junto a la ventana este.')
+GRUPO = None
 
 # ------------------------------------------------------------------ mobiliario
 # Medidas reales estándar (m): cama doble 1,6 × 2,05 · cama grande 2 × 2,1 · mesilla 0,45 × 0,4 · armario 0,6 de fondo
@@ -502,7 +582,7 @@ opening('h', 20, 17.5, 18.4, anexo, d=-1)                      # habitación de 
 opening('v', 11, 20.3, 21.2, circ, 'open')                     # pasillo -> pasarela
 opening('v', 9, 20.3, 21.2, C['garaje'], 'open')               # pasarela -> garaje
 opening('h', 20.2, 9.6, 10.4, '#f0ede6', 'open')               # pasarela -> sendero de la casa de huéspedes
-opening('h', 23.5, 0.5, 8.5, C['camino'], 'open')              # portón del garaje
+opening('h', 23.5, 0.5, 8.5, C['camino'], 'open', etiqueta='portón')   # portón del garaje
 opening('h', YB, 23.5, 24.4, serv)                             # pasillo -> cocina
 opening('h', YB, 27.8, 28.7, soc)                              # pasillo -> comedor (puerta 3)
 opening('v', 29, 20.3, 21.2, circ)                             # pasillo -> terraza (puerta 4)
@@ -512,8 +592,8 @@ opening('v', 38.5, 22.0, 24.5, soc, 'open')                    # corredor amplio
 opening('h', 25, 34.3, 36.7, soc, 'open')                      # vestíbulo -> corredor amplio
 opening('v', 34, 25.6, 26.3, soc, d=-1)                        # aseo
 opening('v', 37, 25.6, 26.3, soc)                              # ropero
-opening('h', YS, 34.6, 35.5, C['porche'], d=-1)                # puerta principal doble, 2 hojas de 0,9 m
-opening('h', YS, 35.5, 36.4, C['porche'], d=-1, inv=True)
+opening('h', YS, 34.6, 35.5, C['porche'], d=-1, etiqueta='puerta principal doble')   # 2 hojas de 0,9 m
+opening('h', YS, 35.5, 36.4, C['porche'], d=-1, inv=True, etiqueta='puerta principal doble')
 opening('h', YB, 38.7, 41.8, soc, 'open')                      # bahía abierta al salón
 opening('h', YB, 42.2, 43.8, soc, 'open')                      # galería -> salón
 opening('h', 6, 42.4, 43.3, priv, d=-1)                        # galería -> habitación principal
@@ -527,7 +607,7 @@ opening('v', 44, 18.2, 19.0, priv)                             # galería -> inv
 opening('v', 49, 23.1, 24.4, circ, 'open')                     # salón -> corredor este
 opening('h', 23, 53.3, 54.1, priv, d=-1)                       # estudio
 opening('h', 23, 59.0, 59.8, priv, d=-1)                       # biblioteca
-opening('v', 63, 23.2, 24.3, C['camino'])                      # puerta lateral
+opening('v', 63, 23.2, 24.3, C['camino'], etiqueta='puerta lateral')
 
 # ventanas
 window('h', 0, 21.8, 23.6)                                     # habitación de Dana, al norte
@@ -537,7 +617,7 @@ window('v', 21, 16.0, 17.2)                                    # lavandería
 for (a, b) in [(1, 6), (7, 12), (13, 18)]:
     window('v', 27.5, a, b)                                    # corredor lateral al patio
 window('h', 0, 43.5, 47.5); window('v', 42, 1, 5)              # habitación principal
-window('h', 0, 51.0, 52.9); window('v', 53, 0.8, 2.2)          # baño principal: ventanal norte sobre la bañera
+window('h', 0, 51.0, 52.9, etiqueta='ventanal'); window('v', 53, 0.8, 2.2)   # baño principal: ventanal norte sobre la bañera
 for (a, b) in [(7.5, 10.5), (12.4, 13.3), (14.2, 15.1), (17.5, 20.5)]:
     window('v', 49, a, b)                                      # invitados 1, sus dos baños, invitados 2
 for (a, b) in [(7, 11), (12.5, 16.5), (17.5, 20.5)]:
@@ -547,7 +627,7 @@ window('h', 18, 53, 55); window('v', 52, 19, 21.5)             # estudio
 window('h', YS, 40, 47.5); window('v', 49, 25.5, 27)           # salón
 window('h', YS, 28.5, 31.5); window('h', YS, 22, 26); window('v', 21, 22.5, 26.5)   # comedor / cocina
 window('h', YB, 29.5, 32.2)                                    # ventanal norte del comedor
-window('h', YB, 33, 38)                                        # vidriera corredera del corredor amplio
+window('h', YB, 33, 38, etiqueta='vidriera corredera', paso=True)   # del corredor amplio
 window('h', 19, 38.8, 41.7); window('v', 38.5, 19.2, 21.3)     # bahía del salón
 
 # ------------------------------------------------------------------ rótulos exteriores
@@ -564,6 +644,7 @@ add(f'<g transform="translate({nx},{ny})"><polygon points="0,-22 8,8 0,2 -8,8" f
 
 # ------------------------------------------------------------------ leyenda
 SIN_TEXTO = False
+REGISTRAR = False
 ly = 37
 text(X0 + 2, ly, 'La mansión — planta con mobiliario' if MOB else 'La mansión — planta única', 20, 'bold', anchor='start')
 text(X0 + 2, ly + 1.4, ('Muros y mobiliario a escala real · ' if MOB else 'Escala real · ') + 'medidas en metros', 11, color=C['sub'], anchor='start')
@@ -675,3 +756,88 @@ nombre = 'plano-mansion-mobiliario.svg' if MOB else 'plano-mansion.svg'
 destino = args[0] if args else os.path.join(os.path.dirname(os.path.abspath(__file__)), nombre)
 open(destino, 'w').write(svg)
 print('escrito', destino)
+
+
+# ================================================================== texto de escenarios/mansion.md
+GRUPOS = ['Base de la U (sur): zona social', 'Ala oeste (izquierda): servicio', 'Anexo oeste y garaje',
+          'Ala este (derecha): zona privada de Marcie', 'Bloque este', 'Patio y terraza']
+def fuera(d, x):
+    """Exterior sin estancia ni camino: al norte el bosque, al sur el jardín delantero, a los lados según el ala."""
+    if d in 'NS':
+        return 'bosque' if d == 'N' else 'jardín delantero'
+    return 'jardín oeste' if x < 30 else 'jardín este'
+
+def texto_estancias():
+    """Accesos y ventanas de cada estancia, deducidos de qué hay a cada lado de cada abertura."""
+    def lugar(x, y):
+        # gana el rectángulo más pequeño que contiene el punto: el baño dentro de su habitación, la bahía en la terraza
+        dentro = [((c - a) * (d - b), k, e) for k, e in enumerate(ESTANCIAS)
+                  for a, b, c, d in e['rects'] if a < x < c and b < y < d]
+        if dentro:
+            return min(dentro)[2]
+        return next((n for n, rs in CAMINOS.items() if any(a < x < c and b < y < d for a, b, c, d in rs)), None)
+    def nom(v):
+        v = v['nombre'] if isinstance(v, dict) else v
+        return v[0].lower() + v[1:]
+    def anota(lista, item):
+        if item not in lista:
+            lista.append(item)
+
+    for e in ESTANCIAS:
+        e['accesos'], e['ventanas'], e['vistas'], e['subs'] = [], [], [], {}
+    for kind, at, a, b, tipo, etiqueta in ABERTURAS:
+        m = (a + b) / 2
+        antes, despues = ((m, at - 0.3), (m, at + 0.3)) if kind == 'h' else ((at - 0.3, m), (at + 0.3, m))
+        d_antes, d_despues = ('N', 'S') if kind == 'h' else ('O', 'E')
+        A, B = lugar(*antes), lugar(*despues)
+        # desde A, B queda después (sur/este); desde B, A queda antes (norte/oeste)
+        for yo, otro, d, (ox, _) in ((A, B, d_despues, despues), (B, A, d_antes, antes)):
+            if not isinstance(yo, dict) or yo is otro:
+                continue
+            vecino = nom(otro) if otro else fuera(d, ox)
+            if tipo in ('ventana', 'paso'):         # la vidriera corredera es a la vez ventana y acceso
+                clase = etiqueta or ('ventanal' if b - a >= 2.5 else None)
+                if not yo['exterior']:
+                    anota(yo['ventanas'], f'{vecino} ({d}, {clase})' if clase else f'{vecino} ({d})')
+                elif isinstance(otro, dict):
+                    anota(yo['vistas'], vecino)
+            if tipo != 'ventana' and not yo['de']:      # el baño privado solo se abre a su habitación
+                if isinstance(otro, dict) and otro['de'] == yo['nombre']:
+                    yo['subs'][otro['nombre']] = d
+                    continue
+                detalle = etiqueta or (tipo if tipo == 'sin puerta' else None)
+                anota(yo['accesos'], f'{vecino} ({d}, {detalle})' if detalle else f'{vecino} ({d})')
+
+    def ventanas(e):
+        return ['Ventanas: ' + ', '.join(e['ventanas']) + '.'] if e['ventanas'] else []
+
+    lineas = ['_Generado por `imagenes/planos/plano_mansion.py`: no editar a mano. Accesos y ventanas salen del plano; '
+              'la dirección entre paréntesis es hacia dónde queda lo que hay al otro lado, y si no se indican '
+              'ventanas es que no tiene. Medidas en metros, ancho este-oeste × largo norte-sur._']
+    for g in GRUPOS:
+        lineas += ['', f'### {g}', '']
+        for e in (e for e in ESTANCIAS if e['grupo'] == g and not e['de']):
+            partes = [f"**{e['nombre']}** ({e['medidas']})."]
+            if e['accesos']:
+                partes.append('Accesos: ' + ', '.join(e['accesos']) + '.')
+            if e['exterior']:
+                if e['vistas']:
+                    partes.append('Se ve desde: ' + ', '.join(e['vistas']) + '.')
+            else:
+                partes += ventanas(e)
+            if e['notas']:
+                partes.append(e['notas'])
+            for s in (s for s in ESTANCIAS if s['de'] == e['nombre']):
+                partes.append(f"**Baño propio** ({e['subs'][s['nombre']]}, {s['medidas']}).")
+                partes += ventanas(s)
+                if s['notas']:
+                    partes.append(s['notas'])
+            lineas.append('- ' + ' '.join(partes))
+    return '\n'.join(lineas)
+
+INI, FIN = '<!-- estancias: inicio -->', '<!-- estancias: fin -->'
+ficha = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'escenarios', 'mansion.md')
+md = open(ficha).read()
+i, j = md.index(INI) + len(INI), md.index(FIN)
+open(ficha, 'w').write(md[:i] + '\n' + texto_estancias() + '\n' + md[j:])
+print('escrito', os.path.normpath(ficha))

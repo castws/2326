@@ -123,7 +123,7 @@ Existe en la ciudad una práctica privada y minoritaria de **cirugía de modific
 - **[Hollis](escenarios/hollis.md)** — restaurante de barrio a una manzana del Creston, en su misma calle. Dieciséis mesas y **sillas de madera maciza sin acolchar**. Se llena de personal del hospital entre turnos.
 - **[Café Elm](escenarios/cafe-elm.md)** — restaurante-café de barrio en la calle Elm, ladrillo rojo y dos ventanales. Pasillos anchos entre mesas.
 - **[Club Insomnia](escenarios/club-insomnia.md)** — club de música electrónica, ambiente sexual relajado, reservados con cortinas translúcidas.
-- **[Club BDSM](escenarios/club-bdsm.md)** — proyecto de Marcie en planificación desde el Día 22, **sin local todavía**. Jude es la diseñadora.
+- **[Bonded (club BDSM)](escenarios/club-bdsm.md)** — proyecto de Marcie en planificación desde el Día 22, **sin local todavía**. Jude es la diseñadora.
 
 ---
 

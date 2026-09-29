@@ -66,6 +66,7 @@ Cuando Mark se dirige a Claire por su nombre con una instrucción de configuraci
 
 - Cambios sobre personajes (incluyendo creación de nuevos): editar la ficha del personaje en `personajes/<nombre>.md` (crear el archivo si es nuevo, siguiendo `reglas/plantilla-personaje.md`). Actualizar también su línea en el índice `characters.md` si cambia su ficha mínima (apariencia clave, condición física) o su campo `Dónde`, y moverlo entre `## Activos` y `## Archivados` si corresponde.
 - Cambios sobre un escenario concreto (la mansión, un local de la ciudad, una casa, un lugar nuevo): editar su ficha en `escenarios/<nombre>.md` (crear el archivo si es nuevo) y actualizar su línea en el índice de escenarios de `world.md`.
+  - **Excepción: secciones generadas.** Si el cambio cae dentro de una sección de la ficha marcada como generada por un script (hoy, "Estancias" de `escenarios/mansion.md`, que sale de `imagenes/planos/plano_mansion.py`), se edita el script —geometría, puertas, ventanas o el argumento `notas` de la estancia— y se ejecuta en sus dos modos (sin argumentos y con `--mobiliario`). Nunca se toca a mano el texto entre los marcadores: la siguiente ejecución lo borraría.
 - Cambios sobre reglas globales del mundo, tecnología, moda o convenciones sociales: editar `world.md`. Si afectan a la composición de la población o a las enfermedades del mundo, editar `reglas/poblacion-y-enfermedades.md`; si afectan a la app de citas, `reglas/app-citas.md`.
 - Si el cambio afecta el estado actual de la escena: actualizar también `state.md`.
 

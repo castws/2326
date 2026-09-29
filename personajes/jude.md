@@ -52,6 +52,8 @@ Tres años mirando el techo le han dado tiempo para pensar con precisión. Obser
 ## Sexualidad / fetiches
 
 - **Antes del incidente:** activa en la comunidad BDSM. Le gustaba **ser inmovilizada** —shibari, cintas, esposas, distintas configuraciones— y elegía cuándo, cómo y con quién. Muy abierta sexualmente, vida sexual frecuente y variada. En fiestas iba de lencería negra o directamente desnuda.
+- **Palabra de seguridad:** antes del derrame **nunca llegó a usarla** en una sesión. Le gusta que la lleven al límite.
+- **En su primera sesión con Vera**, Jude le dice por la tabla que **la palabra de seguridad no hace falta**: no puede decirla y confía en ella. Lo dice ella, no Cora ni Marcie. Vera puede proponerle una **señal con los ojos** como alternativa; Jude le responde que **no servirá cuando le cubra los ojos** en una sesión. **Vera acepta lo que Jude decida.**
 - **Gustos confirmados con Mark (Día 22):** azotes sí, mucho; humillación sí, con matiz; sexo grupal sí; desconocidos sí.
 - **Lo que más extraña es el sexo.** No lo menciona fácilmente con Cora: la tabla lo hace todo más lento y más expuesto.
 - **Masturbación:** Cora la masturba cuando Jude lo pide (ojos arriba sostenidos, o señalando "ESO" en la tabla). Estimulación manual del clítoris, de forma práctica, sin comentario y sin prolongarlo. Cora se negó al principio y luego aceptó; sin palabras entre las dos después.
@@ -66,7 +68,7 @@ Tres años mirando el techo le han dado tiempo para pensar con precisión. Obser
   - Le reveló a Mark (Día 27) que **le pesa no tener con quién hablar de esto**: la gente con la que habla es de Jude, no suya.
   - **Sin dispositivo de seguimiento ocular:** existen aparatos que permitirían a Jude comunicarse sin depender de que alguien sostenga la tabla, pero **Cora no tiene el dinero** para uno.
 - **Marcie** — tuvo sexo con ella, le gustó y quiere repetir. Marcie le prometió visitarla al salir del hospital.
-- **[Vera](vera.md)** — **no se conocen todavía.** Propuesta de Marcie: que Vera ayude a cuidarla y la acompañe a las reuniones del club, dando tiempo libre a Cora. Acordado que **Cora y Jude visiten la mansión tras el alta** — sería la primera vez que Jude sale de la ciudad. _(Ver la ficha de Vera: la atracción entre ambas se desarrollará de forma gradual.)_
+- **[Vera](vera.md)** — **no se conocen todavía.** Propuesta de Marcie: que Vera ayude a cuidarla y la acompañe a las reuniones del club, dando tiempo libre a Cora. Acordado que **Cora y Jude visiten la mansión tras el alta** — sería la primera vez que Jude sale de la ciudad. _(Ver la ficha de Vera: la atracción entre ambas se desarrollará de forma gradual.)_ Cuando tengan una sesión, Jude renunciará a la palabra de seguridad (ver Sexualidad / fetiches).
 
 ---
 

@@ -260,8 +260,8 @@
 <rect x="736" y="584.0" width="48" height="32.0" fill="#e9dfcb" stroke="#3b3834" stroke-width="1.2" stroke-dasharray="5 3"/>
 <polygon points="808.0,448 864,448 864,488.0 976,488.0 976,584.0 808.0,584.0" fill="#f5eedc" stroke="#3b3834" stroke-width="2.4"/>
 <rect x="864" y="144" width="112" height="96" fill="#dbe6f2" stroke="#3b3834" stroke-width="2.4" />
-<rect x="976" y="144" width="64" height="56.0" fill="#dbe6f2" stroke="#3b3834" stroke-width="2.4" />
 <rect x="976" y="200.0" width="64" height="40.0" fill="#dbe6f2" stroke="#3b3834" stroke-width="2.4" />
+<rect x="976" y="144" width="64" height="56.0" fill="#dbe6f2" stroke="#3b3834" stroke-width="2.4" />
 <rect x="864" y="240" width="32" height="248.0" fill="#ebe7de" stroke="#3b3834" stroke-width="2.4" />
 <rect x="870.4" y="248.0" width="19.2" height="232.0" fill="none" stroke="#b6ad9b" stroke-width="1" stroke-dasharray="3 3"/>
 <rect x="896" y="240" width="80" height="96" fill="#dbe6f2" stroke="#3b3834" stroke-width="2.4" />

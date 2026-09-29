@@ -60,7 +60,7 @@
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude.
 - **Auricular en modo escucha (desde el Día 33):** Claire le pasa el audio de lo que se habla alrededor de cualquier robot del área, sin que lo noten.
 - **La llave de la jaula de Hobbs**, en el cajón de su mesilla.
-- **Proyecto de club BDSM**, sin local todavía (`escenarios/club-bdsm.md`).
+- **Proyecto de club BDSM, Bonded**, sin local todavía (`escenarios/club-bdsm.md`).
 
 ---
 
