@@ -32,6 +32,7 @@
 - **Días 24–30:** ingresada, vendada entera. Habla de nuevo desde el Día 25, con la voz nueva.
 - **Día 30:** alta. A las ~12:20 anuncia el cambio ante Rachel, Sophie, Dana y Vera: **pasa a ser Marcie**, registrado en todos los sistemas del área desde esa hora. Todos los personajes usan el nombre y el femenino. (Fuera de la ficción, el usuario sigue firmando como Mark.)
 - **Día 32:** Mills le retira la ortesis y le cierra el caso.
+- **Día 34:** fin de la férula peneana (se la quita Sadie, ~16:40). Compra el loft del centro.
 
 ---
 
@@ -48,15 +49,16 @@
 - **Aparatos ortopédicos:** la ortesis le excita, y por eso se la quedó.
 - **Amputaciones y discapacidad:** configuró la app de citas para ver solo ese grupo.
 - **BDSM:** dominante con [Hobbs](personajes/hobbs.md).
-- **Quién conoce el fetiche de los yesos:** [Megan](personajes/megan.md) (Día 8) y [Vera](personajes/vera.md) (Día 23). [Mills](personajes/mills.md) sabe desde el Día 32 que le excita la ortesis.
+- **Quién conoce el fetiche de los yesos:** [Megan](personajes/megan.md) (Día 8) y [Vera](personajes/vera.md) (Día 23). [Mills](personajes/mills.md) sabe desde el Día 32 que le excita la ortesis. [Sadie](personajes/sadie.md) lo sabe desde el Día 34 (se lo dijo en la habitación de yesos; a ella le dijo que el yeso de Sophie fue un accidente).
 
 ---
 
 ## Propiedades y recursos
 
 - **[La mansión](escenarios/mansion.md)**, con su habitación de yesos y la bodega que se está convirtiendo en habitación de BDSM.
+- **El [loft del centro](escenarios/loft-centro.md)** (desde el Día 34): última planta del edificio Harlow, sin escalones y con ascensor.
 - **El [Creston Medical Center](escenarios/creston.md)**, propiedad suya desde el Día 19. Hobbs y Delaney saben que es la dueña.
-- **La ortesis completa** (de la cadera a los pies), guardada en el vestidor. Es la única pieza así en el área (`world.md` → "Aparatos ortopédicos").
+- **La ortesis completa** (de la cadera a los pies). **Desde el Día 34 está en la habitación de yesos**, donde la dejó Vera. Es la única pieza así en el área (`world.md` → "Aparatos ortopédicos").
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude. **Con Wren, desde el Día 34, sin límite de distancia.**
 - **Auricular en modo escucha (desde el Día 33):** Claire le pasa el audio de lo que se habla alrededor de cualquier robot del área, sin que lo noten.
 - **La llave de la jaula de Hobbs**, en el cajón de su mesilla.
@@ -74,7 +76,7 @@ El vínculo con cada personaje está en su propia ficha (`## Relaciones` y `## M
 
 - **Localización:** ver `state.md` → "Día actual".
 - **Movilidad (sin ortesis desde el Día 32):** anda **con muletas canadienses**, al menos hasta el Día 35, y se levanta y se sienta sola. **El cuádriceps izquierdo se fatiga y cede sin avisar**: aguanta diez segundos de pie sin apoyo, pero no una caminata. Brazos normales.
-- **Férula peneana (hasta la noche del Día 34):** anillo con bisagra y pasador, cuna, pletina a 90° con la cabeza libre, arnés y dos correas. **El anillo se monta igual en reposo que en erección**: aprieta más, pero no es isquémico. Fuera de casa, **capucha obligatoria**. Con el arnés, orina sentada. Normalmente la monta Vera. **Aviso de Mills:** si la base se queda fría, dormida o cambia de color, abrirla y llamarla.
+- **Férula peneana: retirada el Día 34 (~16:40) por Sadie**, cuatro horas antes de lo previsto. Base sin lesión, con el surco del anillo. Ya no se monta más. **Fuera de casa, capucha obligatoria** como cualquier pene a la vista. Los deberes de esa noche (en blando, sin anillo) **no se han hecho en escena**.
 - **La ortesis:** Mills se la dejó sabiendo que le excita. Condiciones: ratos de 4-5 horas, **nada esta semana** y revisión de la piel cada vez, sobre todo en la rodilla izquierda. **Se la pone y se la quita Vera.**
 - **Voz:** la nueva, más aguda, ya sin ningún esfuerzo.
 - **Rehabilitación con [Delaney](personajes/delaney.md)** (sala 3 del Creston): piernas lunes, miércoles y viernes, y protocolo de pene a diario del Día 33 al 48. Con ella, Delaney no corta por reloj.

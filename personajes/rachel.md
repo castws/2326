@@ -59,7 +59,7 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 
 ## Relaciones
 
-- **[Sophie](sophie.md)** — relación establecida. **No sabe todavía lo de Rachel y Vera**; Rachel tiene pendiente cómo contárselo, y no por celos: le preocupa que **ella puede ir a buscar a Vera y Sophie no**.
+- **[Sophie](sophie.md)** — **pareja abierta, no novias (ajuste de Claire, Día 34).** Se atraen y se acuestan juntas, pero **cada una es libre de estar con otras personas sin dar explicaciones**. Lo de Vera no tiene por qué contárselo a Sophie; si se lo cuenta, será porque le apetece, no porque se lo deba.
 - **[Vera](vera.md)** — desde la noche del Día 30. Vera aceptó **fuera del parte de cuidados**, para conservar el derecho a negarse: Rachel se lo tiene que pedir **cada vez, en voz alta**, y cualquier noche puede recibir un no.
 - **[Dana](dana.md)** — primera intimidad el Día 28 en el Creston, a petición de Marcie.
 
@@ -94,6 +94,7 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 - **Día 31, mañana (escenas 233-234):** entra en la habitación de Marcie en cuanto la ve despierta y le cuenta la noche anterior con Vera —cómo abrió, la condición de Vera, y que **miraba el yeso y no a ella**, con la mano plana sobre la escayola todo el rato. Se da cuenta en voz alta de que no sabe si quiere que el yeso acabe. **Cierra con Marcie el acuerdo de yesos periódicos para después del Día 61.** Abre su preocupación sobre cómo contárselo a Sophie.
 
 - **Día 33, tarde (escena 288):** conoce a **Hobbs** en la sala: "Pasa, que no mordemos. Tampoco podríamos." **No corrige la versión pública** que da Marcie (que se cayó por unas escaleras). Le da el consejo de la primera noche enyesada: si pica algo, pedirlo en voz alta, porque en esa casa siempre hay alguien que oye.
+- **Día 34, cena (escena 320):** conoce a **Sadie** con el yeso recién puesto y se le enrojece el escote. Confiesa que leyó *El juramento de ceniza* **dos veces** y la escena de la armadura **tres seguidas** ("No esperes que lo repita"). Vera le da de comer.
 
 ---
 
@@ -104,5 +105,6 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 - En la mansión. A cargo de [Vera](vera.md) desde el Día 23.
 - Doble shoulder spica hasta **~Día 61**.
 - **Acordado para después del Día 61:** yesos periódicos, **con las manos dentro**, sin que le pregunten cada vez y sin que le digan cuánto van a durar. Decide Marcie.
-- **Pendiente:** contárselo a Sophie.
+- **Pareja abierta con Sophie** (desde el Día 34): lo de Vera ya no es un pendiente, no le debe explicaciones.
 - Conoce a **Hobbs**, que pasará los Días 37–40 enyesada en la casa.
+- Conoce a **Sadie** (Día 34), que duerme esa noche en la mansión con yeso de pierna.

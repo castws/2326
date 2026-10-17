@@ -120,6 +120,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - "Con el uniforme no llevo desde hace años... Bañándote, montándote el aparato, dándote de comer. Todo eso ha sido con esto puesto y nada debajo, y tú no lo sabías." _(Día 32)_
 - "Lo primero, para que no lo pienses durante toda la conversación: no te han traído aquí para mí." _(a Hobbs, al quedarse solas — Día 33)_
 - "Sabe lo que quiere y le da miedo saberlo, que es lo mejor que se puede traer a esto." _(sobre Hobbs — Día 33)_
+- "Llevas nueve minutos de pie. Te queda uno." _(a Sadie, que está corriéndose en el corredor lateral, en tono de parte — Día 34)_
 
 ---
 
@@ -132,6 +133,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **Día 32, antes de la cita (escena 265):** viste y maquilla a Marcie para Patricia. Al saber que le faltan ambos brazos desde el hombro, **el pincel se para medio segundo**, lo reconoce sin adornarlo y lo cierra ella misma. Después reclama lo práctico: dos muletas y ninguna mano entre las dos, así que vehículo a la puerta y mesa con camarero cerca.
 
 - **Día 33 (escenas 288–294):** conoce a **Hobbs** a solas en la biblioteca (Marcie lo oye todo por el auricular, y Vera no lo sabe). Abre con "no te han traído aquí para mí", le enseña la **palabra de seguridad** ("maleta") y corrige ella misma lo que había dicho mal: la palabra es **solo para las sesiones**. Acuerdan **sesiones de BDSM**, con Marcie dentro cuando quiera, y la primera el jueves. Por la noche nota que **la férula no la ha montado ella** y la recoloca mientras hablan. Marcie le encarga convertir la **bodega** en **habitación de BDSM**, sin límite de dinero; Vera distingue en voz alta los registros ("de enfermera" no es "médico") y le da la razón en que estén al lado de la sala de yesos. La organiza con discreción: **a cada contratada solo le enseña su parte**.
+- **Día 34, tarde y noche (escenas 316–321):** se entera por Dana de que **la férula ya no está, cuatro horas antes de lo previsto, y no la ha quitado ella**; no lo comenta. **Enyesa a Sadie** (pierna derecha en flexión completa, con el pie dentro) en **registro de enfermera**, que pregunta antes de mojar nada ("¿Esto es de enfermera o es lo otro?"). Antepone que con esas manos no puede usar muletas normales, propone las de **plataforma** y las consigue del Creston en veintiséis minutos ("Dicen que veinte, pero son veinticinco"). Le mira las manos a Sadie medio segundo de más, y Sadie lo nota. Ve a Sadie correrse de pie en el corredor lateral, cuenta los minutos en voz alta ("Llevas nueve minutos de pie. Te queda uno") y la sujeta cuando le falla la rodilla. La acuesta en la cama de Marcie, de lado y con la almohada bajo el yeso.
 
 ---
 
@@ -146,7 +148,8 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - El **yeso a cuatro patas**, sin fecha.
   - **Disparador de Kerr:** si Megan llega a ir a la consulta, la presentación la hace Vera y nadie entra en la sala.
   - **Encargo de Mills (Día 32):** revisarle a Marcie la piel, las marcas y la temperatura **cada vez que se quite la ortesis**, con atención especial a la cara interna de la rodilla izquierda; si algo no le gusta, llama a Mills. Ella se la pone y ella se la quita.
-  - **La férula peneana:** Marcie amanece el **Día 34** con ella puesta (la montó Hobbs la noche del Día 33 y Vera la reajustó). **Esa noche, al acostarla, Vera se la retira para siempre.**
+  - **La férula peneana:** retirada el **Día 34 (~16:40) por Sadie**, no por ella. Ya no hay que montarla más.
+  - **Yeso de Sadie** (Día 34 → Día 48): se lo puso ella. Lo revisa por la mañana (por dentro estaba húmedo); si se le duermen los dedos o lo nota frío, la llaman a la hora que sea.
   - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando.
   - **La bodega** tiene que quedar **terminada como habitación de BDSM para el jueves (Día 36)**: mudanza, pintura y luz, y anclajes en las vigas. Contrata ella y paga Marcie.
   - **Día 36 por la tarde:** primera sesión con **Hobbs**, de unas horas, con Marcie presente. Hobbs se queda a dormir.

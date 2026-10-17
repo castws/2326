@@ -26,6 +26,7 @@ Resumen operativo para narrar: solo mujeres de 19 a 30 años aparentes (ningún 
 
 - **[Creston Medical Center](creston.md)** — hospital central, propiedad de Marcie desde el Día 19.
 - **[Centro comercial](centro-comercial.md)** — galería con tiendas de ropa y lencería, sex shop, quiosco de zumos y el café-biblioteca **[Marginalia](marginalia.md)**.
+- **[Loft del centro](loft-centro.md)**: de Marcie desde el Día 34, en la última planta del edificio Harlow, en la plaza central.
 - **[Club Insomnia](club-insomnia.md)** — club de música electrónica.
 - **[Bonded (club BDSM)](club-bdsm.md)** — proyecto de Marcie en planificación, sin local asignado todavía.
 - Clínica dental, farmacia, centro de rehabilitación, restaurantes, cafeterías, tiendas, parques y bares.
@@ -39,7 +40,7 @@ Cada vez que Marcie recorra las calles y zonas públicas de la ciudad, el narrad
 
 1. **Discapacidades y yesos visibles:** transeúntes con yesos (desde un miembro hasta cuerpo completo), amputadas, mujeres en silla de ruedas, con andador, con muletas, con aparatos ortopédicos de polio, con parálisis cerebral. La muestra debe ser coherente con las proporciones de la ciudad (10 % amputaciones, 5 % otras discapacidades y ~16 % con algún yeso — aproximadamente **1 de cada 6 personas del entorno**, repartidas entre fracturas convencionales, posiciones poco convencionales de la enfermedad de yoga y yesos de cadera/pene de la de mástil) y variada entre escenas.
 
-2. **Moda de exposición visible en el entorno:** algunas mujeres llevan los senos al descubierto con pezoneras, faldas con abertura en V que dejan la zona íntima visible con C-string de joyería, o la prenda de pene con capucha combinada con falda corta que deja visible la punta. La descripción refleja que estas opciones son elecciones cotidianas normales, sin énfasis especial. Ver `world.md` → "Vestuario y moda".
+2. **Moda de exposición visible en el entorno:** algunas mujeres llevan los senos al descubierto con pezoneras, faldas con abertura en V que dejan la zona íntima visible con C-string de joyería, la prenda de pene con capucha combinada con falda corta que deja visible la punta, leggings o panties con funda tubular en la que el pene cuelga y se balancea al andar, o faldas de paneles con los costados abiertos de la cintura al bajo (de largo hasta el tobillo o cortas hasta el borde de la nalga). La descripción refleja que estas opciones son elecciones cotidianas normales, sin énfasis especial. Ver `world.md` → "Vestuario y moda".
 
 Ambos elementos se narran con el mismo tono plano y natural del resto de la historia.
 

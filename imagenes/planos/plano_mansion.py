@@ -317,7 +317,8 @@ room(11, 15, 15, 20, 'Bodega', anexo, sub='medio vacía', size=10,
      notas='A la izquierda de la habitación de yesos. Por ahora medio vacía: botelleros y una mesa redonda con dos sillas.')
 room(15, 15, 20, 20, 'Sala de\nyesos', anexo, sub='sin ventanas', size=10, nombre='Habitación de yesos',
      notas='Sin ventanas: luz siempre artificial. Camilla con soportes articulados, cama hospitalaria para hip spica, estantería '
-           'con materiales completos, cubo metálico con grifo, mesa de trabajo con taburete y carro auxiliar.')
+           'con materiales completos, cubo metálico con grifo, mesa de trabajo con taburete y carro auxiliar. '
+           '**Silla de ruedas manual** estándar (Día 34), plegada a medias contra la pared este, al pie de la cama hospitalaria.')
 GRUPO = 'Ala oeste (izquierda): servicio'
 room(11, 20, 29, 21.5, '', circ, nombre='Pasillo oeste',
      notas='Sale del extremo sur del corredor lateral y pasa entre la despensa y la cocina. Aquí se guarda la '
@@ -467,6 +468,8 @@ if MOB:
     estante(16.5, 15.05, 18.7, 15.5, False)
     mueble(15.1, 19.35, 16.3, 19.95, 1); circulo(15.7, 18.9, 0.2)                     # mesa de trabajo y taburete
     mueble(17.0, 16.5, 17.6, 16.95, 1)                                                  # carro auxiliar
+    mueble(19.05, 18.05, 19.65, 18.65, 1, '#d9d9d9'); linea(19.0, 18.0, 19.0, 18.75, None, 2.2)   # silla de ruedas
+    linea(19.7, 18.0, 19.7, 18.75, None, 2.2)
     circulo(19.5, 19.4, 0.22, '#e3e3e3', '#7d7d7d'); circulo(19.65, 19.25, 0.05, '#7d7d7d', '#7d7d7d')
     # pasillo oeste: mesa con ruedas
     mueble(25.5, 20.95, 26.3, 21.45, 1)

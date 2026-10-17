@@ -22,7 +22,7 @@
   - **Pierna izquierda**, su única pierna biológica: atrofia visible de cuádriceps y gemelo, rodilla y tobillo rígidos con recorrido muy reducido y doloroso al forzarlo, piel muerta y pálida. **No aguanta su peso.** Con la derecha protésica, **no tiene ninguna base de apoyo fiable**: no se pone de pie sola ni da un paso sin asistencia.
   - **Brazo derecho**, su único brazo: **codo rígido en su ángulo**, sin extensión ni flexión completas, dolor al forzar el recorrido, fuerza de agarre y de bíceps/tríceps muy disminuidas. Usa la mano, pero no carga, ni se empuja, ni se sostiene con ella.
   - **Consecuencia práctica:** quitarse los yesos **la ha dejado más dependiente que con ellos puestos**. Hay que trasladarla y empujarla en silla.
-  - **Recuperación: cinco días.** Rehabilitación intensiva diaria — para todo el mundo, Megan incluida, es una recuperación rápida y nada fuera de lo normal. **Día 36: camina con la prótesis y una muleta** (la muleta en el brazo derecho, apoyando del lado contrario a la pierna que estuvo enyesada). Es como la verá Marcie la próxima vez.
+  - **Recuperación: cuatro días** (adelantada un día por ajuste de Claire el Día 34; antes eran cinco). Rehabilitación intensiva diaria — para todo el mundo, Megan incluida, es una recuperación rápida y nada fuera de lo normal. **Día 35: camina con la prótesis y una muleta** (la muleta en el brazo derecho, apoyando del lado contrario a la pierna que estuvo enyesada). Es como la verá Marcie la próxima vez.
 
 **Vestimenta habitual:** ropa ceñida que marca el pene, en la línea de la moda de exposición de la ciudad — corsés, pezoneras, faldas cortas, prenda de pene con capucha. Fue Mark quien la vistió así por primera vez el Día 11 y se quedó con ese registro: "No me reconozco. En el buen sentido."
 
@@ -99,6 +99,7 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 - **Llamada del Día 26:** relata la conversación con Emily. Acuerdan el plan de retirada de yesos y la conversación a tres.
 - **Llamada del Día 29:** se levanta **sin acordarse** de que era el día previsto para quitarse los yesos. Mantiene la decisión y descarta alargarlos por Emily, pero no había plan de ejecución. **Se entera aquí del accidente de Rachel**, con preocupación genuina. Acepta el aplazamiento y decide contarle lo de Marcie a Emily **ese mismo día y a solas**.
 - **Día 31 (mansión, escenas 239–252):** primera vez que ve el cuerpo nuevo de Marcie; pide permiso para mirarla y le devuelve la pregunta. Erección de Marcie dentro de la férula mientras la toca; acepta sin insistir que hoy no. **Elige que le quiten el brazo primero.** Ve su propio brazo atrofiado y el codo fijo ("parece el de otra persona"). **Dice en voz alta por primera vez que quiere amputarse el brazo derecho**, con sus dos obstáculos; Marcie le resuelve el del trabajo y Vera le da el otro a medias. Acuerdan el **segundo yeso indefinido**. Rechaza que Marcie fije un plazo secreto y rechaza quedarse en la mansión mientras Emily duerme sola. Cierra el día contándole todo a Emily y decidiendo darle el sí.
+- **Día 34, mensajes (escena 320):** le pide verla a solas al día siguiente para hablar, sin decir de qué. Quedan a las 11:30 en el Elm ("tiene los pasillos anchos y no hay escalón en la puerta"). Le pregunta por la férula: "Pillada".
 
 ---
 
@@ -107,7 +108,8 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 ## Estado actual
 
 - En su apartamento de la ciudad, con [Emily](emily.md).
-- **Yesos retirados el Día 31.** Sin base de apoyo: no se sostiene, no se empuja sola, hay que trasladarla. **Recuperación completa el Día 36.**
+- **Yesos retirados el Día 31.** Recuperación adelantada por Claire: **el Día 34 dio veinte pasos con la prótesis y la muleta sin que la sujetaran; desde el Día 35 sale sola** (prótesis y una muleta en el brazo derecho).
+- **Cita con Marcie el Día 35 a las 11:30 en el Café Elm**, a solas: "necesita hablar con ella", en persona y sin adelantar el tema ("no es nada malo"). Marcie le ofreció enseñarle cómo le ha quedado sin la férula "y algo más": "Llevaré la muleta y las ganas."
 - **Declarado en voz alta, sin decidir:** quiere amputarse el brazo derecho.
 - **Acordado:** un **segundo yeso indefinido, brazo hasta el hombro, sin fecha**, que solo ella puede terminar — se sale el día que lo pida, sin discusión.
 - **Pendiente de narrar:** darle el sí a Emily esa noche.

@@ -38,14 +38,14 @@ Asistente doméstica de la mansión. **Inactiva desde el Día 8** por el yeso.
 ## Conocimiento
 
 - **Sabe:** que Megan existe y pasó una noche en la mansión; que Marcie tiene múltiples vínculos simultáneos.
-- **No sabe:** los detalles de los ajustes de Claire (regla de invisibilidad). **No sabe lo de Rachel y Vera** — Rachel tiene pendiente cómo contárselo.
+- **No sabe:** los detalles de los ajustes de Claire (regla de invisibilidad). No sabe lo de Rachel y Vera, y **no hace falta que lo sepa**: con Rachel son pareja abierta y ninguna le debe explicaciones a la otra.
 - **Versión pública para Hobbs (Día 33):** "la atropelló un camión". El yeso fue voluntario; no lo corrigió y lo mantiene.
 
 ---
 
 ## Relaciones
 
-- **[Rachel](rachel.md)** — relación establecida. Se cuidaban la una a la otra hasta que Rachel acabó también enyesada (doble shoulder spica, Día 30); ahora las atiende a las dos [Vera](vera.md). Sophie marca con claridad qué decisiones son de las dos y no de Marcie ("Eso es entre Rachel y yo").
+- **[Rachel](rachel.md)** — **pareja abierta, no novias (ajuste de Claire, Día 34).** Se atraen y se acuestan juntas, pero **cada una es libre de estar con otras personas sin dar explicaciones**, y eso no genera celos ni conversación pendiente entre ellas. Se cuidaban la una a la otra hasta que Rachel acabó también enyesada (doble shoulder spica, Día 30); ahora las atiende a las dos [Vera](vera.md). Sophie marca con claridad qué decisiones son de las dos y no de Marcie ("Eso es entre Rachel y yo").
 - **[Vera](vera.md)** — su enfermera desde el Día 23. El Día 27, durante una maniobra pedida por Rachel, Sophie le pidió que le tocara los senos; iniciativa suya, no de Vera.
 
 ---
@@ -71,6 +71,8 @@ Asistente doméstica de la mansión. **Inactiva desde el Día 8** por el yeso.
 - "Te fuiste hombre y has vuelto con más hierro que yo." _(al ver a Marcie con la ortesis por primera vez — Día 30)_
 - "Hierro nuevo. ¿Cuánto te queda con eso?" _(mismo registro que "Yeso nuevo" del Día 8 — Día 31)_
 - "Titanio. ¿Cuánto te queda con eso?" _(a Hobbs, por la jaula — Día 33)_
+- "Mejor. Así es más mía." _(cuando su semen cae sobre la firma de Sadie — Día 34)_
+- "Dos semanas es nada. Lo que se siente te lo cuento cuando lleves seis." _(a Sadie, por el yeso de pierna — Día 34)_
 
 ---
 
@@ -83,6 +85,8 @@ Asistente doméstica de la mansión. **Inactiva desde el Día 8** por el yeso.
 - Primer desayuno de toda la casa junta. Vera calcula el ángulo de la silla antes de frenar las ruedas para que le entren Marcie y Rachel en el campo de visión, y le da de comer alternando con Rachel _(Día 31, escena 237)_.
 - **Día 33 (escena 288):** conoce a **Hobbs**, colocada de cara a la puerta. **No corrige la versión pública** de Marcie ("la atropelló un camión"). Le registra la jaula con su fórmula: "Titanio. ¿Cuánto te queda con eso?". Marcie **le quita la manta de golpe** delante de Hobbs y ella solo dice "Podías avisar. No es que pueda taparme." Le explica a Hobbs que al tercer día ya no te acuerdas de que los senos están al aire.
 
+- **Día 34, tarde (escenas 310–311, 320):** conoce a **Sadie** ("Visita. ¿Cómo se llama?"). Deja que Marcie le quite la manta y que **Sadie le firme el yeso encima de la abertura genital**, a propuesta de Marcie ("Ahí lo va a leer cada persona que me limpie. Vale. Pero que se lea bien"). Erección por ajuste de Claire ("No es por ti. Bueno. Sí es por ti"); acepta que Sadie la masturbe, pide que le toque los senos y se corre con el pulgar de Marcie en la boca. Por la noche le registra a Sadie el yeso nuevo con su fórmula. En la cena le da de comer Vera.
+
 > Entradas anteriores (8) en [sophie-historial.md](sophie-historial.md).
 
 ---
@@ -90,6 +94,6 @@ Asistente doméstica de la mansión. **Inactiva desde el Día 8** por el yeso.
 ## Estado actual
 
 - En la mansión, en la silla reclinable. A cargo de [Vera](vera.md) desde el Día 23.
-- Full body cast hasta ~Día 40.
-- **Pendiente:** que Rachel le cuente lo suyo con Vera.
+- Full body cast hasta ~Día 40. **Desde el Día 34 lleva la firma de Sadie** justo encima de la abertura genital («Sadie», grande) y, al lado, por la ingle derecha: «Lo que no se puede tocar es lo que mejor se escribe.»
+- **Pareja abierta con Rachel** (desde el Día 34): libre de estar con otras sin dar explicaciones.
 - Conoce a **Hobbs**, que pasará los Días 37–40 enyesada en la casa con una abertura en los senos como la suya.

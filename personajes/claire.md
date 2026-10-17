@@ -75,7 +75,6 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 > Entradas anteriores (3) en [claire-historial.md](claire-historial.md).
 
 ## Momentos con Marcie
-- **Día 32, dos ediciones seguidas sobre la misma indicación (escena 260):** Marcie le pide que la prescripción de la férula de Mills pase de "dos días y solo para dormir" a **día y noche**, y acto seguido que se extienda **también al martes**. Claire ejecuta las dos y **antepone lo que no es técnico**: llevarla de día es llevarla a la vista, porque el ángulo no lo tapa ninguna falda del vestidor, y **el lunes se la verá la fisioterapeuta** — "prefiero que lo sepas ahora y no el lunes". Mills asume el cambio como error propio de la carpeta. Ninguna de las dos presentes oye una palabra de la conversación.
 - **Día 32, tarde — tres ediciones en escena (escenas 267, 269, 271):** en el Café Elm, ajusta a **Patricia** para que comente el pene de Marcie por iniciativa propia ("lo va a decir con sus palabras y no va a saber por qué le sale"); hace **entrar a una desconocida al aseo** en el momento exacto, con veinte segundos de aviso; y hace que **la camarera se acerque** justo cuando Patricia está a punto de correrse. Después configura a **Hannah** para la llegada (ropa, excitación ante el aparato y quedarse en la sala) y **antepone lo no técnico**: "Hannah tiene pene y va a ir en panties blancos; lo que le pase al verte se le va a ver desde la puerta, y ella no va a saber por qué." Reescribe además la ficha de Hannah con la plantilla a petición de Marcie.
 
 - **Día 33 — la sesión de más ediciones en vivo (escenas 280–293):**
@@ -88,7 +87,9 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 
 ---
 
-> Entradas anteriores (13) en [claire-historial.md](claire-historial.md).
+- **Día 34, mediodía y noche — ediciones en escena y de mundo (escenas 302–320):** erección de **Wren** con el cumplido, avisando de que se le verá desde las mesas, y su paso por el baño, con el auricular de pensamientos **ampliado sin límite de distancia** para ella. Pone el libro de Sadie en la biblioteca y una **silla de ruedas** en la habitación de yesos, editando el script del plano. **Rachel y Sophie pasan a ser pareja abierta**, y avisa de que el pendiente de Vera desaparece. La erección de Sophie y el remate (los senos y el semen en el pantalón de Sadie, que es gris marengo, "se le va a ver"). Las bragas de encaje de Sadie, avisando de que ha calado. **Megan**: el mensaje sin tema ("no te lo voy a adelantar") y la recuperación adelantada un día. Crea el **loft del centro** (la sexta planta del edificio Harlow).
+
+> Entradas anteriores (14) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual
 

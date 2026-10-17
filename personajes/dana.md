@@ -69,6 +69,7 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 - "Tú no puedes sujetarlo. Ni un poco." _(a Rachel, sin reproche, antes de levantar a Mark sola — Día 30)_
 - "Marcie, entonces. Si se me escapa el otro los primeros días, es la boca, no la cabeza." _(Día 30)_
 - "Esa barra tenía que salir hoy." _(al ver a Marcie entrar al comedor — Día 31)_
+- "¿Que por qué no tiro con el brazo, me vas a preguntar? Porque el gancho cierra con el hombro contrario y, si tiro a la vez, se me abre." _(a Sadie, en la nevera — Día 34)_
 
 ---
 
@@ -84,6 +85,8 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 
 ---
 
+- **Día 34, tarde y noche (escenas 308–320):** recibe a **Sadie** con el gancho tendido ("La película la vi con Rachel, que se tapaba los ojos"). Acepta que la vea trabajar, **"como en una feria, no"**, y prepara la merienda de Sophie contestando antes de que le pregunten: tira de la nevera con el cuerpo, coge lo redondo con los dos ganchos y abre un tarro con un paño. Limpia a Sophie con una toallita tensada entre los ganchos. Lava y plancha el pantalón de Sadie y lo deja en la habitación sin que lo oigan. En la cena **le trae el pollo cortado sin decir nada** y la sienta de lado, con el yeso hacia fuera.
+
 > Entradas anteriores (6) en [dana-historial.md](dana-historial.md).
 
 ## Estado actual
@@ -91,4 +94,5 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 - En la mansión. Se incorporó el Día 15.
 - Sin cambios en su condición física.
 - **Pendiente:** su excusa para pedirle ayuda a [Vera](vera.md).
+- Conoce a **Sadie** (Día 34): le enseñó cómo trabaja con los ganchos, le lavó y planchó la ropa y le corta la comida.
 - Conoce a **Hobbs** desde el Día 33; va a estar en la casa durante el fin de semana enyesada de Hobbs (Días 37–40).

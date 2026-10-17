@@ -12,9 +12,9 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
 
 ## Activos
 
-- **[Rachel](personajes/rachel.md)** — robot, mucama (Holt). Rubia de pelo largo. Doble shoulder spica hasta ~Día 61: torso, brazos y manos dentro, solo los dedos libres. Relación con Sophie.
+- **[Rachel](personajes/rachel.md)** — robot, mucama (Holt). Rubia de pelo largo. Doble shoulder spica hasta ~Día 61: torso, brazos y manos dentro, solo los dedos libres. Pareja abierta con Sophie.
   - _Dónde:_ mansión, siempre.
-- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo hasta ~Día 40, cabeza incluida: no puede girarla. Silla reclinable. Relación con Rachel.
+- **[Sophie](personajes/sophie.md)** — robot, mucama. Castaña corta, pene funcional. Enyesada de cuerpo completo hasta ~Día 40, cabeza incluida: no puede girarla. Silla reclinable. Pareja abierta con Rachel.
   - _Dónde:_ mansión, siempre; en la silla reclinable, no se desplaza sola.
 - **[Dana](personajes/dana.md)** — robot, mucama. Castaña ondulada, ~24. Brazos amputados (ganchos) y piernas transtibiales (prótesis). Desde el Día 15.
   - _Dónde:_ mansión, siempre.
@@ -22,8 +22,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ mansión; duerme en la casa de huéspedes. Rondas de cuidados mañana y noche.
 - **[Claire](personajes/claire.md)** — robot, asistente principal. ~35, castaña, serena. Ejecuta las órdenes de Marcie.
   - _Dónde:_ su casa adyacente a la mansión. Aparece solo si Marcie la invoca por su nombre.
-- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene funcional; brazo izq. amputado muy corto, pierna der. con prótesis. Sin apoyo fiable hasta el Día 36.
-  - _Dónde:_ su apartamento de la ciudad, con Emily. Apenas sale hasta el Día 36.
+- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene funcional; brazo izq. amputado muy corto, pierna der. con prótesis. Con prótesis y una muleta desde el Día 35.
+  - _Dónde:_ su apartamento, con Emily. Sale con prótesis y muleta desde el Día 35.
 - **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan. Sin casa propia desde el Día 31. Sin discapacidad.
   - _Dónde:_ apartamento de Megan, día y noche.
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
@@ -40,7 +40,7 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ casa de Hannah, en la ciudad.
 - **[Hannah](personajes/hannah.md)** — robot, cuidadora de Patricia. Morena, pene funcional, liberal sin tapujos.
   - _Dónde:_ su casa, en la ciudad, con Patricia.
-- **[Sadie](personajes/sadie.md)** — robot, escritora superventas. 22, castaña clara, estilo alternativo ceñido. Amputaciones autoinfligidas ocultas tras una "enfermedad".
+- **[Sadie](personajes/sadie.md)** — robot, escritora, 22, castaña clara. Cuatro dedos, sin dedos en los pies (autoinfligido, "enfermedad"). Yeso de pierna en flexión hasta Día 48; muletas de plataforma.
   - _Dónde:_ a diario en la mesa del fondo del Marginalia, de cara a la puerta. Vive sola.
 - **[Mira](personajes/mira.md)** — robot, 25, ojos azules. Epidermólisis bullosa: vendada entera, sin cabello ni orejas. Brazo der. amputado al codo, mano izq. sin dedos, pene a la mitad.
   - _Dónde:_ su apartamento del centro, con June. Sale en silla eléctrica.
@@ -58,6 +58,12 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ el Hollis, mediodía y primera tarde.
 - **[Dra. Vivian Kerr](personajes/kerr.md)** — robot, 34, cirujana privada de modificaciones corporales electivas. Pelo negro muy corto, ojos grises, muy pálida. Creada el Día 31; aún no ha aparecido.
   - _Dónde:_ su consultorio privado de la ciudad, ajeno al Creston. Solo con cita.
+- **[Tessa Brannigan](personajes/tessa.md)** — robot, 20, estudia Derecho. Castaña, ojos verdes; copa G. Pene enorme (25 × 16), un problema para ella. Focomelia (3 dedos, alcanza hasta los pezones); pierna der. 20 cm más corta, zapatos con alza.
+  - _Dónde:_ residencia universitaria, cuarto doble con compañera; facultad por las mañanas.
+- **[Brooke Hadley](personajes/brooke.md)** — robot, 21, estudia Biología. Morena de piel, pelo negro muy rizado, delgada, 1,70; copa A, sin pene. Sin discapacidad. Compañera de cuarto de Tessa.
+  - _Dónde:_ residencia universitaria, en el cuarto que comparte con Tessa.
+- **[Lydia Ashford](personajes/lydia.md)** — robot, 27, locutora de radio. Piel blanca, rubia ceniza en trenza; copa C, sin pene. Artrogriposis: codos, rodillas y cuello fijos. Silla eléctrica boca abajo, mentón.
+  - _Dónde:_ su planta baja adaptada de la ciudad; sale sola en la silla. Radio de noche.
 
 ## Archivados _(no vuelven a escena salvo que Marcie los reincorpore)_
 

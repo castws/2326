@@ -32,6 +32,7 @@
 - **Dra. Mills** — cirujana. Llevó la feminización de Marcie.
 - **Hobbs** — residente de primer año.
 - **Reyes** — enfermera del turno de mañana.
+- Figurantes del Día 34, sin ficha: **Keller** (enfermera de la sala de yesos de Traumatología; alta, aceitunada, moño negro, pene), **Price** (enfermera de Traumatología; bajita, coleta castaña, pecas, sin pene), **Garner** (fisioterapeuta de la Unidad de Amputados; rubia ceniza, ojos azul claro, pene) y **Doyle** (enfermera de Recuperación de amputados; piel oscura, rizo corto, aros, pene).
 - **[Delaney](../personajes/delaney.md)** — fisioterapeuta, **sala 3 de rehabilitación**, planta baja. Lleva la rehabilitación de Marcie y el protocolo de movilización peneana.
 
 ---

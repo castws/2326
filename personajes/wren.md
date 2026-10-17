@@ -13,4 +13,6 @@
 **Momentos con Marcie:**
 
 - Les sirvió la comida en el Hollis _(Día 33)_. Llegó a la mesa justo cuando Hobbs estaba hablando de masturbarse, y no dio muestra de haber oído nada.
-- Marcie, sola en el Hollis, se queda mirándole el pene y le dice que lo admiraba. Wren se ruboriza, le da las gracias y, por el ajuste de Claire, tiene una erección pequeña delante del local _(Día 34, mediodía)_.
+- Marcie, sola en el Hollis, se queda mirándole el pene y le dice que lo admiraba. Wren se ruboriza, le da las gracias y, por el ajuste de Claire, tiene una erección pequeña delante del local. Va al baño a masturbarse (Marcie oye sus pensamientos) y vuelve con la capucha mojada. Pregunta por la férula y lo de la erección de Marcie lo toma como "empatadas". Marcie le elogia los senos y las pezoneras ("atrevido": ya no las cambia). Se presentan por el nombre y Marcie le deja una propina muy por encima de la cuenta. **Sabe que Marcie vuelve al Creston por la terapia y espera verla** _(Día 34, escenas 302–304)_.
+
+**Cita memorable:** "Pues ya estamos empatadas." _(pensado, al ver que a Marcie se le levanta el pene en la férula — Día 34)_

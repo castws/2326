@@ -444,6 +444,9 @@
 <rect x="433.6" y="453.6" width="19.2" height="9.6" fill="#fbf9f4" stroke="#8a8173" stroke-width="1" rx="1" />
 <circle cx="443.2" cy="446.4" r="3.2" fill="#fbf9f4" stroke="#8a8173" stroke-width="1"/>
 <rect x="464.0" y="408.0" width="9.6" height="7.2" fill="#fbf9f4" stroke="#8a8173" stroke-width="1" rx="1" />
+<rect x="496.8" y="432.8" width="9.6" height="9.6" fill="#d9d9d9" stroke="#8a8173" stroke-width="1" rx="1" />
+<line x1="496.0" y1="432.0" x2="496.0" y2="444.0" stroke="#8a8173" stroke-width="2.2"/>
+<line x1="507.2" y1="432.0" x2="507.2" y2="444.0" stroke="#8a8173" stroke-width="2.2"/>
 <circle cx="504.0" cy="454.4" r="3.5" fill="#e3e3e3" stroke="#7d7d7d" stroke-width="1"/>
 <circle cx="506.4" cy="452.0" r="0.8" fill="#7d7d7d" stroke="#7d7d7d" stroke-width="1"/>
 <rect x="600.0" y="479.2" width="12.8" height="8.0" fill="#fbf9f4" stroke="#8a8173" stroke-width="1" rx="1" />
