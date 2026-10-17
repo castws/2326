@@ -26,7 +26,7 @@ Tras una de las visitas de Megan al hospital, Sasha la llama para invitarla a to
 
 ## Oficina
 
-Le pido a Claire que cree una oficina donde yo trabajo como ejecutiva y tengo una asistente. Voy al trabajo con el DSS.
+Le pido a Claire que cree una oficina donde yo trabajo como ejecutiva y tengo una asistente. Voy al trabajo con el DSS o simulo un accidente durante el trabajo.
 
 ## Spa nudista
 
@@ -100,3 +100,7 @@ Mira se entera de las amputaciones de los otros personajes y me pide que le ayud
 # Sesión de rol
 
 Sesión de rol erótica
+
+# Gemelas
+
+Dos gemelas que están muy unidas. Siempre se visten igual, se peinan igual, se maquillan igual, e incluso comen siempre lo mismo para que su figura no varíe. Si a una la enyesan, la otra usa el mismo yeso. Una de ellas perdió el brazo izquierdo debido a la enfermedad de yoga, así que la otra se hizo amputar el brazo izquierdo. Cuando tienen intimidad con alguien más, lo hacen las dos al mismo tiempo. Siempre realizan las mismas actividades juntas.

@@ -15,6 +15,7 @@ Ocupa una esquina de la galería **en una sola planta**. No es un café de paso:
 - **Sala de mesas:** mesas individuales de madera con lámpara verde de banca y enchufe propio, repartidas entre la barra y la pared de libros. Se habla en voz baja por costumbre, no por norma escrita.
 - **Mesa comunal de roble** de ocho metros en el centro, la única zona donde se conversa en voz normal.
 - **Muro de fichas:** panel de corcho junto a la entrada donde cualquiera puede clavar una ficha con **una sola línea** de lo que esté leyendo o escribiendo. Cuando se llena, se vacía y se empieza otra vez.
+- **Baño** individual, con cerrojo, al fondo del local, a pocos pasos de la mesa de Sadie.
 - Todo a nivel, sin escalones, accesible en silla de ruedas. El café se sirve en cerámica pesada, sin tapa y sin vaso de cartón.
 
 ---

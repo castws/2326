@@ -54,6 +54,9 @@ alguna de estas medidas, se actualiza también su fila aquí.
 | [Sloane](../personajes/sloane.md) | F | 80 (contorno 103) | 5 cm, rosa oscuro | Sin pene | Genitales sin describir más allá de eso. |
 | [Wren](../personajes/wren.md) | C | 70 (contorno 88) | 4 cm, rosa claro | 13 × 9 → 18 × 11,5 | Circuncidada. |
 | [Kerr](../personajes/kerr.md) | C | 75 (contorno 92) | 2,5 cm, rosa pálido | Sin pene | Genitales sin describir más allá de eso. |
+| [Tessa](../personajes/tessa.md) | G | 70 (contorno 95) | 6 cm, marrón claro | 25 × 16 → 32 × 19 | Circuncidada. Sin vagina. Solo alcanza el glande en erección. |
+| [Brooke](../personajes/brooke.md) | A | 70 (contorno 82) | 3 cm, marrón oscuro | Sin pene | Vagina. |
+| [Lydia](../personajes/lydia.md) | C | 75 (contorno 91) | 4 cm, rosa | Sin pene | Vagina. En la silla va boca abajo: los senos cuelgan hacia el cojín. |
 
 ## Archivados
 
@@ -72,13 +75,14 @@ alguna de estas medidas, se actualiza también su fila aquí.
 
 ## Resumen
 
-**Copas** (32 personajes): A 7 · B 4 · C 9 · D 5 · E 5 · F 1 · G 1.
+**Copas** (35 personajes): A 8 · B 4 · C 10 · D 5 · E 5 · F 1 · G 2.
 
-**Con pene** (11): Marcie, Sophie, Megan, Hobbs, Delaney, Hannah, Mira, Tori, Corinne, Wren y
-Reyes. Ordenados por longitud en erección:
+**Con pene** (12): Marcie, Sophie, Megan, Hobbs, Delaney, Hannah, Mira, Tori, Corinne, Wren,
+Tessa y Reyes. Ordenados por longitud en erección:
 
 | Personaje | Erección | Reposo |
 | --- | --- | --- |
+| Tessa | 32 × 19 | 25 × 16 |
 | Wren | 18 × 11,5 | 13 × 9 |
 | Reyes | ~18 | sin dato |
 | Marcie | 17–17,5 × 13 | 14 × 13 |

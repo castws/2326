@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" width="900" height="1400">
+  <defs>
+    <filter id="wash" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="4" seed="23" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.1 0 0 0 0.25" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="5" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="10" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="0.8"/>
+    </filter>
+    <filter id="washSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="47" result="t"/>
+      <feColorMatrix in="t" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  1.3 0 0 0 0.05" result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in" result="m"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="14" result="t2"/>
+      <feDisplacementMap in="m" in2="t2" scale="40" xChannelSelector="R" yChannelSelector="G" result="d"/>
+      <feGaussianBlur in="d" stdDeviation="2"/>
+    </filter>
+    <filter id="ink" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="4" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="11" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.3  0 0 0 0.09 0"/>
+    </filter>
+    <linearGradient id="skinG" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#efcdb6"/>
+      <stop offset="0.5" stop-color="#fae5d4"/>
+      <stop offset="1" stop-color="#f0cfb9"/>
+    </linearGradient>
+    <linearGradient id="skinV" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#e9bfa6"/>
+      <stop offset="0.45" stop-color="#f6dccb"/>
+      <stop offset="1" stop-color="#e6bba2"/>
+    </linearGradient>
+    <radialGradient id="breastG" cx="0.45" cy="0.4" r="0.65">
+      <stop offset="0" stop-color="#fbe9dc"/>
+      <stop offset="0.7" stop-color="#f3d6c3"/>
+      <stop offset="1" stop-color="#e5bba3"/>
+    </radialGradient>
+    <radialGradient id="gold" cx="0.35" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#fff6d8"/>
+      <stop offset="0.5" stop-color="#e6bf5c"/>
+      <stop offset="1" stop-color="#a77b22"/>
+    </radialGradient>
+  </defs>
+  <!-- papel -->
+  <rect width="900" height="1400" fill="#f7f3ec"/>
+  <rect width="900" height="1400" filter="url(#grain)"/>
+
+  <!-- manchas de fondo: azafrán del top y turquesa de la falda -->
+  <path d="M250 330 C228 200 360 110 500 128 C650 148 716 268 688 408 C664 530 600 620 468 628 C330 636 266 540 250 430 Z" fill="#f3c3a0" opacity="0.45" filter="url(#washSoft)"/>
+  <path d="M560 640 C640 600 712 660 690 744 C672 796 606 796 586 754 Z" fill="#a9d8da" opacity="0.4" filter="url(#washSoft)"/>
+  <ellipse cx="450" cy="1298" rx="190" ry="26" fill="#d8c6a6" opacity="0.5" filter="url(#washSoft)"/>
+  <g fill="#17909c" opacity="0.4">
+    <circle cx="704" cy="300" r="3.6"/><circle cx="720" cy="322" r="2.2"/><circle cx="226" cy="480" r="2.8"/>
+  </g>
+
+  <!-- ===================== PIERNAS ===================== -->
+  <!-- la derecha de ella (izquierda del dibujo) es 20 cm más corta: rodilla 10 cm más alta, muslo y pantorrilla algo más delgados -->
+  <path d="M372 606 C360 650 362 706 376 760 C384 800 392 822 398 842 C390 880 392 960 400 1030 C402 1060 404 1080 406 1100 L428 1100 C426 1070 428 1040 430 1000 C434 950 434 900 428 846 C432 810 438 760 442 720 C446 690 448 670 449 652 Z" fill="url(#skinV)" filter="url(#wash)"/>
+  <path d="M451 652 C454 680 458 720 464 780 C468 840 472 880 474 904 C468 960 466 1060 470 1150 C472 1180 472 1200 472 1216 L494 1216 C494 1196 496 1170 500 1140 C508 1060 514 980 508 908 C518 860 534 790 540 730 C544 680 538 640 528 606 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M372 606 C360 650 362 706 376 760 C384 800 392 822 398 842 C390 880 392 960 400 1030 C402 1060 404 1080 406 1100 M428 1100 C426 1070 428 1040 430 1000 C434 950 434 900 428 846 C432 810 438 760 442 720 C446 690 448 670 449 652" fill="none" stroke="#7a5647" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M451 652 C454 680 458 720 464 780 C468 840 472 880 474 904 C468 960 466 1060 470 1150 C472 1180 472 1200 472 1216 M494 1216 C494 1196 496 1170 500 1140 C508 1060 514 980 508 908 C518 860 534 790 540 730 C544 680 538 640 528 606" fill="none" stroke="#7a5647" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M380 700 C384 760 392 800 402 836 M520 700 C514 790 508 860 506 900 M404 900 C402 960 406 1020 412 1090 M476 960 C474 1060 478 1140 480 1210" fill="none" stroke="#e2b79e" stroke-width="13" opacity="0.28" filter="url(#wash)"/>
+  <path d="M402 836 Q414 846 428 840 M478 900 Q492 910 506 902" fill="none" stroke="#cda694" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+
+  <!-- calzado sin cordones, cierre de tira magnética turquesa -->
+  <!-- izquierdo de ella: plano -->
+  <path d="M470 1212 Q466 1248 458 1268 Q452 1292 472 1296 L508 1296 Q518 1288 506 1262 Q498 1240 498 1212 Z" fill="#fdfcf9" stroke="#5f6670" stroke-width="1.4" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M456 1288 L512 1288" stroke="#cfd5db" stroke-width="5" stroke-linecap="round"/>
+  <path d="M466 1236 Q484 1244 502 1236" fill="none" stroke="#17909c" stroke-width="7" stroke-linecap="round" filter="url(#ink)"/>
+  <!-- derecho de ella: plataforma rígida de 20 cm, hecha a medida -->
+  <path d="M404 1096 Q400 1130 392 1150 Q388 1164 400 1166 L436 1166 Q446 1160 436 1132 Q430 1112 430 1096 Z" fill="#fdfcf9" stroke="#5f6670" stroke-width="1.4" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M400 1122 Q416 1130 432 1122" fill="none" stroke="#17909c" stroke-width="7" stroke-linecap="round" filter="url(#ink)"/>
+  <path d="M388 1166 L444 1166 L450 1296 L382 1296 Z" fill="#fdfcf9" filter="url(#wash)"/>
+  <path d="M388 1166 L396 1296 L382 1296 Z M444 1166 L450 1296 L436 1296 Z" fill="#d7dde4" opacity="0.8" filter="url(#wash)"/>
+  <path d="M388 1166 L444 1166 L450 1296 L382 1296 Z" fill="none" stroke="#5f6670" stroke-width="1.4" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M386 1200 L446 1200 M385 1234 L447 1234 M384 1266 L449 1266" stroke="#17909c" stroke-width="1.6" opacity="0.7"/>
+  <path d="M381 1290 L451 1290" stroke="#b9c0c8" stroke-width="5" stroke-linecap="round"/>
+
+
+  <!-- panties turquesa con abertura y soporte para los testículos, visibles al levantarse la falda -->
+  <path d="M396 600 Q450 616 504 600 L500 640 Q484 676 450 684 Q416 676 400 640 Z" fill="#0e6670" filter="url(#wash)"/>
+  <path d="M396 600 Q450 616 504 600 L500 640 Q484 676 450 684 Q416 676 400 640 Z" fill="none" stroke="#0a3f45" stroke-width="1.3" filter="url(#ink)"/>
+  <path d="M418 654 Q434 676 450 678 Q466 676 482 654" fill="none" stroke="#7fcfd2" stroke-width="1.1" stroke-dasharray="2 2.5"/>
+
+  <!-- ===================== FALDA TURQUESA, LEVANTADA POR DELANTE ===================== -->
+  <path d="M410 512 L490 512 Q514 560 528 604 Q536 630 542 662 Q520 666 506 660 Q488 620 472 600 L428 600 Q412 620 394 660 Q380 666 358 662 Q364 630 372 604 Q386 560 410 512 Z" fill="#17909c" filter="url(#wash)"/>
+  <path d="M392 560 Q380 610 372 660 L392 662 Q400 610 410 560 Z M508 560 Q520 610 528 664 L508 662 Q500 610 492 560 Z" fill="#0e6670" opacity="0.5" filter="url(#wash)"/>
+  <path d="M410 512 L490 512 Q514 560 528 604 Q536 630 542 662 Q520 666 506 660 Q488 620 472 600 L428 600 Q412 620 394 660 Q380 666 358 662 Q364 630 372 604 Q386 560 410 512 Z" fill="none" stroke="#0a3f45" stroke-width="1.5" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M432 530 L424 600 M468 530 L476 600" fill="none" stroke="#0a3f45" stroke-width="1" opacity="0.5" filter="url(#ink)"/>
+  <rect x="406" y="506" width="88" height="12" rx="2" fill="#0e6670" stroke="#0a3f45" stroke-width="1" filter="url(#ink)"/>
+
+  <path d="M438 252 L436 306 L464 306 L462 252 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M438 256 L437 300 M462 256 L463 300" fill="none" stroke="#7a5647" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+
+  <!-- ===================== TORSO ===================== -->
+  <path d="M440 258 L438 304 Q404 306 384 316 Q370 326 372 344 L382 430 Q392 474 410 514 L490 514 Q508 474 518 430 L528 344 Q530 326 516 316 Q496 306 462 304 L460 258 Z" fill="url(#skinG)" filter="url(#wash)"/>
+
+
+  <!-- ===================== TOP AZAFRÁN SIN MANGAS ===================== -->
+  <clipPath id="topClip"><path d="M438 302 Q446 318 450 322 Q454 318 462 302 Q486 306 508 314 Q514 340 520 354 Q526 380 522 430 Q512 474 494 516 L406 516 Q388 474 378 430 Q374 380 380 354 Q386 340 392 314 Q414 306 438 302 Z"/></clipPath>
+  <path d="M438 302 Q446 318 450 322 Q454 318 462 302 Q486 306 508 314 Q514 340 520 354 Q526 380 522 430 Q512 474 494 516 L406 516 Q388 474 378 430 Q374 380 380 354 Q386 340 392 314 Q414 306 438 302 Z" fill="#f2a93b" filter="url(#wash)"/>
+  <path d="M380 440 Q388 480 406 516 L420 516 Q404 480 398 456 Z M520 440 Q512 480 494 516 L480 516 Q496 480 502 456 Z" fill="#c9781c" opacity="0.55" filter="url(#wash)"/>
+  <path d="M438 302 Q446 318 450 322 Q454 318 462 302 Q486 306 508 314 Q514 340 520 354 Q526 380 522 430 Q512 474 494 516 L406 516 Q388 474 378 430 Q374 380 380 354 Q386 340 392 314 Q414 306 438 302 Z" fill="none" stroke="#7a4a12" stroke-width="1.4" filter="url(#ink)"/>
+  <g clip-path="url(#topClip)">
+    <ellipse cx="406" cy="414" rx="51" ry="55" transform="rotate(14 406 414)" fill="#c9781c" opacity="0.6"/>
+    <ellipse cx="494" cy="414" rx="51" ry="55" transform="rotate(-14 494 414)" fill="#c9781c" opacity="0.6"/>
+  </g>
+  <!-- cierre magnético delantero -->
+  <path d="M450 470 L450 514" stroke="#7a4a12" stroke-width="1" opacity="0.7"/>
+  <g fill="#3a2a14"><circle cx="450" cy="478" r="2.2"/><circle cx="450" cy="494" r="2.2"/><circle cx="450" cy="508" r="2.2"/></g>
+
+
+  <!-- senos copa G, pesados, caen algo hacia los lados -->
+  <ellipse cx="406" cy="414" rx="46" ry="50" transform="rotate(14 406 414)" fill="#f5dccb"/>
+  <ellipse cx="494" cy="414" rx="46" ry="50" transform="rotate(-14 494 414)" fill="#f5dccb"/>
+  <ellipse cx="406" cy="414" rx="47" ry="51" transform="rotate(14 406 414)" fill="url(#breastG)" filter="url(#wash)"/>
+  <ellipse cx="494" cy="414" rx="47" ry="51" transform="rotate(-14 494 414)" fill="url(#breastG)" filter="url(#wash)"/>
+  <ellipse cx="406" cy="414" rx="47" ry="51" transform="rotate(14 406 414)" fill="none" stroke="#b98d78" stroke-width="1.2" filter="url(#ink)"/>
+  <ellipse cx="494" cy="414" rx="47" ry="51" transform="rotate(-14 494 414)" fill="none" stroke="#b98d78" stroke-width="1.2" filter="url(#ink)"/>
+  <path d="M372 438 Q384 470 414 466 Q440 462 448 436 M452 436 Q460 462 486 466 Q516 470 528 438" fill="none" stroke="#c49e8a" stroke-width="1.3" filter="url(#ink)"/>
+  <path d="M449 380 Q450 410 450 436" fill="none" stroke="#dcb29b" stroke-width="1.6" opacity="0.7"/>
+  <!-- areolas de 6 cm, marrón claro, con pezonera dorada -->
+  <circle cx="398" cy="430" r="19" fill="#c99a78" opacity="0.85" filter="url(#wash)"/>
+  <circle cx="502" cy="430" r="19" fill="#c99a78" opacity="0.85" filter="url(#wash)"/>
+  <circle cx="398" cy="430" r="9.5" fill="url(#gold)" stroke="#8a6420" stroke-width="0.7"/>
+  <circle cx="502" cy="430" r="9.5" fill="url(#gold)" stroke="#8a6420" stroke-width="0.7"/>
+
+
+  <!-- ===================== BRAZOS: FOCOMELIA ===================== -->
+  <!-- un segmento carnoso corto sale de cada hombro; la mano nace de él: tres dedos largos, sin pulgar -->
+  <path d="M384 314 Q366 318 360 340 Q356 362 362 384 L386 384 Q390 360 394 334 Z" fill="#f4d9c6"/>
+  <path d="M516 314 Q534 318 540 340 Q544 362 538 384 L514 384 Q510 360 506 334 Z" fill="#f4d9c6"/>
+  <path d="M360 380 Q356 392 360 404 Q360 428 366 444 Q370 448 372 442 Q370 424 370 410 Q372 430 376 448 Q380 452 382 446 Q380 428 380 410 Q384 428 390 442 Q394 444 394 438 Q390 420 390 404 Q392 392 388 380 Z" fill="#f4d9c6"/>
+  <path d="M540 380 Q544 392 540 404 Q540 428 534 444 Q530 448 528 442 Q530 424 530 410 Q528 430 524 448 Q520 452 518 446 Q520 428 520 410 Q516 428 510 442 Q506 444 506 438 Q510 420 510 404 Q508 392 512 380 Z" fill="#f4d9c6"/>
+  <path d="M384 314 Q366 318 360 340 Q356 362 362 384 L386 384 Q390 360 394 334 Z" fill="url(#skinV)" filter="url(#wash)"/>
+  <path d="M516 314 Q534 318 540 340 Q544 362 538 384 L514 384 Q510 360 506 334 Z" fill="url(#skinV)" filter="url(#wash)"/>
+  <path d="M384 314 Q366 318 360 340 Q356 362 362 384 L386 384 Q390 360 394 334" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M516 314 Q534 318 540 340 Q544 362 538 384 L514 384 Q510 360 506 334" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M360 380 Q356 392 360 404 Q360 428 366 444 Q370 448 372 442 Q370 424 370 410 Q372 430 376 448 Q380 452 382 446 Q380 428 380 410 Q384 428 390 442 Q394 444 394 438 Q390 420 390 404 Q392 392 388 380 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M540 380 Q544 392 540 404 Q540 428 534 444 Q530 448 528 442 Q530 424 530 410 Q528 430 524 448 Q520 452 518 446 Q520 428 520 410 Q516 428 510 442 Q506 444 506 438 Q510 420 510 404 Q508 392 512 380 Z" fill="url(#skinG)" filter="url(#wash)"/>
+  <path d="M360 380 Q356 392 360 404 Q360 428 366 444 Q370 448 372 442 Q370 424 370 410 Q372 430 376 448 Q380 452 382 446 Q380 428 380 410 Q384 428 390 442 Q394 444 394 438 Q390 420 390 404 Q392 392 388 380 Z" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M540 380 Q544 392 540 404 Q540 428 534 444 Q530 448 528 442 Q530 424 530 410 Q528 430 524 448 Q520 452 518 446 Q520 428 520 410 Q516 428 510 442 Q506 444 506 438 Q510 420 510 404 Q508 392 512 380 Z" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+  <path d="M362 384 Q374 388 388 384 M538 384 Q526 388 512 384" fill="none" stroke="#c49e8a" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+
+
+  <!-- ===================== PENE EN ERECCIÓN ===================== -->
+  <!-- 32 × 19 cm: sube pegado al vientre y el glande llega al esternón, entre los senos -->
+  <path d="M428 636 L472 636 L470 470 Q470 452 450 450 Q430 452 430 470 Z" fill="#f2d6c3"/>
+  <path d="M427 470 L473 470 L474 434 Q474 404 450 400 Q426 404 426 434 Z" fill="#5fb3bb"/>
+  <path d="M428 636 L472 636 L470 470 Q470 452 450 450 Q430 452 430 470 Z" fill="url(#skinV)" filter="url(#wash)"/>
+  <path d="M428 636 L430 470 M472 636 L470 470" fill="none" stroke="#a9826e" stroke-width="1.4" filter="url(#ink)"/>
+  <path d="M446 620 Q444 560 447 480" fill="none" stroke="#d7ac94" stroke-width="2.6" opacity="0.6"/>
+  <path d="M458 610 Q462 570 458 530" fill="none" stroke="#c99a84" stroke-width="1.1" opacity="0.7"/>
+  <!-- sale por la abertura de los panties: ribete turquesa en la base -->
+  <path d="M422 624 Q450 616 478 624 L478 640 Q450 646 422 640 Z" fill="#0e6670" stroke="#0a3f45" stroke-width="1.2" filter="url(#ink)"/>
+  <path d="M424 630 Q450 624 476 630" fill="none" stroke="#7fcfd2" stroke-width="1" stroke-dasharray="2 2.5"/>
+  <path d="M462 620 Q468 560 466 476" fill="none" stroke="#d3a58c" stroke-width="5" opacity="0.45" filter="url(#wash)"/>
+  <!-- capucha ajustada tras la corona: queda a la vista parte de la piel del tronco -->
+  <path d="M427 470 L473 470 L474 434 Q474 404 450 400 Q426 404 426 434 Z" fill="#17909c" filter="url(#wash)"/>
+  <path d="M427 470 L473 470 L474 434 Q474 404 450 400 Q426 404 426 434 Z" fill="none" stroke="#0a3f45" stroke-width="1.3" filter="url(#ink)"/>
+  <path d="M427 468 Q450 460 473 468" fill="none" stroke="#e8f6f5" stroke-width="2" stroke-dasharray="2 2.5"/>
+  <path d="M436 446 Q450 432 464 446 M440 426 Q450 418 460 426" fill="none" stroke="#7fcfd2" stroke-width="1" opacity="0.8"/>
+
+
+  <!-- ===================== CABEZA ===================== -->
+  <g transform="rotate(3 450 200)">
+    <!-- media melena recta castaño oscuro, a la mandíbula: parte de atrás -->
+    <path d="M398 264 L396 196 Q398 128 450 126 Q502 128 504 196 L502 264 Q490 270 478 262 L422 262 Q410 270 398 264 Z" fill="#3d2a1f" filter="url(#wash)"/>
+    <!-- cara redonda -->
+    <path d="M412 198 Q412 150 450 148 Q488 150 488 198 Q488 236 476 250 Q464 262 450 262 Q436 262 424 250 Q412 236 412 198 Z" fill="url(#skinG)" filter="url(#wash)"/>
+    <path d="M413 210 Q416 238 426 250 Q438 262 450 262 Q462 262 474 250 Q484 238 487 210" fill="none" stroke="#7a5647" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+    <!-- mejillas que se colorean fácil -->
+    <ellipse cx="426" cy="220" rx="12" ry="7" fill="#ef9c92" opacity="0.55" filter="url(#wash)"/>
+    <ellipse cx="474" cy="220" rx="12" ry="7" fill="#ef9c92" opacity="0.55" filter="url(#wash)"/>
+    <path d="M426 184 Q436 177 446 181 M456 184 Q466 183 476 187" fill="none" stroke="#3d2a1f" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- ojos verdes, grandes, pestañas oscuras -->
+    <path d="M424 199 Q435 189 447 199 Q435 204 424 199 Z M453 199 Q465 189 476 199 Q465 204 453 199 Z" fill="#fbf8f4" stroke="#2a1d16" stroke-width="1.2"/>
+    <circle cx="436" cy="197.5" r="4.6" fill="#4f8f5c"/><circle cx="465" cy="197.5" r="4.6" fill="#4f8f5c"/>
+    <circle cx="436" cy="197.5" r="2" fill="#1d2a1f"/><circle cx="465" cy="197.5" r="2" fill="#1d2a1f"/>
+    <circle cx="437.6" cy="195.8" r="1.1" fill="#fff"/><circle cx="466.6" cy="195.8" r="1.1" fill="#fff"/>
+    <path d="M423 199 Q435 188 448 198 M452 198 Q465 188 477 199" fill="none" stroke="#1d1410" stroke-width="2.2"/>
+    <path d="M424 197 L420 193 M427 194 L424 189 M473 194 L476 189 M476 197 L480 193" stroke="#1d1410" stroke-width="1.1"/>
+    <!-- nariz pequeña -->
+    <path d="M451 205 Q451 214 447 218 Q451 221 455 218" fill="none" stroke="#c7a28f" stroke-width="1.2" filter="url(#ink)"/>
+    <!-- labios llenos -->
+    <path d="M438 233 Q444 228 450 231 Q456 228 463 233 Q456 234 450 234 Q444 234 438 233 Z" fill="#c4746f"/>
+    <path d="M438 233 Q444 234 450 234 Q456 234 463 233 Q458 241 450 241 Q442 241 438 233 Z" fill="#dc958d"/>
+    <path d="M436 234 Q444 235 450 234 Q456 235 464 233" fill="none" stroke="#9c5552" stroke-width="1.3"/>
+    <!-- flequillo de lado: raya a la derecha de ella -->
+    <path d="M408 214 Q404 146 450 134 Q494 136 496 206 Q490 168 470 152 Q452 168 422 176 Q412 190 408 214 Z" fill="#3d2a1f" filter="url(#wash)"/>
+    <path d="M398 264 L396 196 Q398 128 450 126 Q502 128 504 196 L502 264 M470 152 Q452 168 422 176 M402 230 L402 262 M498 228 L498 262" fill="none" stroke="#22160f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#ink)"/>
+    <path d="M478 140 Q490 160 494 190 M430 148 Q418 164 414 190" fill="none" stroke="#6b4e3a" stroke-width="1.3" opacity="0.7" stroke-linecap="round"/>
+  </g>
+  <!-- cuello -->
+
+
+  <!-- ===================== NOTAS A LÁPIZ ===================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#8a8277" font-size="15">
+    <text x="196" y="352" transform="rotate(-4 196 352)">tres dedos,</text>
+    <text x="200" y="370" transform="rotate(-4 200 370)">sin pulgar</text>
+    <text x="196" y="852" transform="rotate(-4 196 852)">rodilla 10 cm</text>
+    <text x="200" y="870" transform="rotate(-4 200 870)">más alta</text>
+    <text x="198" y="1222" transform="rotate(-4 198 1222)">alza de 20 cm</text>
+  </g>
+  <g fill="none" stroke="#8a8277" stroke-width="1" filter="url(#ink)">
+    <path d="M276 372 Q320 396 354 410"/>
+    <path d="M278 864 Q340 856 392 842"/>
+    <path d="M300 1214 Q344 1214 380 1230"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#8a8277" font-size="15">
+    <text x="586" y="300" transform="rotate(-5 586 300)">el glande llega</text>
+    <text x="590" y="318" transform="rotate(-5 590 318)">al esternón</text>
+    <text x="588" y="720" transform="rotate(-5 588 720)">levanta la falda;</text>
+    <text x="592" y="738" transform="rotate(-5 592 738)">solo le queda esperar</text>
+  </g>
+  <g fill="none" stroke="#8a8277" stroke-width="1" filter="url(#ink)">
+    <path d="M590 324 Q530 372 478 420"/>
+    <path d="M584 712 Q540 670 508 640"/>
+  </g>
+
+  <!-- ===================== FIRMA Y RÓTULO ===================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#2e2724">
+    <text x="596" y="1150" font-size="56" font-style="italic" transform="rotate(-4 596 1150)">Tessa</text>
+    <text x="600" y="1186" font-size="24" font-style="italic" fill="#4a4440" transform="rotate(-4 600 1186)">Brannigan</text>
+    <text x="604" y="1218" font-size="13" letter-spacing="3" fill="#0e6670" transform="rotate(-4 604 1218)">DERECHO · 2.º AÑO</text>
+    <text x="606" y="1240" font-size="12" letter-spacing="1.5" fill="#8a8277" transform="rotate(-4 606 1240)">en erección · 32 × 19 cm</text>
+  </g>
+  <path d="M600 1198 Q680 1190 780 1176" fill="none" stroke="#f2a93b" stroke-width="3" stroke-linecap="round" opacity="0.7" filter="url(#wash)"/>
+
+</svg>
