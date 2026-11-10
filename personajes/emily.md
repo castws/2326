@@ -38,7 +38,7 @@ Cuidadora de [Megan](megan.md) en su apartamento de la ciudad desde el Día 8, d
 
 - **Sabe:** que los yesos de Megan son voluntarios, no médicos (se lo reveló Megan la noche del Día 25). Que Megan y Marcie tienen una relación íntima (Día 29). **Que Megan quiere amputarse el brazo derecho** y lo de la Dra. Kerr — Megan se lo contó entero el Día 31.
 - **No sabe:** la existencia de Patricia ni de las demás mujeres de Marcie; que su presencia como cuidadora fue gestionada por Claire. Nada de la tecnología real oculta.
-- **Creyó erróneamente hasta el Día 25:** que los yesos de Megan eran médicos, y que el yeso de Mark era por una luxación de tobillo (historia inventada por Mark, **sin corregir todavía**).
+- **Creyó erróneamente hasta el Día 25:** que los yesos de Megan eran médicos, y hasta el **Día 35** que el yeso de Mark era por una luxación de tobillo (lo dedujo y Marcie se lo confirmó).
 
 ---
 
@@ -81,6 +81,7 @@ Cuidadora de [Megan](megan.md) en su apartamento de la ciudad desde el Día 8, d
 - "No se queja de nada y no pide nada. Si tiene sed espera a que yo pase por delante con un vaso. Llevo tres semanas adivinando." _(sobre cuidar a Megan — Día 31)_
 - "Prefiero cinco días de eso que tres semanas de verla enfadada consigo misma." _(al saber cuánto durará la dependencia de Megan — Día 31)_
 - "Está bueno. No lo tires todo hoy, que hay más." _(dándole de comer a Megan en el almuerzo, en voz baja y solo hacia ella — Día 31)_
+- "Si algún día dices que es Kerr, te acompaño hasta la puerta y me quedo fuera, como tiene que ser." _(a Megan, ya enyesada — Día 35)_
 
 ---
 
@@ -93,11 +94,14 @@ Cuidadora de [Megan](megan.md) en su apartamento de la ciudad desde el Día 8, d
 - Baña a Megan en cama con cuenco y toallas mientras Mark observa; se va a visitar a Claire dejando a Mark al cargo _(Día 11, escena 41)_.
 - Recibe a Mark y Megan al volver al apartamento, con Megan estrenando la ropa nueva y el pene erecto visible; no hace ningún comentario _(Día 11, escena 45)_.
 - **Día 31 (mansión, escenas 245–252):** lleva a Megan a la retirada de yesos y espera fuera de la sala. Conversación con Marcie en la esquina: reporta que Megan nunca pide nada y pregunta cuántos días durará la dependencia para organizarse. **Cruza a casa de Claire y rompe con ella en persona**; vuelve con los ojos enrojecidos y sin decírselo a Megan delante de nadie. Le dice a Megan que está enamorada de ella y que quiere irse a vivir con ella. Cuando Megan la llama de vuelta y se lo cuenta todo —el brazo, Kerr, lo que puede llegar a ser—, **no contesta a eso: habla de sí misma**, de las tres semanas sintiéndose bien cuidándola y creyéndose mala persona por ello. Llora un rato largo. Salen sin decidir nada y en el almuerzo le da de comer delante de todas sin que nadie se lo pida.
+- **Día 35–36 (escenas 330, 339–347):** ayuda a **Sadie** todo el Día 35 en su piso. En la mansión, confesión a Megan en la biblioteca ("hasta la puerta"); con el vino, **le confiesa a Marcie que cuidar a alguien dependiente la excita** y que las manos de Sadie la excitaron. **Primera intimidad con Marcie**, las tres: masturba a Megan y se la traga, y Marcie la penetra mientras ella mira a Megan. Día 36: duerme poco, despierta a Megan con Marcie, se corre con Marcie tocándola por detrás, la baña en la ducha y se la chupa ("más hondo"), y Marcie le hace un cunnilingus. "Nunca me lo he quitado. Otro día. Si me lo quitas tú."
 
 ---
 
 ## Estado actual
 
-- En el apartamento de Megan, en la ciudad. **Sin casa propia desde el Día 31.**
-- Cuidadora de Megan 24/7 — y ahora, además, su pareja.
-- **Pendiente de narrar:** la respuesta de Megan a lo de vivir juntas, esa misma noche.
+- Vive con Megan en el apartamento de ella; pareja y cuidadora 24/7. **Sin casa propia desde el Día 31.** (La respuesta de Megan a vivir juntas ya es un hecho: viven juntas.)
+- **Día 36:** sale de la mansión con Megan hacia las 12:00. Cuida a Megan ya sin manos (segundo yeso): le da de comer, la viste, la peina, la lava con esponja, le escribe los mensajes.
+- **Sabe desde el Día 35** que a Marcie le excitan los yesos y las amputaciones y que el yeso de Mark del Día 8 no era una luxación. Marcie sabe lo suyo.
+- **Pendiente con Marcie:** que la depile ("si me lo quitas tú").
+- Si Megan va a Kerr: la acompaña **hasta la puerta** y se queda fuera.

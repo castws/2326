@@ -33,6 +33,7 @@
 - **Día 30:** alta. A las ~12:20 anuncia el cambio ante Rachel, Sophie, Dana y Vera: **pasa a ser Marcie**, registrado en todos los sistemas del área desde esa hora. Todos los personajes usan el nombre y el femenino. (Fuera de la ficción, el usuario sigue firmando como Mark.)
 - **Día 32:** Mills le retira la ortesis y le cierra el caso.
 - **Día 34:** fin de la férula peneana (se la quita Sadie, ~16:40). Compra el loft del centro.
+- **Día 35:** primera visita al loft, con Megan. Sadie le confiesa sus amputaciones; Emily, su excitación por cuidar.
 
 ---
 
@@ -49,6 +50,7 @@
 - **Aparatos ortopédicos:** la ortesis le excita, y por eso se la quedó.
 - **Amputaciones y discapacidad:** configuró la app de citas para ver solo ese grupo.
 - **BDSM:** dominante con [Hobbs](personajes/hobbs.md).
+- **Quién sabe que le atraen las amputaciones:** [Sadie](personajes/sadie.md) y [Emily](personajes/emily.md), desde el Día 35. Emily sabe también lo de los yesos, y que el yeso de Mark del Día 8 no era una luxación.
 - **Quién conoce el fetiche de los yesos:** [Megan](personajes/megan.md) (Día 8) y [Vera](personajes/vera.md) (Día 23). [Mills](personajes/mills.md) sabe desde el Día 32 que le excita la ortesis. [Sadie](personajes/sadie.md) lo sabe desde el Día 34 (se lo dijo en la habitación de yesos; a ella le dijo que el yeso de Sophie fue un accidente).
 
 ---
@@ -75,11 +77,11 @@ El vínculo con cada personaje está en su propia ficha (`## Relaciones` y `## M
 ## Estado actual
 
 - **Localización:** ver `state.md` → "Día actual".
-- **Movilidad (sin ortesis desde el Día 32):** anda **con muletas canadienses**, al menos hasta el Día 35, y se levanta y se sienta sola. **El cuádriceps izquierdo se fatiga y cede sin avisar**: aguanta diez segundos de pie sin apoyo, pero no una caminata. Brazos normales.
+- **Movilidad (sin ortesis desde el Día 32):** anda **con muletas canadienses**, **las dos fuera de casa hasta el viernes (Día 37)** según Delaney, y se levanta y se sienta sola. **El cuádriceps izquierdo se fatiga y cede sin avisar**: aguanta diez segundos de pie sin apoyo, pero no una caminata. Brazos normales.
 - **Férula peneana: retirada el Día 34 (~16:40) por Sadie**, cuatro horas antes de lo previsto. Base sin lesión, con el surco del anillo. Ya no se monta más. **Fuera de casa, capucha obligatoria** como cualquier pene a la vista. Los deberes de esa noche (en blando, sin anillo) **no se han hecho en escena**.
 - **La ortesis:** Mills se la dejó sabiendo que le excita. Condiciones: ratos de 4-5 horas, **nada esta semana** y revisión de la piel cada vez, sobre todo en la rodilla izquierda. **Se la pone y se la quita Vera.**
 - **Voz:** la nueva, más aguda, ya sin ningún esfuerzo.
-- **Rehabilitación con [Delaney](personajes/delaney.md)** (sala 3 del Creston): piernas lunes, miércoles y viernes, y protocolo de pene a diario del Día 33 al 48. Con ella, Delaney no corta por reloj.
-- **Deberes de casa, a diario hasta el Día 48:**
+- **Rehabilitación con [Delaney](personajes/delaney.md)** (sala 3 del Creston): piernas lunes, miércoles y viernes, y protocolo de pene a diario del Día 33 al 48. Con ella, Delaney no corta por reloj. **Día 36:** dolor 1 en todas las direcciones; el lateral derecho casi iguala al izquierdo; medida del Día 35, 17,5 × 13. La rodilla izquierda cedió una vez el Día 35 (el lunes, dos).
+- **Deberes de casa, a diario hasta el Día 48** (**las noches del Día 35 y del 36 sin hacer**; Delaney lo sabe):
   - **Pene:** suelo pélvico 3 × 10 con 5 s, tres veces al día; los cuatro estiramientos de 10 s sin tope, mañana y noche y en blando; y desde la 4.ª sesión, tracción suave de 10 s.
   - **Piernas:** cuádriceps 3 × 10, elevación recta 3 × 8 y tobillo 2 minutos.

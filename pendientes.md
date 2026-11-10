@@ -2,13 +2,15 @@
 
 # Próximos
 
-- Pedirle a Claire que cree a la amiga de Megan y al personaje que es adicta a las amputaciones
+- ~~Pedirle a Claire que cree a la amiga de Megan~~ (hecho, Día 35) y al personaje que es adicta a las amputaciones
 - Pedirle a Claire que modifique el transfondo de Hobbs, ella viene de una ciudad donde no se usan pesoneras, ni capuchas para el pene, ni faldas cortas. La ropa es muy clásica.
 - Abrir hueco en el pecho del yeso de Rachel
 - Pedirle a Vera que me haga un DSS y salir con Rachel
 - Preguntar a Claire si puedo habitar de forma virtual el cuerpo de un robot
 
 # Amiga de Megan, Sasha
+
+> **Creada el Día 35 (~8:05) por Claire → [personajes/sasha.md](personajes/sasha.md).** Lo de abajo se conserva como texto de origen; mandan la ficha de Sasha y la de Megan.
 
 Megan tiene una amiga desde la adolescencia, Sasha, administrativa en una oficina de gestión del área. ~24 años aparentes, piel canela clara, cabello rizado castaño oscuro, ojos color avellana, cintura delgada, cadera ancha, senos entre medianos y grandes. Pene funcional tipo shower, le gusta usar prendas que lo marquen, igual que otras que resalten sus senos. Es autosuficiente por decisión propia — no delega tareas ni pide ayuda, ni en el trabajo ni en casa. Expresiva, alegre, disciplinada. No es una persona reservada en general — solo lo es con su deseo de perder las extremidades, salvo cuando habla en privado con Megan.
 
@@ -20,9 +22,31 @@ Siempre ha sentido envidia de Megan por sus amputaciones — una envidia que nun
 
 Después de la confesión, hablaron del tema más de una vez, pero ambas lo daban por algo sin salida: Sasha es autosuficiente por decisión propia, y a la Megan de entonces la idea le parecía una locura. Nunca lo mencionan como algo que pudiera pasar de verdad, solo como la rareza privada de Sasha.
 
-Con los yesos voluntarios y el despertar del propio deseo de amputación de Megan (y el ofrecimiento de Mark de ayudarla), la perspectiva de Megan cambió por completo. Hasta ahora, Sasha sabe que Megan lleva yesos, pero los asume médicos, iguales a los de sus amputaciones anteriores; no sabe que son voluntarios ni sabe de Mark. La amputación electiva sin causa médica no es algo fácil de conseguir — lo que podría hacerla posible para Sasha es específicamente la posición e influencia de Mark en el área, no un procedimiento accesible en general. Su propio deseo sigue viviéndolo como una fantasía privada e irrealizable — aunque, tras la confesión a Megan, ya no con vergüenza pura sino con una curiosidad tranquila por ir un poco más allá de las vendas.
+Con los yesos voluntarios y el despertar de su propio deseo de amputación, la perspectiva de Megan cambió por completo. **Hasta el Día 34**, Sasha sabe que Megan estuvo enyesada del Día 8 al 31 (pierna izquierda y brazo derecho) y lo asume médico; no sabe que fue voluntario, ni que Megan quiere amputarse el brazo derecho, ni que Emily es su pareja, ni nada de Marcie. Su propio deseo sigue viviéndolo como una fantasía privada e irrealizable — aunque, tras la confesión a Megan, ya no con vergüenza pura sino con una curiosidad tranquila por ir un poco más allá de las vendas.
 
-Tras una de las visitas de Megan al hospital, Sasha la llama para invitarla a tomar algo. Megan le cuenta todo: que los yesos son voluntarios, que quiere amputarse el brazo derecho (y no descarta más), y que existe Mark — cuya posición en el área es la razón concreta por la que algo así ha dejado de ser una fantasía imposible. Sasha, que lleva años conteniéndose incluso con la única persona que conoce su secreto, se abre de golpe: no necesita confesar otra vez el deseo (Megan ya lo sabe desde hace tiempo), pero por primera vez deja caer del todo la contención frente a ella.
+**Qué ha cambiado, en concreto.** La amputación electiva existe, pero no es un trámite accesible:
+
+- Hay una vía real, la [Dra. Kerr](personajes/kerr.md) (cirujana privada, modificaciones electivas), pero **no se llega a ella sola**: la presentación la hace Vera, Kerr exige oír el motivo en boca de quien se opera y detecta a quien empuja desde fuera. Megan la conoce solo de oídas (Vera se la mencionó el Día 31).
+- El obstáculo de fondo de Sasha no es solo encontrar quien opere, sino **cómo vivir y trabajar después** de cuatro amputaciones siendo autosuficiente por decisión propia. Ahí entra Marcie: dueña del Creston desde el Día 19, le pagó a Megan una cuidadora 24/7 y le resolvió el trabajo con el puesto de coordinadora.
+
+**Las dudas de Megan.** Mientras estuvo enyesada, Megan vivía el deseo con entusiasmo. Desde que se los quitaron, con el brazo atrofiado, el codo fijo y la rehabilitación diaria, le ha entrado **algo de miedo**. No ha cambiado de idea: lo que la asusta es estar a punto de decidir algo que no vuelve ("el yeso se corta y el brazo no vuelve"). Su forma de resolverlo ya está decidida: **el segundo yeso**, brazo hasta el hombro y sin fecha. Con ese yeso puesto sabrá si quiere la amputación o no. No quiere decidir antes ni que nadie decida por ella.
+
+**La conversación con Sasha (Día 34, por la tarde, fuera de escena).** **Es Megan quien llama a Sasha** después de la rehabilitación y le pide que vaya a su casa: quiere hablar de sus dudas con la única persona que conoce ese deseo desde dentro. Megan todavía no sale sola —ese día da sus primeros veinte pasos con la prótesis y la muleta—, por eso es en el apartamento. Emily las deja solas. Para explicarle de qué tiene miedo, Megan tiene que contarle todo:
+
+- que los yesos fueron voluntarios;
+- que quiere amputarse el brazo derecho (y no descarta más), pero que ahora le da miedo, y que el segundo yeso va a decidirlo;
+- que Emily es su pareja;
+- que existe Marcie, quién es, por qué la ayuda, y que por ella hay una vía hacia Kerr.
+
+Sasha, que lleva años conteniéndose incluso con la única persona que conoce su secreto, se abre de golpe: no necesita confesar otra vez el deseo (Megan ya lo sabe desde hace tiempo), pero por primera vez deja caer del todo la contención frente a ella. Megan fue a hablar de su miedo y se encuentra con alguien que lleva años queriendo lo mismo sin una sola duda. Eso no le quita el miedo, pero le confirma que el segundo yeso es el camino.
+
+**Por qué Megan pide ver a Marcie.** Esa misma noche, a las 19:47, Megan le escribe a Marcie para verla a solas (cita del Día 35, 11:30, Café Elm, "no es nada malo"). Trae tres cosas, y fiel a su costumbre lo más probable es que empiece por la logística:
+
+1. **El segundo yeso**: quiere ponérselo, y pronto. Cuándo, dónde y quién se lo pone.
+2. **El miedo**: que lo tiene, que no es echarse atrás, y que el yeso es para salir de dudas.
+3. **Sasha**: confiesa que ha hablado de Marcie con otra persona sin pedirle permiso, y después pide, aunque le cuesta porque "no pide nada": si Marcie querría conocer a Sasha y si Vera estaría dispuesta a presentársela a Kerr. No explica el motivo de Sasha: "que te lo cuente ella".
+
+Datos que conviene fijar al crear a Sasha: Megan le habla de **Marcie**, no de Mark, y no le cuenta el pasado de Marcie como Mark (eso no le toca contarlo a ella). Tampoco le detalla los fetiches de Marcie más allá de lo necesario para explicar por qué la ayuda.
 
 ## Oficina
 

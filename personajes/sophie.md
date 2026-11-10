@@ -90,6 +90,8 @@ Asistente doméstica de la mansión. **Inactiva desde el Día 8** por el yeso.
 > Entradas anteriores (8) en [sophie-historial.md](sophie-historial.md).
 
 ---
+- **Día 35 (escena 339):** a Megan, recién enyesada: "Yeso nuevo. ¿Cuánto te queda con eso?" — "No lo sé. Esa es la gracia." Le dice que esa respuesta no la había oído nunca. No sabe que el yeso es voluntario.
+
 
 ## Estado actual
 

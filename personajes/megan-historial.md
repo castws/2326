@@ -24,3 +24,10 @@ Entradas antiguas de `personajes/megan.md`, movidas aquí para aligerar la ficha
 - Mark la viste con la nueva moda y salen al centro comercial, con erecciones en público _(Día 11, escenas 43-44)_.
 - Narra a detalle lo ocurrido con Emily durante el aseo y dice que **no la detendrá si vuelve a pasar** _(Día 14, escena 66)_.
 - **Conversación sobre amputación voluntaria** (Día 19, escenas 93-94): admite que querría no tener brazos incluso sin Emily como razón, y no descarta llegar a no tener brazos ni piernas. Marcie ofrece comprar el hospital. Extiende los yesos a ~Día 29 y pide los próximos más largos.
+
+## Momentos con Marcie (desbordados en la sesión 41)
+
+- Acompaña a Mark a visitar a Jude. En el vehículo de vuelta: "hoy eligió mirarte". Después: "¿Y si decido quedarme sin brazos y ella igual se va?" — no termina la frase _(Día 21, escena 115)_.
+- **Visita a Mark en el Creston** tras la cirugía, traída por Emily. Reconoce que solo insinuó sus sentimientos y se compromete a hablarlo esa noche, en orden: sentimientos, luego yesos voluntarios, y la amputación para después _(Día 25, escena 150)_.
+- **Llamada del Día 26:** relata la conversación con Emily. Acuerdan el plan de retirada de yesos y la conversación a tres.
+- **Llamada del Día 29:** se levanta **sin acordarse** de que era el día previsto para quitarse los yesos. Mantiene la decisión y descarta alargarlos por Emily, pero no había plan de ejecución. **Se entera aquí del accidente de Rachel**, con preocupación genuina. Acepta el aplazamiento y decide contarle lo de Marcie a Emily **ese mismo día y a solas**.

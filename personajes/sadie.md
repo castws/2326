@@ -74,6 +74,7 @@ No se lo ha contado a nadie. Hablar de ello sería admitir que sabe que la pérd
 
 - **Sabe:** lo que sabe cualquier ciudadana del área. Nada de la tecnología real oculta.
 - **No sabe:** quién es Marcie ni qué posición tiene.
+- **Sabe de Marcie (Día 35):** que le atraen los yesos **y las amputaciones** (en otras mujeres), y que lo de Dana fue sin segundas: Marcie creía entonces que lo suyo era una enfermedad.
 
 ---
 
@@ -92,7 +93,7 @@ No se lo ha contado a nadie. Hablar de ello sería admitir que sabe que la pérd
 - **En ella:** cada pérdida es también un acto erótico. Mirarse los muñones, notar la venda, reaprender a hacer algo con lo que le queda: todo eso la excita, y lo vive en privado.
 - **En otras personas:** un muñón, una prótesis o una manga vacía le atraen la mirada y le producen excitación directa. En público lo disfraza de la curiosidad que ya tiene de por sí: se acerca, pregunta con respeto y escucha con mucha atención. Nadie nota la diferencia porque la curiosidad es real; lo que no cuenta es lo que le provoca.
 
-**Con Marcie:** se lo contará **cuando la conozca un poco más**, no en el primer encuentro.
+**Con Marcie:** **se lo contó el Día 35 por la mañana, en el vehículo** camino de su casa: "No es una enfermedad. Me los quito yo". Le dio el porqué ("el cuerpo es un borrador y yo lo voy corrigiendo"; la excita todo el proceso) y el orden hasta las manos por la muñeca. **El cuaderno de despedidas sigue sin contarlo.** Sabe desde ese momento que **a Marcie le atraen las amputaciones** y que se fijó en ella desde el Marginalia.
 
 **Desliz del Día 34 (biblioteca de la mansión):** con Marcie lamiéndole la cicatriz del pulgar izquierdo, se le escapa "esa es la última que **me hice**". Marcie no dice nada y sigue; Sadie **no se desdice**. Es una confesión a medias: no ha contado el resto (el orden, el cuaderno, hasta dónde quiere llegar). Después, en la cama, al saber que a Marcie le atraen sus manos "por cómo están", **le confiesa que a ella le pasa lo mismo con las amputaciones de las demás, desde siempre** (primera vez que se lo dice a alguien).
 
@@ -183,6 +184,8 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 - «Lo que no se puede tocar es lo que mejor se escribe.» _(escrito en el yeso de Sophie — Día 34)_
 - "Más de lo que debería gustarle a alguien que puede andar." _(sentada por primera vez en una silla de ruedas — Día 34)_
 - "Esa es la última que me hice." _(con la cicatriz del pulgar en la boca de Marcie; no se desdice — Día 34)_
+- "No es una enfermedad. Me los quito yo." _(en el vehículo, camino de su casa — Día 35)_
+- "Es como si el cuerpo que tengo fuera un borrador y yo lo fuera corrigiendo." _(Día 35)_
 
 ---
 
@@ -190,18 +193,20 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 
 - **Visita 1 — Día 30, ~22:45 (escena 229).** Marcie entra al Marginalia con Hobbs. **Levantó la vista al oír los estribos y no la volvió a bajar**; miró el metal, las abrazaderas, la barra y sobre todo la **férula**, y **no escribió una sola línea en toda la hora** que estuvieron allí. A orden de Marcie vía Claire fue a la barra a pedir un café solo: pasó a un palmo de la férula, giró de lado, miró a esa altura y una sola vez a la cara, y se puso colorada hasta las orejas. Cogió la taza con la derecha (pulgar e índice como pinza, meñique de tope). **No se hablaron en ningún momento.** Al salir ellas, cerró el portátil y se quedó mirando la puerta.
 - **Visita 2 — Día 34, 13:15 → noche (escenas 305–321).** Se acerca ella en el Marginalia y le paga el café. Hablan del libro, de la "enfermedad" y de Dana, y Marcie la invita a la mansión. Ve trabajar a Dana. **Firma el yeso de Sophie y la masturba.** En la habitación de yesos Marcie le cuenta su fetiche y acuerdan tres yesos. En la biblioteca le dedica el libro, le lee, le confiesa lo de masturbarse escribiendo y, con Marcie lamiéndole las cicatrices del pie y de la mano, se corre y se le escapa "me hice". En la cama le quita la férula a Marcie, la monta y se corren juntas. **Primer beso después de todo.** Le confiesa que le atraen las amputaciones ajenas. **Yeso de pierna con Vera**, primeros pasos con las muletas de plataforma, se corre de pie ante el ventanal, cena con toda la casa y **duerme en la cama de Marcie** con los dedos entrelazados.
+- **Día 35, mañana (escenas 322–330):** despierta con Marcie; Marcie le cuenta un sueño con sus manos y le lame los nudillos. Spoiler: **Isolde pierde también la otra mano**. **Dana la baña** y se corre con la esponja. **En el coche le confiesa que las amputaciones se las hace ella** (el orden hasta las muñecas, "el cuerpo es un borrador") y Marcie le confiesa que a ella también le atraen; Marcie le sugiere teclear con los muñones. Emily la ayuda en casa ese día. "Te sigo debiendo una. Del corredor."
 
 ---
 
 ## Estado actual
 
-- Creada el Día 30. Vive sola en la ciudad. Café habitual: el **Marginalia**.
+- Creada el Día 30. **Vive sola** en un piso de la **calle Larkin**, a diez minutos andando del centro comercial: edificio de ladrillo de tres plantas, ella en la **segunda**, **sin ascensor, veintidós escalones** (fijado el Día 35; con el yeso y las muletas de plataforma, un problema que no había previsto). Café habitual: el **Marginalia**.
 - **Manos:** las de arriba (cuatro dedos, el índice derecho vendado).
 - **Yeso de pierna derecha desde el Día 34 (~17:45), hasta el Día 48 (dos semanas).** Se lo puso **Vera** en la habitación de yesos, en **registro de enfermera**, con Marcie sujetando. Simula la enfermedad de yoga: **rodilla en flexión completa**, con el talón contra la nalga y **el pie entero dentro, en punta**, y los muñones de los dedos tapados. Llega arriba **a dos dedos de la ingle por delante y al pliegue de la nalga por detrás**: la nalga queda libre y puede sentarse en un inodoro. Muslo y pantorrilla en un solo bloque. De frente parece amputada por la rodilla.
-  - **Muletas de plataforma de antebrazo, las dos** (las eligió así para "aprender a andar sin usar las manos"). Llegaron del Creston el mismo día. Velcro en cada antebrazo: el segundo no se lo puede cerrar sola. Marcha pendular: muletas, cuerpo, talón izquierdo sin dedos. **El primer día, diez minutos más cinco de pie como máximo** (Vera). El yeso por dentro está húmedo hasta el Día 35.
+  - **Muletas de plataforma de antebrazo, las dos** (las eligió así para "aprender a andar sin usar las manos"). Llegaron del Creston el mismo día. Velcro en cada antebrazo: el segundo no se lo puede cerrar sola. Marcha pendular: muletas, cuerpo, talón izquierdo sin dedos. **El primer día, diez minutos más cinco de pie como máximo** (Vera). El yeso ya está seco (Vera, Día 35); sin dedos fuera, ella avisa si nota el pie dormido, frío o apretado en el empeine.
   - **Sentada en silla:** la rodilla subida hacia el pecho y el pie enyesado apoyado en el borde del asiento, delante de la nalga, sentada sobre las dos nalgas. Si se echa hacia atrás, la rodilla se sostiene sola. A la mesa se sienta **de lado**, con el yeso hacia fuera.
   - **Ropa:** **nada con perneras** (ni pantalón ni bragas pasan por el yeso): **C-string y faldas de abertura en V**, que tiene en casa. El Día 34 por la noche, el **camisón negro de seda de Marcie**.
   - **Duerme sobre el costado izquierdo**, con una almohada bajo el yeso y nadie apoyado encima.
-- **La noche del Día 34 duerme en la mansión, en la cama de Marcie** (no tenía muletas para volver a casa). Su ropa (pantalón gris y bragas de encaje) está lavada y planchada en el sillón de la habitación principal. El portátil, en la mochila.
 - **Siguiente amputación: anular izquierdo**, **solo cuando Marcie lo ordene a Claire**. Hasta entonces no cambia nada, aunque pasen días.
 - **Visitas:** la 1 (Día 30) y la 2 (Día 34) consumidas. Ya no hacen falta: se conocen.
+- **Desde el Día 35, en su piso.** Subió los veintidós escalones sola, sentada en cada uno ("Puedo"). En casa necesita ayuda para lo pequeño (abrir un yogur, el velcro derecho, la cómoda de abajo): **tiene que buscarse a alguien**, y lo acepta a regañadientes ("que no me trate como si me fuera a romper"). Emily la ayudó el Día 35. Lleva el **vestido negro de punto de Marcie** (costados abiertos); su ropa del Día 34 se la llevó en una bolsa.
+- **Marcie sabe la verdad** desde el Día 35, salvo el **cuaderno de despedidas**. Probará a **teclear con las manos cerradas**, tecla a tecla, para cuando no tenga manos.

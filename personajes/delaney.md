@@ -109,6 +109,7 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 - "No lo sientas. […] Es un dato y lo apunto como dato." _(tras la eyaculación de Marcie en plena tracción — Día 34)_
 - "Sí quiero. Pero dentro de la sesión no. Primero la cierro, y lo que venga después no va en el parte." _(Día 34)_
 - "No es un cumplido. Es un dato." _(Día 34)_
+- "Fisioterapeuta. Pero el tratamiento sí, te lo doy." _(cuando Marcie la llama doctora — Día 35)_
 
 ---
 
@@ -116,13 +117,15 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 
 - **Día 33, primera sesión (escenas 281–283):** 40 minutos de piernas y el **primer día del protocolo** en los 50 minutos: retira la férula, tres tracciones (5 y 6-7), cuatro direcciones con tope en el lateral derecho, y la remonta. Manda **deberes de piernas y de pene**, tras rectificar en el parte lo que había dicho. Hace la **demostración en su propio cuerpo**, topless y con el panel del pantalón bajado, corrige el agarre de Marcie y tiene una erección a mitad que usa de ejemplo. Por ajustes de Claire: **no corta por reloj con Marcie**.
 - **Día 34, protocolo en erección (escenas 296–297):** noche con anillo, **1**; surco limpio. Erección al quitar la capucha y, por ajuste de Claire, **rectifica y hace las direcciones en erección**. Arriba, abajo y lateral izquierdo, **4**; separa la excitación (**8**) de la tensión. A Marcie le deja **practicar los deberes en su pene** (10 s sin tope), le corrige la mano de la base y le da un tres de fuerza. **Marcie eyacula en el lateral derecho**, que queda sin número, y ella cuenta seis contracciones. **Cierra la sesión, echa el pestillo y Marcie la masturba** siguiendo sus indicaciones; se corre sobre la toalla contando ocho. Le da un **nueve**. Acepta repetirlo con la misma regla.
+- **Día 35 (escenas 331–332):** piernas y protocolo; sensibilidad 10 en la base sin anillo. Después, **sin pestillo** porque Marcie asumió el riesgo: felación mutua (ella cuenta ocho; las siete de Marcie, las cuenta ella) y le lava el pene a fondo. Admite que **se hizo la tracción en sí misma** pensando en Marcie. "Fisioterapeuta. Pero el tratamiento sí, te lo doy."
+- **Día 36 (escena 350):** protocolo en blando, lateral derecho casi igual al izquierdo. Con una erección desde que Marcie entró, **echa ella el pestillo** y le deja decidir; Marcie le dice "sorpréndeme" y **la penetra analmente** sobre la camilla, masturbándola con el agarre del protocolo; ocho y seis. "Hoy no te pongo número."
 
 ---
 
 ## Estado actual
 
-- Sala 3 del Creston. **Próxima cita: Día 35 (miércoles) a las 10:00**, piernas 50 minutos con el protocolo dentro, ya sin férula.
-- **Protocolo vigente con Marcie:** piernas lunes, miércoles y viernes (50 minutos, ampliables) y **movilización peneana diaria de 10 minutos del Día 33 al 48**. Desde el Día 35 ya no hay férula que quitar.
-- **Sin límite de reloj con Marcie.** Deberes de casa mandados y apuntados en el parte.
-- No sabe nada de la vida de Marcie fuera del hospital, ni de su fetiche por los aparatos.
-- **Después de las sesiones, sexo con Marcie si ella quiere**, siempre con la sesión ya cerrada.
+- Sala 3 del Creston. **Próxima cita: Día 37 (viernes) a las 10:00**, piernas 50 minutos con el protocolo dentro; después el Día 40.
+- **Protocolo vigente con Marcie:** piernas lunes, miércoles y viernes y **movilización peneana diaria de 10 minutos hasta el Día 48**. Ya no hay férula. Muletas para Marcie, las dos, fuera de casa **hasta el viernes (Día 37)**.
+- **Deberes:** sabe que las noches de los Días 35 y 36 no se hicieron; se lo recordó.
+- **Sin límite de reloj con Marcie.** No sabe nada de su vida fuera del hospital, ni de su fetiche por los aparatos.
+- **Después de las sesiones, sexo con Marcie**, siempre con la sesión cerrada antes. Día 35, sin pestillo; Día 36, con el pestillo echado por ella. No lo propone en voz alta.

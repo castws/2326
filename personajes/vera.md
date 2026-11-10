@@ -18,7 +18,8 @@
 
 **Vestimenta habitual:** ropa oscura o negra. Blusas ajustadas, pantalones de corte limpio, faldas cortas, botas. Sin estridencias, pero con un punto de deliberación en cada elección. **Nunca lleva colores claros, por preferencia propia.** En sesión: látex, lencería negra, prendas muy reveladoras.
 
-- **Uniforme de trabajo:** vestido de enfermera ceñido y corto, que resalta la figura. Medias veladas blancas.
+- **Uniforme de trabajo:** vestido de enfermera blanco, ceñido y corto, que resalta la figura. Medias veladas blancas.
+- **Ropa interior bajo el uniforme (ajuste de Claire, Día 36):** lo habitual sigue siendo **nada**, pero **algunos días lleva un conjunto de encaje blanco** (sujetador fino sin relleno y braguita), y es la **única excepción a su regla de no llevar colores claros**: blanco bajo blanco. Con el vestido ceñido **se marca un poco**: el borde del encaje en las caderas, la línea del sujetador en la espalda y el dibujo de las flores donde la tela se tensa. No lo esconde ni lo comenta. Lo decide ella cada mañana; no hay patrón fijo.
 
 ---
 
@@ -134,6 +135,7 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 
 - **Día 33 (escenas 288–294):** conoce a **Hobbs** a solas en la biblioteca (Marcie lo oye todo por el auricular, y Vera no lo sabe). Abre con "no te han traído aquí para mí", le enseña la **palabra de seguridad** ("maleta") y corrige ella misma lo que había dicho mal: la palabra es **solo para las sesiones**. Acuerdan **sesiones de BDSM**, con Marcie dentro cuando quiera, y la primera el jueves. Por la noche nota que **la férula no la ha montado ella** y la recoloca mientras hablan. Marcie le encarga convertir la **bodega** en **habitación de BDSM**, sin límite de dinero; Vera distingue en voz alta los registros ("de enfermera" no es "médico") y le da la razón en que estén al lado de la sala de yesos. La organiza con discreción: **a cada contratada solo le enseña su parte**.
 - **Día 34, tarde y noche (escenas 316–321):** se entera por Dana de que **la férula ya no está, cuatro horas antes de lo previsto, y no la ha quitado ella**; no lo comenta. **Enyesa a Sadie** (pierna derecha en flexión completa, con el pie dentro) en **registro de enfermera**, que pregunta antes de mojar nada ("¿Esto es de enfermera o es lo otro?"). Antepone que con esas manos no puede usar muletas normales, propone las de **plataforma** y las consigue del Creston en veintiséis minutos ("Dicen que veinte, pero son veinticinco"). Le mira las manos a Sadie medio segundo de más, y Sadie lo nota. Ve a Sadie correrse de pie en el corredor lateral, cuenta los minutos en voz alta ("Llevas nueve minutos de pie. Te queda uno") y la sujeta cuando le falla la rodilla. La acuesta en la cama de Marcie, de lado y con la almohada bajo el yeso.
+- **Día 35–36 (escenas 337–338, 346, 349):** le pone a **Megan el segundo yeso** (shoulder spica con barra, de enfermera), con Marcie sujetándole el brazo desde la silla de ruedas; limpia las salpicaduras y da las indicaciones. Día 36: entra con **encaje blanco bajo el uniforme** (ajuste de Claire), revisa el yeso y fija la revisión del Día 39. Fija a Hobbs **a las 17:00**, dormida, duchada y sin plug.
 
 ---
 
@@ -150,8 +152,10 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - **Encargo de Mills (Día 32):** revisarle a Marcie la piel, las marcas y la temperatura **cada vez que se quite la ortesis**, con atención especial a la cara interna de la rodilla izquierda; si algo no le gusta, llama a Mills. Ella se la pone y ella se la quita.
   - **La férula peneana:** retirada el **Día 34 (~16:40) por Sadie**, no por ella. Ya no hay que montarla más.
   - **Yeso de Sadie** (Día 34 → Día 48): se lo puso ella. Lo revisa por la mañana (por dentro estaba húmedo); si se le duermen los dedos o lo nota frío, la llaman a la hora que sea.
-  - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando.
-  - **La bodega** tiene que quedar **terminada como habitación de BDSM para el jueves (Día 36)**: mudanza, pintura y luz, y anclajes en las vigas. Contrata ella y paga Marcie.
-  - **Día 36 por la tarde:** primera sesión con **Hobbs**, de unas horas, con Marcie presente. Hobbs se queda a dormir.
+  - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando (desde el Día 36 la respuesta depende del día: nada, o encaje blanco).
+  - **Segundo yeso de Megan puesto el Día 35 (~15:15–16:30)**, en registro de enfermera (configuración en [megan.md](megan.md)). Megan duerme esa noche en la mansión: si nota los dedos dormidos, fríos o que le laten, la llaman a cualquier hora. Revisión por la mañana antes de que se vaya. Megan pide además que Vera **presente a Sasha a Kerr** (sin pedirlo todavía).
+  - **La bodega**, terminada como habitación de BDSM (Día 36): anclajes en las vigas probados con peso, luz regulada.
+  - **Día 36, 17:00:** primera sesión con **Hobbs** en la bodega (lista, anclajes probados), con Marcie presente. Hobbs viene sin plug y **la ropa la decide Vera**. Se queda a dormir.
+  - **Día 39:** revisión de la piel de los bordes del yeso de Megan.
   - **Días 37–40:** Hobbs, enyesada por Marcie, en la casa donde vive Vera.
-- **No lleva ropa interior bajo el uniforme de enfermera desde el Día 23**, por costumbre propia y no por nadie. Marcie lo supo el Día 32.
+- **Bajo el uniforme, normalmente nada** (costumbre propia desde el Día 23; Marcie lo supo el Día 32). **Desde el Día 36, algunos días, encaje blanco** que se marca un poco (ver Apariencia). El Día 36 por la mañana lo lleva.

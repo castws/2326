@@ -57,6 +57,7 @@ alguna de estas medidas, se actualiza también su fila aquí.
 | [Tessa](../personajes/tessa.md) | G | 70 (contorno 95) | 6 cm, marrón claro | 25 × 16 → 32 × 19 | Circuncidada. Sin vagina. Solo alcanza el glande en erección. |
 | [Brooke](../personajes/brooke.md) | A | 70 (contorno 82) | 3 cm, marrón oscuro | Sin pene | Vagina. |
 | [Lydia](../personajes/lydia.md) | C | 75 (contorno 91) | 4 cm, rosa | Sin pene | Vagina. En la silla va boca abajo: los senos cuelgan hacia el cojín. |
+| [Sasha](../personajes/sasha.md) | D | 70 (contorno 89) | 4 cm, marrón claro | 12 × 11,5 → 15,5 × 12,5 | Shower. No circuncidada. Sin vagina. |
 
 ## Archivados
 
@@ -75,10 +76,10 @@ alguna de estas medidas, se actualiza también su fila aquí.
 
 ## Resumen
 
-**Copas** (35 personajes): A 8 · B 4 · C 10 · D 5 · E 5 · F 1 · G 2.
+**Copas** (36 personajes): A 8 · B 4 · C 10 · D 6 · E 5 · F 1 · G 2.
 
-**Con pene** (12): Marcie, Sophie, Megan, Hobbs, Delaney, Hannah, Mira, Tori, Corinne, Wren,
-Tessa y Reyes. Ordenados por longitud en erección:
+**Con pene** (13): Marcie, Sophie, Megan, Hobbs, Delaney, Hannah, Mira, Tori, Corinne, Wren,
+Tessa, Sasha y Reyes. Ordenados por longitud en erección:
 
 | Personaje | Erección | Reposo |
 | --- | --- | --- |
@@ -90,6 +91,7 @@ Tessa y Reyes. Ordenados por longitud en erección:
 | Sophie | 16 × 12 | 9 × 9,5 |
 | Delaney | 16 × 12,5 | 12 × 11 |
 | Hannah | 16 × 12,5 | 11 × 10 |
+| Sasha | 15,5 × 12,5 | 12 × 11,5 |
 | Hobbs | 15 × 15 (con jaula, no llega) | 8,5 × 11,5 |
 | Tori | 14 × 11 (con jaula, no llega) | 8 × 9,5 |
 | Corinne | 14 × 12 | 8 × 9 |

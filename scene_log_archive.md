@@ -1942,3 +1942,219 @@ Vera quiere mantener separados los dos registros. Marcie precisa que la sala de 
 ### Escena 294: Cierre del día (Día 33, noche)
 
 Vera termina con Rachel y Sophie, **revisa la piel y el anillo** de Marcie y deja la férula puesta: "Mañana te levanto yo". Mensaje de Hobbs a las **21:40**: "En casa. Plug puesto antes de meterme en la cama, como me dijo. Hoy no los repaso en orden: los repaso todos a la vez."
+
+---
+
+## Día 34 (martes) — Mañana (sesión 39)
+
+> La sesión arranca en el vehículo, camino del Creston. La mañana en la mansión (Vera levantándola) pasa por elipsis ("transcurre con normalidad") y no se narró; **la comprobación del uniforme de Vera sigue sin hacerse** [no consta que ocurriera — verificar si se pregunta].
+
+### Escena 295: El viaje y los mensajes de Hobbs (Día 34, ~9:45)
+
+Marcie va sola en el vehículo con un **vestido verde entallado y corto con flores blancas**, de botones y con una abertura para cada seno, y los **botones de abajo abiertos por la férula**. Lleva **capucha verde en el glande y otra en los testículos**, **pezoneras negras con pendientes verdes** y nada de ropa interior. Tres mensajes de **Hobbs**: a las 06:52 (plug toda la noche, cinco horas y cuarenta de sueño, "no sé qué conclusión sacar de ese dato"); a las 09:14, desde el control (el plug se nota distinto en el taburete alto; una enfermera le preguntó por qué se recolocaba y dijo "la lumbar"; dos erecciones bloqueadas "por si le sirven"); y a las 09:31 ("Me quedo arriba en la planta y no bajo, como quedamos"). Marcie no contesta.
+
+### Escena 296: Sala 3 — el protocolo en erección (Día 34, 9:58–10:14)
+
+En el pasillo de rehabilitación, frente a la sala 2, espera una mujer (~26, rubio platino rapado a los lados, pantalón de panel abatible) con **yeso de yoga en el hombro derecho**: brazo en abducción a 90°, codo a 90° y antebrazo apuntando al techo, sobre un puntal de escayola que baja hasta un **corsé de yeso** con los senos fuera por dos óvalos. Tiene el brazo izquierdo libre.
+
+**Delaney** pregunta por la noche con el anillo: **1**. Desmonta la férula: correas, pasador y bisagra del anillo (**surco limpio**, el color vuelve en menos de diez segundos; **1** con la sangre volviendo) y el conjunto arnés, cuna y pletina. Al quitar la capucha, **erección a los veinte segundos**. Delaney dice que en erección no se estira y va a medir. **Instrucción a Claire:** que decida hacer los ejercicios en erección para no alargar la sesión. Claire avisa de que Delaney acaba de decir lo contrario y que rectificará con una razón suya; Delaney rectifica ("es la ventana en la que mejor responde el tejido") y aplaza la medida al final.
+
+**Arriba: 4**, "no sé". Delaney separa los datos y Marcie reconoce que **no duele, excita**; queda apuntado como respuesta de excitación. A Delaney se le pone dura bajo el panel. **Abajo: 4.** Marcie le mira la erección y Delaney lo reconoce ("Sí, a mí también. Me pasa trabajando"). Marcie pide **practicar los deberes en el pene de Delaney** mientras ella trabaja en el suyo. Delaney avisa de que no está en ningún protocolo y acepta, porque así nota la fuerza que pone Marcie. Abre el panel y pone una condición: versión de casa, 10 s y sin tope. Corrige la mano de la base (un dedo alta; ayer, dos). **Lateral izquierdo** a la vez: la fuerza de Marcie "es un tres, lo que quiero"; excitación **8** y tensión **4**. **Lateral derecho:** Marcie tira hasta el tope, como Delaney, y esta la corrige. Marcie **eyacula** sin contestar, apretándole el pene a Delaney. Delaney suelta la tracción, deja que ocurra y cuenta **seis contracciones** ("Es un dato y lo apunto como dato"). Luego pregunta qué es lo que Marcie tiene ahora en la mano, porque ya no es el ejercicio.
+
+### Escena 297: Después de la sesión (Día 34, 10:14–10:20)
+
+Marcie se ofrece a ayudarla a terminar. Delaney: **"Sí quiero. Pero dentro de la sesión no."** Limpia, firma el parte (lateral derecho sin número) y echa el **pestillo**: "Sesión cerrada a las diez y catorce. Ahora sí". Marcie le pide que no se corra sobre el vestido, y Delaney extiende una toalla. Le echa gel en la mano y le dice cómo le gusta: **el doble de fuerte, lento, más despacio en el glande, circuncidada ("lo que noto es la mano") y la otra mano sujetando los testículos**. Se corre sobre la toalla **contando sus ocho contracciones** en voz baja; en el vestido no cae nada. Le da un **nueve** a Marcie; el punto que falta es que al final apretó más de lo pedido, "pero eso no te lo voy a corregir", porque acertó.
+
+Remonta la férula (anillo sobre el surco, cuna y pletina, arnés y correas, con la izquierda un punto más floja) y le pone ella las dos capuchas. **Acepta repetirlo con la misma regla: primero se cierra la sesión.** "No es por quién eres. Si fueras cualquier otra paciente con la mano que tienes, te diría lo mismo." / "No es un cumplido. Es un dato." Cita: **Día 35 a las 10:00**, piernas con el protocolo dentro. Deberes en blando esta noche, sin anillo, y **tracción no antes de la 4.ª sesión**. Marcie sale a las 10:20 y la mujer del yeso de hombro entra en la sala 2. Hobbs sigue arriba.
+
+
+## Día 34 (martes) — Mediodía y tarde (sesión 40)
+
+### Escena 298: Ala de Traumatología y Ortopedia (Día 34, ~10:25)
+
+Marcie se pasea por el ala nueva de la planta baja del Creston (ficha de escenario actualizada). En la sala de espera, una chica de ~22 años, morena oscura y con trenzas, con **yeso de mástil medio** (cadera, muslos, barra de abducción, pene hacia delante con capucha granate y colgante dorado; pañuelo de flores tapando la abertura posterior, que se le sube y su acompañante le baja). En la sala de yesos, la enfermera **Keller** enyesa a una pelirroja con la rodilla derecha en flexión completa (yoga) y le dice a Marcie que, si viene a consulta, la sala de espera está a la izquierda.
+
+### Escena 299: Traumatología (Día 34, ~10:30)
+
+En el pasillo de las consultas sale de rayos X la enfermera **Price** empujando una silla de ruedas: una chica rubio platino con un yeso largo de pierna izquierda (fractura convencional), el reposapiés levantado y el pene marcado en el chándal. Price le pide paso.
+
+### Escena 300: Unidad de Amputados y Prótesis (Día 34, ~10:35)
+
+Puerta de cristal al fondo del ala, con taller de ortoprotésica, gimnasio de marcha y sala de curas. La fisioterapeuta **Garner** le está quitando el vendaje a una mujer con el brazo derecho amputado a un palmo del hombro y le pregunta si viene de traumatología.
+
+### Escena 301: Recuperación (Día 34, ~10:40)
+
+Seis camas. Una paciente con desarticulación de rodilla izquierda de ayer (drenaje, pene marcado en la bata) y una chica rubia de ~20 años con **los dos antebrazos amputados** por debajo del codo hace dos días. La enfermera **Doyle** está en el control. La rubia le pide a Marcie el vaso; Marcie se lo da y Doyle le acerca un taburete sin decir nada. Fue una **meningitis**: perdió las manos y, del pie izquierdo, solo los dos dedos pequeños.
+
+### Escena 302: Hollis — el cumplido (Día 34, ~12:00)
+
+Marcie come sola junto al ventanal. Wren la pilla mirándole el pene colgante (capucha de raso vino con ribete de encaje). Marcie le dice que se lo estaba admirando; Wren se ruboriza y le da las gracias. **Claire:** erección pequeña de Wren con el cumplido, y avisa de que se verá en todo el local. Se le levanta la falda, una enfermera la mira y Wren se tapa con el bloc. Explica las pezoneras pequeñas: las compró en la tienda barata, venían en una sola talla y se acostumbró a que asomara el borde.
+
+### Escena 303: Wren en el baño (Día 34, ~12:05)
+
+Marcie pide sopa de tomate y ensalada. **Claire:** después de tomar la nota, Wren va al baño a masturbarse, y Marcie oye sus pensamientos **sin límite de distancia** (Claire amplía el auricular para ella). Grifo abierto, la cocinera la llama ("¡La sopa de la siete!") y ella acelera. Al correrse se le cae la capucha y lo recoge todo en el lavabo. Vuelve con la sopa y la capucha mojada.
+
+### Escena 304: Hollis — la férula, el nombre y la propina (Día 34, ~12:10–12:45)
+
+Wren decide preguntar por la férula. Marcie le cuenta que es del alargamiento y que esa noche se la quita, y se le levanta un poco el pene en la cuna; Wren lo ve y se lo toma como "empatadas". Marcie le elogia los senos y las pezoneras ("atrevido"); a Wren se le endurecen los pezones y se le despegan las pezoneras. Wren se presenta y Marcie le da su nombre. Marcie deja una propina muy por encima de la cuenta y le dice que volverá por la terapia; Wren le dice que trabaja de mediodía a media tarde.
+
+### Escena 305: Centro comercial y Marginalia (Día 34, ~13:10)
+
+En la entrada de la galería, una mujer con **yeso de yoga de cuello** (cabeza girada unos 45° a la izquierda, esclavina de escayola sobre los hombros). En el Marginalia, Marcie se sienta a dos mesas de Sadie. **Visita 2:** Sadie tiene el **índice derecho amputado y vendado** y el pulgar izquierdo ya cicatrizado. Se acerca ella, le avisa de que se pide en la barra y le invita a un americano.
+
+### Escena 306: La conversación con Sadie (Día 34, ~13:15–13:50)
+
+Sadie le cuenta que la noche del Día 30 no escribió nada por mirarla. Marcie le explica la feminización y el alargamiento, y que le gustó que la miraran. Sadie da su versión de la enfermedad: empezó hace año y medio en los pies y hace unos cuatro meses en las manos; ha reaprendido a teclear cuatro veces. Arruga la nariz al oír "una lástima". Habla de **El juramento de ceniza** (Isolde, la reina que no se puede tocar, los juramentos que se pagan con el cuerpo, la escena de la armadura). En el segundo libro Isolde rompe el juramento y decide qué entregar: duda con la mano de la espada. Marcie diría "un pie". Sadie dice que no se pondría prótesis y que con cada pérdida "se reconoce más". Marcie le habla de Dana y Sadie se excita. **Claire:** pone una primera edición en la biblioteca de la mansión. Sadie se apunta en su lista: "irme a casa de una desconocida con un aparato en el pene". Paga ella el café. Le ayuda a subir al vehículo.
+
+### Escena 307: El viaje (Día 34, ~13:55)
+
+Se presentan por su nombre. Marcie le enseña cómo va sujeta la férula. Sadie confiesa que la ortesis la vio entera la otra noche y pregunta si todavía la tiene.
+
+### Escena 308: Llegada a la mansión (Día 34, ~14:20)
+
+Dana abre la puerta con el gancho. Sadie se queda parada al ver los ganchos y las prótesis. **Claire:** pone una **silla de ruedas manual** en la habitación de yesos (script del plano editado y regenerado). Dana le da el gancho a modo de saludo: no ha leído el libro, pero vio la película con Rachel, que se tapaba los ojos. Acepta que Sadie la vea trabajar, "como en una feria no". A Marcie le dice que se siente, porque viene cargando la pierna izquierda.
+
+### Escena 309: Cocina (Día 34, ~14:25)
+
+Dana prepara la merienda de Sophie. Abre la nevera tirando con el cuerpo ("el gancho cierra con el hombro contrario"). Coge lo redondo con los dos ganchos y lo que tiene reborde con uno. Abre un tarro apretado poniendo un paño encima. Nota en el muñón, dentro del encaje protésico, el peso y el roce, pero no el calor. Lleva las cosas en la mesa con ruedas.
+
+### Escena 310: Salón — Sophie y la firma (Día 34, ~14:35–15:00)
+
+Sophie: "Visita. ¿Cómo se llama?". La película la vio desde la silla, "y no me pude tapar los ojos". Para Sadie, el yeso es "una penitencia, no un pago". Con permiso de Sophie, Marcie le quita la manta. Sadie: "Me parece que te ríes de ti misma"; Sophie: "Me río de la situación. Son cosas distintas". Sophie le registra la venda a Sadie con su fórmula ("Venda. ¿Cuánto te queda con eso?"). **Sadie firma el yeso justo encima de la abertura genital**, a propuesta de Marcie. **Claire:** antes de firmar, Sadie toca el yeso ("está caliente") y a Sophie se le pone una erección leve, que llega a completa. Sadie la roza con el meñique ("No es por ti. Bueno. Sí es por ti"). Debajo escribe: **«Lo que no se puede tocar es lo que mejor se escribe.»** Sophie: "Mentira. Me has tocado". **Edición de Claire: Rachel y Sophie pasan a ser pareja abierta** (fichas e índice actualizados; el pendiente de contarle lo de Vera desaparece). Sophie acepta que Sadie la ayude. **Claire:** Sophie elige que le toque los senos y parte del semen caerá en el pantalón de Sadie. Sadie la masturba con el pulgar y el meñique y le coge el pezón entre el anular y el meñique. Marcie, con erección, se pone detrás de la silla y le mete el pulgar en la boca. Sophie se corre: el chorro cae en el muslo y la ingle de Sadie, y unas gotas en la firma. "Mejor. Así es más mía".
+
+### Escena 311: Después (Día 34, ~15:00–15:15)
+
+Dana limpia a Sophie con toallitas sujetas entre los dos ganchos, y también el semen de la firma (Sophie: "La tinta no se va. Lo otro, en dos días, olería"). **Claire:** Sadie lleva bragas de encaje negro de talle alto, y el semen ha calado. Sadie: el yeso no es una penitencia, porque cada caricia "es lo único que existe". Cuenta una idea para el libro: un traidor sellado en cal viva y expuesto en el salón del trono. Se quita las botas (**se deja los calcetines**, corrección de Claire) y el pantalón, que Dana se lleva a lavar ("Una hora").
+
+### Escena 312: Habitación de yesos (Día 34, ~15:20)
+
+La ortesis está en la camilla (la dejó Vera allí). Sadie se sorprende de que haya una habitación entera para eso. **Marcie le confiesa su fetiche por los yesos** y le dice que lo de Sophie fue un accidente (versión pública). Sadie nunca ha llevado un yeso. **Planes, de menos a más:** (1) **pierna derecha en flexión completa** de rodilla, **dos semanas**, con la excusa de la enfermedad de yoga ("visto desde delante, parece que te falta la pierna desde la rodilla"); (2) **las dos manos y los antebrazos con los dedos dentro**, **unos días**, escribiendo con un puntero en la boca, y se lo pone Marcie, no una enfermera; (3) **yeso casi completo en posición sentada**, del cuello para abajo, con las piernas algo abiertas, el brazo izquierdo dentro y la cabeza y el brazo derecho libres, **una semana**, con la excusa del yoga, viviendo en la mansión y yendo al Marginalia en silla eléctrica ("Vale. Sí"). Se sienta en la silla de ruedas: "Más de lo que debería gustarle a alguien que puede andar". **Propone empezar la pierna ese mismo día**; Marcie acepta, pero después de la firma y de descansar.
+
+### Escena 313: Biblioteca (Día 34, ~15:40–16:20)
+
+De camino, Sophie: "Ruedas nuevas. ¿Cuánto te queda con eso?". Dedicatoria: «Para Marcie, que entró en el café sin taparse nada. Una vez escribí que lo que no se puede tocar es lo que mejor se escribe. Hoy, en tu casa, ha sido mentira dos veces. — Sadie.» Le lee la escena de la armadura y tiene que parar. **Confiesa que se masturba cuando escribe** (en el baño del Marginalia o en su mesa con la mochila en la silla de enfrente; ficha actualizada). Le lee el capítulo 19 ("Todavía no") y le cuenta dos escenas del libro 2: la noche antes del pago y la reina lamiendo el muñón de Isolde. **Claire:** atracción de base de Sadie fijada en su ficha. Marcie le quita un calcetín y le lame y le chupa las cicatrices del pie. Sadie pide permiso para correrse; Marcie calla y ella aguanta ("Todavía no"). Con la cicatriz del pulgar en la boca de Marcie se le escapa **"esa es la última que me hice"**, y **no se desdice**. Sobre el anular: "ese es el siguiente". Marcie le hace un cunnilingus en la silla y Sadie tiene un orgasmo largo.
+
+### Escena 314: Habitación principal — desnudarse (Día 34, ~16:25)
+
+Marcie va empujando la silla como andador. Sadie la desnuda (le cuestan los botones) y le quita las pezoneras y las capuchas; después se desnuda ella. Corrección de continuidad: Sadie **solo tiene un pulgar**. Le chupa los pezones, la masturba con la izquierda (palma, borde liso y dos dedos en gancho), le hace una felación hasta que el labio le topa con la cuna, le lame los testículos y le mete el anular y el meñique hasta la próstata. Lo intenta montándola: **con la férula puesta solo entra el glande**, porque la cuna se lo impide.
+
+### Escena 315: La férula fuera (Día 34, ~16:40–17:00)
+
+Sadie despega los dos velcros, saca el pasador y abre el anillo. Base rosada y caliente, con el surco del anillo y la marca de la bisagra. Quita la cuna, la pletina y el arnés y lo deja todo en la mesilla. **Fin de la férula, cuatro horas antes de lo previsto y sin Vera.** Sadie la monta entera. Marcie le chupa el meñique ("Ese todavía me dura. Chúpalo bien, por si acaso") y el pulgar derecho. **Se corren a la vez**, con Marcie dentro y Sadie apretándole los testículos con la pinza. **Primer beso de las dos.** Marcie le dice que tenía ganas de tocarle las manos desde el Marginalia, "como están"; Sadie llora y le confiesa que **a ella le pasa lo mismo con las amputaciones de las demás**. "Hay más cosas que no te he contado. Pero hoy ya te he dado bastantes." Marcie: "ya tengo mis sospechas"; Sadie: "Luego". Siesta de media hora. Llegan dos mensajes de **Hobbs**, sin contestar: 15:12 (salida del turno, tercera erección bloqueada) y 16:08 ("No ha contestado a los de esta mañana. No es un reproche, es un dato").
+
+### Escena 316: Antes del yeso (Día 34, ~17:20)
+
+Dana ha dejado el pantalón de Sadie planchado en el sillón sin que la oyeran. Con el yeso no van a poder ponerse ni pantalón ni bragas: solo **C-string**, de los que Sadie tiene en casa. Marcie se viste solo con el vestido verde, con el pene libre. Llama a Dana, que registra que **la férula se ha quitado cuatro horas antes** y dice que Vera está midiendo la bodega. Marcie deja el yeso en manos de Vera ("no aguanto de pie mucho rato") y Sadie lo acepta para la pierna, no para las manos.
+
+### Escena 317: El yeso de Sadie (Día 34, ~17:35–18:05)
+
+En la habitación de yesos, con Vera vestida de negro y las medidas de la bodega en la mesa. Vera antepone que con esas manos no puede usar muletas normales. Marcie propone las axilares y Vera las descarta (carga en la mano y se duerme el brazo) y propone las **de plataforma**. Primero solo para la izquierda, porque el índice derecho está recién amputado; Sadie dice "Puedo", y al final **elige las dos de plataforma**, "para aprender a andar sin usar las manos". Sin muletas hasta el día siguiente, **Sadie se queda a dormir**. Protocolo: **"de enfermera"**. Tumbada sobre el costado izquierdo: media tubular, flexión completa de la rodilla (tirón, sin dolor) y **el pie entero dentro, en punta**, con los muñones tapados ("Dos semanas sin vérmelos"). Marcie, sentada en la silla de ruedas, le sujeta el pie y le pone la mano en la nalga. Cuatro rollos, del pie hacia arriba hasta dos dedos de la ingle y el pliegue de la nalga, con el sobrante de la media vuelto como un puño de camisa. Moldeado. Sadie: "Me he quedado sin pierna en veinte minutos". Vera llama al Creston con el móvil en la oreja, sin soltar el yeso, y pide las muletas para ya.
+
+### Escena 318: De pie y el reflejo (Día 34, ~18:30–18:45)
+
+Llegan las muletas de plataforma (veintiséis minutos). Sadie se levanta a la primera, oscilando, y anda hasta el **ventanal del corredor lateral**, que con el patio a oscuras hace de espejo: de frente, sin pierna desde la rodilla ("Así me voy a ver"). **Claire:** la excitación se le nota (un hilo que le cuelga entre los muslos). Vera se retira hacia la bodega. Marcie le pide que le traiga sus muletas y se arrodilla a lamerla mientras Sadie se sostiene en las suyas ("Si me sueltas, me caigo"). Vera vuelve con las muletas de Marcie: "Llevas nueve minutos de pie. Te queda uno". **Sadie se corre de pie** viéndola en el reflejo, le falla la rodilla y Vera la sujeta: "Diez minutos. A la silla". Marcie la abraza con una erección ("Te lo debo").
+
+### Escena 319: La silla y el camisón (Día 34, ~18:50)
+
+Corrección de postura: sentada en la silla, **la rodilla enyesada contra el pecho y el pie apoyado en el borde del asiento**, sobre las dos nalgas; echándose hacia atrás, la rodilla se sostiene sola. En el vestidor, Marcie le pone el **camisón negro de seda** (encaje transparente en los senos, aberturas laterales, por la derecha deja salir el yeso). Dana prepara cena para todos.
+
+### Escena 320: Salón, cena y mensajes (Día 34, ~19:00–20:15)
+
+Sophie, al ver a Sadie: "Yeso nuevo. ¿Cuánto te queda con eso?" / "Dos semanas es nada. Lo que se siente te lo cuento cuando lleves seis". Media hora de preguntas de Sadie a Sophie. **Cena de las seis en el comedor**: Dana le corta el pollo a Sadie y la sienta de lado con el yeso hacia fuera; Sadie come con el tenedor atrapado entre el anular y el meñique; Dana, con cuchillo y tenedor en los ganchos; Vera da de comer a Rachel (de lado, por los brazos abiertos) y a Sophie (desmigado con puré, en línea recta) a la vez. Rachel leyó el libro dos veces y la escena de la armadura tres; Sophie: "Cuatro. Yo la conté". **Claire:** mensaje de **Megan** sin tema; **recuperación adelantada un día** (ya anda con prótesis y muleta); **loft del centro** creado (sexta planta del edificio Harlow, ficha nueva). Megan: quiere verla a solas. **Cita: Día 35, 11:30, Café Elm.** "Llevaré la muleta y las ganas". Marcie le cuenta a Sadie lo de Megan (los yesos, Emily); Sadie: "Ojalá mañana te diga algo bonito".
+
+### Escena 321: Galería y cama (Día 34, ~20:20–21:00)
+
+Cinco minutos más con las muletas por la galería, con Vera al lado; con el camisón, de espaldas y de frente, se le ve todo a cada paso. "Mira todo lo que quieras". Sadie duerme con Marcie: **Vera la acuesta en la cama de Marcie**, de lado y con la almohada bajo el yeso, y advierte que no se apoyen encima. Marcie se desnuda y se mete en la cama de frente a ella. Dedos entrelazados con la mano izquierda de Sadie, y el pulgar de Marcie en la cicatriz del pulgar que le falta. Sadie se duerme ("Si llegas a ir a otro café, te habría tenido que buscar por toda la ciudad"). Vera vuelve de acostar a Rachel y a Sophie.
+
+---
+
+## Día 35 (miércoles) — Mañana, tarde y noche (sesión 41)
+
+### Escena 322: El despertar y el sueño (Día 35, ~8:00)
+
+Marcie despierta junto a Sadie (yeso sobre la almohada, cerco húmedo). Sadie: "He soñado que me despertaba sin pierna". Marcie le cuenta su sueño (las manos de Sadie ya sin dedos tocándola). Sadie esconde los dedos contra la palma y le pasa los nudillos y la venda por el pezón; Marcie le lame las cicatrices de los nudillos de la izquierda ("Algún día no voy a tener que doblarlos para que se vea así"). Son las ocho. Sadie acepta ducharse juntas y que Dana la enjabone entera. Spoiler del libro 2: **Isolde pierde también la otra mano** y al final no se puede bañar sola (no se lo ha contado ni a su editora).
+
+### Escena 323: Órdenes a Claire (Día 35, ~8:05)
+
+Dos ediciones por mensaje: (1) **nadie se toca la muñeca para comunicarse ni lo ha hecho nunca**; quien quiere hablar con alguien cercano va hasta donde está, y si está lejos llama o escribe al móvil (`world.md`). (2) **Creación de [Sasha Moreland](personajes/sasha.md)** a partir del texto de `pendientes.md`; Megan recuerda la tarde del Día 34 con ella. Claire avisa de que no ha tocado el orden en que Megan lo contará ni le hará contar el motivo de Sasha.
+
+### Escena 324: Dana y la funda (Día 35, ~8:10)
+
+Dana viene de la cocina y adivina el baño. Trae de la habitación de yesos una funda de plástico de pierna entera con aro de goma azul, que se cierra sobre la piel del muslo, por encima del yeso. Marcie le pide que bañe a las dos. Dana: ducha, no bañera (el pie quedaría bajo el agua), y el **taburete de su baño**. Marcie le cierra a Sadie el velcro derecho.
+
+### Escena 325: Dana baña a Marcie (Día 35, ~8:20)
+
+Dana se desnuda (arnés, ganchos y prótesis puestos) y sienta a Marcie en el taburete por si se le va la izquierda en el suelo mojado. Mide la temperatura con la mejilla. Baño completo, con Sadie mirando pegada al cristal: champú con los antebrazos, senos sostenidos con el canto del gancho, la pierna izquierda con cuidado. **Erección completa**; Dana registra que el surco del anillo casi no se ve (queda la marca de la bisagra), lava el tronco con la esponja entre las puntas, **retira el prepucio con el canto del gancho** y lava glande, corona y frenillo, y luego vuelve a subirlo. Sadie: "Lo del gancho bajándote la piel, también" lo escribe.
+
+### Escena 326: Dana baña a Sadie (Día 35, ~8:35)
+
+Dana mete a Sadie de dos saltos; sentada en el taburete con la rodilla enyesada contra el pecho, queda abierta de frente. "Si me las tocas con cuidado, me enfado". La venda del índice se moja por el borde y Sadie saca la mano derecha por la puerta, apoyada en el cristal. Dana le lava el borde del pulgar izquierdo ("Otra vez. Por el borde") y el pie sin dedos ("Ahí noto los dedos"). Marcie, en la tapa del inodoro, se acaricia mirando (glande, seno, testículos, sin llegar a masturbarse). Al lavarle la vulva con el borde de la esponja, Sadie pide "¿Puedo?" y **se corre** en la segunda pasada, con Dana dejando la esponja quieta y sujetándola. "Me da envidia que te pase todos los días."
+
+### Escena 327: Vestidor (Día 35, ~8:55)
+
+La venda solo se ha mojado del borde (Sadie no la tapa). Sadie: **vestido negro de punto de Marcie**, ceñido, abierto por los dos costados con cordón en la cintura, sin nada debajo. Marcie: **legging negro con copa premoldeada para pene y testículos**, top negro sin tirantes que deja ver la parte de abajo de los senos (corregido: sin riesgo para los pezones) y botas negras. Dana reparte la mañana: desayuno, revisión de Vera, vehículo a las 9:40.
+
+### Escena 328: Desayuno en la cocina (Día 35, ~9:05–9:30)
+
+Sophie desde la silla: "Muletas otra vez. Buenos días". Sadie vive **sola desde hace dos años en la calle Larkin**, segunda planta de un edificio de ladrillo **sin ascensor (veintidós escalones)**. Rechaza quitarse el yeso; acepta a regañadientes ayuda en casa ("que no me trate como si me fuera a romper"): no se cierra sola el velcro derecho. Marcie llama a **Megan**: **Emily ayudará hoy a Sadie** sin cobrar aparte ("ya la pagas tú"). Marcie le dice que vaya buscando a alguien por si la "enfermedad" avanza; Sadie arruga la nariz con "me apena" y anuncia que en el coche le contará algo de la enfermedad.
+
+### Escena 329: Vera y el coche — la verdad de Sadie (Día 35, ~9:30–9:55)
+
+Vera revisa el yeso: seco por dentro; al no haber dedos fuera, Sadie la avisará si nota el pie dormido, frío o apretado. En el vehículo, Sadie: **"No es una enfermedad. Me los quito yo"**. Marcie: ya lo sospechaba, y confiesa que **a ella también le atraen las amputaciones** y que se fijó en Sadie desde el Marginalia. Sadie: se reconoce más con cada pérdida ("el cuerpo es un borrador") y la excita todo el proceso. Le cuenta el orden (anular izquierdo, pulgar derecho, los meñiques, luego las manos por la muñeca, una y luego la otra) y que **no sabe hasta dónde**, pero no quiere parar. Escribir sin manos: dictado, puntero en la boca, seguimiento ocular, nada le convence; prótesis solo si no hay otra forma. Marcie le sugiere **teclear con los muñones**, tecla a tecla; Sadie lo probará esa noche con las manos cerradas. **El cuaderno de despedidas no lo ha mencionado.**
+
+### Escena 330: Calle Larkin y mensajes (Día 35, ~9:55)
+
+Calle Larkin: arces amarillos, edificios de ladrillo rojo con escaleras de incendios; portal de puerta verde con dos escalones de piedra. Espera **Emily**. Sadie: "Te sigo debiendo una. Del corredor". Tres mensajes de **Hobbs** (06:48 guardia y plug hasta mañana a las 7; 08:31 la paciente de la 214 y la cadera; 09:52 "van ocho sin contestar"). **Marcie le contesta** (la sesión con Vera de mañana) y Hobbs responde: pulso a 88 y dos intentos de la jaula, "me hace más ilusión que cualquier otra cosa de la semana".
+
+### Escena 331: Sala 3 — piernas y protocolo (Día 35, 10:00–10:45)
+
+Deberes hechos: estiramientos de la noche, 4 sin dolor. Piernas: la rodilla izquierda cede **una vez** (el lunes, dos). **Muletas, las dos, fuera de casa hasta el viernes.** Base: el surco del anillo ya no se ve; queda la marca de la bisagra. Al tacto, **sensibilidad 10** (no dolor). Protocolo en erección: arriba 1, abajo 1, lateral izquierdo 1/tensión 3, **lateral derecho 2/tensión 4, más lejos que el lunes**; tres tracciones. **Medida: 17,5 × 13.** Delaney firma el parte con la erección marcada y no echa el pestillo.
+
+### Escena 332: Después de la sesión, sin pestillo (Día 35, 10:45–11:10)
+
+Marcie se pone en cuclillas apoyada en la cintura de Delaney (aguanta tres minutos). Delaney: el riesgo es de Marcie y el puesto es suyo; Marcie **asume la culpa si entra alguien** y le abre el panel. Felación; Delaney admite que a primera hora **se hizo la tracción en sí misma** con gel para calibrar la fuerza "y pensaba en que venías a las diez". Se corre en la boca de Marcie **contando ocho**; nota: **diez**. Después, sobre la camilla, se la chupa a Marcie con el agarre del protocolo en la base hasta que se corre (**siete contracciones, contadas por Delaney**). Le lava el pene a fondo a petición de Marcie ("el olor de mi boca no te lo puedo quitar. Para eso, chicle"). Nadie abrió la puerta.
+
+### Escena 333: Café Elm — las tres cosas de Megan (Día 35, 11:20–12:10)
+
+Megan llegó antes para que no la viera andar (top negro con aberturas y pezoneras doradas de hoja, falda de paneles, capucha verde esmeralda, prótesis y muleta). (1) **Segundo yeso, esta semana**; rechaza esperar a usar el brazo "por última vez" (sería despedirse, decidir antes de tiempo). (2) **El miedo**, que se lo dijo a otra persona antes que a Emily. (3) **Sasha**: amiga desde los quince, se lo contó todo, sin permiso; Marcie no tiene problema. Quiere conocerla; Megan se lo dice hoy (sale a las tres). Pide que Vera le presente a Kerr; Marcie lo deduce ("Pillada"). Por la agenda, **el yeso es hoy, en la mansión, con Vera**; Emily viene y deciden después si duermen allí. Antes, comida en el Elm y **un par de horas en el loft**; Emily las recoge. Amputación: Megan la imagina casi a ras como la otra; Marcie propone también **llevar el muñón izquierdo hasta el hombro**: le gusta y la asusta que le guste tan rápido; ningún yeso puede probarlo, lo deja sin decidir. Configuración del yeso: **dedos y pulgar dentro, mano en puño**, diagonal sobre el pecho con **el seno izquierdo al aire**, brazo abierto al lado y algo adelante, **codo a 90°** (corrección: le sale sin esfuerzo, ha recuperado buena parte de la movilidad) y **barra de yeso** a la cadera. Marcie propone para **la semana que viene** unir la pierna izquierda al yeso por el tronco durante un par de días, solo el muñón derecho fuera: sí, con Emily y con la condición de que el brazo se quede cuando se corte la pierna. Megan tiene una erección y se tapa con la servilleta; nueva camarera (morena oscura, rizos en moño con lápiz, pezoneras plateadas, sin pene). Megan prohíbe hablar de yesos hasta el coche: con la mano en la muleta no tiene cómo taparse al salir.
+
+
+### Escena 334: Salida del Elm (Día 35, ~12:40)
+
+**Claire:** al levantarse, Megan tiene una erección que no baja al ver a Marcie (pene erecto en la copa con mancha húmeda, el top subido con un pezón a la vista, el legging metido entre las nalgas); Claire avisa de que mirarán a las dos y de que Megan no tiene mano para taparse. La capucha de Megan asoma bajo el panel; las clientas de la barra y la camarera miran. Marcie se recoloca el top. Megan cuenta catorce pasos hasta el vehículo.
+
+### Escena 335: El vehículo (Día 35, ~12:45)
+
+Megan explica por qué quiere amputarse el brazo: la autosuficiencia de tres años fue adaptación, no elección; le gusta más que la cuiden que cualquier cosa que haga con la mano. **Dos miedos**: echarlo de menos o pasarse la vida con un brazo que le sobra; solo el primero se prueba con el yeso. **Sin número de días**: "hasta que lo sepa"; si llega a no pensar en el brazo, llamará a Vera para lo de Kerr.
+
+### Escena 336: El loft (Día 35, ~13:05–14:45)
+
+Primera visita de Megan al loft. Marcie le quita la capucha y la masturba; frente al ventanal, Megan se apoya en el cristal y suelta la muleta para tocar a Marcie; le falla el cuádriceps a Marcie y Megan la sostiene. En la cama, Megan se quita la prótesis (**encaje de succión con válvula**, ficha actualizada) y ve por primera vez el pene de Marcie sin férula: **"Son iguales"** (17 × 13). Marcie le pide que le acaricie los senos con el muñón del hombro: Megan nota el pezón con la punta del muñón por primera vez. "Es la última hasta que sepa si es la última." Megan le mete dos dedos y le masajea la próstata hablándole al oído ("Esta noche te lo tendré que pedir yo a ti, todo"); Marcie masturba los dos penes juntos y **se corren a la vez**. Abrazo ("Yo también"). Ducha juntas, riendo; las pezoneras sin pegamento apenas agarran. Emily escribe **a Megan** (corregido): va a casa por la silla y la ropa ancha. **Se quedan a dormir en la mansión** y se van por la mañana, antes de Hobbs.
+
+### Escena 337: Vera prepara la sala (Día 35, ~14:50–15:15)
+
+Por mensaje: shoulder spica con barra, para Megan, **registro de enfermera**. En el camino se le cae a Megan la pezonera izquierda. Dana las recibe en el porche.
+
+### Escena 338: El segundo yeso de Megan (Día 35, ~15:15–16:30)
+
+Habitación de yesos. Megan dicta la configuración y pide que no llegue al encaje; Vera: termina en la cintura y por la derecha se apoya en la **cresta ilíaca**, a un palmo del encaje. Se desnuda del todo menos los panties y la capucha. **Lo último que hace con la mano: recogerse el pelo en una cola** ("la primera vez quiero que esté bien hecha"). Media tubular recortada (seno izquierdo y muñón fuera), **algodón dentro del puño** contra la maceración, pulgar por encima. Marcie, en la silla de ruedas, sostiene el brazo. Mano, antebrazo y codo; erección de Megan ("es lo de después"); brazo y hombro en ocho; tronco en diagonal con el **seno derecho dentro y el izquierdo fuera**, recortado; por la derecha hasta la cresta. Salpicaduras en el seno y el pene. **Barra de yeso** del antebrazo a la cadera. Doce minutos de fraguado. Indicaciones de Vera: no apoyarlo, no taparlo, no acercarlo al calor hasta mañana; si nota los dedos dormidos, fríos o que laten, llamar a cualquier hora. **"Ya no tengo manos. Ninguna."** Vera limpia las salpicaduras; la capucha está manchada y hay que lavarla. **Primera petición: que Marcie le rasque la nariz.** Marcie le quita la capucha (a Dana, sin agua caliente) y le pone la falda por las caderas, bajo el borde del yeso.
+
+### Escena 339: Salón, Sophie y Emily (Día 35, ~16:40–18:00)
+
+Vera la lleva en la silla manual (el puño pasa en diagonal por las puertas). Sophie: "Yeso nuevo. ¿Cuánto te queda con eso?" / Megan: **"No lo sé. Esa es la gracia."** Una hora de charla; Megan pide agua dos veces. Llega **Emily** con la silla de Megan y la bolsa de ropa y se queda mirando el puño. **Claire** (orden de Marcie): Emily se lleva a Megan a la biblioteca, porque Sophie no sabe que es voluntario; Marcie lo oye por el **modo escucha**. Emily confiesa que **no quería que le quitaran los primeros yesos** y teme que, si va a Kerr, sea un poco por ella; Megan: ya lo sabía, el brazo lo quería antes de conocerla y en Kerr lo tiene que poder decir sin mentir; "lo que sí es por ti es que no me dé miedo quedarme sin las dos". Emily: **"te acompaño hasta la puerta y me quedo fuera"** ("Hasta la puerta").
+
+### Escena 340: Cena y vino (Día 35, ~18:30–19:30)
+
+Cena con toda la casa; Emily le da de comer a Megan en su silla (de ruedas grandes, respaldo bajo). En el salón, Emily le rehace la cola. Sofá en L; vino tinto y tabla de quesos y embutidos de Dana. Marcie le cuenta a Emily que los primeros yesos fueron idea suya y que le excitan los yesos; Emily ya lo había deducido, y **Marcie le confirma que su yeso de pierna (Día 8) no era una luxación**. "No me molesta. Al revés": **Emily confiesa a Marcie que cuidar a alguien dependiente la excita**, y los yesos y las amputaciones con ello (antes solo lo sabía Megan). Marcie: a ella también le excitan las amputaciones. Emily cuenta el día con **Sadie**: subió los veintidós escalones sola, sentada; "Puedo" tres veces; le dejó abrir el yogur y cerrar el velcro; le hizo preguntas de escritora. Le excitaron las manos de Sadie y se imaginó dándole el yogur; se aguantó todo el día.
+
+### Escena 341: Las tres en el salón (Día 35, ~19:30–20:00)
+
+Megan pide que la toquen ("ahora sí me pica"). Emily la masturba de rodillas; Marcie le toca el muñón del hombro y el seno libre y después toca a Emily por debajo del vestido, por encima de las bragas, y luego con la tela recogida entre los labios. **Megan se corre en la boca de Emily.** Marcie desnuda a Emily (bragas sencillas de algodón blanco), la penetra desde atrás, apoyada Emily en los muslos de Megan, y le coge los senos. **Emily se corre mirando a Megan**, como le pidió esta, y Marcie se corre dentro. Megan: "Es la primera vez que no hago nada y me gusta igual."
+
+### Escena 342: Después, Dana (Día 35, ~20:05)
+
+Marcie sale de Emily y se recuesta sobre ella; Emily se disculpa por la alfombra y, cuidadora antes que nada, comprueba que no ha caído nada en el yeso. Marcie llama a **Dana**, que trae una palangana de agua tibia, toallitas y toallas, la deja lejos del yeso ("por si alguien le da una patada") y apunta que la mancha de la alfombra sale con agua fría. Emily prefiere limpiarse ella y limpiar a Megan; **Dana limpia a Marcie** sentada en el sofá: vientre, pene (retira el prepucio con el canto del gancho), testículos e ingles, y la seca a toques. La marca de la bisagra ya casi no se ve.
+
+### Escena 343: A dormir (Día 35, ~20:20)
+
+Megan y Emily duermen en la **habitación de invitados 1** ("la que tiene la cama con más sitio a la derecha"), las dos solas: con el brazo abierto Megan ocupa media cama, Emily tiene que aprender a moverla y "otra noche, contigo". La camiseta de botones no pasa por el yeso; Marcie prefiere no cortarla: **el yeso al aire** (Vera pidió no taparlo hasta el día siguiente) y, en la calle, **una pezonera con pegamento** en el seno libre. Dana le trae a Emily un camisón blanco de tirantes sin estrenar. Megan da las gracias enumerando ("por el yeso hoy y no la semana que viene, por el loft, por la nariz y por traerme a Emily…") y pide que Marcie la despierte; quedan en desayunar juntas ("tú me das la tostada y Emily el café"). Dana frota la alfombra con agua fría. **Los deberes de pene de esa noche no se hacen.**

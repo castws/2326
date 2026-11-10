@@ -50,7 +50,7 @@
 
 **Transporte:** Todos los vehículos son de conducción autónoma. No requieren conductor.
 
-**Comunicación:** No existen teléfonos móviles convencionales. Los robots llevan sistemas de comunicación integrados (suelen activarlos tocando la muñeca). Es posible fabricar un dispositivo que simule un teléfono del año 2026.
+**Comunicación (fijado el Día 35):** todo el mundo usa **teléfono móvil**, como en 2026: llamadas y mensajes. **Nadie lleva sistemas de comunicación integrados ni se toca la muñeca para hablar con nadie; eso no ha existido nunca** y ningún personaje lo recuerda. Si alguien quiere hablar con una persona que está cerca, **va hasta donde está**; si está lejos, **la llama o le escribe al móvil**. _(Los transcripts y el archivo de escenas antiguos que mencionan el gesto de la muñeca quedan anulados en ese punto: léase móvil.)_
 
 ---
 

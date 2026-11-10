@@ -89,6 +89,8 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 
 - **Día 34, mediodía y noche — ediciones en escena y de mundo (escenas 302–320):** erección de **Wren** con el cumplido, avisando de que se le verá desde las mesas, y su paso por el baño, con el auricular de pensamientos **ampliado sin límite de distancia** para ella. Pone el libro de Sadie en la biblioteca y una **silla de ruedas** en la habitación de yesos, editando el script del plano. **Rachel y Sophie pasan a ser pareja abierta**, y avisa de que el pendiente de Vera desaparece. La erección de Sophie y el remate (los senos y el semen en el pantalón de Sadie, que es gris marengo, "se le va a ver"). Las bragas de encaje de Sadie, avisando de que ha calado. **Megan**: el mensaje sin tema ("no te lo voy a adelantar") y la recuperación adelantada un día. Crea el **loft del centro** (la sexta planta del edificio Harlow).
 
+- **Día 35–36 — ediciones (escenas 323, 334, 339, 345, 346):** retira del mundo la **comunicación por la muñeca** (retcon: siempre ha sido el móvil) y **crea a Sasha** desde el texto de Marcie, avisando de que no toca el orden en que Megan lo contará. La erección de Megan al salir del Elm ("te van a mirar a ti también"). La charla de Megan y Emily, **llevada a la biblioteca porque Sophie no sabe nada**, con el audio por el modo escucha. Megan deja de pedir que le rasquen. **Vera, a veces, con encaje blanco** bajo el uniforme, avisando de que choca con dos reglas suyas.
+
 > Entradas anteriores (14) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual

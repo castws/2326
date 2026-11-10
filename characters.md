@@ -22,8 +22,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ mansión; duerme en la casa de huéspedes. Rondas de cuidados mañana y noche.
 - **[Claire](personajes/claire.md)** — robot, asistente principal. ~35, castaña, serena. Ejecuta las órdenes de Marcie.
   - _Dónde:_ su casa adyacente a la mansión. Aparece solo si Marcie la invoca por su nombre.
-- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene funcional; brazo izq. amputado muy corto, pierna der. con prótesis. Con prótesis y una muleta desde el Día 35.
-  - _Dónde:_ su apartamento, con Emily. Sale con prótesis y muleta desde el Día 35.
+- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene. Brazo izq. amputado casi a ras, pierna der. con prótesis. Shoulder spica der. sin fecha desde el Día 35: sin manos, en silla.
+  - _Dónde:_ su apartamento, con Emily. Sale en silla de ruedas, empujada.
 - **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan. Sin casa propia desde el Día 31. Sin discapacidad.
   - _Dónde:_ apartamento de Megan, día y noche.
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
@@ -64,6 +64,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ residencia universitaria, en el cuarto que comparte con Tessa.
 - **[Lydia Ashford](personajes/lydia.md)** — robot, 27, locutora de radio. Piel blanca, rubia ceniza en trenza; copa C, sin pene. Artrogriposis: codos, rodillas y cuello fijos. Silla eléctrica boca abajo, mentón.
   - _Dónde:_ su planta baja adaptada de la ciudad; sale sola en la silla. Radio de noche.
+- **[Sasha Moreland](personajes/sasha.md)** — robot, ~24, administrativa. Piel canela clara, rizos castaño oscuro, avellana; copa D, pene shower marcado. Sin discapacidad; quiere amputarse las cuatro extremidades. Amiga de Megan.
+  - _Dónde:_ oficina de gestión del área por la mañana; vive sola en la ciudad.
 
 ## Archivados _(no vuelven a escena salvo que Marcie los reincorpore)_
 

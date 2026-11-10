@@ -120,7 +120,7 @@ No encontré la respuesta. La luz entró del todo. Él abrió los ojos.
 
 El segundo día empezó como si nada.
 
-Me pidió que llamara a Claire, y la llamé tocándome la muñeca. No me pareció extraño tener en la muñeca algo que llamaba a alguien. Le pidió a Sophie que le diera el desayuno, porque él no podía con las manos así. Sophie se levantó, se puso el vestido y volvió con una bandeja: huevos, tostadas, jugo y café. Se sentó en el borde de la cama. Yo lo incorporé contra el cabecero y le puse las almohadas detrás.
+Me pidió que llamara a Claire, y la llamé con el móvil. Le pidió a Sophie que le diera el desayuno, porque él no podía con las manos así. Sophie se levantó, se puso el vestido y volvió con una bandeja: huevos, tostadas, jugo y café. Se sentó en el borde de la cama. Yo lo incorporé contra el cabecero y le puse las almohadas detrás.
 
 —Abre —le dijo Sophie, con el tenedor delante.
 
