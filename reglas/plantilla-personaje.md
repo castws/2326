@@ -75,7 +75,7 @@ Cuatro subcampos obligatorios y uno de vestuario.
 
 - **Rasgos:** tono de piel · color de ojos · cabello (color, largo, cómo lo lleva habitualmente) ·
   rasgos de cara · marcas visibles (pecas, tatuajes, piercings, cicatrices).
-- **Cuerpo:** **altura en cm** · complexión · senos (tamaño, **copa con banda y contorno en cm**, pezones, **diámetro de las areolas en cm** y color) · caderas · cintura ·
+- **Cuerpo:** **altura en cm** · complexión · senos (tamaño, **copa con banda y contorno en cm**, pezones, **diámetro de las areolas en cm** y color; la perforación de los pezones es universal y no se anota salvo particularidad) · caderas · cintura ·
   vello púbico.
 - **Genitales:** siempre explícito, en positivo y en negativo.
   - **Con vagina:** **forma de los labios** — mayores (llenos, finos, recogidos) y menores

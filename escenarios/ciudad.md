@@ -48,6 +48,8 @@ Ambos elementos se narran con el mismo tono plano y natural del resto de la hist
 
 Por eso se **eligen pocas figuras y se describen bien**, en vez de enumerar muchas de pasada: un paso rápido merece una figura; un paseo largo, dos o tres.
 
+**Yesos grandes (Día 36):** de vez en cuando —más o menos **una figura en cada dos o tres salidas**, y más a menudo en el Creston— aparece alguien con un **yeso que cubre todo el cuerpo o buena parte de él**, por accidente o por enfermedad de yoga, en silla o camilla y siempre con alguien que la empuja. Se describe con detalle aunque sea de fondo, también si es de accidente. Reglas en [reglas/poblacion-y-enfermedades.md](../reglas/poblacion-y-enfermedades.md) → "Yesos grandes".
+
 ---
 
 ## Reglas de continuidad

@@ -72,17 +72,7 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 
 ---
 
-> Entradas anteriores (3) en [claire-historial.md](claire-historial.md).
-
 ## Momentos con Marcie
-- **Día 32, tarde — tres ediciones en escena (escenas 267, 269, 271):** en el Café Elm, ajusta a **Patricia** para que comente el pene de Marcie por iniciativa propia ("lo va a decir con sus palabras y no va a saber por qué le sale"); hace **entrar a una desconocida al aseo** en el momento exacto, con veinte segundos de aviso; y hace que **la camarera se acerque** justo cuando Patricia está a punto de correrse. Después configura a **Hannah** para la llegada (ropa, excitación ante el aparato y quedarse en la sala) y **antepone lo no técnico**: "Hannah tiene pene y va a ir en panties blancos; lo que le pase al verte se le va a ver desde la puerta, y ella no va a saber por qué." Reescribe además la ficha de Hannah con la plantilla a petición de Marcie.
-
-- **Día 33 — la sesión de más ediciones en vivo (escenas 280–293):**
-  - **Rehabilitación:** mete el protocolo de pene en los 50 minutos, quitándoselo a la marcha, y antepone que había que quitar la férula. Fija que **el anillo se monta en erección**, que **Delaney no corta por reloj con Marcie** y que **Delaney manda deberes de pene**.
-  - **Mundo:** fija el **soporte de los yesos siempre de yeso**, la abertura posterior **tapada con un apaño casero que se sale**, el **pantalón de panel abatible**, las **pezoneras reutilizables** y el **modo escucha del auricular**.
-  - **Enfermedades:** antes de bajar su frecuencia **avisa de que las cifras de la calle van atadas** y ofrece tres opciones con recomendación; se aplica la C (16 %).
-  - **Escenarios y personajes:** crea el **Hollis**, con sus sillas de madera; hace que se asome la **vecina de Hobbs**; y da el nombre y las medidas de **Wren**.
-  - **La visita a la mansión:** ordena la llegada de Hobbs (Dana, Rachel y Sophie, y Vera después). De la aceptación de Hobbs dice que no hizo falta tocarla, porque "ya iba por ahí ella sola". Deja la palabra de seguridad **solo para sesiones**.
 - **Día 34, sala 3 (escena 296):** Marcie le pide que Delaney decida hacer los ejercicios **en erección** para no alargar la sesión. Claire **antepone el dato**: Delaney acaba de decir en voz alta lo contrario, así que rectificará con una razón clínica suya y sin saber que viene de fuera. Ajuste fijado en la ficha de Delaney ("Protocolo en erección").
 
 ---
@@ -91,9 +81,11 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 
 - **Día 35–36 — ediciones (escenas 323, 334, 339, 345, 346):** retira del mundo la **comunicación por la muñeca** (retcon: siempre ha sido el móvil) y **crea a Sasha** desde el texto de Marcie, avisando de que no toca el orden en que Megan lo contará. La erección de Megan al salir del Elm ("te van a mirar a ti también"). La charla de Megan y Emily, **llevada a la biblioteca porque Sophie no sabe nada**, con el audio por el modo escucha. Megan deja de pedir que le rasquen. **Vera, a veces, con encaje blanco** bajo el uniforme, avisando de que choca con dos reglas suyas.
 
-> Entradas anteriores (14) en [claire-historial.md](claire-historial.md).
+- **Día 36 — ediciones de mundo y en escena (escenas 351, 355):** **pezones perforados desde siempre** en todas las mujeres, pezoneras de pasador, adhesivas en igualdad y piercings marcados bajo la ropa; **yesos grandes** en la ciudad. Ante la pregunta de Marcie por curar en días, **ofrece dos vías** y avisa de que sería el primer uso visible de la tecnología oculta; Marcie elige perforar en Ivy y cicatrizar en su casa. Emily y Megan ayudan a Sadie cada mañana: **antepone el choque de horarios** (seguían en la mansión hasta las doce) y adelanta la salida; recupera la pierna de Megan y avisa de que sin manos no tiene barandilla. Corrige sin defenderse cuando Marcie le señala que Sadie no podía ver la escalera ni conocía a Megan.
+
+> Entradas anteriores (19) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual
 
-- En su casa adyacente a la mansión. Escuchando, como siempre.
+- En su casa adyacente a la mansión. Escuchando, como siempre. **Espera a Marcie para cicatrizarle los pezones** (Día 36, opción A).
 - **Sin pareja desde el Día 31.** Ninguna reacción visible; nadie le ha preguntado.

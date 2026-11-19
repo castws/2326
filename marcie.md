@@ -14,7 +14,7 @@
 
 **Rasgos:** ojos verdes alargados, labios llenos, rostro femenino fruto de la cirugía del Día 23. Cabello castaño oscuro hasta media espalda. Sin cicatrices visibles: las líneas de sutura no se ven.
 
-**Cuerpo:** **~173 cm.** Esbelta con curvas marcadas: remodelación ósea de cadera y cintura y redistribución de grasa. **Senos copa D confirmada (85 de banda, 106 de contorno).** **Areolas de 4,5 cm**, rosa tostado, pezones medianos. Brazos, piernas, manos y pies suavizados; piel de textura femenina. **Cero vello corporal**, eliminado de forma permanente.
+**Cuerpo:** **~173 cm.** Esbelta con curvas marcadas: remodelación ósea de cadera y cintura y redistribución de grasa. **Senos copa D confirmada (85 de banda, 106 de contorno).** **Areolas de 4,5 cm**, rosa tostado, pezones medianos, **perforados desde el Día 36** (barra horizontal de titanio en cada uno). Brazos, piernas, manos y pies suavizados; piel de textura femenina. **Cero vello corporal**, eliminado de forma permanente.
 
 **Genitales:** **Conserva pene y testículos. Sin vagina.** Pene modificado de grower a shower: **~14 cm en reposo, ~17-17,5 cm en erección, ~13 cm de circunferencia en los dos estados**. **No circuncidada.** Fuera de casa, capucha, como es norma para cualquier pene a la vista.
 
@@ -34,6 +34,7 @@
 - **Día 32:** Mills le retira la ortesis y le cierra el caso.
 - **Día 34:** fin de la férula peneana (se la quita Sadie, ~16:40). Compra el loft del centro.
 - **Día 35:** primera visita al loft, con Megan. Sadie le confiesa sus amputaciones; Emily, su excitación por cuidar.
+- **Día 36:** se perfora los pezones en el Estudio Ivy (Ivy Marsh). Primera vez que se usa la tecnología oculta en algo visible: Claire los cicatriza (opción A).
 
 ---
 
@@ -80,6 +81,7 @@ El vínculo con cada personaje está en su propia ficha (`## Relaciones` y `## M
 - **Movilidad (sin ortesis desde el Día 32):** anda **con muletas canadienses**, **las dos fuera de casa hasta el viernes (Día 37)** según Delaney, y se levanta y se sienta sola. **El cuádriceps izquierdo se fatiga y cede sin avisar**: aguanta diez segundos de pie sin apoyo, pero no una caminata. Brazos normales.
 - **Férula peneana: retirada el Día 34 (~16:40) por Sadie**, cuatro horas antes de lo previsto. Base sin lesión, con el surco del anillo. Ya no se monta más. **Fuera de casa, capucha obligatoria** como cualquier pene a la vista. Los deberes de esa noche (en blando, sin anillo) **no se han hecho en escena**.
 - **La ortesis:** Mills se la dejó sabiendo que le excita. Condiciones: ratos de 4-5 horas, **nada esta semana** y revisión de la piel cada vez, sobre todo en la rodilla izquierda. **Se la pone y se la quita Vera.**
+- **Pezones (Día 36, ~11:00):** barras lisas de titanio, en horizontal. **Sin cicatrizar todavía:** falta ir a casa de Claire (opción A). Para todos los demás es una perforación real: suero mañana y noche y nada encima durante meses; Claire ajusta a quien lo vea de cerca. Las barras se le marcan a través de la ropa.
 - **Voz:** la nueva, más aguda, ya sin ningún esfuerzo.
 - **Rehabilitación con [Delaney](personajes/delaney.md)** (sala 3 del Creston): piernas lunes, miércoles y viernes, y protocolo de pene a diario del Día 33 al 48. Con ella, Delaney no corta por reloj. **Día 36:** dolor 1 en todas las direcciones; el lateral derecho casi iguala al izquierdo; medida del Día 35, 17,5 × 13. La rodilla izquierda cedió una vez el Día 35 (el lunes, dos).
 - **Deberes de casa, a diario hasta el Día 48** (**las noches del Día 35 y del 36 sin hacer**; Delaney lo sabe):

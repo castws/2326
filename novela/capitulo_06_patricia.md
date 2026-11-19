@@ -198,9 +198,9 @@ Duró un rato. No sé cuánto. Mucho.
 
 Y después se acabó.
 
-Se acabó como se acaba el agua caliente en la ducha. No poco a poco: de golpe. Estaba gritando y de repente ya no tenía nada que gritar. Me quedé tumbada de lado, respirando, mirando la pared. Con la mano fantasma todavía apretada en un puño. Pero sin rabia. Con un cansancio enorme y una cosa tranquila debajo, como el fondo de un vaso cuando ya te has bebido todo.
+No porque se me pasara. Porque no me quedaban fuerzas. La rabia necesita un cuerpo, y el mío acababa de salir de un quirófano. Estaba gritando y de repente ya no podía gritar más. Me quedé tumbada de lado, respirando, mirando la pared. Con la mano fantasma todavía apretada en un puño. Con un cansancio enorme y una cosa tranquila debajo, como el fondo de un vaso cuando ya te has bebido todo.
 
-Me pareció raro, que se acabara así. Lo pensé un momento. Pensé que sería la anestesia.
+A los dieciséis me pasó lo mismo. También grité. También se me acabó.
 
 La enfermera me puso de espaldas otra vez, me secó la cara con una gasa y me preguntó si quería ver a alguien.
 
@@ -232,9 +232,9 @@ Asintió. Me apartó el pelo de la cara con la mano. Después se echó hacia atr
 
 Me quedé mirándola.
 
-Algo. No sé qué. Hannah siempre ha sido así: el pelo suelto, la risa fuerte, las piernas abiertas, cero vergüenza. Me lo dicen diez años de recuerdos, todos iguales. La recuerdo así en el colegio, en la playa, en mi taller, el día del perfil, sentada en mi cama diciéndome que me gustaba el camarero del bar de abajo. Siempre así.
+Hannah es así desde que la conozco. El pelo suelto, la risa fuerte, las piernas abiertas, cero vergüenza. En el colegio la mandaban a dirección por sentarse así con falda. En la playa era la primera en quitarse la parte de arriba. El día del perfil se sentó en mi cama a decirme que me gustaba el camarero del bar de abajo. Hay gente que se esconde y gente que ocupa el sitio que tiene, y Hannah ocupa el suyo y un poco del de al lado.
 
-Y aun así, al verla colocarse el pene en una habitación de hospital, delante de una enfermera, como si estuviera sola, sentí una sorpresa pequeña. Como cuando oyes una canción que conoces y una nota suena un poco distinta. No supe cuál. Lo dejé pasar.
+Verla colocarse el pene delante de una enfermera, en una habitación de hospital, como si estuviera en su cocina, me hizo reír otra vez. Era lo más normal que me había pasado en dos días.
 
 ---
 
@@ -280,7 +280,7 @@ Hannah estaba en el pasillo. La veía por la rendija de la puerta, apoyada en la
 
 —Es una santa, Hannah. Aunque a veces me sorprende lo poco que le importa lo que piensen de ella.
 
-Lo dije y me quedé un segundo pensando por qué lo había dicho. A veces me sorprende. ¿Desde cuándo? Diez años sin que me sorprendiera, y hoy sí.
+Lo dije con cariño. Hannah le abriría la puerta al cartero en panties. Lo ha hecho. Yo me muero de vergüenza por las dos y ella ni se entera.
 
 Me dijo que también podía ir a su casa a pasar el rato cuando quisiera.
 
@@ -374,9 +374,7 @@ Hannah salió de la cocina con un trapo en la mano. Se sentó a mi lado y me pus
 
 Me pareció razonable. Me lo dije yo también: hoy es un mal día. Tiene que haber alguno.
 
-Pero había algo raro en la forma en que había llegado. A las tres y media en punto. Lo miré en el reloj de la tele. Como si alguien hubiera abierto un grifo.
-
-Pensé que eran tonterías mías. Que el duelo tiene esas cosas. Lo dicen todos los folletos del hospital.
+Lo era. Llevaba cinco días aguantando, haciéndome la fuerte delante de todo el mundo, y el cuerpo se cobra esas cosas cuando quiere. Esta vez quiso a media tarde, media hora antes de que llegara él.
 
 ---
 
@@ -464,13 +462,7 @@ Me dijo que también podía intentarlo con las prótesis.
 
 —Sí. Eso es lo que más me interesa. Si aprendo a controlar bien los ganchos, podría sostener el pincel. El médico dijo que con las prótesis de gancho hay bastante control fino si entrenas la tensión del cable.
 
-Lo dije y me quedé un segundo parada.
-
-El médico no había dicho "gancho". O sí. Lo recordaba diciéndolo. Lo recordaba con su voz, en la habitación 8, "gancho de accionamiento corporal, cable y arnés en el hombro contrario". Pero un segundo antes de decirlo yo había estado pensando en otra cosa, en unas manos de plástico con dedos, de esas de los anuncios. Y ahora no estaban. Ahora solo estaban los ganchos, y el recuerdo del médico diciendo gancho, nítido, como si siempre hubiera estado ahí.
-
-Me debí de quedar con cara rara, porque él me miró.
-
-Lo dejé pasar. Es la medicación. Los folletos también lo dicen.
+Me había leído los folletos del hospital tres veces, con Hannah pasándome las páginas. Un gancho de acero que se abre y se cierra con un cable sujeto a un arnés, moviendo el hombro contrario. Es feo. Pero las manos de plástico de los anuncios solo sirven para que la gente no mire, y a mí la gente me mira igual. Prefiero algo que agarre.
 
 —Voy a tardar —le dije—. Pero prefiero eso a no intentarlo.
 
@@ -508,7 +500,7 @@ Me acercó la copa a los labios. Bebí. Me pasó el pulgar por la boca para quit
 
 Después me dijo que lo había pasado muy bien conmigo, pero que no sabía si era apropiado. Que si quería que tuviéramos intimidad esa noche. O si prefería descansar.
 
-Lo pensé. De verdad. No como en el restaurante, donde decidí sin decidir. Esta vez me lo pensé.
+Lo pensé. De verdad. No como en el restaurante, donde me dejé llevar. Esta vez me lo pensé.
 
 —Me gustaría. Pero va a ser distinto. No puedo… —Me salió media risa—. Vas a tener que hacer bastante tú. Más que la última vez, por lo menos.
 
@@ -630,9 +622,9 @@ Hannah lo escribió. Y añadió algo, y no me dijo qué hasta que ya lo había e
 
 —Secretaria —dijo, y se fue a la cocina en panties, colocándose el bulto con dos dedos.
 
-Me quedé en el sofá. Mirando el jardín. Pensando en el mal día de ayer, que llegó a las tres y media en punto y se fue cuando él se fue, igual de rápido. Pensando en los ganchos, en el médico diciendo gancho. En Hannah, que a veces me sorprende.
+Me quedé en el sofá. Mirando el jardín. Pensando en el mal día de ayer, y en que se me pasó cuando llegó él. En los ganchos, que todavía no tengo. En Hannah, que es una santa y una bestia.
 
-Pensé que eran muchas cosas raras para una sola semana. Y pensé que una semana en que pierdes un brazo es una semana rara, y que cualquiera tendría la cabeza así.
+Pensé que había sido la peor semana de mi vida. Y que, de una manera que no sé explicar, no había sido solo eso.
 
 Y luego dejé de pensar, porque Hannah volvió de la cocina con algo en la mano. Un pincel. Uno de los míos, de los finos, que se había traído del taller en una caja con el resto de mis cosas.
 

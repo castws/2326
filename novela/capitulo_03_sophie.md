@@ -10,9 +10,9 @@ No dormía.
 
 Rachel cree que sí. Lo dijo una vez, mucho después: que esa primera mañana yo dormía con la mano en su pecho. No. Tenía los ojos cerrados y la mano donde la había dejado, y la oía a ella respirar al otro lado, despierta, mirando el techo. Lo sé porque una persona dormida respira hacia fuera y una despierta respira hacia dentro. Ella respiraba hacia dentro.
 
-No abrí los ojos. No sé por qué. Ahora creo que fue la primera cosa que hice porque sí.
+No abrí los ojos. Me daba vergüenza que me viera despierta después de la noche que habíamos pasado. Y quería tener la mano ahí un poco más.
 
-Lo que sí recuerdo es la mano. La mía, sobre su pecho, notando cómo subía y bajaba. Los dedos un poco abiertos. Una uña partida en el pulgar, que no sé cuándo me partí. Fue la última mañana que me desperté con una mano que podía mover. No lo sabía. Nadie se despide de una mano.
+Lo que sí recuerdo es la mano. La mía, sobre su pecho, notando cómo subía y bajaba. Los dedos un poco abiertos. Una uña partida en el pulgar, que me partí la semana anterior abriendo una caja de la mudanza. Fue la última mañana que me desperté con una mano que podía mover. No lo sabía. Nadie se despide de una mano.
 
 ---
 
@@ -24,7 +24,7 @@ Me senté en el borde de la cama y corté un trozo de huevo con el tenedor.
 
 —Abre.
 
-Lo hice todo bien. Lo hacía todo bien ese día. No pensaba en nada. Pensaba en el siguiente trozo de huevo.
+Lo hacía todo bien ese día. Era mi segundo día en la casa y quería que se notara. No pensaba en nada más que en el siguiente trozo de huevo.
 
 Claire llegó y se sentó junto a la ventana. Hablaron. Yo le acercaba el café a los labios y esperaba. No escuchaba. Oí "teléfono" y oí "ciudad" y oí números, y después oí mi nombre.
 
@@ -34,7 +34,7 @@ Claire dijo "ahora mismo" y salió.
 
 Dejé la taza en la bandeja. Me levanté. Me quité el vestido, porque iba a hacer falta, y me quedé de pie en el centro de la habitación con los brazos un poco separados del cuerpo, que es como se queda una cuando sabe que la van a tocar por todas partes.
 
-Me he preguntado después si dije que sí. Me acuerdo de estar de pie. Me acuerdo del suelo frío. No me acuerdo de haber dicho nada.
+Nadie me preguntó, y yo no dije que no. Me acuerdo del suelo frío en los pies. Era mi segundo día. La agencia me había contratado para lo que él necesitara, y la hoja que nos mandaron decía cosas más raras que esta. Me dije que era el capricho de un hombre que había estado mucho tiempo enfermo, que duraría unos días, y que yo podía con unos días. Siempre he podido con cosas peores. Me crie con tres hermanos mayores en una casa con un solo baño.
 
 ---
 
@@ -102,9 +102,9 @@ Pasó mucho tiempo. No sé cuánto. Tenía sed.
 
 Sobre el techo, la mancha de sol se movió de la quinta viga a la sexta. La telaraña de la esquina tenía una mosca. Rachel no vino. Oía voces lejanas, por el patio, y agua de piscina. Tenía la boca seca y nadie a quien pedírselo.
 
-En algún momento de esa tarde algo cambió.
+Hacia media tarde se me acabó la paciencia.
 
-No sé explicarlo mejor. Estaba mirando la telaraña, y la mosca seguía ahí, y de repente me molestó. No la mosca: estar aquí. Llevar horas aquí. Que nadie hubiera venido. Era como si hasta entonces el tiempo no hubiera pasado y de repente sí, todo de golpe, y me cayeran encima todas las horas a la vez.
+Una puede ser buena empleada un día y medio. Al segundo día, tumbada en una cama sin poder mover nada más que los ojos, con sed y sin nadie, se le acaba. Estaba mirando la telaraña, y la mosca seguía ahí, y de repente me molestó. No la mosca: estar aquí. Llevar horas aquí. Que nadie hubiera venido. Me cayeron encima todas las horas a la vez.
 
 Cuando él entró, por fin, le dije lo que había:
 
@@ -114,7 +114,7 @@ No lo dije bonito. Lo dije como es.
 
 —Me vendría bien agua. Llevo horas aquí sin poder hacer nada.
 
-No me trajo el agua. Salió. Lo oí en el pasillo, decir algo en voz baja, y después nada. No sé con quién hablaba. No había nadie en el pasillo.
+No me trajo el agua. Salió. Lo oí en el pasillo, decir algo en voz baja, y después nada. No sé con quién hablaba. Con el móvil, supongo.
 
 Unos segundos después volvió a entrar.
 
@@ -210,13 +210,11 @@ Mientras leía, me acordé de la mañana.
 
 Me acordé de todo. Del "abre" con el tenedor. De quitarme el vestido sola, sin que nadie me lo pidiera, porque iba a hacer falta. De estar de pie con los brazos separados. De su mano en el baño, y de cuando dije que se sentía bien. De su boca, las dos veces. De cuando cerré los ojos y dije "descansaré" como una niña buena.
 
-Eso fue lo peor del día. No lo de la tarde. Lo de la tarde fue malo, pero dije que no, y el no era mío, y lo sabía. Lo de la mañana era peor porque no había dicho nada.
+Eso fue lo peor del día. No lo de la tarde. Lo de la tarde fue malo, pero dije que no, y el no era mío, y lo sabía. Lo de la mañana era peor porque había dicho que sí a todo sin pararme a pensarlo, como la empleada nueva que quiere caer bien. Como la hermana pequeña que no se queja.
 
-Busqué el momento en que dije que sí al yeso. Busqué mucho rato, con la voz de Rachel de fondo. No lo encontré.
+Me pregunté, debajo de la manta, si me arrepentía del yeso. Lo pensé mucho rato, con la voz de Rachel de fondo. Y no. El yeso, no. Lo acepté yo, de pie en el suelo frío, sabiendo lo que hacía; nadie me puso una mano encima para que me quedara quieta. De lo que me arrepentía era de "descansaré". De haber dejado que me tocara sin preguntarme si quería que me tocara.
 
-Así que decidí una cosa, allí, debajo de la manta. Decidí que lo había decidido yo. Que me lo había propuesto y yo había dicho que sí. Que no me arrepentía. No sé si es verdad. Pero es la única versión con la que se puede vivir dentro de un yeso, porque la otra es que alguien te metió aquí y tú ni siquiera estabas.
-
-Me lo he dicho tantas veces desde entonces que ya es verdad.
+Son cosas distintas. Me costó una tarde entera separarlas.
 
 ---
 
@@ -332,7 +330,7 @@ Me trajo agua. Me la dio despacio. Y entonces le pregunté lo que llevaba dos d�
 
 Me dijo que hasta que me recuperara. Que el médico había dicho que me faltaba un mes más.
 
-No había habido médico. Había habido Claire con una palangana. Pero él dijo médico, y un mes es un mes lo diga quien lo diga.
+No había habido médico. Había habido Claire, que es enfermera, con una palangana. Pero él dijo médico, y un mes es un mes lo diga quien lo diga.
 
 —Un mes más. Bien.
 
@@ -358,7 +356,7 @@ Miré al techo. Me ardía la cara.
 
 Me dijo que no sabía. Que estaba en la mesilla. Que se imaginaba que era de Rachel.
 
-Me reí. Fuera, esta vez. Una carcajada corta que me salió por la nariz y me dolió en el borde del yeso de la frente. No me reía desde que me habían puesto el yeso. Puede que no me hubiera reído nunca.
+Me reí. Fuera, esta vez. Una carcajada corta que me salió por la nariz y me dolió en el borde del yeso de la frente. No me reía desde que me habían puesto el yeso. Puede que no me hubiera reído así desde que me mudé.
 
 Rachel. Rachel escribiendo esto. Rachel, que dice "listo" y "ya está" y "¿más?". Rachel, que me había tocado el borde del yeso como si supiera exactamente lo que había ahí, porque lo había escrito antes de saberlo.
 
@@ -384,7 +382,7 @@ Me preguntó si quería que me estimulara un poco mientras leía las partes más
 
 Lo miré. Lo miré un rato.
 
-Hace dos días me habría dado igual, o habría dicho que sí sin saber que lo decía. Ayer habría dicho que no, porque el no era lo único que tenía. Hoy no sabía. Hoy, por primera vez, la pregunta era de verdad, y la respuesta también tenía que serlo.
+Hace dos días habría dicho que sí por no decir que no. Ayer habría dicho que no, porque el no era lo único que tenía. Hoy no sabía. Hoy, por primera vez, la pregunta era de verdad, y la respuesta también tenía que serlo.
 
 —Sigue leyendo primero. Ya veremos.
 

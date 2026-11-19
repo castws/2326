@@ -101,7 +101,8 @@ Cuidadora de [Megan](megan.md) en su apartamento de la ciudad desde el Día 8, d
 ## Estado actual
 
 - Vive con Megan en el apartamento de ella; pareja y cuidadora 24/7. **Sin casa propia desde el Día 31.** (La respuesta de Megan a vivir juntas ya es un hecho: viven juntas.)
-- **Día 36:** sale de la mansión con Megan hacia las 12:00. Cuida a Megan ya sin manos (segundo yeso): le da de comer, la viste, la peina, la lava con esponja, le escribe los mensajes.
+- **Día 36:** sale de la mansión con Megan hacia las **10:00** (adelantado por Claire; sin la siesta prevista) y van a casa de Sadie.
+- **Ayuda a [Sadie](sadie.md) cada mañana desde el Día 36** (ajuste de Claire, a petición de Marcie): sube los veintidós escalones de la calle Larkin, le hace lo pequeño (velcro, yogur, la cómoda de abajo), la baja y la lleva al Marginalia. **Va siempre con Megan**, porque tiene que cuidar de las dos: suben juntas, Emily sujetando a Megan escalón a escalón. No la trata como si se fuera a romper. Cuida a Megan ya sin manos (segundo yeso): le da de comer, la viste, la peina, la lava con esponja, le escribe los mensajes.
 - **Sabe desde el Día 35** que a Marcie le excitan los yesos y las amputaciones y que el yeso de Mark del Día 8 no era una luxación. Marcie sabe lo suyo.
 - **Pendiente con Marcie:** que la depile ("si me lo quitas tú").
 - Si Megan va a Kerr: la acompaña **hasta la puerta** y se queda fuera.

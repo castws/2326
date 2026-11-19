@@ -78,16 +78,46 @@ Marcie: **medias negras de malla hasta la cintura, short negro muy corto de tiro
 
 Delaney apunta lo de los deberes sin comentarlo. Protocolo en blando: dolor 1 en todas las direcciones; **el lateral derecho ya casi iguala al izquierdo**. Después Delaney, con una erección desde que Marcie entró, **echa ella el pestillo** ("hoy he cerrado, por si acaso") y deja la decisión a Marcie, que se la devuelve: "sorpréndeme". Delaney la pone inclinada sobre la camilla, la prepara con gel (uno y dos dedos, roce a la próstata) y **la penetra analmente** sin contenerse, masturbándola a la vez con el agarre del protocolo; **se corre dentro** contando ocho, y Marcie, en su mano, seis. La limpia por detrás y por delante y le sube las medias y el short. "Hoy no te pongo número." Mañana, piernas a las diez, y que haga los deberes esta noche.
 
+## Día 36 (jueves) — Mediodía (sesión 42)
+
+### Escena 351: Pasillo del Creston — ediciones de Claire (Día 36, ~10:30–10:45)
+
+Saliendo de la sala 3, Marcie encarga a Claire dos cambios de mundo. **(1) Pezones perforados:** todas las mujeres del área los tienen perforados en horizontal por la base **desde siempre** (se hace en la adolescencia, como las orejas; nadie lo comenta). Existen las **pezoneras de pasador** (copa metálica con cavidad para el pezón, pasador que lo atraviesa, colgantes o cadenas), y las **adhesivas** siguen como alternativa en igualdad según ropa y ocasión. Con los senos tapados es frecuente llevar **piercings que se marcan a través de la ropa**. **(2) Yesos grandes:** ~1 % de la ciudad (accidente o brote múltiple de yoga), uno cada dos o tres salidas, siempre en silla o camilla con alguien empujando, descritos con detalle. Marcie quiere hacerse los suyos; Claire le señala el **Estudio Ivy** y el coste (perforación real, meses). A su pregunta, Claire ofrece dos vías y Marcie elige la **A**: perforar en Ivy y que **Claire los cicatrice en su casa** con la tecnología oculta (excepción única), ajustando a quien los vea de cerca.
+
+### Escena 352: Atrio y Estudio Ivy (Día 36, ~10:50–10:55)
+
+En el atrio, junto al quiosco, **primer yeso grande**: chica de ~23, trenzas rubio oscuro, brote de yoga (tronco de axilas a pelvis, cadera izquierda a 90° con la rodilla en flexión completa, hombro derecho en abducción con el codo a 90° y puntal de yeso a la cadera; pierna derecha y brazo izquierdo libres), en silla reclinable; ventana con los senos fuera y pezoneras de pasador de flor con cadena; pareo turquesa y toalla detrás. La empuja una mujer alta de pelo rizado (aros marcados en la camiseta, leggings de funda). **Estudio Ivy** (escenario nuevo) a punto de abrir; **Ivy Marsh** (nueva): "¿Qué te hago?".
+
+### Escena 353: La perforación (Día 36, ~11:00–11:15)
+
+Ivy se extraña una vez de que una adulta no los tenga ("normalmente vienen con catorce") y sigue. Ayuda a Marcie con las muletas a la camilla. Marcie se sube el top sin quitárselo. Antiséptico frío; **a Marcie se le marca una erección** en el short, que se acomoda hacia arriba con permiso de Ivy. Marcado con rotulador, revisión en el espejo, pinza; **cuenta desde tres y pincha en el dos**. Dos barras lisas de titanio en horizontal. Cuidados: suero mañana y noche, meses de cicatrización, nada encima. Al bajar el top, las barras se marcan: "como a todo el mundo".
+
+### Escena 354: Las barras de Ivy (Día 36, ~11:15–11:35)
+
+Marcie le pide practicar quitando y poniendo con las de ella. Ivy cierra el estudio, le da guantes y se sube la camiseta: Marcie le saca y le pone las dos barras, tocándole los senos; Ivy se excita. Le enseña su **piercing vertical en el capuchón del clítoris** (se lo hizo ella a los 19). Marcie lo toca, la masturba; se cambian (Marcie en el taburete de ruedas, Ivy desnuda en la camilla). Hablan de una clienta con ocho anillas en los labios menores; Ivy lo ha pensado pero no deja que la pinche nadie. **Ivy se corre** con dos dedos dentro y el pulgar en el clítoris. Le devuelve el favor con una **felación** y se lo traga ("Ya estamos en paz"). **70 dólares**; "lo otro no entra en la cuenta". Marcie le dice que le gustaría lamerle la vulva llena de piercings; Ivy se lo va a pensar en serio (otra perforadora del otro extremo de la ciudad) y **se guarda el contacto de Marcie** para avisarla.
+
+### Escena 355: Marginalia — los piercings y los nudillos; ajustes de Emily y Megan (Día 36, ~11:40)
+
+Sadie (top negro de canalé con barras marcadas, falda en V, sentada de lado con el yeso fuera) **teclea con los nudillos**. Nota que ayer Marcie no tenía piercings; Marcie lo achaca a la cirugía ("cuerpo nuevo, y lo vas estrenando por partes"). Dos páginas así, a la mitad de velocidad, "más mío que dictando". **Ediciones de Claire:** Emily ayuda a Sadie **cada mañana, siempre con Megan**; la salida de la mansión se adelanta de las 12:00 a las **10:00**; **la pierna izquierda de Megan está recuperada** (anda con la prótesis sin muletas; escaleras sujeta por alguien). Por corrección de Marcie: **Sadie no vio subir a nadie y no conocía a Megan**. Abrió la puerta y se quedó sin decir hola; Megan: "Tranquila, que yo también te estoy mirando a ti".
+
+### Escena 356: Marginalia — Megan, la mesa del fondo y el plan de las manos (Día 36, ~11:45–12:10)
+
+Sadie confiesa que tuvo que masturbarse en el baño tras ver a Megan. Marcie le cuenta que la conoce desde hace semanas y se ha acostado con ella. Sadie pregunta por el muñón del hombro; Marcie le cuenta lo del muñón en el seno ("eso me lo quedo"). **Marcie le propone hacerlo en la mesa**; mueve su silla para taparla desde la barra (descripción detallada de la ropa de Sadie) y Sadie se masturba con el anular y el meñique. Marcie le cuenta, como algo **privado**, que Emily masturbó a Megan después de bañarla sin decir nada; **Sadie se corre** en silencio, con el puño en la boca. **Plan:** yeso de las dos manos **con los dedos extendidos** (teclear con la punta) y una **pata de yeso** bajo la rodilla para andar sin muletas, **mañana a las 8:00 en la mansión**; Emily la cuidará 24 h en su piso, con Megan (sofá cama). Sadie se lo pide a Emily por mensaje y, en otro, **la excusa: yoga en las dos muñecas**. "Es la primera vez que miento con algo que todavía no me ha pasado." Beso; ahora le debe dos.
+
+### Escena 357: Hollis — Wren (Día 36, ~12:20–12:55)
+
+Calle del Creston y Hollis antes de la hora punta. **Wren** (capucha burdeos) le ofrece estofado de ternera. Las miradas de Marcie le provocan una erección a medias; el cumplido ("me gusta cómo se balancea cuando caminas") la levanta del todo delante del local, y una fisioterapeuta lo ve. Va al baño a masturbarse (Marcie lo oye por el auricular) y vuelve con la capucha mojada en la punta; Marcie la mira y sonríe, y Wren sabe que lo sabe. Al pagar: Wren trabaja **de lunes a viernes, de 12:00 a 16:00**, "por si te sirve el dato". Marcie se levanta con una erección marcada; Wren: "Pues ya estamos empatadas". Propina del doble.
+
 ---
 
-**La conversación termina aquí: Día 36 (jueves), ~10:30, en la sala 3 del Creston**, con Delaney quitando el pestillo y tendiéndole las muletas a Marcie, vestida otra vez.
+**La conversación termina aquí: Día 36 (jueves), ~12:55, en la acera delante del Hollis**, con el vehículo autónomo esperando con la puerta abierta.
 
 **Próximo paso pendiente:**
 
-- **Mediodía:** Megan y Emily se van de la mansión hacia las doce (pezonera con pegamento).
-- **17:00:** **Hobbs** llega a la mansión (dormida, duchada, sin plug, ropa de las compras con Marcie). **Primera sesión de BDSM con Vera** en la bodega, con Marcie presente; Hobbs se queda a dormir.
-- **Esta noche:** los deberes de pene (dos noches sin hacer).
-- **Día 37:** piernas con Delaney a las 10:00; a las 15:00, el yeso de cuerpo entero de Hobbs.
+- **Casa de Claire:** cicatrizar los pezones (opción A), pendiente desde que salió del estudio.
+- **17:00:** **Hobbs** llega a la mansión; **primera sesión de BDSM con Vera** en la bodega; Hobbs se queda a dormir.
+- **Esta noche:** los deberes de pene (dos noches sin hacer) y el suero de los pezones.
+- **Día 37:** **Sadie a las 8:00** en la mansión (yeso de manos y pata), piernas con Delaney a las 10:00, yeso de cuerpo entero de Hobbs a las 15:00. **Emily aún no ha contestado** a Sadie.
 
 ---
 

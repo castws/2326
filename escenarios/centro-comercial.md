@@ -14,6 +14,7 @@ Galería con atrio central. Todos los locales conocidos están en el mismo tramo
 - **Tienda de ropa.** Al lado de la anterior. Grande y luminosa, suelo de cemento y barras de acero, probadores de puerta de listones.
 - **Sex shop.** Cuatro locales más allá del Marginalia. Estrecha y profunda, luz baja, género en ganchos por secciones, vitrinas iluminadas en el lateral derecho y dos probadores con espejo al fondo tras una cortina.
 - **Tienda de lencería más barata.** Escaparate con luz rosa, en la **galería de la izquierda**.
+- **[Estudio Ivy](estudio-ivy.md).** Estudio de perforación (pezones y orejas), en la galería de la izquierda, dos locales más allá de la lencería barata. De 11:00 a 22:00.
 - **Quiosco de zumos.** Junto al atrio.
 - **[Marginalia](marginalia.md)** — café-biblioteca, en una esquina de la galería con la fachada de cristal asomada al atrio.
 

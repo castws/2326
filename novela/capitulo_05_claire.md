@@ -330,7 +330,7 @@ Noté el pezón endurecerse contra la tela, bajo su pulgar. No se lo pedí. No s
 
 Se durmió con la mano ahí.
 
-Yo no dormí. No duermo. Me quedé quieta, con su mano debajo de mi pecho y su frente en mi hombro, mirando por la ventana la mansión a oscuras, donde él dormía entre una mujer enyesada de pies a cabeza y otra que escribe novelas que no sabe de dónde le salen.
+Yo no dormí. No duermo. Me quedé quieta, con su mano debajo de mi pecho y su frente en mi hombro, mirando por la ventana la mansión a oscuras, donde él dormía entre una mujer enyesada de pies a cabeza y otra que escribe novelas eróticas en un cuaderno que cree que no ha leído nadie.
 
 A las seis y cuarto, en una sala de espera del hospital, Hannah se despertó en la silla con el cuello dolorido, se estiró, se notó el bulto contra la costura de los vaqueros y se lo colocó con la mano sin mirarlo, como se lo había colocado toda la vida.
 

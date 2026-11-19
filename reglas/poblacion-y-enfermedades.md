@@ -129,6 +129,50 @@ Prevalencia = episodios al año × duración media ÷ 365. Con la duración medi
 
 ---
 
+## Yesos grandes (fijado el Día 36)
+
+Dentro de las cifras de arriba —no se suman aparte— hay una minoría que lleva **yesos grandes**,
+que cubren **todo el cuerpo o buena parte de él**. Son **en torno al 1 % de la ciudad (~50
+personas)** en cualquier momento, más o menos mitad y mitad entre las dos causas:
+
+- **Accidente** (fracturas convencionales): caídas por escaleras, terraplenes o tejados,
+  deportes, atropellos de bicicleta, un mueble encima. Ejemplos del reparto: el doble shoulder
+  spica de Rachel, el spica con minerva de Tori. Tipos: **hip spica** de una o de las dos
+  piernas, **doble shoulder spica**, **yeso de tronco con minerva**, **cuerpo entero** del cuello
+  a los tobillos, o combinaciones (tronco + una pierna + un brazo). Duración de fractura: de
+  seis semanas a tres meses.
+- **Enfermedad de yoga:** cuando se inflaman **varias articulaciones a la vez** (un brote
+  múltiple) o cuando la inflamación está en la **columna**, la cadera o los dos hombros. La
+  columna se inmoviliza con **yeso de tronco** (de las axilas a la pelvis, a veces con minerva
+  si es cervical), y varias articulaciones a la vez dan bloques grandes **en posiciones poco
+  convencionales**: las dos caderas y las dos rodillas en flexión completa, un brazo en alto
+  unido al tronco, el tronco girado o inclinado hacia un lado. Duración de la enfermedad, de
+  dos a seis semanas.
+
+**Cómo salen a la calle:** la mayoría pasa el yeso en casa, y la que sale **nunca va sola**:
+**alguien empuja** (pareja, amiga, cuidadora o servicio de asistencia) y le hace lo que ella no
+puede: le acerca una bebida con pajita, le recoloca el apaño de la abertura, le aparta el pelo.
+Según la posición, va en **silla de ruedas normal** si el yeso la deja sentada, en **silla
+reclinable** si la deja medio tumbada, o en **camilla de traslado con ruedas** si no puede
+sentarse en absoluto (cuerpo entero recto, caderas en extensión). El soporte que haga falta es
+de yeso, como siempre.
+
+**La ropa alrededor:** ropa recortada o abierta para que pase sobre el yeso, un pareo o una manta
+sobre las piernas, y lo que el yeso deje fuera vestido normal. Si el yeso de tronco deja **los
+senos fuera** por una ventana, van con **pezoneras**, como cualquier seno a la vista (las
+adhesivas son lo práctico si quien se las pone es otra). Las aberturas genital y posterior van
+tapadas con el **apaño casero** de siempre (ver arriba, "Tapar la abertura en público").
+
+**Frecuencia al narrar:** se ven **de vez en cuando**, no en cada escena: **más o menos una
+figura en cada dos o tres salidas a la ciudad**, y nunca más de una por escena salvo que la
+escena lo pida. En el **Creston** se ven con más frecuencia que en la calle (consultas,
+revisiones, cambios de yeso). Cuando aparece, **se describe con el mismo detalle que un yeso de
+yoga o de mástil** (checklist de abajo), **también si es de accidente**: la persona, el yeso
+pieza a pieza con la posición exacta, qué queda libre, cómo se mueve o la mueven, quién la
+acompaña y la ropa. Nadie alrededor se extraña: es un yeso grande, nada más.
+
+---
+
 ## Cómo describir a alguien enyesado por estas enfermedades
 
 **Toda persona con yeso de yoga o de mástil que aparezca en una escena se describe con detalle**, incluidos los transeúntes de fondo de una calle o un local. No se despacha con una mención de pasada. A cambio, en una escena de tránsito **se eligen pocas figuras y se describen bien** en lugar de enumerar diez por encima: dos o tres en un paseo, una en un paso rápido.

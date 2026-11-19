@@ -157,6 +157,7 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 - **[Dana](dana.md)** — la vio trabajar con los ganchos en la cocina por invitación de Marcie ("como en una feria, no"). Le gustaría ver más.
 - **[Sophie](sophie.md)** — le firmó el yeso encima de la abertura genital y la masturbó (Día 34). Sophie le dio su frase: "Son cosas distintas".
 - **[Rachel](rachel.md)** — leyó *El juramento de ceniza* dos veces y la escena de la armadura, tres.
+- **[Megan](megan.md)** — la conoce el **Día 36 por la mañana**, cuando Emily llega con ella a su piso para ayudarla. No sabía que venía, ni cómo era: el brazo izquierdo amputado casi en el hombro, la prótesis de muslo y el shoulder spica, sin manos. Fue una sorpresa, y la excitó; lo tapó con su curiosidad de siempre. No sabe nada de la relación de Megan con Marcie, salvo lo que le cuente.
 - **[Vera](vera.md)** — le puso el yeso. Sadie notó que le miraba las manos "medio segundo de más", igual que Marcie. Vera la vio correrse de pie en el corredor y la sujetó.
 
 ---
@@ -179,21 +180,22 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 ## Citas memorables
 
 - "Puedo." _(rechazando ayuda que no ha pedido — fórmula fija)_
-- "Hoy no he escrito nada y ha valido la pena." _(escrito en una ficha del muro del Marginalia, sin doblar todavía la esquina — Día 30)_
 - "Por fin alguien que no me trata como si me fuera a romper." _(cuando Marcie le pide que le firme el libro "mientras te queden dedos" — Día 34)_
 - «Lo que no se puede tocar es lo que mejor se escribe.» _(escrito en el yeso de Sophie — Día 34)_
 - "Más de lo que debería gustarle a alguien que puede andar." _(sentada por primera vez en una silla de ruedas — Día 34)_
 - "Esa es la última que me hice." _(con la cicatriz del pulgar en la boca de Marcie; no se desdice — Día 34)_
 - "No es una enfermedad. Me los quito yo." _(en el vehículo, camino de su casa — Día 35)_
 - "Es como si el cuerpo que tengo fuera un borrador y yo lo fuera corrigiendo." _(Día 35)_
+- "Es la primera vez que miento con algo que todavía no me ha pasado." _(tras mandarle a Emily la excusa del yoga — Día 36)_
 
 ---
 
 ## Momentos con Marcie
 
-- **Visita 1 — Día 30, ~22:45 (escena 229).** Marcie entra al Marginalia con Hobbs. **Levantó la vista al oír los estribos y no la volvió a bajar**; miró el metal, las abrazaderas, la barra y sobre todo la **férula**, y **no escribió una sola línea en toda la hora** que estuvieron allí. A orden de Marcie vía Claire fue a la barra a pedir un café solo: pasó a un palmo de la férula, giró de lado, miró a esa altura y una sola vez a la cara, y se puso colorada hasta las orejas. Cogió la taza con la derecha (pulgar e índice como pinza, meñique de tope). **No se hablaron en ningún momento.** Al salir ellas, cerró el portátil y se quedó mirando la puerta.
-- **Visita 2 — Día 34, 13:15 → noche (escenas 305–321).** Se acerca ella en el Marginalia y le paga el café. Hablan del libro, de la "enfermedad" y de Dana, y Marcie la invita a la mansión. Ve trabajar a Dana. **Firma el yeso de Sophie y la masturba.** En la habitación de yesos Marcie le cuenta su fetiche y acuerdan tres yesos. En la biblioteca le dedica el libro, le lee, le confiesa lo de masturbarse escribiendo y, con Marcie lamiéndole las cicatrices del pie y de la mano, se corre y se le escapa "me hice". En la cama le quita la férula a Marcie, la monta y se corren juntas. **Primer beso después de todo.** Le confiesa que le atraen las amputaciones ajenas. **Yeso de pierna con Vera**, primeros pasos con las muletas de plataforma, se corre de pie ante el ventanal, cena con toda la casa y **duerme en la cama de Marcie** con los dedos entrelazados.
+> Entradas anteriores (2) en [sadie-historial.md](sadie-historial.md).
+
 - **Día 35, mañana (escenas 322–330):** despierta con Marcie; Marcie le cuenta un sueño con sus manos y le lame los nudillos. Spoiler: **Isolde pierde también la otra mano**. **Dana la baña** y se corre con la esponja. **En el coche le confiesa que las amputaciones se las hace ella** (el orden hasta las muñecas, "el cuerpo es un borrador") y Marcie le confiesa que a ella también le atraen; Marcie le sugiere teclear con los muñones. Emily la ayuda en casa ese día. "Te sigo debiendo una. Del corredor."
+- **Día 36, Marginalia (escenas 355–356):** teclea con los nudillos (dos páginas, "más mío que dictando"). Le cuenta cómo conoció a Megan por la mañana y que se masturbó en el baño al verla; descubre que Marcie se acuesta con Megan y le pregunta por el muñón del hombro ("el muñón en el seno: eso me lo quedo"). **Se masturba en su mesa con Marcie tapándola** y se corre en silencio al oír, como secreto, que Emily masturbó a Megan tras bañarla (prometió no contarlo). Acepta el **yeso de manos con los dedos extendidos** y la **pata de yeso**, mañana a las 8:00; pide a Emily que la cuide 24 h con Megan, con la excusa del yoga. **Le debe dos.**
 
 ---
 
@@ -208,5 +210,9 @@ A partir de ahí decide ella según lo que quiera en cada momento.
   - **Duerme sobre el costado izquierdo**, con una almohada bajo el yeso y nadie apoyado encima.
 - **Siguiente amputación: anular izquierdo**, **solo cuando Marcie lo ordene a Claire**. Hasta entonces no cambia nada, aunque pasen días.
 - **Visitas:** la 1 (Día 30) y la 2 (Día 34) consumidas. Ya no hacen falta: se conocen.
-- **Desde el Día 35, en su piso.** Subió los veintidós escalones sola, sentada en cada uno ("Puedo"). En casa necesita ayuda para lo pequeño (abrir un yogur, el velcro derecho, la cómoda de abajo): **tiene que buscarse a alguien**, y lo acepta a regañadientes ("que no me trate como si me fuera a romper"). Emily la ayudó el Día 35. Lleva el **vestido negro de punto de Marcie** (costados abiertos); su ropa del Día 34 se la llevó en una bolsa.
-- **Marcie sabe la verdad** desde el Día 35, salvo el **cuaderno de despedidas**. Probará a **teclear con las manos cerradas**, tecla a tecla, para cuando no tenga manos.
+- **El piso (fijado el Día 36):** pequeño. Un dormitorio con cama de matrimonio, salón con **sofá cama**, cocina estrecha con mesa para dos y baño con plato de ducha a ras de suelo.
+- **Desde el Día 35, en su piso.** Subió los veintidós escalones sola, sentada en cada uno ("Puedo"). En casa necesita ayuda para lo pequeño (abrir un yogur, el velcro derecho, la cómoda de abajo): **tiene que buscarse a alguien**, y lo acepta a regañadientes ("que no me trate como si me fuera a romper"). Emily la ayudó el Día 35. **Desde el Día 36, Emily va cada mañana** (con Megan, que sube con ella): la ayuda con lo pequeño, la baja y la lleva al Marginalia (ajuste de Claire a petición de Marcie). Sadie lo acepta porque Emily no la trata con cuidado. Lleva el **vestido negro de punto de Marcie** (costados abiertos); su ropa del Día 34 se la llevó en una bolsa.
+- **Marcie sabe la verdad** desde el Día 35, salvo el **cuaderno de despedidas**. **Teclea con los nudillos** desde la noche del Día 35: a la mitad de velocidad, le duelen los nudillos.
+- **Día 37, 8:00, mansión:** yeso de las dos manos y antebrazos con **los dedos dentro y extendidos** (teclea con la punta) y **pata de yeso** bajo la rodilla, para andar sin muletas. Excusa para Emily y Megan: yoga en las dos muñecas. Desde entonces, **Emily la cuida 24 h en su piso, con Megan** (en el sofá cama); pedido por mensaje, sin respuesta todavía.
+- **Le debe dos orgasmos a Marcie** (el del corredor y el de la mesa del Marginalia).
+- **Sabe un secreto de Emily y Megan** (que Emily masturbó a Megan tras bañarla, sin decir nada) y prometió no contarlo.

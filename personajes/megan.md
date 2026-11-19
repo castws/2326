@@ -18,7 +18,8 @@
 
 - **Brazo izquierdo:** amputado **muy corto, casi al nivel del hombro** (accidente industrial hace tres años). Muñón de un par de centímetros, liso, que se mueve con el hombro unos dos centímetros; no sirve para nada funcional, pero **es sensible en la punta** (Día 35).
 - **Pierna derecha:** amputada **a mitad del muslo** (tumor óseo el año anterior). **Prótesis transfemoral:** encaje de plástico color carne **de succión**, que **cubre el muslo entero hasta la ingle**, sin cinturón ni correas, con una **válvula** en la cara interna; tubo metálico, rodilla mecánica que se bloquea al apoyar y pie con zapatilla. **Se la quita sola con una mano**: sentada, pulsa la válvula, el aire entra con un siseo y tira del encaje hacia abajo. El muñón queda liso y redondeado, con la cicatriz en la punta. La prótesis no se moja.
-- **Pierna izquierda** (la única biológica): todavía delgada y pálida, con el cuádriceps hundido, por los 23 días de yeso (Días 8–31); la rodilla no termina de estirarse. Aguanta su peso unos diez segundos.
+- **Pierna izquierda** (la única biológica): estuvo 23 días enyesada (Días 8–31). **Recuperada desde el Día 36** (ajuste de Claire a petición de Marcie): la rodilla estira entera y el cuádriceps aguanta su peso; sigue algo más delgada y pálida que antes.
+- **Andar (desde el Día 36):** **con la prótesis y sin muletas** (no tiene mano para ellas), distancias cortas, paso algo rígido y con balanceo de la cadera derecha; para trayectos largos, la silla. **Escaleras:** sin mano para la barandilla, **sube con alguien al lado sujetándola** por la cintura o el borde del yeso: la pierna buena primero, la prótesis detrás, un escalón cada vez; baja al revés, la prótesis primero.
 - **Brazo derecho, antes del segundo yeso:** recuperado en buena parte el Día 35 (codo a 90° sin esfuerzo, uso normal de la mano). Ahora está dentro del yeso.
 
 **Vestimenta habitual:** ropa ceñida que marca el pene, en la línea de la moda de exposición de la ciudad — corsés, pezoneras, faldas cortas, prenda de pene con capucha. Fue Mark quien la vistió así por primera vez el Día 11 y se quedó con ese registro: "No me reconozco. En el buen sentido."
@@ -58,6 +59,7 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 
 ## Relaciones
 
+- **[Sadie](sadie.md)** — la conoce el **Día 36 por la mañana**, al subir con Emily a su piso de la calle Larkin para ayudarla. Notó que Sadie no podía dejar de mirarle los muñones y el yeso, y se lo tomó con humor seco.
 - **[Emily](emily.md)** — pareja desde el Día 31, cuidadora desde el Día 8. **El desenlace está fijado: acaban juntas y viviendo juntas.** Sus decisiones concretas siguen siendo suyas.
   - Día 25: le confesó sus sentimientos y le reveló que los yesos eran voluntarios. Primer beso y primera intimidad.
   - Día 29: le contó lo de Marcie, a solas. Emily **no se enfadó** y le reveló que ella también tenía pareja. Megan lo pasó mal: **"me dio más miedo que no le importara que si me hubiera dicho que se iba".**
@@ -104,10 +106,10 @@ Extrovertida, directa, práctica. Habituada a su situación; habla de ella sin i
 
 ## Estado actual
 
-- Vive en su apartamento de la ciudad con [Emily](emily.md) (pareja; viven juntas). **Día 36:** sale de la mansión hacia las 12:00 con Emily.
+- Vive en su apartamento de la ciudad con [Emily](emily.md) (pareja; viven juntas). **Día 36:** sale de la mansión hacia las **10:00** con Emily (adelantado por Claire). **Cada mañana acompaña a Emily a casa de Sadie** y **sube con ella** los veintidós escalones, con Emily sujetándola.
 - **Brazo derecho, antes del yeso:** recuperado en buena parte (Día 35); los primeros yesos se retiraron el Día 31.
 - **Segundo yeso puesto el Día 35 (~15:15–16:30), por Vera, en registro de enfermera.** Shoulder spica derecho: **brazo abierto al lado y algo adelante, codo a 90°, mano en puño** (algodón dentro, pulgar por encima; todo cubierto); brazo y hombro en ocho; tronco en **diagonal**, **seno derecho dentro y seno izquierdo fuera**, muñón del hombro izquierdo al aire; termina en la cintura (por delante, justo encima del ombligo) y por la derecha baja hasta la **cresta ilíaca**, a un palmo del encaje; **barra de yeso** del antebrazo a la cadera. Ribete de media tubular. **Sin fecha; solo ella decide cuándo se corta**, y se corta ese día sin discusión.
-  - **Sin manos:** no se rasca, no come ni bebe sola, no se toca, no teclea. Pide (le cuesta): la nariz, agua, que la toquen, la botella de orinar. Respira hondo solo por el lado izquierdo. Sentada, espalda recta y el brazo abierto a la derecha; por las puertas, la silla en diagonal. **No anda** (no tiene mano para la muleta): **silla de ruedas** empujada (la suya, de ruedas grandes y respaldo bajo). Orina con **botella** en la cama o sentada en el váter con alguien que se lo apunte.
+  - **Sin manos:** no se rasca, no come ni bebe sola, no se toca, no teclea. Pide (le cuesta): la nariz, agua, que la toquen, la botella de orinar. Respira hondo solo por el lado izquierdo. Sentada, espalda recta y el brazo abierto a la derecha; por las puertas, la silla en diagonal. **Anda con la prótesis sin muletas desde el Día 36** (ver arriba); para trayectos largos, **silla de ruedas** empujada (la suya, de ruedas grandes y respaldo bajo). Orina con **botella** en la cama o sentada en el váter con alguien que se lo apunte.
   - **Dormir:** boca arriba, con **dos almohadas bajo el brazo** (indicación de Vera); de lado no puede. **Higiene:** baño de esponja por partes, sin mojar los bordes; picor solo con los dedos por debajo del borde, nunca nada dentro.
   - **Ropa:** el yeso al aire (no se tapa; la camiseta de botones no pasa); pantalón de pijama o falda por las caderas; **en la calle, una pezonera con pegamento** en el seno izquierdo. Las pezoneras doradas de hoja.
   - **Revisión de Vera de la piel de los bordes: Día 39.**

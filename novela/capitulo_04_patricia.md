@@ -12,7 +12,7 @@ Llevo meses pintando manos, casi siempre la mía, porque es la que tengo más a 
 
 Esa mañana me desperté temprano y me puse a pintar sin desayunar. Recuerdo la luz entrando por la ventana grande del taller, la que da al patio, y el olor del aceite de linaza, y que el café se me quedó frío en la taza. Recuerdo que pensé que era una buena mañana, de esas en que una se despierta sabiendo lo que va a hacer.
 
-No recuerdo haberme dormido la noche anterior. Pero eso no lo recuerda nadie.
+Llevaba un año en ese apartamento. Lo alquilé cuando entré en la escuela de Bellas Artes porque tenía la ventana más grande que encontré por ese precio, y porque mi madre dijo que era un cuchitril, y a los dieciocho eso me pareció un argumento a favor. La cama está a cuatro pasos del caballete. Me duermo oliendo a trementina. Me gusta.
 
 ---
 
@@ -128,7 +128,7 @@ Apoyé el codo derecho en la mesa.
 
 Lo conté como lo cuento siempre. Lo tengo muy contado. Recuerdo el ruido de la máquina, un zumbido que subía de tono. Recuerdo el olor a madera quemada. Recuerdo que lo primero que pensé fue que había estropeado la escultura.
 
-Lo recuerdo todo con mucha claridad. Ahora, a veces, me pregunto por qué lo recuerdo con tanta claridad, cuando de los dieciséis no me acuerdo casi de nada más. Pero esas cosas no se piensan en un restaurante.
+Lo recuerdo todo con mucha claridad, como se recuerdan las cosas que te parten la vida en dos: el antes, con dos brazos, y el después. Del antes me acuerdo como de una película que vi de pequeña. Del después me acuerdo de todo.
 
 —Al principio pensé en una prótesis, pero decidí que no. Me acostumbré así. Pinto con la derecha de todas formas.
 

@@ -6,17 +6,17 @@ _Días 1 y 2_
 
 ---
 
-Lo primero que recuerdo de ese día es una caja de libros.
+Llegué a la casa esa mañana con una maleta y una caja de libros.
 
-Estaba en el suelo de la biblioteca, abierta, y yo de rodillas delante, sacándolos de dos en dos. Recuerdo el olor de la madera nueva, tan fuerte que casi picaba, y el sol entrando en franjas por el ventanal del bosque. Recuerdo que coloqué los de poesía en el estante de abajo porque pensé que nadie los iba a buscar. Antes de la caja no recuerdo nada de esa mañana. Tengo el resto: el piso compartido en Portland, la agencia que me llamó un lunes, la maleta. Pero la mañana empieza en la caja, como si alguien hubiera encendido la luz con la película ya empezada.
+La agencia me había llamado el lunes. Un puesto interno en una casa grande, a las afueras de una ciudad nueva, para un hombre que salía de una enfermedad larga. Buen sueldo, habitación propia y la condición de estar disponible para lo que él necesitara. Dejé el piso compartido de Portland, le regalé las plantas a mi compañera, que nunca las regó, y metí en la maleta lo que cabía. En la caja, los libros. No me muevo sin ellos desde los catorce años.
 
-Lo he pensado después más veces de las que me gustaría. En su momento no lo pensé. Ese día no pensaba casi nada.
+Recuerdo la caja abierta en el suelo de la biblioteca y yo de rodillas, sacándolos de dos en dos. El olor de la madera nueva, tan fuerte que casi picaba, y el sol entrando en franjas por el ventanal del bosque. Coloqué los de poesía en el estante de abajo porque pensé que nadie los iba a buscar. Los míos, quiero decir. Los que traje yo. Ya había otros cientos en las estanterías, y los míos se veían pobres al lado, con las tapas dobladas y los lomos rotos, y me gustó que se vieran así.
 
-Sophie estaba en el otro extremo de la biblioteca con otra caja. No nos habíamos visto nunca y no nos presentamos. Recuerdo haberla mirado de espaldas mientras se estiraba hacia el estante más alto: la camiseta subiéndosele por encima de la cintura, una franja de piel blanca, los omoplatos marcados. Recuerdo que miré un momento de más. Y no recuerdo haberme preguntado por qué.
+Sophie estaba en el otro extremo de la biblioteca, con otra caja. La había contratado la misma agencia, la misma semana. Nos conocimos esa mañana en la puerta, cada una con su maleta; nos dimos la mano y poco más, porque ella habla poco y yo estaba nerviosa. Recuerdo haberla mirado de espaldas mientras se estiraba hacia el estante más alto: la camiseta subiéndosele por encima de la cintura, una franja de piel blanca, los omoplatos marcados. Miré un momento de más. No me pregunté por qué. Ese día no me pregunté casi nada; tenía demasiado que hacer.
 
-En el fondo de mi bolso había un cuaderno de tapas negras. Lo abrí de pie en la biblioteca, porque no sabía qué era. Estaba escrito hasta la mitad con mi letra: una novela. Dos mujeres en una casa de campo, una con un brazo roto y la otra que la cuida, y lo que pasa entre ellas cuando llueve. Era una novela erótica, y bastante explícita. Reconocí cada frase como mía y no me acordaba de haber escrito ninguna. Lo cerré deprisa, con la cara caliente, y lo guardé en el primer cajón que encontré, el de una mesilla del dormitorio principal. Ese día eso me pareció normal. Me lo pareció todo.
+En el fondo de mi bolso llevaba el cuaderno de tapas negras. La novela. La empecé hace un año, en el autobús de vuelta del trabajo anterior, porque eran cuarenta minutos y no me apetecía mirar por la ventana. Dos mujeres en una casa de campo, una con un brazo roto y la otra que la cuida, y lo que pasa entre ellas cuando llueve. Es erótica, y bastante explícita, y no la ha leído nadie. Nadie sabe siquiera que existe. Al vaciar el bolso en la biblioteca se me cayó al suelo, y me entró un pánico ridículo de que alguien entrara y la viera, así que la guardé en el primer cajón que encontré, el de una mesilla del dormitorio principal. Pensé que la cambiaría de sitio por la noche. Se me olvidó.
 
-A las cinco y algo nos dijeron que se acercaba el coche. Sophie y yo nos pusimos de pie en el centro de la sala, una al lado de la otra, con la ropa que traíamos, vaqueros y camiseta. Ninguna de las dos se arregló el pelo. No hacía falta. Sabíamos lo que teníamos que hacer como se sabe el camino de casa.
+A las cinco y algo nos dijeron que se acercaba el coche. Sophie y yo nos pusimos de pie en el centro de la sala, una al lado de la otra, con la ropa que traíamos, vaqueros y camiseta. Ninguna de las dos se arregló el pelo; no dio tiempo. Me temblaban un poco las manos. Primer día. Me las sequé en los vaqueros.
 
 ---
 
@@ -26,9 +26,9 @@ Nadie me había dicho lo de los yesos. Tenía los dos brazos enyesados por encim
 
 Me acerqué primero. Le dije cómo me llamaba y le di la bienvenida a su casa. Sophie dijo su nombre después, con menos palabras. Claire le dijo que conocíamos sus preferencias generales.
 
-Las conocíamos. Lo pienso ahora y no sé cuándo nos las dijeron.
+Las conocíamos. La agencia nos había mandado una hoja, una sola página, que leí dos veces en el autobús y que me puso colorada las dos veces.
 
-Lo primero que pidió fue que Sophie fuera a cambiarse y se pusiera algo muy ceñido. Sophie asintió y se fue. Yo le ofrecí enseñarle la casa y caminé despacio delante de la silla, abriéndole las puertas: la biblioteca, con mis libros de poesía en el estante de abajo; el comedor, la cocina y el dormitorio grande con sus dos ventanales. Le dije los nombres de las habitaciones como si los supiera desde hacía años. Él miraba la cama.
+Lo primero que pidió fue que Sophie fuera a cambiarse y se pusiera algo muy ceñido. Sophie asintió y se fue. Yo le ofrecí enseñarle la casa y caminé despacio delante de la silla, abriéndole las puertas: la biblioteca, con mis libros de poesía en el estante de abajo; el comedor, la cocina y el dormitorio grande con sus dos ventanales. Le dije los nombres de las habitaciones como si llevara años allí y no cuatro horas. Él miraba la cama.
 
 Cuando volvimos a la sala, Sophie apareció por el corredor contrario con una camiseta blanca y un pantalón blanco tan ajustados que parecían pintados. Se le marcaban los pezones, pequeños y duros por el aire de la casa. Y el pantalón le marcaba el pene, recostado hacia la cadera izquierda: el volumen blando de los testículos, la forma redondeada de la punta bajo la piel. Se quedó quieta en el centro de la sala y preguntó si estaba bien así.
 
@@ -40,15 +40,15 @@ Lo dije mirándolo a él. Quería saber si le gustaba, que es lo que se supone q
 
 Después nos pidió vestidos de mucama, cortos, con escote y con la falda lo bastante corta para que, al agacharnos, se viera un poco. Nos miramos un instante, Sophie y yo. Le dije que por supuesto.
 
-Los vestidos estaban en el armario del cuarto de servicio, colgados, de nuestra talla. Nadie se preguntó quién los había puesto ahí.
+Los vestidos estaban en el armario del cuarto de servicio, colgados, de nuestra talla; habían llegado con el resto de los uniformes. Al verlos entendí por qué la hoja de la agencia tenía la página que tenía.
 
-Nos cambiamos en el mismo cuarto. Sophie se quitó la camiseta y el pantalón blanco y se quedó desnuda un momento, de lado, mientras descolgaba el vestido. Tenía los senos pequeños y altos, de pezones oscuros, el vientre plano y el pene caído hacia el muslo, más grueso de lo que parecía bajo la tela, con el prepucio cubriéndole la punta. Me quité la camiseta. Debajo llevaba sujetador, y me lo quité porque el vestido no admitía uno, y me quité los panties porque él había dicho que se viera. No hubo que decirlo en voz alta. El vestido era negro, con un delantal blanco atado a la cintura. El escote me dejaba los senos apretados y medio fuera, y la falda me llegaba justo por debajo de las nalgas. Me miré en el espejo de la puerta y no sentí nada en particular. Pensé: así.
+Nos cambiamos en el mismo cuarto. Sophie se quitó la camiseta y el pantalón blanco y se quedó desnuda un momento, de lado, mientras descolgaba el vestido. Tenía los senos pequeños y altos, de pezones oscuros, el vientre plano y el pene caído hacia el muslo, más grueso de lo que parecía bajo la tela, con el prepucio cubriéndole la punta. Me quité la camiseta. Debajo llevaba sujetador, y me lo quité porque el vestido no admitía uno, y me quité los panties porque él había dicho que se viera. No hubo que decirlo en voz alta. El vestido era negro, con un delantal blanco atado a la cintura. El escote me dejaba los senos apretados y medio fuera, y la falda me llegaba justo por debajo de las nalgas. Me miré en el espejo de la puerta. Pensé en mi madre, que me habría matado. Después pensé: es el uniforme, es el trabajo. Y debajo, más bajito, noté algo que no era el trabajo y que no quise mirar.
 
 Volvimos a la sala. Sophie se agachó a recoger algo del suelo, una cosa pequeña que no sé si existía, y se agachó con las rodillas rectas, de espaldas a él. Vi su cara mientras miraba. Yo sonreí. No sé de dónde me salió la sonrisa.
 
 Claire se fue a preparar una limonada. Yo empujé la silla hasta el patio y lo dejé junto al borde de la piscina, de cara al agua y a nosotras. Le pregunté si quería que nos quedáramos cerca. Dijo que sí, y que ordenáramos un poco la zona donde pudiera vernos.
 
-Así que ordenamos. Yo colocaba las tumbonas, que ya estaban colocadas, y me estiraba hacia una toalla en el extremo más lejano sabiendo lo que se veía al estirarme. Sophie se agachaba junto a la mesa baja a mover vasos de sitio. El sol me calentaba la parte de atrás de los muslos, y donde terminaba la falda el aire me tocaba la piel desnuda. No sentía vergüenza. Tampoco sentía lo contrario. Era como hacer la cama.
+Así que ordenamos. Yo colocaba las tumbonas, que ya estaban colocadas, y me estiraba hacia una toalla en el extremo más lejano sabiendo lo que se veía al estirarme. Sophie se agachaba junto a la mesa baja a mover vasos de sitio. El sol me calentaba la parte de atrás de los muslos, y donde terminaba la falda el aire me tocaba la piel desnuda. Me dije que era como hacer la cama, una tarea más. No lo era del todo. Notaba sus ojos en la parte de atrás de los muslos como se nota el sol.
 
 Claire dejó la limonada en la mesa, a su lado, y se fue. Sophie le preguntó si quería meterse en el agua más tarde. Él le dijo que cómo iba a meterse con los cuatro yesos. Sophie miró los yesos y se le puso cara de haberse equivocado en un examen.
 
@@ -98,17 +98,17 @@ Duró mucho. Ninguna de las dos tenía prisa, porque él no nos había dicho que
 
 Cogí una toalla pequeña de la mesilla y lo limpié, el vientre, el pene y mi mano. Le pregunté si estaba bien así, y apagué la luz sin esperar a que contestara.
 
-Nos tumbamos a cada lado. Sophie le dejó una mano en el pecho. Por la ventana del bosque entraba aire fresco. Me dormí enseguida, como quien se apaga.
+Nos tumbamos a cada lado. Sophie le dejó una mano en el pecho. Por la ventana del bosque entraba aire fresco. Me dormí enseguida. Había sido el día más largo de mi vida.
 
 ---
 
 Me desperté a oscuras.
 
-No sé qué hora era. Después supe que eran casi las seis. No tenía sed, ni frío, ni ganas de ir al baño. No había ningún ruido. Me desperté sin motivo, que es algo que la gente hace todo el tiempo y que yo, ahora lo sé, no había hecho nunca.
+No sé qué hora era. Después supe que eran casi las seis. No tenía sed, ni frío, ni ganas de ir al baño. No había ningún ruido. Me desperté sin motivo. Me pasa en las camas nuevas: el cuerpo no se fía de un sitio hasta la segunda noche.
 
 Me quedé mirando el techo. Las vigas se iban dibujando a medida que entraba la luz.
 
-Pensé en la mano de Sophie sobre su pecho. No en él: en la mano de Sophie, en los dedos un poco abiertos y en la uña del pulgar, que tenía un borde partido. Pensé en el ruido que hacía su boca. Pensé en su pelo en mi muñeca. Y pensé, por primera vez desde la caja de libros, una frase que no sabía de dónde venía: ¿por qué he hecho esto?
+Pensé en la mano de Sophie sobre su pecho. No en él: en la mano de Sophie, en los dedos un poco abiertos y en la uña del pulgar, que tenía un borde partido. Pensé en el ruido que hacía su boca. Pensé en su pelo en mi muñeca. Y me hice la pregunta que en todo el día no me había dado tiempo a hacerme: ¿qué he hecho?
 
 No era una queja. Era una pregunta de verdad, como cuando entras en una habitación y no te acuerdas de a qué has entrado.
 
@@ -140,7 +140,7 @@ Cuando el yeso fraguó, Sophie ya no podía moverse. Claire y yo la tumbamos en 
 
 —Yo me encargo de lo que necesite —dije yo.
 
-Me salió antes de pensarlo, y no estaba en ninguna instrucción.
+Me salió antes de pensarlo. Era parte del trabajo, supongo. Pero no lo dije por eso.
 
 ---
 
@@ -172,11 +172,11 @@ A media tarde vino Claire con un teléfono.
 
 No me acuerdo de lo que hablaron. Me acuerdo de lo que pasó dentro de mí, aunque tardé días en ponerle palabras.
 
-Estaba secándome con la toalla, de pie junto a la tumbona, y de repente me apeteció leer.
+Estaba secándome con la toalla, de pie junto a la tumbona, y me apeteció leer.
 
-Así de simple. Me apeteció. Era la primera vez en dos días que algo me apetecía antes de que alguien lo dijera. Quería sentarme a la sombra con un libro y que me dejaran en paz un rato. Lo noté como se nota el hambre: un hueco que antes no estaba. Dije algo como "si necesitas algo de la casa, nos lo pides", y me senté en la tumbona y abrí el libro que había dejado en la mesa lateral, y empecé a leer, y la frase que leí me importó.
+Así de simple. Llevaba día y medio sin parar, la casa, él, Sophie, la ducha, las toallas, y de pronto me di cuenta de que esa casa también era la mía. Que vivía ahí. Y en mi casa, por las tardes, yo leo. Quería sentarme a la sombra con un libro y que me dejaran en paz un rato, como en Portland, como siempre. Dije algo como "si necesitas algo de la casa, nos lo pides", y me senté en la tumbona y abrí el libro que había dejado en la mesa lateral, y empecé a leer, y la frase que leí me importó.
 
-Me pidió unas limonadas. Me levanté y fui a hacerlas. Pero fui de otra manera. Lo noté en las piernas: iba porque era mi trabajo, no porque fuera lo único que existía. Cuando volví, dejé la bandeja y volví a mi libro. No me había quedado esperando a que me mirara.
+Me pidió unas limonadas. Me levanté y fui a hacerlas. Pero fui de otra manera. Lo noté en las piernas: iba porque era mi trabajo, no porque me muriera por complacerle. Cuando volví, dejé la bandeja y volví a mi libro. No me había quedado esperando a que me mirara.
 
 Él tecleaba en el teléfono. Le pregunté si era la primera cita que concertaba desde que había llegado. Se lo pregunté porque quería saberlo. Me dijo que sí.
 
@@ -188,7 +188,7 @@ Y me tocó el trasero.
 
 Me puso la mano en la nalga izquierda, por debajo de la falda, con la palma entera, y apretó.
 
-Me giré. No sentí nada. Le dije "con permiso", cogí la bandeja y eché a andar hacia la casa.
+Me giré. Me quedé en blanco, como cuando te pasa algo que no te esperas y el cuerpo va por delante de la cabeza. Le dije "con permiso", cogí la bandeja y eché a andar hacia la casa.
 
 Tres pasos. Cuatro.
 
@@ -210,15 +210,15 @@ Dejé la bandeja en la encimera y me apoyé con las dos manos. Tenía el corazó
 
 Y entonces me acordé de ayer.
 
-Me acordé de todo a la vez, como un cajón que se vuelca. La piscina. Mis senos delante de su cara mientras le daba la limonada. Su ropa, que le quité yo, y su ropa interior. Mi mano con aceite. La boca de Sophie. La ducha de esa misma mañana, con el agua cayendo, mis dedos llenos de espuma. Todo lo había hecho yo. Me acordaba de cada movimiento, y de cada movimiento me acordaba bien, con detalle, sin lagunas.
+Me acordé de todo a la vez, como un cajón que se vuelca. La piscina. Mis senos delante de su cara mientras le daba la limonada. Su ropa, que le quité yo, y su ropa interior. Mi mano con aceite. La boca de Sophie. La ducha de esa misma mañana, con el agua cayendo, mis dedos llenos de espuma. Todo lo había hecho yo. Me acordaba de cada movimiento.
 
-Lo que no encontraba por ningún lado era el momento en que lo había querido.
+Y me pregunté qué diferencia había entre lo de ayer y una mano en el trasero. La diferencia no estaba en él. Estaba en mí. Ayer yo era la nueva. La chica que había leído la hoja de la agencia dos veces en el autobús y había decidido, entre Portland y aquí, que iba a hacerlo bien. Que el primer día no iba a decir que no a nada. Y no dije que no a nada.
 
-Busqué. Me quedé en la cocina con las manos en la encimera y busqué, como quien busca las llaves. Y no estaba. No había un momento en que hubiera pensado "sí". Había hecho las cosas como se baja una escalera a oscuras: un pie y luego otro, sin mirar.
+Una parte me gustó. Eso no lo voy a negar, y menos aquí, donde no me lee nadie. Me gustó que me mirara. Me gustó saber lo que se veía cuando me estiraba. Pero no me lo pregunté. Hice las cosas como se baja una escalera a oscuras: un pie y luego otro, sin mirar, porque si miras te da vértigo.
 
-Me dije que eran los nervios del primer día. Que la gente hace cosas raras cuando empieza un trabajo nuevo y quiere caer bien. Es lo que me he seguido diciendo. A veces me lo creo.
+Hoy ya no era la nueva. Hoy había leído en la tumbona. Y la mano no me la había pedido.
 
-Lo único que encontré, buscando, fue otra cosa. El momento en que Sophie se secaba delante de él y levantó el pene con la mano para pasarse la toalla por debajo, y lo soltó. Ese segundo en que se me olvidó respirar.
+Lo que de verdad me quedó de ayer, pensándolo en esa cocina, fue otra cosa. El momento en que Sophie se secaba delante de él y levantó el pene con la mano para pasarse la toalla por debajo, y lo soltó. Ese segundo en que se me olvidó respirar.
 
 Eso sí lo había querido yo. Eso era mío.
 
@@ -244,7 +244,7 @@ Dejé el libro en la mesilla. Me levanté.
 
 —El masaje de ayer lo hice porque la situación era diferente. Ahora las cosas han cambiado, ya sabes cómo me siento al respecto.
 
-No lo sabía. Yo tampoco lo sabía del todo. Pero era verdad que la situación era diferente, y lo único que podía decir con seguridad era que ayer no había nadie dentro de mí diciendo que no, y hoy sí. No sé quién era la de ayer. La de hoy no quería.
+No lo sabía. Yo tampoco lo sabía del todo. Pero era verdad que la situación era diferente: ayer no me lo había preguntado y hoy sí. Ayer era la nueva. Hoy ya vivía aquí, y la de hoy no quería.
 
 Le ofrecí ayudarlo a acomodarse para dormir, eso sí. Me dijo que me pusiera el pijama, que nos acostábamos los tres. Me cambié de espaldas a él, con naturalidad, y por primera vez en dos días me di cuenta de que lo hacía de espaldas a propósito.
 
@@ -300,7 +300,7 @@ Le cogí los testículos con la otra mano y los apreté un poco, suave. Los ten�
 
 Sophie tenía los ojos cerrados. Respiraba deprisa por la nariz. Tenía la boca entreabierta y la cara sudada en el borde del yeso de la frente. En algún momento dijo mi nombre, solo una vez y muy bajo, como si se le hubiera caído.
 
-Fue la primera vez que alguien decía mi nombre así.
+Nadie había dicho nunca mi nombre así. Ni en Portland, ni antes.
 
 Cuando llegó, llegó sin avisar. Se le endureció más en mi boca, le temblaron los senos y se corrió con un sonido suave que se le quedó atrapado en la garganta, porque no podía arquearse, ni agarrarse a nada, ni moverse, así que todo lo que sintió se quedó dentro del yeso y solo le salió por la boca. Me lo tragué. Me quedé quieta con ella en la boca hasta que dejó de latir. Después la limpié con la punta de la toalla, despacio, y la volví a tapar.
 
@@ -324,7 +324,7 @@ No dimos detalles. No eran suyos.
 
 Le aparté la ropa de cama de su lado. Le pregunté si se acostaba, porque era tarde. Se desnudó del todo y se metió entre las sábanas. Y me preguntó si podía abrazarme mientras dormíamos.
 
-Tardé en contestar. Pensé en la cocina, en las manos sobre la encimera, buscando un momento que no estaba. Pensé que esta vez sí podía buscarlo, y busqué.
+Tardé en contestar. Pensé en la cocina, en las manos sobre la encimera. Esta vez me lo pregunté antes de contestar.
 
 —Está bien.
 

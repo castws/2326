@@ -212,7 +212,7 @@ A Rachel le dimos veintiséis años. Un metro setenta, pelo rubio y liso hasta l
 
 A Sophie le dimos veintitrés. Un metro sesenta y cinco, pelo castaño muy corto de corte recto y ojos marrones. La cara pequeña, con una media sonrisa que no se le quita. Delgada, de caderas discretas y senos altos de copa B. Y lo que él pidió: un pene no circuncidado que en reposo le cae hacia el muslo izquierdo. A Sophie le dimos menos pasado y más silencio. Habla poco, y cuando habla es para decir una sola cosa.
 
-Las dos se activaron cuarenta minutos antes de que llegáramos. A esa hora ya habían recorrido la casa, se sabían el nombre de cada habitación y habían colocado los libros. Tienen recuerdos de llegar con una maleta. No tienen ninguno de esa mañana.
+Las dos se activaron cuarenta minutos antes de que llegáramos. A esa hora ya habían recorrido la casa, se sabían el nombre de cada habitación y habían colocado los libros. Las dos recuerdan haber llegado esa mañana con una maleta, haberse conocido en la puerta y haberse dado la mano. Lo recuerdan bien. Se lo pusimos nosotros, junto con todo lo demás, para que nada les quedara suelto.
 
 ---
 

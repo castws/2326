@@ -22,10 +22,10 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ mansión; duerme en la casa de huéspedes. Rondas de cuidados mañana y noche.
 - **[Claire](personajes/claire.md)** — robot, asistente principal. ~35, castaña, serena. Ejecuta las órdenes de Marcie.
   - _Dónde:_ su casa adyacente a la mansión. Aparece solo si Marcie la invoca por su nombre.
-- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene. Brazo izq. amputado casi a ras, pierna der. con prótesis. Shoulder spica der. sin fecha desde el Día 35: sin manos, en silla.
-  - _Dónde:_ su apartamento, con Emily. Sale en silla de ruedas, empujada.
-- **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan. Sin casa propia desde el Día 31. Sin discapacidad.
-  - _Dónde:_ apartamento de Megan, día y noche.
+- **[Megan](personajes/megan.md)** — robot. Pelirroja, pene. Brazo izq. amputado casi a ras, pierna der. con prótesis. Shoulder spica der. sin fecha desde el Día 35: sin manos. Anda con prótesis sin muletas.
+  - _Dónde:_ su apartamento, con Emily; desde el Día 37, en el piso de Sadie.
+- **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan y, desde el Día 36, de Sadie. Sin discapacidad.
+  - _Dónde:_ con Megan; desde el Día 37, en el piso de Sadie (calle Larkin).
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
   - _Dónde:_ Creston en turno de mañana, sale a las 15:00; su apartamento el resto.
 - **[Delaney](personajes/delaney.md)** — robot, fisioterapeuta del Creston. 28, morena, pelo negro a la mandíbula, compacta y fuerte; pene marcado en el uniforme. Sin discapacidad.
@@ -54,8 +54,8 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ la ciudad; sale de noche con su grupo (Trish, Maddie, Bex). Contacto guardado.
 - **[Sloane](personajes/sloane.md)** — robot, ~26, castaño rojizo en moño alto; pierna der. amputada sobre la rodilla, sin prótesis, dos muletas. Sin pene.
   - _Dónde:_ su tienda de lencería del centro comercial, en horario comercial.
-- **[Wren Calloway](personajes/wren.md)** — robot, 20, camarera. Alta (180), castaño claro en moño, pecas; senos copa C. Pene fino colgando con capucha negra (13 × 9; 18 × 11,5). Sin discapacidad.
-  - _Dónde:_ el Hollis, mediodía y primera tarde.
+- **[Wren Calloway](personajes/wren.md)** — robot, 20, camarera. Alta (180), castaño claro en moño, pecas; senos copa C. Pene fino colgando con capucha (13 × 9; 18 × 11,5). Sin discapacidad.
+  - _Dónde:_ el Hollis, de lunes a viernes de 12:00 a 16:00.
 - **[Dra. Vivian Kerr](personajes/kerr.md)** — robot, 34, cirujana privada de modificaciones corporales electivas. Pelo negro muy corto, ojos grises, muy pálida. Creada el Día 31; aún no ha aparecido.
   - _Dónde:_ su consultorio privado de la ciudad, ajeno al Creston. Solo con cita.
 - **[Tessa Brannigan](personajes/tessa.md)** — robot, 20, estudia Derecho. Castaña, ojos verdes; copa G. Pene enorme (25 × 16), un problema para ella. Focomelia (3 dedos, alcanza hasta los pezones); pierna der. 20 cm más corta, zapatos con alza.
@@ -66,6 +66,9 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
   - _Dónde:_ su planta baja adaptada de la ciudad; sale sola en la silla. Radio de noche.
 - **[Sasha Moreland](personajes/sasha.md)** — robot, ~24, administrativa. Piel canela clara, rizos castaño oscuro, avellana; copa D, pene shower marcado. Sin discapacidad; quiere amputarse las cuatro extremidades. Amiga de Megan.
   - _Dónde:_ oficina de gestión del área por la mañana; vive sola en la ciudad.
+
+- **[Ivy Marsh](personajes/ivy-marsh.md)** — robot, 27, perforadora. Morena clara, pelo negro rapado a los lados, tatuaje de hiedra en el antebrazo; copa B, sin pene. Sin discapacidad.
+  - _Dónde:_ Estudio Ivy, centro comercial (galería izq.), de 11:00 a 22:00.
 
 ## Archivados _(no vuelven a escena salvo que Marcie los reincorpore)_
 

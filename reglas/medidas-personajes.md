@@ -58,6 +58,7 @@ alguna de estas medidas, se actualiza también su fila aquí.
 | [Brooke](../personajes/brooke.md) | A | 70 (contorno 82) | 3 cm, marrón oscuro | Sin pene | Vagina. |
 | [Lydia](../personajes/lydia.md) | C | 75 (contorno 91) | 4 cm, rosa | Sin pene | Vagina. En la silla va boca abajo: los senos cuelgan hacia el cojín. |
 | [Sasha](../personajes/sasha.md) | D | 70 (contorno 89) | 4 cm, marrón claro | 12 × 11,5 → 15,5 × 12,5 | Shower. No circuncidada. Sin vagina. |
+| [Ivy Marsh](../personajes/ivy-marsh.md) | B | 70 (contorno 85) | 3 cm, marrón oscuro | Sin pene | Vagina. |
 
 ## Archivados
 

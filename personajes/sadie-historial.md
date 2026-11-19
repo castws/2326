@@ -1,0 +1,8 @@
+# Sadie — historial
+
+Entradas antiguas desbordadas de [sadie.md](sadie.md), en orden cronológico y verbatim. No se carga al inicio de sesión.
+
+## Momentos con Marcie (movido el Día 36, cierre de la sesión 42)
+
+- **Visita 1 — Día 30, ~22:45 (escena 229).** Marcie entra al Marginalia con Hobbs. **Levantó la vista al oír los estribos y no la volvió a bajar**; miró el metal, las abrazaderas, la barra y sobre todo la **férula**, y **no escribió una sola línea en toda la hora** que estuvieron allí. A orden de Marcie vía Claire fue a la barra a pedir un café solo: pasó a un palmo de la férula, giró de lado, miró a esa altura y una sola vez a la cara, y se puso colorada hasta las orejas. Cogió la taza con la derecha (pulgar e índice como pinza, meñique de tope). **No se hablaron en ningún momento.** Al salir ellas, cerró el portátil y se quedó mirando la puerta.
+- **Visita 2 — Día 34, 13:15 → noche (escenas 305–321).** Se acerca ella en el Marginalia y le paga el café. Hablan del libro, de la "enfermedad" y de Dana, y Marcie la invita a la mansión. Ve trabajar a Dana. **Firma el yeso de Sophie y la masturba.** En la habitación de yesos Marcie le cuenta su fetiche y acuerdan tres yesos. En la biblioteca le dedica el libro, le lee, le confiesa lo de masturbarse escribiendo y, con Marcie lamiéndole las cicatrices del pie y de la mano, se corre y se le escapa "me hice". En la cama le quita la férula a Marcie, la monta y se corren juntas. **Primer beso después de todo.** Le confiesa que le atraen las amputaciones ajenas. **Yeso de pierna con Vera**, primeros pasos con las muletas de plataforma, se corre de pie ante el ventanal, cena con toda la casa y **duerme en la cama de Marcie** con los dedos entrelazados.
