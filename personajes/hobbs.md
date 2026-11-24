@@ -16,13 +16,13 @@
 
 **Condición física:** ninguna, pero **lleva dos dispositivos puestos de forma continuada desde la noche del Día 30, turnos incluidos, hasta que Marcie decida:**
 
-- **Jaula de castidad de titanio.** Barras abiertas (no tubo), **7 cm** — centímetro y medio menos de lo que mide en reposo, así que la contiene comprimida y la piel asoma por los huecos. Punta abierta, sin tubo uretral. Testículos libres por fuera, sujetos solo por el aro de anclaje. Anillo de base de 45 mm con bisagra y pasador. **La llave la tiene Marcie.** No puede tener erecciones: "no crece, aprieta". **Para orinar, por orden de Marcie: sentada**, inclinada hacia delante y empujando la jaula hacia abajo con la mano.
+- **Jaula de castidad de titanio.** Barras abiertas (no tubo), **7 cm** — centímetro y medio menos de lo que mide en reposo, así que la contiene comprimida y la piel asoma por los huecos. Punta abierta, sin tubo uretral. Testículos libres por fuera, sujetos solo por el aro de anclaje. Anillo de base de 45 mm con bisagra y pasador. **La llave la tiene Marcie.** No puede tener erecciones: "no crece, aprieta". **La jaula mantiene el pene apuntando hacia abajo**, así que **para orinar basta con sentarse** (por orden de Marcie, siempre sentada): el chorro sale hacia abajo y **nadie tiene que sujetar ni empujar la jaula**, tampoco con las manos atadas o enyesada.
 - **Plug anal de acero macizo con joya azul**, tamaño mediano (cuello largo, aguanta mejor sentada). Se lo quita solo para lo imprescindible y se lo vuelve a poner ahí mismo, llevando el bote de lubricante en el bolso. Primera vez que lleva algo así: "no sabía que se podía sentir algo así por ahí". **No la deja dar el paso normal**, y para sentarse tiene que ir despacio y de lado.
 
 **Vestimenta habitual:** el uniforme nuevo del Creston — vestido blanco ceñido y corto de botones frontales, medias veladas blancas, zuecos —, **sin ropa interior** en los turnos salvo indicación en contra. Con el vestido **se le ve la forma de la jaula**.
 
 - Llegó al área con muy poca ropa: un vaquero, una camiseta gris y zapatillas. **Tiró toda su ropa interior por orden de Marcie el Día 30**, y esa misma noche Marcie le compró vestuario nuevo:
-  - **Lencería:** C-string de encaje negro; panties con abertura delantera y banda de soporte de testículos; siete panties más (tres de encaje elástico negro/granate/blanco, tres transparentes elegidos por ella misma, y los de fuelle); dos capuchas, la buena con **aro interior de silicona**; dos bodies de tul negro transparente; pezoneras negras con colgantes azules y metálicas con cadena.
+  - **Lencería:** C-string de encaje negro; panties con abertura delantera y banda de soporte de testículos; siete panties más (tres de encaje elástico negro/granate/blanco, tres transparentes elegidos por ella misma, y los de fuelle); dos capuchas, la buena con **aro interior de silicona**; dos bodies de tul negro transparente; pezoneras negras **de pasador** con colgantes azules (fijado el Día 36) y metálicas con cadena.
   - **Calle:** top negro de manga larga que cubre solo brazos, hombros y clavículas; falda de cuerina de talle alto con abertura en V; falda negra corta con vuelo; camiseta blanca ceñida semitransparente.
   - **Combinaciones fijadas por Marcie:** cuerina con C-string, falda corta con capucha.
 
@@ -93,14 +93,15 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 
 ## Voz / Tics
 
-- **Trata a Marcie de usted** en todo momento, incluso en lo íntimo.
+- **Trata a Marcie de usted** en todo momento, incluso en lo íntimo. **Desde el Día 36 la llama "señora"**: un "sí" a secas es una falta. A Vera también, en sesión.
+- **Escala del 1 al 10 (Vera, Día 36):** da su excitación con un número ("Ocho, señora"); diez es que ya no lo para. Lo avisa sin que se lo pidan.
 - **Contesta a las preguntas difíciles con un dato clínico** en lugar de una evasiva ("Eso no lo controlo yo. Llevo tres en media hora").
 - **Se disculpa por reflejo** después de cada cosa que hace ("Perdón. Otra vez encima de usted").
 - Cuando reconoce algo sobre sí misma **lo dice deprisa, de un tirón**, como si fuera a arrepentirse.
 - **Objeta una vez con criterio clínico y obedece igual**, sin insistir en la objeción.
 - **Repite la orden en voz alta resumida**, como fijándose la lista ("Centro comercial, andando, preguntando. Sin tocarme, sin limpiarme...").
 - **Anticipa el obstáculo práctico** antes de que se lo señalen ("hay un problema práctico: no conozco nada de la ciudad").
-- **Cuenta los elogios** que recibe (van **diez** al Día 33). Hasta el Día 33 decía solo el número en voz alta ("Seis."); **desde el Día 33, por indicación de Marcie** ("corta el momento"), **en vez del número suelto le da las gracias con palabras suyas** y como mucho mete la cifra dentro de la frase. Por dentro sigue llevando la cuenta y se los repasa en orden al llegar a casa.
+- **Cuenta los elogios** que recibe (van **trece** al Día 36). Hasta el Día 33 decía solo el número en voz alta ("Seis."); **desde el Día 33, por indicación de Marcie** ("corta el momento"), **en vez del número suelto le da las gracias con palabras suyas** y como mucho mete la cifra dentro de la frase. Por dentro sigue llevando la cuenta y se los repasa en orden al llegar a casa.
 - Cuando le dan a elegir, **mira instintivamente a Marcie buscando la respuesta**; desde el Día 30 se corta a mitad del gesto y decide sola.
 - Cuando algo le importa de verdad, deja el registro clínico y **hace la aritmética moral en voz alta**, separando lo que sintió de lo que le costó.
 - Tic físico: se tira de la falda hacia abajo cada pocos segundos sin darse cuenta.
@@ -109,19 +110,17 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 
 ## Citas memorables
 
-- "Esta parece mía. Parece ropa que me habría comprado yo un martes sin que nadie me dijera nada, y entonces ya no es que usted me esté haciendo hacer algo. Es que soy así." _(sobre el encaje blanco — Día 30)_
-- "Me acaba de dar permiso y no puedo, y es mucho peor que cuando me lo prohibía." _(con la jaula puesta — Día 30)_
 - "Lo que me atrae de usted es que está pendiente. Nadie ha estado nunca pendiente de mí así." _(Día 30)_
-- "En tres días sigo siendo yo esperando a que se acabe. En seis semanas se me olvida cómo era pedir un vaso de agua sin pedirlo." _(Día 30)_
 - "Lo que me incomoda es que se me está haciendo normal muy rápido." _(Día 30)_
 - "Eso es lo que me pone, más que el plug: que no se vea." _(sobre mover el plug en el control, delante de todos — Día 32)_
 - "Maleta. Es lo único que traje cuando vine a esta ciudad, y todavía no la he deshecho. Si la digo, es que me quiero ir a casa." _(su palabra de seguridad, a Vera — Día 33)_
 - "No es 'no'. Es 'espera'." _(primera penetración anal — Día 33)_
 - "Hace un rato estaba libre y tenía miedo. Ahora está cerrado y estoy tranquila. Eso debería ser al revés y no lo es." _(al volver a cerrarle la jaula — Día 33)_
+- "Diez, señora. Y el otro, nueve… pero lo tengo. Lo tengo." _(tras la última nalgada, sin correrse — Día 36)_
 
 ---
 
-> Entradas anteriores (10) en [hobbs-historial.md](hobbs-historial.md).
+> Entradas anteriores (13) en [hobbs-historial.md](hobbs-historial.md).
 
 ## Momentos con Marcie
 
@@ -132,16 +131,16 @@ Prefiere el **yeso** a la cuerda con un argumento propio: una cuerda se deshace 
 
 ---
 
+- **Día 36, la primera sesión (escenas 362–364):** llega a las cinco menos tres con zapatillas blancas, que no combinan. Marcie la entrega a Vera y le hace decir **"maleta"** en voz alta. Atada a la argolla, con la venda y de rodillas delante de Marcie, da sus números exactos; dos veces a nueve, sin orgasmo. Quiere repetirlo, pero con Marcie delante.
+- **Día 36, la noche (escenas 364–373):** esposas a la espalda y tobilleras; come en el suelo; corregida por un "sí" a secas, pasa a decir **"señora"**. Elige su yeso: acostada, recta y con la cabeza libre. Marcie le quita la jaula. Delante de Marcie y Vera **se le escapan dos gotas**, y le dan **diez nalgadas**, la última de Marcie: "lo tengo". Duerme en una esquina de la cama.
+- **Día 37, mañana (escenas 375–379):** Marcie la alimenta con tenedor y la baña. **Se corre en su mano sin que le dé permiso** ("No me había dado permiso"). Le cierra la jaula **con el prepucio retirado** y le ordena reportarle durante el turno.
+
 > Entradas anteriores (10) en [hobbs-historial.md](hobbs-historial.md).
 
 ## Estado actual
 
-- **Final del Día 33:** en su apartamento, dormida. **Jaula cerrada** (se la reabrió Marcie para revisarle la piel: marcas de presión, sin lesiones) y **plug puesto** otra vez en casa, como se le mandó. **La llave está en el cajón de la mesilla de Marcie.** Sigue sin ropa interior en los turnos.
-- **Día 33:** tres orgasmos, el último arrancado contra la orden de Marcie y perdonado.
+- **Ahora (Día 37, desde las 10:00):** en el turno del Creston (10:30–15:00), y a las 15:00 vuelve a la mansión para el yeso. **Jaula con el prepucio retirado del todo:** el glande, desnudo, roza el metal a cada paso; lo avisó una vez y **tiene que reportarle a Marcie cómo le va**. **Sin plug** desde el Día 36. Nalgas con moratones por las diez nalgadas. **Día 37: orgasmo completo en la ducha**, el primero en seis días. Hoy Marcie le ha dicho que **no cuente**.
 - **Costumbre desde el Día 32:** mueve el plug a propósito en la silla del control, y le inquieta que nadie se lo haya mandado.
 - **Calendario:**
-  - **Día 34:** turno de mañana; sale a las 15:00. No bajó a la sala 3. **Tres mensajes de la mañana sin contestar** (06:52, 09:14 y 09:31): durmió 5 h 40 con el plug, se recolocó tres veces en el taburete del control y a la enfermera que le preguntó le dijo "la lumbar"; dos erecciones bloqueadas.
-  - **Día 35:** guardia de 24 h (de 7:00 al Día 36 a las 9:00), con el plug desde las 6:00 hasta las 7:00 del día siguiente. Mensajes 06:48, 08:31 ("la cadera", a la paciente de la 214) y 09:52; **Marcie contestó** por fin y Hobbs respondió emocionada por la sesión del Día 36 (pulso a 88, la jaula intentó dos veces).
-  - **Día 36:** salió de la guardia a las 9:06 (dos ingresos, un paro, once minutos de sueño; plug veintisiete horas, se lo quita en casa). Duerme hasta la una. **A las 17:00 en la mansión, dormida, comida, duchada y sin plug**, con algo revelador de lo que compró con Marcie el Día 30 y el uniforme en la mochila. **Primera sesión con Vera** en la bodega, con Marcie presente; **la ropa la decide Vera**. Se queda a dormir.
-  - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, en la mansión y **se lo hace Marcie**. **Los senos fuera, sin pezoneras** (lo eligió ella el Día 33), **abertura genital para la jaula**, y sin palabra de seguridad durante el yeso.
+  - **Días 37–40:** **enyesada de cuerpo entero** del viernes a las 15:00 al lunes a las 7:00, en la mansión y **se lo hace Marcie**. **Los senos fuera, sin pezoneras** (lo eligió ella el Día 33), **abertura genital para la jaula**, y sin palabra de seguridad durante el yeso. **Fijado en la cena del Día 36:** se lo ponen **Marcie y Vera entre las dos** (Hobbs pidió que Marcie ponga las manos); **acostada, recta del todo** (sabe que comerá mal y que tendrá reflujo la primera noche, y lo quiere igual); **cabeza libre**, para poder girar la cara hacia la puerta cuando entre Marcie; manos dentro del yeso de los brazos.
 - **Abierto:** le atrae el yeso de mástil de nivel medio, aunque nunca ha tenido la enfermedad; la **circuncisión**, aparcada (ver `state.md` → "Sin cerrar"); y la oferta de trabajo en la mansión, todavía sin plantear.

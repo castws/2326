@@ -35,6 +35,7 @@
 - **Día 34:** fin de la férula peneana (se la quita Sadie, ~16:40). Compra el loft del centro.
 - **Día 35:** primera visita al loft, con Megan. Sadie le confiesa sus amputaciones; Emily, su excitación por cuidar.
 - **Día 36:** se perfora los pezones en el Estudio Ivy (Ivy Marsh). Primera vez que se usa la tecnología oculta en algo visible: Claire los cicatriza (opción A).
+- **Día 37:** deja las muletas.
 
 ---
 
@@ -50,6 +51,7 @@
 - **Yesos.** Su primer yeso real fue un **hip spica completo a los 4 años**, por una fractura de fémur en un atropello. Desde entonces todos han sido voluntarios.
 - **Aparatos ortopédicos:** la ortesis le excita, y por eso se la quedó.
 - **Amputaciones y discapacidad:** configuró la app de citas para ver solo ese grupo.
+- **Patas de apoyo (peg legs), Día 36:** le gustan **en amputaciones por encima de la rodilla** (se lo dijo a Claire al conocer a Gemma Pryce).
 - **BDSM:** dominante con [Hobbs](personajes/hobbs.md).
 - **Quién sabe que le atraen las amputaciones:** [Sadie](personajes/sadie.md) y [Emily](personajes/emily.md), desde el Día 35. Emily sabe también lo de los yesos, y que el yeso de Mark del Día 8 no era una luxación.
 - **Quién conoce el fetiche de los yesos:** [Megan](personajes/megan.md) (Día 8) y [Vera](personajes/vera.md) (Día 23). [Mills](personajes/mills.md) sabe desde el Día 32 que le excita la ortesis. [Sadie](personajes/sadie.md) lo sabe desde el Día 34 (se lo dijo en la habitación de yesos; a ella le dijo que el yeso de Sophie fue un accidente).
@@ -64,7 +66,7 @@
 - **La ortesis completa** (de la cadera a los pies). **Desde el Día 34 está en la habitación de yesos**, donde la dejó Vera. Es la única pieza así en el área (`world.md` → "Aparatos ortopédicos").
 - **Auricular de pensamientos:** se activa a menos de 3 metros de Tori, Emma o Jude. **Con Wren, desde el Día 34, sin límite de distancia.**
 - **Auricular en modo escucha (desde el Día 33):** Claire le pasa el audio de lo que se habla alrededor de cualquier robot del área, sin que lo noten.
-- **La llave de la jaula de Hobbs**, en el cajón de su mesilla.
+- **Las llaves de Hobbs:** la de la jaula y las cuatro de latón de sus esposas y tobilleras.
 - **Proyecto de club BDSM, Bonded**, sin local todavía (`escenarios/club-bdsm.md`).
 
 ---
@@ -78,12 +80,12 @@ El vínculo con cada personaje está en su propia ficha (`## Relaciones` y `## M
 ## Estado actual
 
 - **Localización:** ver `state.md` → "Día actual".
-- **Movilidad (sin ortesis desde el Día 32):** anda **con muletas canadienses**, **las dos fuera de casa hasta el viernes (Día 37)** según Delaney, y se levanta y se sienta sola. **El cuádriceps izquierdo se fatiga y cede sin avisar**: aguanta diez segundos de pie sin apoyo, pero no una caminata. Brazos normales.
+- **Movilidad (sin ortesis desde el Día 32):** **desde el Día 37 anda sin muletas** (el plazo de Delaney terminaba ese viernes; a Marcie la pierna ya no le molesta). Se levanta y se sienta sola. La rodilla izquierda cedió por última vez el Día 35. Brazos normales.
 - **Férula peneana: retirada el Día 34 (~16:40) por Sadie**, cuatro horas antes de lo previsto. Base sin lesión, con el surco del anillo. Ya no se monta más. **Fuera de casa, capucha obligatoria** como cualquier pene a la vista. Los deberes de esa noche (en blando, sin anillo) **no se han hecho en escena**.
 - **La ortesis:** Mills se la dejó sabiendo que le excita. Condiciones: ratos de 4-5 horas, **nada esta semana** y revisión de la piel cada vez, sobre todo en la rodilla izquierda. **Se la pone y se la quita Vera.**
-- **Pezones (Día 36, ~11:00):** barras lisas de titanio, en horizontal. **Sin cicatrizar todavía:** falta ir a casa de Claire (opción A). Para todos los demás es una perforación real: suero mañana y noche y nada encima durante meses; Claire ajusta a quien lo vea de cerca. Las barras se le marcan a través de la ropa.
+- **Pezones (Día 36, ~11:00):** barras lisas de titanio, en horizontal. **Cicatrizados por Claire en su casa (Día 36, 13:40–15:40)**: agujeros sanos, como de años. Para todos los demás es una perforación reciente pero sin problemas; **Desde las 15:40, nadie le comenta nada sobre ellos** (ajuste de Claire): son normales, como en cualquier mujer. Ya admite pezoneras de pasador. Las barras se le marcan a través de la ropa.
 - **Voz:** la nueva, más aguda, ya sin ningún esfuerzo.
 - **Rehabilitación con [Delaney](personajes/delaney.md)** (sala 3 del Creston): piernas lunes, miércoles y viernes, y protocolo de pene a diario del Día 33 al 48. Con ella, Delaney no corta por reloj. **Día 36:** dolor 1 en todas las direcciones; el lateral derecho casi iguala al izquierdo; medida del Día 35, 17,5 × 13. La rodilla izquierda cedió una vez el Día 35 (el lunes, dos).
-- **Deberes de casa, a diario hasta el Día 48** (**las noches del Día 35 y del 36 sin hacer**; Delaney lo sabe):
+- **Deberes de casa, a diario hasta el Día 48** (**noches del 35 y del 36 sin hacer**; el Día 37, protocolo en la sala antes de las 14:00 o pauta entera en casa y número a Delaney):
   - **Pene:** suelo pélvico 3 × 10 con 5 s, tres veces al día; los cuatro estiramientos de 10 s sin tope, mañana y noche y en blando; y desde la 4.ª sesión, tracción suave de 10 s.
   - **Piernas:** cuádriceps 3 × 10, elevación recta 3 × 8 y tobillo 2 minutos.

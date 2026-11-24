@@ -119,12 +119,13 @@ Fisioterapeuta del Creston, planta baja, **sala 3**. Turnos de mañana y primera
 - **Día 34, protocolo en erección (escenas 296–297):** noche con anillo, **1**; surco limpio. Erección al quitar la capucha y, por ajuste de Claire, **rectifica y hace las direcciones en erección**. Arriba, abajo y lateral izquierdo, **4**; separa la excitación (**8**) de la tensión. A Marcie le deja **practicar los deberes en su pene** (10 s sin tope), le corrige la mano de la base y le da un tres de fuerza. **Marcie eyacula en el lateral derecho**, que queda sin número, y ella cuenta seis contracciones. **Cierra la sesión, echa el pestillo y Marcie la masturba** siguiendo sus indicaciones; se corre sobre la toalla contando ocho. Le da un **nueve**. Acepta repetirlo con la misma regla.
 - **Día 35 (escenas 331–332):** piernas y protocolo; sensibilidad 10 en la base sin anillo. Después, **sin pestillo** porque Marcie asumió el riesgo: felación mutua (ella cuenta ocho; las siete de Marcie, las cuenta ella) y le lava el pene a fondo. Admite que **se hizo la tracción en sí misma** pensando en Marcie. "Fisioterapeuta. Pero el tratamiento sí, te lo doy."
 - **Día 36 (escena 350):** protocolo en blando, lateral derecho casi igual al izquierdo. Con una erección desde que Marcie entró, **echa ella el pestillo** y le deja decidir; Marcie le dice "sorpréndeme" y **la penetra analmente** sobre la camilla, masturbándola con el agarre del protocolo; ocho y seis. "Hoy no te pongo número."
+- **Día 37, mensajes (escena 379):** Marcie cancela la cita de las 10:00. Pasa las piernas al lunes, pero "el protocolo es diario": la espera hasta las 14:00 o, si no, la pauta entera en casa y el número del lateral derecho. "Sin número no lo doy por hecho."
 
 ---
 
 ## Estado actual
 
-- Sala 3 del Creston. **Próxima cita: Día 37 (viernes) a las 10:00**, piernas 50 minutos con el protocolo dentro; después el Día 40.
+- Sala 3 del Creston. **La cita del Día 37 la canceló Marcie**; piernas, el **Día 40**. **Protocolo del Día 37**: la espera hasta las 14:00; si no, que lo haga en casa y le mande el número del lateral derecho.
 - **Protocolo vigente con Marcie:** piernas lunes, miércoles y viernes y **movilización peneana diaria de 10 minutos hasta el Día 48**. Ya no hay férula. Muletas para Marcie, las dos, fuera de casa **hasta el viernes (Día 37)**.
 - **Deberes:** sabe que las noches de los Días 35 y 36 no se hicieron; se lo recordó.
 - **Sin límite de reloj con Marcie.** No sabe nada de su vida fuera del hospital, ni de su fetiche por los aparatos.

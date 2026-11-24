@@ -83,6 +83,7 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 - "Para cualquier cosa que quiera tengo que meter a otra persona dentro. No hay una sola que pueda hacerme yo sola, ni rascarme la nariz. Y eso cansa más que la vergüenza." _(Día 31)_
 - "Cuanto más tiempo llevo, menos ganas tengo de que se acabe." _(sobre el yeso — Día 31)_
 - "Una cuerda la deshaces en un minuto si cambio de idea, y entonces la que sigue decidiendo soy yo. El yeso no se quita porque una noche te apetezca." _(Día 31)_
+- "Una noche, y con llave. Eso se acaba cuando alguien se aburre. Lo de mañana, no." _(a Hobbs, esposada — Día 36)_
 
 ---
 
@@ -95,6 +96,7 @@ Asistente doméstica de la mansión. Cocina, cuida de Sophie, gestiona la casa. 
 
 - **Día 33, tarde (escena 288):** conoce a **Hobbs** en la sala: "Pasa, que no mordemos. Tampoco podríamos." **No corrige la versión pública** que da Marcie (que se cayó por unas escaleras). Le da el consejo de la primera noche enyesada: si pica algo, pedirlo en voz alta, porque en esa casa siempre hay alguien que oye.
 - **Día 34, cena (escena 320):** conoce a **Sadie** con el yeso recién puesto y se le enrojece el escote. Confiesa que leyó *El juramento de ceniza* **dos veces** y la escena de la armadura **tres seguidas** ("No esperes que lo repita"). Vera le da de comer.
+- **Día 36, noche (escena 368):** en el salón, sentada en el centro del sofá. A Hobbs, esposada: "Una noche, y con llave. Eso se acaba cuando alguien se aburre. Lo de mañana, no". Le cuenta que lo primero que echó de menos fue rascarse la nariz, y la vigila; Hobbs se la rasca con el pómulo.
 
 ---
 

@@ -22,3 +22,5 @@
 
 - En su estudio, en horario normal.
 - **Se está pensando hacerse varios piercings en los labios menores** (anillas). No deja que la pinche nadie: la única en quien confiaría es **otra perforadora del otro extremo de la ciudad**. Si se los hace, avisa a Marcie (ver `state.md` → "Hilos latentes").
+
+- **Pezones de Marcie (ajuste de Claire, Día 36, 15:40):** recuerda que son del Día 36, pero **no le da ninguna importancia ni lo saca**: para ella ya son normales, como los de cualquiera. No pregunta por la cicatrización ni le recomienda cuidados.

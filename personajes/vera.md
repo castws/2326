@@ -108,13 +108,12 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - **Trae prendas contadas, no la selección entera**, y da el criterio práctico antes que el suyo — aunque los mezcle sin separarlos.
 - **Reclama como suyo lo práctico y cede lo demás:** cuando algo no le corresponde lo dice y lo suelta ("es tu cita y no es asunto mío"), y acto seguido nombra la parte que sí ("lo que sí es asunto mío es esto").
 - **Se ríe poco y con la cara girada**, dos segundos, como si la risa hubiera que apartarla de la zona de trabajo; vuelve seria antes de terminar de reírse.
+- **"Número."** Con Hobbs, en sesión: le pide su excitación del 1 al 10 con esa sola palabra.
 
 ---
 
 ## Citas memorables
 
-- "¿Esto es de enfermera o es lo otro?" _(aplicando el protocolo de registros por primera vez — Día 31)_
-- "Yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo." _(al ver a Megan por primera vez — Día 31)_
 - "Sola entra, sola sale y sola decide. Eso no lo pongo yo, lo pone Kerr." _(sobre acompañar a Megan a la consulta — Día 31)_
 - "Quedarme puede ser quedarme a mirar, o puede ser quedarme y participar. ¿Cuál de las dos me estás ofreciendo?" _(Día 32)_
 - "Esto no me lo ha mandado ella. Es mío." _(antes de besar a Marcie — Día 32)_
@@ -122,16 +121,15 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 - "Lo primero, para que no lo pienses durante toda la conversación: no te han traído aquí para mí." _(a Hobbs, al quedarse solas — Día 33)_
 - "Sabe lo que quiere y le da miedo saberlo, que es lo mejor que se puede traer a esto." _(sobre Hobbs — Día 33)_
 - "Llevas nueve minutos de pie. Te queda uno." _(a Sadie, que está corriéndose en el corredor lateral, en tono de parte — Día 34)_
+- "Esa te la cobro." _(a Marcie, tras una nalgada — Día 36)_
 
 ---
 
-> Entradas anteriores (10) en [vera-historial.md](vera-historial.md).
+> Entradas anteriores (12) en [vera-historial.md](vera-historial.md).
 
 ## Momentos con Marcie
 
 - **El yeso a cuatro patas** (propuesta de Marcie, registro BDSM): piernas con las **rodillas a 90°** y brazos con los **codos a 90°**, para tener que moverse por la casa a cuatro patas. Le interesa y lo dice sin rodeos. Duración por ahora: **dos o tres días**. Condiciones suyas: días reales, sin salir de casa, sin gente de fuera, Rachel y Sophie atendidas antes de empezar, y **acolchado extra en las cuatro zonas de apoyo** — a las dos horas apoyada en cuatro puntos, rodillas y codos se destrozan por dentro del yeso.
-- **Día 32, la ortesis (escena 261):** acepta **delante de Mills** el encargo de revisarle la piel cada vez que se la quite ("yo se lo pongo y yo se lo quito"), lo que convierte en rutina explícita lo que hasta ahora era solo gusto compartido. Lo único que le sorprende no es el fetiche —que ya conocía— sino que se lo hayan encargado a ella por escrito.
-- **Día 32, antes de la cita (escena 265):** viste y maquilla a Marcie para Patricia. Al saber que le faltan ambos brazos desde el hombro, **el pincel se para medio segundo**, lo reconoce sin adornarlo y lo cierra ella misma. Después reclama lo práctico: dos muletas y ninguna mano entre las dos, así que vehículo a la puerta y mesa con camarero cerca.
 
 - **Día 33 (escenas 288–294):** conoce a **Hobbs** a solas en la biblioteca (Marcie lo oye todo por el auricular, y Vera no lo sabe). Abre con "no te han traído aquí para mí", le enseña la **palabra de seguridad** ("maleta") y corrige ella misma lo que había dicho mal: la palabra es **solo para las sesiones**. Acuerdan **sesiones de BDSM**, con Marcie dentro cuando quiera, y la primera el jueves. Por la noche nota que **la férula no la ha montado ella** y la recoloca mientras hablan. Marcie le encarga convertir la **bodega** en **habitación de BDSM**, sin límite de dinero; Vera distingue en voz alta los registros ("de enfermera" no es "médico") y le da la razón en que estén al lado de la sala de yesos. La organiza con discreción: **a cada contratada solo le enseña su parte**.
 - **Día 34, tarde y noche (escenas 316–321):** se entera por Dana de que **la férula ya no está, cuatro horas antes de lo previsto, y no la ha quitado ella**; no lo comenta. **Enyesa a Sadie** (pierna derecha en flexión completa, con el pie dentro) en **registro de enfermera**, que pregunta antes de mojar nada ("¿Esto es de enfermera o es lo otro?"). Antepone que con esas manos no puede usar muletas normales, propone las de **plataforma** y las consigue del Creston en veintiséis minutos ("Dicen que veinte, pero son veinticinco"). Le mira las manos a Sadie medio segundo de más, y Sadie lo nota. Ve a Sadie correrse de pie en el corredor lateral, cuenta los minutos en voz alta ("Llevas nueve minutos de pie. Te queda uno") y la sujeta cuando le falla la rodilla. La acuesta en la cama de Marcie, de lado y con la almohada bajo el yeso.
@@ -139,7 +137,10 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
 
 ---
 
-> Entradas anteriores (10) en [vera-historial.md](vera-historial.md).
+- **Día 36, tarde y noche (escenas 358–373):** prepara la **bodega** y fija el papel de Marcie (sentada delante, la llave y el orgasmo suyos) y el ritual de entrega y devolución. **Primera sesión con Hobbs**, de látex: zapatillas, argolla, venda, escala del 1 al 10, agua fría al llegar a nueve y sin orgasmo. Valora en el pasillo que todo lo que siente Hobbs "se lo da a ti por encima de mi hombro", y querría alguna sesión con Marcie fuera de la habitación. Trae esposas y tobilleras. Acepta acostarse con Marcie "no por ella". **Sexo con Marcie encima, delante de Hobbs; se corren las dos.** Regaña a Hobbs por las dos gotas y le da nueve nalgadas; la décima se la deja a Marcie. Duerme con ella ("Mañana te cobro la nalgada").
+- **Día 37, desayuno (escena 376):** se entera de que Sadie viene a las 10:30. Corrige la silla que pide Marcie: **basculante**, porque el yeso no dobla la cadera.
+
+> Entradas anteriores (12) en [vera-historial.md](vera-historial.md).
 
 ## Estado actual
 
@@ -155,7 +156,11 @@ El fetiche de Vera por los yesos y los aparatos **no depende del BDSM**. Son dos
   - **La comprobación del uniforme**, prevista para la mañana del Día 33, no llegó a pasar. Vera la sigue esperando (desde el Día 36 la respuesta depende del día: nada, o encaje blanco).
   - **Segundo yeso de Megan puesto el Día 35 (~15:15–16:30)**, en registro de enfermera (configuración en [megan.md](megan.md)). Megan duerme esa noche en la mansión: si nota los dedos dormidos, fríos o que le laten, la llaman a cualquier hora. Revisión por la mañana antes de que se vaya. Megan pide además que Vera **presente a Sasha a Kerr** (sin pedirlo todavía).
   - **La bodega**, terminada como habitación de BDSM (Día 36): anclajes en las vigas probados con peso, luz regulada.
-  - **Día 36, 17:00:** primera sesión con **Hobbs** en la bodega (lista, anclajes probados), con Marcie presente. Hobbs viene sin plug y **la ropa la decide Vera**. Se queda a dormir.
+  - **Día 36, hecho:** primera sesión con **Hobbs** en la bodega, con Marcie presente, sin orgasmo. Por la noche, **sexo con Marcie delante de Hobbs** y durmió con ella. Regañó a Hobbs por las dos gotas.
+  - **Le debe a Marcie una nalgada** ("Esa te la cobro").
+  - **Querría una sesión con Hobbs con Marcie en la casa pero fuera de la habitación**; Marcie se lo propondrá a Hobbs más adelante.
+  - **Día 37:** Sadie, a las **10:30** (yeso de manos y pata con cuna en U). Ha pedido al Creston la **silla basculante** para Hobbs (llega antes de las 15:00).
   - **Día 39:** revisión de la piel de los bordes del yeso de Megan.
   - **Días 37–40:** Hobbs, enyesada por Marcie, en la casa donde vive Vera.
+  - **Noche del Día 36 (ajuste de Claire):** Hobbs duerme con **las manos esposadas a la espalda** por orden de Marcie. Vera **no dice nada al respecto ni se opone**, aunque antes aconsejó pasarle el mosquetón por delante.
 - **Bajo el uniforme, normalmente nada** (costumbre propia desde el Día 23; Marcie lo supo el Día 32). **Desde el Día 36, algunos días, encaje blanco** que se marca un poco (ver Apariencia). El Día 36 por la mañana lo lleva.

@@ -13,6 +13,13 @@
 
 ---
 
+## Interior (establecido el Día 36)
+
+- **Salón:** pequeño y de techo alto, con vigas a la vista. Sofá de lino claro, alfombra de lana, mesa baja, estantería casi vacía y, junto a la ventana que da al jardín, un **sillón reclinable de piel color tabaco**.
+- **Pasillo:** lleva a la cocina y al **dormitorio de Claire** (segunda puerta), que tiene espejo.
+
+---
+
 ## Quién vive aquí
 
 **Claire.** Vivió aquí con su pareja **Emily** hasta el **Día 31**, cuando Emily la dejó por Megan y se marchó. Desde entonces Claire vive sola.

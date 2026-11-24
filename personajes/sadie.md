@@ -196,10 +196,13 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 
 - **Día 35, mañana (escenas 322–330):** despierta con Marcie; Marcie le cuenta un sueño con sus manos y le lame los nudillos. Spoiler: **Isolde pierde también la otra mano**. **Dana la baña** y se corre con la esponja. **En el coche le confiesa que las amputaciones se las hace ella** (el orden hasta las muñecas, "el cuerpo es un borrador") y Marcie le confiesa que a ella también le atraen; Marcie le sugiere teclear con los muñones. Emily la ayuda en casa ese día. "Te sigo debiendo una. Del corredor."
 - **Día 36, Marginalia (escenas 355–356):** teclea con los nudillos (dos páginas, "más mío que dictando"). Le cuenta cómo conoció a Megan por la mañana y que se masturbó en el baño al verla; descubre que Marcie se acuesta con Megan y le pregunta por el muñón del hombro ("el muñón en el seno: eso me lo quedo"). **Se masturba en su mesa con Marcie tapándola** y se corre en silencio al oír, como secreto, que Emily masturbó a Megan tras bañarla (prometió no contarlo). Acepta el **yeso de manos con los dedos extendidos** y la **pata de yeso**, mañana a las 8:00; pide a Emily que la cuide 24 h con Megan, con la excusa del yoga. **Le debe dos.**
+- **Día 36, ~23:40 (escena 373):** acepta por mensaje pasar el yeso a las 10:30: "Puedo. 10:30. Se lo digo a Emily". "Dos horas y media más de dedos. Las voy a gastar bien."
 
 ---
 
 ## Estado actual
+- **Pezones de Marcie (ajuste de Claire, Día 36, 15:40):** recuerda que son del Día 36, pero **no le da ninguna importancia ni lo saca**: para ella ya son normales, como los de cualquiera. No pregunta por la cicatrización ni le recomienda cuidados.
+
 
 - Creada el Día 30. **Vive sola** en un piso de la **calle Larkin**, a diez minutos andando del centro comercial: edificio de ladrillo de tres plantas, ella en la **segunda**, **sin ascensor, veintidós escalones** (fijado el Día 35; con el yeso y las muletas de plataforma, un problema que no había previsto). Café habitual: el **Marginalia**.
 - **Manos:** las de arriba (cuatro dedos, el índice derecho vendado).
@@ -213,6 +216,6 @@ A partir de ahí decide ella según lo que quiera en cada momento.
 - **El piso (fijado el Día 36):** pequeño. Un dormitorio con cama de matrimonio, salón con **sofá cama**, cocina estrecha con mesa para dos y baño con plato de ducha a ras de suelo.
 - **Desde el Día 35, en su piso.** Subió los veintidós escalones sola, sentada en cada uno ("Puedo"). En casa necesita ayuda para lo pequeño (abrir un yogur, el velcro derecho, la cómoda de abajo): **tiene que buscarse a alguien**, y lo acepta a regañadientes ("que no me trate como si me fuera a romper"). Emily la ayudó el Día 35. **Desde el Día 36, Emily va cada mañana** (con Megan, que sube con ella): la ayuda con lo pequeño, la baja y la lleva al Marginalia (ajuste de Claire a petición de Marcie). Sadie lo acepta porque Emily no la trata con cuidado. Lleva el **vestido negro de punto de Marcie** (costados abiertos); su ropa del Día 34 se la llevó en una bolsa.
 - **Marcie sabe la verdad** desde el Día 35, salvo el **cuaderno de despedidas**. **Teclea con los nudillos** desde la noche del Día 35: a la mitad de velocidad, le duelen los nudillos.
-- **Día 37, 8:00, mansión:** yeso de las dos manos y antebrazos con **los dedos dentro y extendidos** (teclea con la punta) y **pata de yeso** bajo la rodilla, para andar sin muletas. Excusa para Emily y Megan: yoga en las dos muñecas. Desde entonces, **Emily la cuida 24 h en su piso, con Megan** (en el sofá cama); pedido por mensaje, sin respuesta todavía.
+- **Día 37, 10:30, mansión** (movido desde las 8:00): yeso de las dos manos y antebrazos con **los dedos dentro y extendidos** (teclea con la punta) y **pata de apoyo** (peg leg del Creston con cuna metálica en U, fijada con yeso) bajo la rodilla, para andar sin muletas. Excusa para Emily y Megan: yoga en las dos muñecas. Desde entonces, **Emily la cuida 24 h en su piso, con Megan** (en el sofá cama); pedido por mensaje, sin respuesta todavía.
 - **Le debe dos orgasmos a Marcie** (el del corredor y el de la mesa del Marginalia).
 - **Sabe un secreto de Emily y Megan** (que Emily masturbó a Megan tras bañarla, sin decir nada) y prometió no contarlo.

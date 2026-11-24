@@ -89,6 +89,7 @@ Asistente doméstica de la mansión desde el **Día 15**. Comparte tareas con Ra
 
 > Entradas anteriores (6) en [dana-historial.md](dana-historial.md).
 - **Día 35–36 (escenas 324–326, 342, 346):** trae la funda de plástico de pierna entera y **baña a Marcie y a Sadie** en la ducha principal (le retira el prepucio a Marcie con el canto del gancho); Sadie se corre con su esponja. Por la noche, palangana tibia lejos del yeso de Megan, **limpia a Marcie** y frota la alfombra con agua fría. Rehace el café porque el primero se enfrió y le pone una pajita a Megan.
+- **Día 36–37 (escenas 365, 376):** ve a Hobbs esposada y pregunta lo práctico: plato en el suelo, comida cortada, el agua en un cuenco "porque un vaso lo tira con la cara". Por la mañana pone el plato en el suelo sin que se lo pidan y trae hielo picado ("que se amolda mejor").
 
 
 ## Estado actual

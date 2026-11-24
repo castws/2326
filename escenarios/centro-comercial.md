@@ -10,7 +10,7 @@
 
 Galería con atrio central. Todos los locales conocidos están en el mismo tramo, salvo donde se indique.
 
-- **Tienda de lencería buena.** Fachada estrecha de madera oscura y cristal, sin rótulo luminoso. Alfombra, prendas separadas en barras de latón, tres probadores con cortina de terciopelo y banqueta enfrente, rampa integrada en la entrada. Atiende **Sloane** (~26, pierna derecha amputada por encima de la rodilla sin prótesis, dos muletas de antebrazo, cinta métrica en la muñeca).
+- **Tienda de lencería buena.** Vende C-strings de joyería con funda de malla para pene, en oro o en plata, tomados a medida en el momento (Claire le compró uno de oro a Gemma, Día 36). Fachada estrecha de madera oscura y cristal, sin rótulo luminoso. Alfombra, prendas separadas en barras de latón, tres probadores con cortina de terciopelo y banqueta enfrente, rampa integrada en la entrada. Atiende **Sloane** (~26, pierna derecha amputada por encima de la rodilla sin prótesis, dos muletas de antebrazo, cinta métrica en la muñeca).
 - **Tienda de ropa.** Al lado de la anterior. Grande y luminosa, suelo de cemento y barras de acero, probadores de puerta de listones.
 - **Sex shop.** Cuatro locales más allá del Marginalia. Estrecha y profunda, luz baja, género en ganchos por secciones, vitrinas iluminadas en el lateral derecho y dos probadores con espejo al fondo tras una cortina.
 - **Tienda de lencería más barata.** Escaparate con luz rosa, en la **galería de la izquierda**.

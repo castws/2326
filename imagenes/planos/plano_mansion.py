@@ -313,8 +313,11 @@ room(26, 0, 27.5, 20, '', circ, nombre='Corredor lateral', notas='Recorre el ala
 text(26.95, 10, 'CORREDOR LATERAL', 9, 'bold', C['sub'], rot=True)
 # anexo oeste, pasillo, pasarela, garaje
 GRUPO = 'Anexo oeste y garaje'
-room(11, 15, 15, 20, 'Bodega', anexo, sub='medio vacía', size=10,
-     notas='A la izquierda de la habitación de yesos. Por ahora medio vacía: botelleros y una mesa redonda con dos sillas.')
+room(11, 15, 15, 20, 'Bodega', anexo, sub='sala BDSM', size=10,
+     notas='A la izquierda de la habitación de yesos. **Habitación de BDSM desde el Día 36:** paredes gris muy oscuro y suelo de goma '
+           'negra, liso y sin juntas. Dos vigas con argollas de acero a intervalos regulares, probadas con peso (120 kg cada una), y '
+           'tiras de luz regulable empotradas a lo largo. Contra la pared del fondo, banco acolchado de cuero negro y mesa estrecha con '
+           'las madejas de yute ordenadas por grosor. Silla de madera de respaldo recto, en el centro, de cara a la viga de la izquierda.')
 room(15, 15, 20, 20, 'Sala de\nyesos', anexo, sub='sin ventanas', size=10, nombre='Habitación de yesos',
      notas='Sin ventanas: luz siempre artificial. Camilla con soportes articulados, cama hospitalaria para hip spica, estantería '
            'con materiales completos, cubo metálico con grifo, mesa de trabajo con taburete y carro auxiliar. '
@@ -446,19 +449,13 @@ if MOB:
         circulo(22.1 + i * 0.65, 17.65, 0.2, '#ffffff')
     mueble(22.5, 16.0, 23.7, 16.35, 6)
     estante(21.05, 18.05, 21.5, 19.95, False); estante(21.5, 18.05, 25.0, 18.5, False); estante(21.5, 19.55, 25.0, 19.95, False)
-    # bodega (medio vacía): botelleros con botellas tumbadas de 0,3 × 0,08 y mesa de cata
-    mueble(11.05, 15.05, 14.95, 15.65, 0, '#efe6d6'); mueble(11.05, 15.65, 11.65, 19.95, 0, '#efe6d6')
-    x = 11.75
-    while x < 14.9:
-        if int((x - 11.75) / 0.8) % 2 == 0:
-            mueble(x, 15.2, x + 0.08, 15.5, 0, '#7b3b3b', '#5b2a2a', 0.5)
-        x += 0.1
-    y = 15.75
-    while y < 19.9:
-        if int((y - 15.75) / 0.8) % 2 == 0 and y < 18.2:
-            mueble(11.2, y, 11.5, y + 0.08, 0, '#7b3b3b', '#5b2a2a', 0.5)
-        y += 0.1
-    circulo(13.3, 17.6, 0.4); silla(12.5, 17.6); silla(14.1, 17.6)
+    # bodega (sala BDSM): banco de cuero y mesa de cuerdas al fondo, silla al centro, dos vigas con argollas
+    mueble(11.3, 15.1, 13.1, 15.75, 2, '#3a3a3a'); mueble(13.3, 15.1, 14.9, 15.5, 1)
+    silla(13.1, 17.6)
+    for vx in (12.2, 13.9):
+        linea(vx, 15.0, vx, 20.0)
+        for vy in (16.2, 17.4, 18.6):
+            circulo(vx, vy, 0.08, '#dcdcdc')
     # habitación de yesos
     mueble(15.6, 15.5, 16.3, 17.4, 3, '#ffffff')                                        # camilla
     for cy in (15.8, 17.1):

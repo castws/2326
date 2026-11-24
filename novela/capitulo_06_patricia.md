@@ -104,7 +104,7 @@ Y entonces lo vi. No con la cabeza. Con el cuerpo. Vi la mañana siguiente, y la
 
 No se lo dije a nadie. Me lo dije a mí.
 
-Tardé dos años en aprender a hacer todo con la derecha. Dos años. Atarme los zapatos. Abrir un bote apretándolo entre las rodillas. Cortar la carne con el canto del tenedor. Abrocharme el puño de la blusa, que todavía me cuesta veinte minutos. Pintar. Y masturbarme, también, que se aprende como todo lo demás. Dos años para aprender a vivir con una mano, y la mano se iba mañana por la mañana, y no había otra detrás.
+Tardé dos años en aprender a hacer todo con la derecha. Dos años. Atarme los zapatos. Abrir un bote apretándolo entre las rodillas. Cortar la carne con el canto del tenedor. Abrocharme el puño de la blusa, que todavía me cuesta veinte minutos. Pintar. Dos años para aprender a vivir con una mano, y la mano se iba mañana por la mañana, y no había otra detrás.
 
 —¿Sin brazos? ¿Cómo…?
 
@@ -324,7 +324,7 @@ No sé con qué había soñado. Con él, creo. Con la habitación de invitados, 
 
 Y fui a tocarme.
 
-El cuerpo lo intentó solo, antes que yo. El hombro derecho se movió hacia abajo, hacia el vientre, a buscar lo que hacía todas las noches desde los diecisiete. Lo noté entero, el gesto. Noté el brazo bajar, la mano abrirse, los dedos buscar. Y no había nada. El muñón vendado se levantó unos centímetros del colchón y se quedó ahí, en el aire, haciendo el gesto de un brazo que no existe.
+El cuerpo lo intentó solo, antes que yo. El hombro derecho se movió hacia abajo, hacia el vientre, a buscar lo que hacía casi todas las noches desde que vivo sola. Lo noté entero, el gesto. Noté el brazo bajar, la mano abrirse, los dedos buscar. Y no había nada. El muñón vendado se levantó unos centímetros del colchón y se quedó ahí, en el aire, haciendo el gesto de un brazo que no existe.
 
 Me quedé quieta.
 
@@ -332,7 +332,7 @@ Apreté los muslos. Eso se puede hacer sin brazos. Los apreté fuerte, uno contr
 
 No llegué.
 
-Estuve casi una hora. No llegué. Me quedé de lado con la almohada entre las piernas, sudada, a medias, con los dos muñones moviéndose solos en el aire, buscando, y me eché a reír. No sé por qué. De mí. De la almohada. De que hubiera tardado dos años en aprender a hacerlo con una mano y ahora no supiera hacerlo con ninguna.
+Estuve casi una hora. No llegué. Me quedé de lado con la almohada entre las piernas, sudada, a medias, con los dos muñones moviéndose solos en el aire, buscando, y me eché a reír. No sé por qué. De mí. De la almohada. De que con una mano lo tuviera tan resuelto y ahora no supiera hacerlo con ninguna.
 
 Pensé en llamar a Hannah. Estaba al otro lado del pasillo. Lo pensé de verdad, con su nombre ya en la boca.
 

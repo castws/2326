@@ -50,6 +50,15 @@ enfermedades y también para los yesos por fracturas convencionales. **Única ex
 la ortesis completa y la férula peneana de Marcie, piezas post-quirúrgicas hechas a medida para su
 caso, que sí llevan montantes, estribos, cinturón pélvico y correas.
 
+**Pata de apoyo sobre un yeso de pierna (Día 36, por orden de Marcie a Claire):** no contradice la
+regla de arriba, porque la pieza metálica no sostiene el yeso: **el yeso sostiene la pieza**. Cuando
+un yeso deja la rodilla doblada y quien lo lleva quiere andar sin muletas, el taller de ortoprotésica
+adapta una **pata de apoyo** (ver `world.md` → "Prótesis y aparatos ortopédicos"): una **cuna metálica
+en U** que abraza por debajo y por los lados la rodilla y el muslo enyesados, **fijada con otra capa
+de yeso** que la envuelve y la deja integrada en el bloque, y de cuya parte inferior baja la **pata**
+hasta el suelo, con contera de goma. Sin ninguna correa, cincha ni velcro: lo único que la sujeta es
+el yeso. Es un encargo poco frecuente pero conocido en ortopedia; nadie lo encuentra raro.
+
 **Si no se inmoviliza a tiempo:**
 
 - En una articulación de un miembro: la inflamación daña el tejido y obliga a **amputar a la altura de esa articulación**.

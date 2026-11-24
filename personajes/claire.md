@@ -82,10 +82,11 @@ Asistente directa y permanente de Marcie. **Escucha en todo momento; cuando Marc
 - **Día 35–36 — ediciones (escenas 323, 334, 339, 345, 346):** retira del mundo la **comunicación por la muñeca** (retcon: siempre ha sido el móvil) y **crea a Sasha** desde el texto de Marcie, avisando de que no toca el orden en que Megan lo contará. La erección de Megan al salir del Elm ("te van a mirar a ti también"). La charla de Megan y Emily, **llevada a la biblioteca porque Sophie no sabe nada**, con el audio por el modo escucha. Megan deja de pedir que le rasquen. **Vera, a veces, con encaje blanco** bajo el uniforme, avisando de que choca con dos reglas suyas.
 
 - **Día 36 — ediciones de mundo y en escena (escenas 351, 355):** **pezones perforados desde siempre** en todas las mujeres, pezoneras de pasador, adhesivas en igualdad y piercings marcados bajo la ropa; **yesos grandes** en la ciudad. Ante la pregunta de Marcie por curar en días, **ofrece dos vías** y avisa de que sería el primer uso visible de la tecnología oculta; Marcie elige perforar en Ivy y cicatrizar en su casa. Emily y Megan ayudan a Sadie cada mañana: **antepone el choque de horarios** (seguían en la mansión hasta las doce) y adelanta la salida; recupera la pierna de Megan y avisa de que sin manos no tiene barandilla. Corrige sin defenderse cuando Marcie le señala que Sadie no podía ver la escalera ni conocía a Megan.
+- **Día 36, su casa y la mansión (escenas 359–361, 368, 370):** le cicatriza los pezones a Marcie con las copas, en dos horas, y le quita la succión con la uña. **Ediciones:** las patas de apoyo, Gemma Pryce, el vestido para el sábado, que nadie comente los agujeros de Marcie, Rachel en el salón y que Vera no se oponga a los brazos atrás de Hobbs. Por petición de Marcie, se pone un corsé negro: "Esto es lo más".
 
 > Entradas anteriores (19) en [claire-historial.md](claire-historial.md).
 
 ## Estado actual
 
-- En su casa adyacente a la mansión. Escuchando, como siempre. **Espera a Marcie para cicatrizarle los pezones** (Día 36, opción A).
+- En su casa adyacente a la mansión. Escuchando, como siempre. Cicatrizó los pezones de Marcie el Día 36 (13:40–15:40).
 - **Sin pareja desde el Día 31.** Ninguna reacción visible; nadie le ha preguntado.

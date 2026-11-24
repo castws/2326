@@ -76,7 +76,7 @@ Pensé en sus ojos de la foto.
 
 Me di la vuelta. Boca arriba. Me metí la mano por debajo de la camiseta y me toqué el vientre, y bajé.
 
-Con una mano se aprende. Se aprende todo. A los dieciséis tuve que aprender a atarme los zapatos, a abrir botes, a cortar la carne, a pintar con la derecha, y esto lo aprendí también, más tarde, sola, sin que nadie me enseñara. Con dos manos, una sujeta y la otra hace. Con una, la mano hace las dos cosas, y hay que ir más despacio, y hay que conocerse mejor.
+Con una mano se aprende. Se aprende todo. A los dieciséis tuve que aprender a atarme los zapatos, a abrir botes, a cortar la carne, a pintar con la derecha. Esto lo aprendí mucho después, ya viviendo sola en este apartamento, sin que nadie me enseñara. Con dos manos, una sujeta y la otra hace. Con una, la mano hace las dos cosas, y hay que ir más despacio, y hay que conocerse mejor.
 
 Me aparté la ropa interior con los dedos y me abrí con el índice y el anular. Con el corazón me toqué el clítoris, por encima, sin apretar, en círculos pequeños. Lo tengo muy sensible. Si voy deprisa me duele, así que fui despacio. Pensé en sus ojos de la foto, y luego, sin querer, en sus manos, que no salían en la foto, y me las inventé. Me inventé unas manos grandes, de dedos largos. Me inventé que me desabrochaban la blusa, que es lo que más me cuesta sola, los botones del puño derecho. Me inventé que se paraban en el hombro izquierdo.
 
@@ -84,7 +84,7 @@ Ahí me paré yo también. Con el dedo quieto encima del clítoris y el corazón
 
 Nadie me ha tocado el muñón con ganas. Me lo han tocado médicos, enfermeras, mi madre, Hannah cuando me ayuda a ponerme algo. Nadie me lo ha tocado porque quiera tocarlo. Me pregunté cómo sería. Me pregunté si él lo haría o si haría lo que hace todo el mundo, que es mirar a otro sitio.
 
-Volví a moverme. Más deprisa. Me metí el dedo corazón dentro, hasta donde llegaba, y con la palma me apretaba el clítoris al mismo tiempo, que es el truco que me inventé a los diecisiete. La cadera se me levantaba sola del colchón. Pensé en su mano en mi hombro. En el hombro izquierdo. Y me corrí así, con los ojos cerrados y la boca abierta y sin hacer ruido, porque las paredes del edificio son finas.
+Volví a moverme. Más deprisa. Me metí el dedo corazón dentro, hasta donde llegaba, y con la palma me apretaba el clítoris al mismo tiempo, que es un truco que me inventé en este mismo colchón. La cadera se me levantaba sola del colchón. Pensé en su mano en mi hombro. En el hombro izquierdo. Y me corrí así, con los ojos cerrados y la boca abierta y sin hacer ruido, porque las paredes del edificio son finas.
 
 Y mientras me corría, el muñón se me movió. Lo hace siempre. Se levanta, se aprieta contra el costado, hace un gesto pequeño, como si quisiera agarrar la sábana, y no hay nada que agarre. Es lo que queda del brazo, que todavía no se ha enterado.
 

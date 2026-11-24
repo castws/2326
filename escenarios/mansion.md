@@ -46,7 +46,7 @@ _Generado por `imagenes/planos/plano_mansion.py`: no editar a mano. Accesos y ve
 
 ### Anexo oeste y garaje
 
-- **Bodega** (4 × 5 m). Accesos: pasillo oeste (S). A la izquierda de la habitación de yesos. Por ahora medio vacía: botelleros y una mesa redonda con dos sillas.
+- **Bodega** (4 × 5 m). Accesos: pasillo oeste (S). A la izquierda de la habitación de yesos. **Habitación de BDSM desde el Día 36:** paredes gris muy oscuro y suelo de goma negra, liso y sin juntas. Dos vigas con argollas de acero a intervalos regulares, probadas con peso (120 kg cada una), y tiras de luz regulable empotradas a lo largo. Contra la pared del fondo, banco acolchado de cuero negro y mesa estrecha con las madejas de yute ordenadas por grosor. Silla de madera de respaldo recto, en el centro, de cara a la viga de la izquierda.
 - **Habitación de yesos** (5 × 5 m). Accesos: pasillo oeste (S). Sin ventanas: luz siempre artificial. Camilla con soportes articulados, cama hospitalaria para hip spica, estantería con materiales completos, cubo metálico con grifo, mesa de trabajo con taburete y carro auxiliar. **Silla de ruedas manual** estándar (Día 34), plegada a medias contra la pared este, al pie de la cama hospitalaria.
 - **Pasarela cubierta** (2 × 1,1 m). Accesos: pasillo oeste (E, sin puerta), garaje (O, sin puerta), sendero de la casa de huéspedes (N, sin puerta). Une el pasillo oeste con el garaje. Por su lado norte, abierto, sale el sendero a la casa de huéspedes de Vera.
 - **Garaje** (9 × 6,5 m). Accesos: pasarela cubierta (E, sin puerta), camino de grava (S, portón). Tres vehículos autónomos, que salen al camino de grava y esperan frente al porche.

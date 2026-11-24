@@ -27,7 +27,7 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
 - **[Emily](personajes/emily.md)** — robot, ~30, rubia corta. Cuidadora 24/7 de Megan y, desde el Día 36, de Sadie. Sin discapacidad.
   - _Dónde:_ con Megan; desde el Día 37, en el piso de Sadie (calle Larkin).
 - **[Hobbs](personajes/hobbs.md)** — robot, residente del Creston. 23-24, menuda, rubio oscuro, pecas; pene grueso (15 × 15 cm; 8,5 × 11,5 en reposo). Sumisa; jaula y plug continuos.
-  - _Dónde:_ Creston en turno de mañana, sale a las 15:00; su apartamento el resto.
+  - _Dónde:_ Creston (sale a las 15:00); Días 37–40, enyesada en la mansión.
 - **[Delaney](personajes/delaney.md)** — robot, fisioterapeuta del Creston. 28, morena, pelo negro a la mandíbula, compacta y fuerte; pene marcado en el uniforme. Sin discapacidad.
   - _Dónde:_ sala 3 de rehabilitación, planta baja del Creston; mañana y primera tarde.
 - **[Dra. Mills](personajes/mills.md)** — robot, cirujana del Creston. Castaña oscura, moño bajo, ojos avellana. Llevó la feminización de Marcie.
@@ -69,6 +69,9 @@ Roster. La ficha completa de cada uno vive en `personajes/<nombre>.md`; aquí so
 
 - **[Ivy Marsh](personajes/ivy-marsh.md)** — robot, 27, perforadora. Morena clara, pelo negro rapado a los lados, tatuaje de hiedra en el antebrazo; copa B, sin pene. Sin discapacidad.
   - _Dónde:_ Estudio Ivy, centro comercial (galería izq.), de 11:00 a 22:00.
+
+- **[Gemma Pryce](personajes/gemma-pryce.md)** — robot, 26, repartidora y jardinera del vivero. Castaña oscura en trenza, morena de sol, fibrosa; copa B, pene marcado. Pierna izq. amputada a medio muslo; pata de apoyo de acero, sin rodilla.
+  - _Dónde:_ vivero de la ciudad; de reparto por el área en horario de trabajo.
 
 ## Archivados _(no vuelven a escena salvo que Marcie los reincorpore)_
 

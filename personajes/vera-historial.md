@@ -41,3 +41,13 @@ Entradas antiguas de `personajes/vera.md`, movidas aquí para aligerar la ficha.
 
 - **Día 32, mañana (escenas 253–258):** la despierta **una hora antes** por su cuenta tras rehacer la cuenta de tiempos, la baña en cama y le monta el aparato **sin la barra** en doce minutos, avisando de cada efecto antes de causarlo. Con el anillo en la mano se niega a forzarlo sobre una erección y espera; **se ríe con ella** dos segundos y sigue. Detecta y le enseña a Mills **la marca de la rodilla izquierda**, y le aporta el dato del reajuste de los velcros del día anterior. **Coge a Marcie al vuelo cuando le cede la rodilla** al cuarto paso.
 - **Día 32, la evaluación (escena 259):** preguntada por Marcie si prefiere quedarse o salir, **cierra la puerta con el talón y se queda**, pero exige antes que le digan cuál de las dos cosas le están ofreciendo. Participa poniendo su propia condición —"aquí dirige usted"— y la respeta toda la escena. Se besa con Mills encima de Marcie. **Revela que desde el Día 23 no lleva ropa interior bajo el uniforme** en ninguna de las rondas de cuidados, y que hoy sabía perfectamente lo que podía pasar y vino igual; queda en que **Marcie se lo comprobará ella misma el Día 33 al levantarla**.
+
+## Citas (movidas el Día 37)
+
+- "¿Esto es de enfermera o es lo otro?" _(aplicando el protocolo de registros por primera vez — Día 31)_
+- "Yo venía a quitar dos yesos y resulta que lo que hay debajo es tu única pierna y tu único brazo." _(al ver a Megan por primera vez — Día 31)_
+
+## Momentos con Marcie (movidos el Día 37)
+
+- **Día 32, la ortesis (escena 261):** acepta **delante de Mills** el encargo de revisarle la piel cada vez que se la quite ("yo se lo pongo y yo se lo quito"), lo que convierte en rutina explícita lo que hasta ahora era solo gusto compartido. Lo único que le sorprende no es el fetiche —que ya conocía— sino que se lo hayan encargado a ella por escrito.
+- **Día 32, antes de la cita (escena 265):** viste y maquilla a Marcie para Patricia. Al saber que le faltan ambos brazos desde el hombro, **el pincel se para medio segundo**, lo reconoce sin adornarlo y lo cierra ella misma. Después reclama lo práctico: dos muletas y ninguna mano entre las dos, así que vehículo a la puerta y mesa con camarero cerca.

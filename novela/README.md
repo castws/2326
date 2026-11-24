@@ -14,6 +14,7 @@ Novela privada adaptada del roleplay. **No es para el público: es para el usuar
 - **Es un diario, no un producto.** Cada capítulo es la voz íntima de una narradora contando sus días: lo que hizo, lo que sintió, lo que no le dijo a nadie. No hacen falta ganchos, giros ni efectos pensados para enganchar a un lector. Lo que importa es la interioridad y el erotismo tal como los vive ella.
 - **Las robots narran como personas con un pasado completo.** Su infancia, su ciudad, su familia, su trabajo anterior y sus recuerdos son reales para ellas y los cuentan con naturalidad y detalle. **Nunca** dudan de su memoria, ni notan huecos, ni sienten que algo "no encaja", ni sospechan de sí mismas. Lo que les cambian los ajustes de Claire lo viven y lo explican como lo haría cualquiera: un cambio de opinión, los nervios del primer día, un mal día de duelo, el cansancio. **La verdad solo aparece en los capítulos de Claire**, y la ironía la pone el lector, nunca la narradora.
 - **Los robots se comunican con el móvil** (no tocándose la muñeca), como en 2026.
+- **Nada sexual antes de los 18.** Los recuerdos de infancia o adolescencia de una narradora nunca incluyen deseo, masturbación ni sexo, ni siquiera de pasada. Toda su vida sexual se sitúa en la edad adulta.
 
 ## El "antes" de cada narradora
 
@@ -33,6 +34,9 @@ Cuando el rol temprano contradice el canon fijado después, manda el canon poste
 - **Ningún robot salvo Claire sabe la verdad.** Cuando en el Día 1 Ashley oye "trescientos años" o lo de la estimulación celular, Claire explica que está hecha para que la verdad le resbale.
 - **Rachel y Sophie son "estándar" (sin voluntad propia) el Día 1.** El ajuste de autonomía llega el Día 2. El cierre del capítulo 1 (Rachel despierta a las 5:50 sin que se lo indiquen) prepara ese cambio.
 - **Ashley tiene vagina.** Su ficha no lo decía; se fijó en el capítulo 1.
+- **La cita fallida del Día 7 con la primera versión de Megan no existe en la novela.** No la cuenta nadie, tampoco Claire. La primera cita de Megan es la de la noche del **Día 7**, ya con sus dos amputaciones, y así la piscina, los yesos y Emily caben en el Día 8.
+- **El muñón del brazo de Megan no se usa para nada** (no sujeta platos ni telas), aunque en la partida apareciera así antes de que se corrigiera. **Su prótesis es la de la ficha:** encaje de succión con válvula, no manga de silicona. Perdió el brazo a los **19** (hace tres años), no a los 16.
+- **En la ciudad solo hay mujeres:** la amiga del taller de Megan es una amiga, no "un amigo". Los familiares viven fuera.
 
 ## Capítulos
 
@@ -44,6 +48,8 @@ Cuando el rol temprano contradice el canon fijado después, manda el canon poste
 | 4 | Patricia | 2–4 | Preludio: la mano nº 24, el perfil con Hannah, la masturbación de la víspera. La cita; el ajuste vivido como "dejó de parecerme pronto"; Sophie en la cama; el muñón tocado; la mañana del vértigo. Termina en el taller con la sierra: "Fue un momento." |
 | 5 | Claire | 3–5 | Interludio. El único "no" (Patricia, Día 3) y cómo se ajusta de verdad (bajar un umbral, que lo sienta suyo). El vestido y el pelo suelto. El plan del accidente y el "es perfectamente posible". Diseño del accidente: la distracción la pone Claire. La doctora que miente creyéndolo. La reescritura de Hannah (cuerpo, infancia y 4.216 recuerdos de Patricia). La creación de Emily. |
 | 6 | Patricia | 4–10 | El suelo del taller y el torniquete; "Cállate, Patricia". La noticia ("Los dos"). La última vez que se toca la cara (Hannah le sostiene el brazo). La rabia de 40 minutos que se acaba "como el agua caliente". La Hannah nueva y la sorpresa pequeña. La dependencia en casa de Hannah (el papel, la ducha). No poder masturbarse sin brazos. El mal día de las 15:30 en punto. El recuerdo cambiado de los ganchos. La noche con Mark sin brazos ("Dentro"). Termina con el pincel en la boca: "el principio de una mano". |
+| 7 | Megan | 7–9 | Antes: los cuatro minutos de la prótesis, "lo hago todo sola", Donna, el perfil en una guardia. La cita, Rachel sobre Sophie en el sofá, la primera noche. La piscina, el fetiche, los yesos en la cocina. La muleta y las miradas en el centro comercial, el helado, el pasillo. Emily. El Día 9: la chica del andamio, Mark con su yeso, la mano en los panties con Emily cocinando, la tanga. Termina con Emily trayéndole agua sin que la pida. |
+| 8 | Emily | 6–14 | Diario escrito al revés en el cuaderno de la compra. Antes: su vida con Claire y el día que Mark la conoce. La llamada del Día 8, la primera noche (la erección al secarla, las rodillas temblando). Megan no pide nada y Emily adivina. El Día 9: oye el silencio desde la cocina, se para ante la puerta, ve la tela azul oscuro. Lava a mano los panties escondidos. La compra que tarda un cuarto de hora más a propósito. El baño del Día 11 con Mark mirándole las manos; con Claire pensando en Megan. "¿Cómo estuvo el almuerzo?". El Día 14: no para. El mechón. Lo primero que no le cuenta a Claire en cuatro años. |
 
 ## Canon propio de la novela
 
@@ -75,3 +81,16 @@ Hechos inventados para la novela. No se trasladan a las fichas del rol.
 - **Los ajustes de Claire en Patricia, vividos como propios:** el mal día del Día 9 a media tarde lo vive como el duelo que se cobra cinco días de hacerse la fuerte. Los ganchos los eligió ella leyendo los folletos del hospital con Hannah pasándole las páginas: "Prefiero algo que agarre".
 - **La vecina de Hannah tiene un perro enorme llamado Duquesa.**
 - **Primer trazo con la boca (Día 10):** con un pincel fino que Hannah se trajo del taller. Es "el principio de una mano".
+- **El pasado de Megan:** nació en la ciudad, en el hospital donde trabaja; sus padres se mudaron a la costa cuando terminó enfermería y la llaman los domingos. Volvió a trabajar tras cada amputación (cinco y cuatro meses). Se apuntó a la app en una guardia de noche. Pide pescado en las primeras citas como prueba. Dice mucho "¿ves?". Su techo tiene una mancha de humedad con forma de Florida.
+- **Donna** lleva seis años en la planta, habla como un camionero y le quita las cosas de la mano sin preguntar.
+- **Sasha** aparece solo como "la única con la que hablo de cierta cosa", sin decir cuál todavía.
+- **Megan escribe este diario** en el móvil apoyado en la pierna enyesada, letra por letra, la noche del Día 9. Nunca había llevado uno.
+- **Emily le trae agua sin que la pida** la noche del Día 9: es el principio de "adivinar lo que Megan necesita". Megan no sabe si Emily vio los panties manchados.
+- **El diario de Emily** está escrito al revés, en las últimas páginas del cuaderno de la compra.
+- **El pasado de Emily:** cuidadora desde los 21. Cuidó tres años a una mujer con esclerosis en la costa hasta que murió ("¿la echas de menos, por ella o por cuidarla?"), a un hombre con un ictus y a una chica con la espalda rota. Su madre decía que tenía "manos de enfermera y cabeza de ama de casa".
+- **Cómo conoció a Claire:** hace cuatro años, Claire llamó a su puerta en un piso de la ciudad buscando a otra vecina: "No vive aquí. Bueno. ¿Tienes café?". Desde hace poco viven en la casa junto a la mansión porque Claire "trabaja para el vecino". Claire duerme poco, no dice nada en la cama y llama a Emily cada noche a las once ("¿Todo bien?" — "Bien. Descansa.").
+- **Emily lo supo todo el Día 9:** oyó desde la cocina el silencio, preguntó por el arroz para que supieran que estaba, se paró delante de la puerta sin mirar y vio la tanga azul oscuro bajo los shorts. Al día siguiente encontró los panties manchados, los lavó a mano y los devolvió al cajón. No ha dicho nada.
+- **El Día 10** tardó una hora y cuarto en la compra a propósito y vio la marca de cuatro dedos en el muslo de Megan.
+- **El Día 11** se acostó con Claire a media mañana pensando en Megan inmovilizada. Fue la primera vez que lo empezó ella.
+- **El Día 14** lo vive como un impulso propio ("el pie lo sabía antes que tú"), con el pulso tranquilo. Para Emily es su primera admisión de que la excita cuidar a alguien que no puede. Por la tarde le aparta el pelo a Megan sin motivo práctico. Por la noche no le cuenta nada a Claire.
+- **En el apartamento de Megan hay una foto** de ella con las dos piernas en una playa, con una chica de pelo rizado (Sasha).

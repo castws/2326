@@ -166,7 +166,7 @@ Yo seguía en el sillón. Me ardía la cara y no sabía por qué. No era vergüe
 
 ---
 
-Esa tarde la pasamos en la piscina. Nadamos. Él había dicho "vamos a divertirnos" y yo me había metido en el agua sin vestido y le había preguntado si entraba. Floté boca arriba mucho rato con los ojos cerrados y el sol en los párpados, y él flotaba cerca, y no hablamos.
+Esa tarde la pasamos en la piscina. Nadamos. Él había dicho que fuéramos a divertirnos y yo me había metido en el agua sin vestido y le había preguntado si entraba. Floté boca arriba mucho rato con los ojos cerrados y el sol en los párpados, y él flotaba cerca, y no hablamos.
 
 A media tarde vino Claire con un teléfono.
 
